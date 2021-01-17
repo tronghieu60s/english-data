@@ -1,0 +1,72 @@
+[
+    {
+        "id_group": "1",
+        "name_group": "Contracts",
+        "mean_group": "hợp đồng",
+        "pronounce_group": "/ˈkäntrakt/",
+        "image_group": "https://i.imgur.com/eyf8Ht9.png"
+    },
+    {
+        "id_group": "2",
+        "name_group": "Marketing",
+        "mean_group": "tiếp thị",
+        "pronounce_group": "/ˈmärkədiNG/",
+        "image_group": "https://i.imgur.com/9R4hxR9.png"
+    },
+    {
+        "id_group": "3",
+        "name_group": "Warranties",
+        "mean_group": "bảo hành",
+        "pronounce_group": "/ˈwôrən(t)ē/",
+        "image_group": "https://i.imgur.com/nEztn1a.png"
+    },
+    {
+        "id_group": "4",
+        "name_group": "Business Planning",
+        "mean_group": "kế hoạch kinh doanh",
+        "pronounce_group": "/ˈbiznəs ˈplaniNG/",
+        "image_group": "https://i.imgur.com/VidmLag.png"
+    },
+    {
+        "id_group": "5",
+        "name_group": "Conferences",
+        "mean_group": "hội nghị",
+        "pronounce_group": "/ˈkänf(ə)rəns/",
+        "image_group": "https://i.imgur.com/y9r53Mm.png"
+    },
+    {
+        "id_group": "6",
+        "name_group": "Computers",
+        "mean_group": "máy vi tính",
+        "pronounce_group": "/kəmˈpyo͞odər/",
+        "image_group": "https://i.imgur.com/ZKxTilT.png"
+    },
+    {
+        "id_group": "7",
+        "name_group": "Office Technology",
+        "mean_group": "công nghệ văn phòng",
+        "pronounce_group": "/ˈôfis,ˈäfis tekˈnäləjē/",
+        "image_group": "https://i.imgur.com/6rrV9ps.png"
+    },
+    {
+        "id_group": "8",
+        "name_group": "Office Procedures",
+        "mean_group": "thủ tục văn phòng",
+        "pronounce_group": "/ˈôfis,ˈäfis prəˈsējər/",
+        "image_group": "https://i.imgur.com/unLcaec.png"
+    },
+    {
+        "id_group": "9",
+        "name_group": "Electronics",
+        "mean_group": "thiết bị điện tử",
+        "pronounce_group": "/əˌlekˈträniks/",
+        "image_group": "https://i.imgur.com/E38mj27.png"
+    },
+    {
+        "id_group": "10",
+        "name_group": "Correspondence",
+        "mean_group": "thư tín",
+        "pronounce_group": "/ˌkôrəˈspändəns/",
+        "image_group": "https://i.imgur.com/ZYmJdH1.png"
+    }
+]

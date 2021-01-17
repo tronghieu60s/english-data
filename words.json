@@ -1,0 +1,194 @@
+[
+    {
+        "id_word": "1",
+        "name_word": "abide by",
+        "pronounce_word": "/ə'baid bai/",
+        "explain_word": "to accept and act according to a law, an agreement.",
+        "mean_word": "(v) (+ by) trung thành với, giữ, tuân theo",
+        "id_group": "1"
+    },
+    {
+        "id_word": "2",
+        "name_word": "agreement",
+        "pronounce_word": "/ə'gri:mənt/",
+        "explain_word": "an arrangement, a promise or a contract made with somebody.",
+        "mean_word": "(n) hợp đồng, thỏa ước, hiệp nghị / sự thỏa thuận",
+        "id_group": "1"
+    },
+    {
+        "id_word": "3",
+        "name_word": "assurance",
+        "pronounce_word": "/ə'∫ɔ:rəns/",
+        "explain_word": "a statement that something will certainly be true or will certainly happen.",
+        "mean_word": "(n) sự cam đoan, bảo đảm, chắc chắn; sự tin chắc, tự tin",
+        "id_group": "1"
+    },
+    {
+        "id_word": "4",
+        "name_word": "cancellation",
+        "pronounce_word": "/,kænsə'lei∫n/",
+        "explain_word": "a decision to stop something that has already been arranged from happening.",
+        "mean_word": "(n) sự hủy bỏ, sự hủy / vé hủy, vé bỏ",
+        "id_group": "1"
+    },
+    {
+        "id_word": "5",
+        "name_word": "determine",
+        "pronounce_word": "/di'tɜ:min/",
+        "explain_word": "to discover the facts about something.",
+        "mean_word": "(v) quyết định, xác định, định rõ; quyết tâm, kiên quyết",
+        "id_group": "1"
+    },
+    {
+        "id_word": "6",
+        "name_word": "engage",
+        "pronounce_word": "/in'geidʒ/",
+        "explain_word": "occupy, attract, or involve (someone's interest or attention).",
+        "mean_word": "(v) tham gia, cam kết / (n) sự hứa hẹn",
+        "id_group": "1"
+    },
+    {
+        "id_word": "7",
+        "name_word": "establish",
+        "pronounce_word": "/is'tæbliʃ/",
+        "explain_word": "to start or create an organization, a system.",
+        "mean_word": "(v) thiết lập, thành lập; xác minh, chứng minh, củng cố",
+        "id_group": "1"
+    },
+    {
+        "id_word": "8",
+        "name_word": "obligate",
+        "pronounce_word": "/'ɔbligeit/",
+        "explain_word": "to bind legally or morally.",
+        "mean_word": "(v) bắt buộc, ép buộc",
+        "id_group": "1"
+    },
+    {
+        "id_word": "9",
+        "name_word": "party",
+        "pronounce_word": "/'pɑ:ti/",
+        "explain_word": "one of the people or groups of people involved in a legal agreemen.",
+        "mean_word": "(n) đảng, phái, đội, nhóm; người tham dự/tham gia;",
+        "id_group": "1"
+    },
+    {
+        "id_word": "10",
+        "name_word": "provision",
+        "pronounce_word": "/prə'viʒn/",
+        "explain_word": "a condition or an arrangement in a legal document.",
+        "mean_word": "(n) sự dự liệu, dự trữ, dự phòng, cung cấp; điều khoản",
+        "id_group": "1"
+    },
+    {
+        "id_word": "10",
+        "name_word": "resolve",
+        "pronounce_word": "/ri'zɔlv/",
+        "explain_word": "to find an acceptable solution to a problem.",
+        "mean_word": "(v) giải quyết, (n) sự kiên quyết / sự tin chắc",
+        "id_group": "1"
+    },
+    {
+        "id_word": "11",
+        "name_word": "specific",
+        "pronounce_word": "/spi'sifik/",
+        "explain_word": "detailed abd exact.",
+        "mean_word": "(adj) riêng biệt, cụ thể, đặc trưng; rõ ràng, rành mạch",
+        "id_group": "1"
+    },
+    {
+        "id_word": "12",
+        "name_word": "attract",
+        "pronounce_word": "/ə'trækt/",
+        "explain_word": "to draw by appeal.",
+        "mean_word": "(v) hấp dẫn, lôi cuốn, thu hút",
+        "id_group": "2"
+    },
+    {
+        "id_word": "13",
+        "name_word": "compare",
+        "pronounce_word": "/kəm'peə/",
+        "explain_word": "to examine people or things to see how they are similar and how they are different.",
+        "mean_word": "(v) so sánh, đối chiếu",
+        "id_group": "2"
+    },
+    {
+        "id_word": "14",
+        "name_word": "competition",
+        "pronounce_word": "/,kɔmpi'tiʃn/",
+        "explain_word": "a situation in which people or organizations compete with each other for something that not everyone can have.",
+        "mean_word": "(v) (sự/cuộc) cạnh tranh, tranh giành, thi đấu",
+        "id_group": "2"
+    },
+    {
+        "id_word": "15",
+        "name_word": "consume",
+        "pronounce_word": "/kən'sju:m/",
+        "explain_word": "to use something, especially fuel, engery or time.",
+        "mean_word": "(v) tiêu thụ, tiêu dùng",
+        "id_group": "2"
+    },
+    {
+        "id_word": "16",
+        "name_word": "convince",
+        "pronounce_word": "/kən'vins/",
+        "explain_word": "to make somebody / yourselft believe that something is true.",
+        "mean_word": "(v) thuyết phục",
+        "id_group": "2"
+    },
+    {
+        "id_word": "17",
+        "name_word": "currently",
+        "pronounce_word": "/ˈkʌrəntli/",
+        "explain_word": "at the present time.",
+        "mean_word": "(adv) hiện thời, hiện nay, lúc này",
+        "id_group": "2"
+    },
+    {
+        "id_word": "18",
+        "name_word": "fad",
+        "pronounce_word": "/fæd/",
+        "explain_word": "something that people are interested in for only a short period of time.",
+        "mean_word": "(n) mốt nhất thời, sự thích thú tạm thời; dở hơi, gàn dở",
+        "id_group": "2"
+    },
+    {
+        "id_word": "19",
+        "name_word": "inspiration",
+        "pronounce_word": "/,inspə'reiʃn/",
+        "explain_word": "a thing or person that arouses a feeling.",
+        "mean_word": "(n) (sự/người/vật) truyền cảm hứng, gây cảm hứng",
+        "id_group": "2"
+    },
+    {
+        "id_word": "20",
+        "name_word": "market",
+        "pronounce_word": "/'mɑ:kit/",
+        "explain_word": "to advertise and offer a product for sale.",
+        "mean_word": "(n) thị trường, chợ, nơi mua bán sản phẩm",
+        "id_group": "2"
+    },
+    {
+        "id_word": "21",
+        "name_word": "persuasion",
+        "pronounce_word": "/pə'sweiʤn/",
+        "explain_word": "the power to influence, a deep conviction or belief.",
+        "mean_word": "(n) (sự) thuyết phục, làm cho tin (chú ý: persuade > convince)",
+        "id_group": "2"
+    },
+    {
+        "id_word": "22",
+        "name_word": "productive",
+        "pronounce_word": "/prəˈdʌktɪv/",
+        "explain_word": "making goods or growing crops.",
+        "mean_word": "(adj) sản xuất, sinh sản; sinh lợi nhiều, có hiệu quả",
+        "id_group": "2"
+    },
+    {
+        "id_word": "23",
+        "name_word": "satisfaction",
+        "pronounce_word": "/,sætis'fækʃn/",
+        "explain_word": "the good feeling that you have when you have achieved something.",
+        "mean_word": "(n) sự làm thỏa mãn, sự hài lòng",
+        "id_group": "2"
+    }
+]
