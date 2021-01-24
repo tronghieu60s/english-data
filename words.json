@@ -26,7 +26,7 @@
     {
         "id_word": "4",
         "name_word": "cancellation",
-        "pronounce_word": "/ˌkænsəˈleɪʃən",
+        "pronounce_word": "/ˌkænsəˈleɪʃən/",
         "explain_word": "a decision to stop doing or planning to do something, the act of canceling something",
         "mean_word": "sự hủy bỏ, sự hủy",
         "id_group": "1"
@@ -68,7 +68,7 @@
         "name_word": "party",
         "pronounce_word": "/'pɑ:ti/",
         "explain_word": "a social event in which entertainment, food, and drinks are provided",
-        "mean_word": "đảng, phái, đội, nhóm, tiệc, buổi liên hoan",
+        "mean_word": "đảng, phái, tiệc, buổi liên hoan",
         "id_group": "1"
     },
     {
@@ -91,7 +91,7 @@
         "id_word": "12",
         "name_word": "specific",
         "pronounce_word": "/spɪˈsɪfɪk/",
-        "explain_word": "special or particular.",
+        "explain_word": "special or particular",
         "mean_word": "chi tiết, chính xác, riêng biệt, đặc trưng",
         "id_group": "1"
     },
@@ -198,5 +198,189 @@
         "explain_word": "a distinguishing trait, quality, or property",
         "mean_word": "đặc thù, đặc trưng riêng",
         "id_group": "3"
+    },
+    {
+        "id_word": "26",
+        "name_word": "consequence",
+        "pronounce_word": "/'kɔnsikwəns/",
+        "explain_word": "something that happens as a result of a particular action or set of conditions, importance or value",
+        "mean_word": "hậu quả, tầm quan trọng",
+        "id_group": "3"
+    },
+    {
+        "id_word": "27",
+        "name_word": "consider",
+        "pronounce_word": "/kən'sidə/",
+        "explain_word": "to think about something carefully",
+        "mean_word": "xem xét, cân nhắc",
+        "id_group": "3"
+    },
+    {
+        "id_word": "28",
+        "name_word": "cover",
+        "pronounce_word": "/'kʌvə/",
+        "explain_word": "to put something over, on top of, or in front of (something else) especially in order to protect, hide, or close it",
+        "mean_word": "che, phủ, bao hàm, bao quát",
+        "id_group": "3"
+    },
+    {
+        "id_word": "29",
+        "name_word": "expiration",
+        "pronounce_word": "/,ekspaiə'reiʃn/",
+        "explain_word": "the fact of coming to an end or no longer being valid after a period of time",
+        "mean_word": "sự hết hạn",
+        "id_group": "3"
+    },
+    {
+        "id_word": "30",
+        "name_word": "frequently",
+        "pronounce_word": "/ˈfriːkwəntli/",
+        "explain_word": "many times, on many occasions, often",
+        "mean_word": "thường xuyên",
+        "id_group": "3"
+    },
+    {
+        "id_word": "31",
+        "name_word": "imply",
+        "pronounce_word": "/im'plai/",
+        "explain_word": "to express (something) in an indirect way, to suggest (something) without saying or showing it plainly",
+        "mean_word": "ngụ ý, ý nói, hàm ý",
+        "id_group": "3"
+    },
+    {
+        "id_word": "32",
+        "name_word": "promise",
+        "pronounce_word": "/ˈprɑːməs/",
+        "explain_word": "a statement telling someone that you will definitely do something or that something will definitely happen in the future",
+        "mean_word": "lời hứa, lời hẹn, hứa hẹn",
+        "id_group": "3"
+    },
+    {
+        "id_word": "33",
+        "name_word": "protect",
+        "pronounce_word": "/prə'tekt/",
+        "explain_word": "to keep (someone or something) from being harmed, pain, lost, etc",
+        "mean_word": "bảo vệ, che chở",
+        "id_group": "3"
+    },
+    {
+        "id_word": "34",
+        "name_word": "reputation",
+        "pronounce_word": "/,repju:'teiʃn/",
+        "explain_word": "the opinion that people have about what (someone or something) is like, based on what has happened in the past",
+        "mean_word": "danh tiếng, thanh danh, tiếng (tốt hoặc xấu)",
+        "id_group": "3"
+    },
+    {
+        "id_word": "35",
+        "name_word": "require",
+        "pronounce_word": "/ri'kwaiə/",
+        "explain_word": "to need (something), to depend on (someone or something)",
+        "mean_word": "đòi hỏi, yêu cầu",
+        "id_group": "3"
+    },
+    {
+        "id_word": "36",
+        "name_word": "variety",
+        "pronounce_word": "/və'raiəti/",
+        "explain_word": "a number or collection of different things or people, the quality or state of having or including many different things",
+        "mean_word": "sự khác nhau, đa dạng",
+        "id_group": "3"
+    },
+    {
+        "id_word": "37",
+        "name_word": "address",
+        "pronounce_word": "/ə'dres/",
+        "explain_word": "to write on an envelope, package, letter, etc., the name and address of the person or business it is being sent to, to speak to (a person or group)",
+        "mean_word": "địa chỉ, bài nói, diễn văn",
+        "id_group": "4"
+    },
+    {
+        "id_word": "38",
+        "name_word": "avoid",
+        "pronounce_word": "/ə'vɔid/",
+        "explain_word": "to prevent something bad from happening",
+        "mean_word": "tránh, tránh khỏi, ngừa",
+        "id_group": "4"
+    },
+    {
+        "id_word": "39",
+        "name_word": "demonstrate",
+        "pronounce_word": "/'demənstreit/",
+        "explain_word": "to prove (something) by showing examples of it, to show evidence of (something)",
+        "mean_word": " biểu lộ, cho thấy, chứng minh",
+        "id_group": "4"
+    },
+    {
+        "id_word": "40",
+        "name_word": "develop",
+        "pronounce_word": "/di'veləp/",
+        "explain_word": "to cause (something) to grow or become bigger or more advanced",
+        "mean_word": "phát triển, tiến triển",
+        "id_group": "4"
+    },
+    {
+        "id_word": "41",
+        "name_word": "evaluate",
+        "pronounce_word": "/i'væljueit/",
+        "explain_word": "to judge the value or condition of (someone or something) in a careful and thoughtful way",
+        "mean_word": "đánh giá",
+        "id_group": "4"
+    },
+    {
+        "id_word": "42",
+        "name_word": "gather",
+        "pronounce_word": "/'gæðə/",
+        "explain_word": "to bring (things or people) together into a group",
+        "mean_word": "tụ họp, tập hợp, thu thập, thu hoạch",
+        "id_group": "4"
+    },
+    {
+        "id_word": "43",
+        "name_word": "offer",
+        "pronounce_word": "/'ɔfə/",
+        "explain_word": "to give someone the opportunity to accept or take (something)",
+        "mean_word": "đề nghị, đề xuất",
+        "id_group": "4"
+    },
+    {
+        "id_word": "44",
+        "name_word": "primarily",
+        "pronounce_word": "/'praimərili/",
+        "explain_word": "to give someone the opportunity to accept or take (something)",
+        "mean_word": "đề nghị, đề xuất",
+        "id_group": "4"
+    },
+    {
+        "id_word": "45",
+        "name_word": "risk",
+        "pronounce_word": "/rɪsk/",
+        "explain_word": "the possibility of something bad happening at some time in the future",
+        "mean_word": "nguy cơ, rủi ro, bất trắc",
+        "id_group": "4"
+    },
+    {
+        "id_word": "46",
+        "name_word": "strategy",
+        "pronounce_word": "/ˈstrætədʒi/",
+        "explain_word": "a careful plan or method for achieving a particular goal usually over a long period of time",
+        "mean_word": "chiến lược",
+        "id_group": "4"
+    },
+    {
+        "id_word": "47",
+        "name_word": "substitution",
+        "pronounce_word": "/,sʌbsti'tju:ʃn/",
+        "explain_word": "the act of substituting or replacing one person or thing with another",
+        "mean_word": "sự đổi, sự thay thế",
+        "id_group": "4"
+    },
+    {
+        "id_word": "48",
+        "name_word": "strong",
+        "pronounce_word": "/strɔɳ/",
+        "explain_word": "having great physical power and ability, having a lot of strength",
+        "mean_word": "mạnh mẽ, vững chắc, chắc, vững, bền",
+        "id_group": "4"
     }
 ]
