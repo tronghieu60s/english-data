@@ -478,5 +478,101 @@
         "explain_word": "to be involved in something",
         "mean_word": "tham dự, tham gia",
         "id_group": "5"
+    },
+    {
+        "id_word": "61",
+        "name_word": "access",
+        "pronounce_word": "/ˈækses/",
+        "explain_word": "the opportunity or right to use something",
+        "mean_word": "lối vào, cửa vào, quyền truy cập, sự truy cập",
+        "id_group": "6"
+    },
+    {
+        "id_word": "62",
+        "name_word": "allocate",
+        "pronounce_word": "/ˈæləkeɪt/",
+        "explain_word": "to divide and give out (something) for a special reason or to particular people, companies, etc.",
+        "mean_word": "phân cấp, phân phối, chia phần",
+        "id_group": "6"
+    },
+    {
+        "id_word": "63",
+        "name_word": "compatible",
+        "pronounce_word": "/kəmˈpætəbəl/",
+        "explain_word": "able to exist together without trouble or conflict, going together well",
+        "mean_word": "tương thích, hợp nhau",
+        "id_group": "6"
+    },
+    {
+        "id_word": "64",
+        "name_word": "delete",
+        "pronounce_word": "/di'li:t/",
+        "explain_word": "to remove (something, such as words, pictures, or computer files) from a document, recording, computer, etc.",
+        "mean_word": "xóa đi, bỏ đi",
+        "id_group": "6"
+    },
+    {
+        "id_word": "65",
+        "name_word": "display",
+        "pronounce_word": "/dis'plei/",
+        "explain_word": "to put (something) where people can see it",
+        "mean_word": "bày ra, trưng bày, phô trương",
+        "id_group": "6"
+    },
+    {
+        "id_word": "66",
+        "name_word": "duplicate",
+        "pronounce_word": "/'dju:plikət/",
+        "explain_word": "exactly the same as something else, to make an exact copy of (something)",
+        "mean_word": "giống hệt, bản sao",
+        "id_group": "6"
+    },
+    {
+        "id_word": "67",
+        "name_word": "failure",
+        "pronounce_word": "/'feiljə[r]/",
+        "explain_word": "the act or result of failing",
+        "mean_word": "hỏng, thất bại, bất thành",
+        "id_group": "6"
+    },
+    {
+        "id_word": "68",
+        "name_word": "figure out",
+        "pronounce_word": "/ˈfɪɡə aʊt/",
+        "explain_word": "to calculate an amount or the cost",
+        "mean_word": "tìm hiểu, đoán ra, tính toán ra, giải ra",
+        "id_group": "6"
+    },
+    {
+        "id_word": "69",
+        "name_word": "ignore",
+        "pronounce_word": "/ig'nɔ:/",
+        "explain_word": "to refuse to show that you hear or see (something or someone)",
+        "mean_word": "làm ngơ, bỏ qua",
+        "id_group": "6"
+    },
+    {
+        "id_word": "70",
+        "name_word": "search",
+        "pronounce_word": "/sə:tʃ/",
+        "explain_word": "an attempt to find someone or something, the act or process of looking for someone or something",
+        "mean_word": "tìm kiếm, khám xét, lục soát, lục tìm",
+        "id_group": "6"
+    },
+    {
+        "id_word": "71",
+        "name_word": "shut down",
+        "pronounce_word": "/ʃʌt daʊn/",
+        "explain_word": "cease to operate or cause to cease operating",
+        "mean_word": "đóng lại, ngừng lại, tắt máy, ngừng hoạt động",
+        "id_group": "6"
+    },
+    {
+        "id_word": "72",
+        "name_word": "warning",
+        "pronounce_word": "/'wɔ:niɳ/",
+        "explain_word": "something (such as an action or a statement) that tells someone about possible danger or trouble",
+        "mean_word": "sự báo trước, lời báo trước, cảnh báo",
+        "id_group": "6"
     }
 ]
