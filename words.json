@@ -382,5 +382,101 @@
         "explain_word": "having great physical power and ability, having a lot of strength",
         "mean_word": "mạnh mẽ, vững chắc, chắc, vững, bền",
         "id_group": "4"
+    },
+    {
+        "id_word": "49",
+        "name_word": "accommodate",
+        "pronounce_word": "/ə'kɔmədeit/",
+        "explain_word": "to provide room for (someone), to provide a place to stay and sleep for (someone)",
+        "mean_word": "chứa được, có đủ chỗ ở cho, cung cấp, cấp cho",
+        "id_group": "5"
+    },
+    {
+        "id_word": "50",
+        "name_word": "arrangement",
+        "pronounce_word": "/ə'reindʤmənt/",
+        "explain_word": "the way that things or people are organized for a particular purpose or activity :the way that things or people are arranged",
+        "mean_word": "sự sắp xếp, sự sắp đặt, sự thỏa thuận",
+        "id_group": "5"
+    },
+    {
+        "id_word": "51",
+        "name_word": "association",
+        "pronounce_word": "/ə,sousi'eiʃn/",
+        "explain_word": "a connection or relationship between things or people",
+        "mean_word": "sự kết hợp, sự liên kết, sự giao thiệp",
+        "id_group": "5"
+    },
+    {
+        "id_word": "52",
+        "name_word": "attend",
+        "pronounce_word": "/ə'tend/",
+        "explain_word": "to go to and be present at (an event, meeting, etc.)",
+        "mean_word": "tham dự, có mặt",
+        "id_group": "5"
+    },
+    {
+        "id_word": "53",
+        "name_word": "get in touch",
+        "pronounce_word": "/get in tʌt∫/",
+        "explain_word": "to communicate, contact (somebody)",
+        "mean_word": "liên lạc với, tiếp xúc với, giữ quan hệ với",
+        "id_group": "5"
+    },
+    {
+        "id_word": "54",
+        "name_word": "hold",
+        "pronounce_word": "/həʊld/",
+        "explain_word": "to have or keep (something) in your hand, arms, etc.",
+        "mean_word": "cầm, nắm, giữ",
+        "id_group": "5"
+    },
+    {
+        "id_word": "55",
+        "name_word": "location",
+        "pronounce_word": "/ləʊ'kei∫n/",
+        "explain_word": "a place or position",
+        "mean_word": "vị trí, địa điểm",
+        "id_group": "5"
+    },
+    {
+        "id_word": "56",
+        "name_word": "overcrowded",
+        "pronounce_word": "/ˌoʊvɚˈkraʊdəd/",
+        "explain_word": "filled with too many people or things",
+        "mean_word": "quá đông người, quá đông khách",
+        "id_group": "5"
+    },
+    {
+        "id_word": "57",
+        "name_word": "register",
+        "pronounce_word": "/'redʒistə[r]/",
+        "explain_word": "an official list, book, or system for keeping records of something",
+        "mean_word": "đăng ký, sổ, sổ sách",
+        "id_group": "5"
+    },
+    {
+        "id_word": "58",
+        "name_word": "select",
+        "pronounce_word": "/səˈlɛkt/",
+        "explain_word": "to choose (someone or something) from a group",
+        "mean_word": "chọn, chọn lọc",
+        "id_group": "5"
+    },
+    {
+        "id_word": "59",
+        "name_word": "session",
+        "pronounce_word": "/ˈsɛʃən/",
+        "explain_word": "a period of time that is used to do a particular activity",
+        "mean_word": "phiên, kỳ họp, buổi họp",
+        "id_group": "5"
+    },
+    {
+        "id_word": "60",
+        "name_word": "take part in",
+        "pronounce_word": "/teik pɑ:t in/",
+        "explain_word": "to be involved in something",
+        "mean_word": "tham dự, tham gia",
+        "id_group": "5"
     }
 ]
