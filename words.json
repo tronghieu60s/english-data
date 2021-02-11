@@ -574,5 +574,101 @@
         "explain_word": "something (such as an action or a statement) that tells someone about possible danger or trouble",
         "mean_word": "sự báo trước, lời báo trước, cảnh báo",
         "id_group": "6"
+    },
+    {
+        "id_word": "73",
+        "name_word": "affordable",
+        "pronounce_word": "/ə'fɔ:d'eibl/",
+        "explain_word": "to be able to pay for (something)",
+        "mean_word": "có đủ khả năng, có đủ điều kiện",
+        "id_group": "7"
+    },
+    {
+        "id_word": "74",
+        "name_word": "as needed",
+        "pronounce_word": "/əz ni:ded/",
+        "explain_word": "according to need",
+        "mean_word": "khi cần, lúc cần, cần thiết",
+        "id_group": "7"
+    },
+    {
+        "id_word": "75",
+        "name_word": "be in charge of",
+        "pronounce_word": "/bi in t∫ɑ:dʒ əv/",
+        "explain_word": "according to need",
+        "mean_word": "chịu trách nhiệm về, đảm nhận về",
+        "id_group": "7"
+    },
+    {
+        "id_word": "76",
+        "name_word": "capacity",
+        "pronounce_word": "/kə'pæsiti/",
+        "explain_word": "the ability to hold or contain people or things - usually singular",
+        "mean_word": "sức chứa, dung tích, năng suất",
+        "id_group": "7"
+    },
+    {
+        "id_word": "77",
+        "name_word": "durable",
+        "pronounce_word": "/ˈdurəbəl/",
+        "explain_word": "staying strong and in good condition over a long period of time",
+        "mean_word": "lâu, bền, lâu bền",
+        "id_group": "7"
+    },
+    {
+        "id_word": "78",
+        "name_word": "initiative",
+        "pronounce_word": "/i'niʃiətiv/",
+        "explain_word": "the power or opportunity to do something before others do",
+        "mean_word": "bắt đầu, khởi đầu, khởi tạo, sáng kiến",
+        "id_group": "7"
+    },
+    {
+        "id_word": "79",
+        "name_word": "physically",
+        "pronounce_word": "/ˈfɪzɪkli/",
+        "explain_word": "related to or involving the body or physical form",
+        "mean_word": "về mặt thể chất, về mặt thân thể",
+        "id_group": "7"
+    },
+    {
+        "id_word": "80",
+        "name_word": "provider",
+        "pronounce_word": "/prə'vaidə[r]/",
+        "explain_word": "a group or company that provides a specified service",
+        "mean_word": "người cung cấp, nhà cung cấp",
+        "id_group": "7"
+    },
+    {
+        "id_word": "81",
+        "name_word": "recur",
+        "pronounce_word": "/ri'kə:/",
+        "explain_word": "to happen or appear again, to occur again",
+        "mean_word": "lặp lại, diễn lại, tái diễn, tái phát",
+        "id_group": "7"
+    },
+    {
+        "id_word": "82",
+        "name_word": "reduction",
+        "pronounce_word": "/ri'dʌkʃn/",
+        "explain_word": "the act of making something smaller in size, amount, number, etc.",
+        "mean_word": "sự giảm bớt, sự hạ, sự rút gọn",
+        "id_group": "7"
+    },
+    {
+        "id_word": "83",
+        "name_word": "stay on top of",
+        "pronounce_word": "/stei ɒn tɒp əv/",
+        "explain_word": "have the newest informatiion",
+        "mean_word": "nắm bắt tình hình",
+        "id_group": "7"
+    },
+    {
+        "id_word": "84",
+        "name_word": "stock",
+        "pronounce_word": "/stɒk/",
+        "explain_word": "the supply of goods available for sale in a store",
+        "mean_word": "kho, kho hàng, vốn [kinh doanh]",
+        "id_group": "7"
     }
 ]
