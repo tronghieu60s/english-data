@@ -670,5 +670,285 @@
         "explain_word": "the supply of goods available for sale in a store",
         "mean_word": "kho, kho hàng, vốn [kinh doanh]",
         "id_group": "7"
+    },
+    {
+        "id_word": "85",
+        "name_word": "appreciation",
+        "pronounce_word": "/ə,pri:ʃi'eiʃn/",
+        "explain_word": "an ability to understand the worth, quality, or importance of something :an ability to appreciate something",
+        "mean_word": "sự đánh giá, sự cảm kích, sự hiểu biết",
+        "id_group": "8"
+    },
+    {
+        "id_word": "86",
+        "name_word": "be made of",
+        "pronounce_word": "/bi meid əv/",
+        "explain_word": "be produced of",
+        "mean_word": "làm bằng, gồm có",
+        "id_group": "8"
+    },
+    {
+        "id_word": "87",
+        "name_word": "bring in",
+        "pronounce_word": "/briŋ in/",
+        "explain_word": "to hire or recruit",
+        "mean_word": "thuê, mướn, tuyển dụng",
+        "id_group": "8"
+    },
+    {
+        "id_word": "88",
+        "name_word": "casually",
+        "pronounce_word": "/ˈkæʒuəli/",
+        "explain_word": "happening by chance, fortuitous",
+        "mean_word": "tình cờ, ngẫu nhiên",
+        "id_group": "8"
+    },
+    {
+        "id_word": "89",
+        "name_word": "code",
+        "pronounce_word": "/koud/",
+        "explain_word": "a set of laws or regulations",
+        "mean_word": "mã, mật mã, mã số, bộ luật, quy định",
+        "id_group": "8"
+    },
+    {
+        "id_word": "90",
+        "name_word": "expose",
+        "pronounce_word": "/iks'pouz/",
+        "explain_word": "to leave (something) without covering or protection",
+        "mean_word": "phơi bày ra, để lộ ra",
+        "id_group": "8"
+    },
+    {
+        "id_word": "91",
+        "name_word": "glimpse",
+        "pronounce_word": "/glimps/",
+        "explain_word": "to look at or see (something or someone) for a very short time",
+        "mean_word": "nhìn lướt qua, thoáng qua",
+        "id_group": "8"
+    },
+    {
+        "id_word": "92",
+        "name_word": "out of",
+        "pronounce_word": "/aʊt əv/",
+        "explain_word": "no longer having",
+        "mean_word": "hết, mất, không còn",
+        "id_group": "8"
+    },
+    {
+        "id_word": "93",
+        "name_word": "outdated",
+        "pronounce_word": "/aut'deitid/",
+        "explain_word": "no longer useful or acceptable, not modern or current",
+        "mean_word": "hết hạn, lỗi thời, lạc hậu",
+        "id_group": "8"
+    },
+    {
+        "id_word": "94",
+        "name_word": "practice",
+        "pronounce_word": "/'præktis/",
+        "explain_word": "to do something again and again in order to become better at it",
+        "mean_word": "sự thực hành, rèn luyện, tập luyện",
+        "id_group": "8"
+    },
+    {
+        "id_word": "95",
+        "name_word": "reinforce",
+        "pronounce_word": "/,ri:in'fɔ:s/",
+        "explain_word": "to strengthen (something, such as clothing or a building) by adding more material for support",
+        "mean_word": "gia cố, củng cố, tăng cường",
+        "id_group": "8"
+    },
+    {
+        "id_word": "96",
+        "name_word": "verbally",
+        "pronounce_word": "/'və:bəli/",
+        "explain_word": "in spoken words and not in writing or actions",
+        "mean_word": "bằng miệng, bằng lời nói",
+        "id_group": "8"
+    },
+    {
+        "id_word": "97",
+        "name_word": "disk",
+        "pronounce_word": "/disk/",
+        "explain_word": "a device for storing information on a computer",
+        "mean_word": "đĩa",
+        "id_group": "9"
+    },
+    {
+        "id_word": "98",
+        "name_word": "facilitate",
+        "pronounce_word": "/fə'siliteit/",
+        "explain_word": "to make (something) easier",
+        "mean_word": "làm cho dễ dàng, làm cho thuận tiện",
+        "id_group": "9"
+    },
+    {
+        "id_word": "99",
+        "name_word": "network",
+        "pronounce_word": "/'netwə:k/",
+        "explain_word": "a system of lines, wires, etc., that are connected to each other",
+        "mean_word": "mạng lưới, kết nối, liên kết",
+        "id_group": "9"
+    },
+    {
+        "id_word": "100",
+        "name_word": "popularity",
+        "pronounce_word": "/,pɔpju'læriti/",
+        "explain_word": "state of being liked, enjoyed, accepted, or done by a large number of people, the quality or state of being popular",
+        "mean_word": "đại chúng, phổ biến, nổi tiếng",
+        "id_group": "9"
+    },
+    {
+        "id_word": "101",
+        "name_word": "process",
+        "pronounce_word": "/ˈprəʊses/",
+        "explain_word": "a series of actions that produce something or that lead to a particular result",
+        "mean_word": "quá trình, tiến trình",
+        "id_group": "9"
+    },
+    {
+        "id_word": "102",
+        "name_word": "replace",
+        "pronounce_word": "/ri'pleis/",
+        "explain_word": "to be used instead of (something)",
+        "mean_word": "thay thế, đặt vào lại chỗ cũ",
+        "id_group": "9"
+    },
+    {
+        "id_word": "103",
+        "name_word": "revolution",
+        "pronounce_word": "/,revə'lu:ʃn/",
+        "explain_word": "the usually violent attempt by many people to end the rule of one government and start a new one",
+        "mean_word": "cuộc cách mạng, vòng, sự xoay vòng",
+        "id_group": "9"
+    },
+    {
+        "id_word": "104",
+        "name_word": "sharp",
+        "pronounce_word": "/ʃɑ:p/",
+        "explain_word": "having a thin edge that is able to cut things or a fine point that is able to make a hole in things",
+        "mean_word": "sắc, nhọn, đột ngột, bất ngờ, rõ nét, sắc nét",
+        "id_group": "9"
+    },
+    {
+        "id_word": "105",
+        "name_word": "skill",
+        "pronounce_word": "/skil/",
+        "explain_word": "the ability to do something that comes from training, experience, or practice",
+        "mean_word": "kỹ năng, sự khéo léo, sự tinh xảo",
+        "id_group": "9"
+    },
+    {
+        "id_word": "106",
+        "name_word": "software",
+        "pronounce_word": "/ˈsɒftweə(r)/",
+        "explain_word": "the programs that run on a computer and perform certain functions",
+        "mean_word": "phần mềm, chương trình máy tính",
+        "id_group": "9"
+    },
+    {
+        "id_word": "107",
+        "name_word": "store",
+        "pronounce_word": "/stɔ:/",
+        "explain_word": "to put (something that is not being used) in a place where it is available, where it can be kept safely, etc.",
+        "mean_word": "cửa hàng, số lượng cất trữ",
+        "id_group": "9"
+    },
+    {
+        "id_word": "108",
+        "name_word": "technically",
+        "pronounce_word": "/ˈteknɪkli/",
+        "explain_word": "according to or among experts",
+        "mean_word": "về mặt kỹ thuật, một cách chuyên môn",
+        "id_group": "9"
+    },
+    {
+        "id_word": "109",
+        "name_word": "assemble",
+        "pronounce_word": "/ə'sembl/",
+        "explain_word": "to collect (things) or gather (people) into one place or group",
+        "mean_word": "tụ tập, tập hợp",
+        "id_group": "10"
+    },
+    {
+        "id_word": "110",
+        "name_word": "beforehand",
+        "pronounce_word": "/bi'fɔ:hænd/",
+        "explain_word": "in advance, at an earlier or previous time",
+        "mean_word": "trước, sớm hơn",
+        "id_group": "10"
+    },
+    {
+        "id_word": "111",
+        "name_word": "complication",
+        "pronounce_word": "/ˌkɑːmplɪˈkeɪʃn/",
+        "explain_word": "something that makes something harder to understand, explain, or deal with",
+        "mean_word": "sự phức tạp, sự rắc rối",
+        "id_group": "10"
+    },
+    {
+        "id_word": "112",
+        "name_word": "courier",
+        "pronounce_word": "/'kuriə/",
+        "explain_word": " a person whose job is to carry messages, packages, etc., from one person or place to another",
+        "mean_word": "người đưa tin, người đưa thư, người chuyển phát",
+        "id_group": "10"
+    },
+    {
+        "id_word": "113",
+        "name_word": "express",
+        "pronounce_word": "/iks'pres/",
+        "explain_word": "fast and direct",
+        "mean_word": "nhanh, hỏa tốc, tốc hành",
+        "id_group": "10"
+    },
+    {
+        "id_word": "114",
+        "name_word": "fold",
+        "pronounce_word": "/fould/",
+        "explain_word": "to bend one part of (something) over or against another part",
+        "mean_word": "nếp gấp, gấp lại, gập",
+        "id_group": "10"
+    },
+    {
+        "id_word": "115",
+        "name_word": "layout",
+        "pronounce_word": "/ˈleɪaʊt/",
+        "explain_word": "the design or arrangement of something :the way something is laid out",
+        "mean_word": "sự bố trí",
+        "id_group": "10"
+    },
+    {
+        "id_word": "116",
+        "name_word": "mention",
+        "pronounce_word": "/'menʃn/",
+        "explain_word": "to talk about, write about, or refer to (something or someone) especially in a brief way",
+        "mean_word": "nói đến, kể đến, đề cập đến",
+        "id_group": "10"
+    },
+    {
+        "id_word": "117",
+        "name_word": "petition",
+        "pronounce_word": "/pi'tiʃn/",
+        "explain_word": "a written document that people sign to show that they want a person or organization to do or change something",
+        "mean_word": "kiến nghị, cầu xin, thỉnh cầu",
+        "id_group": "10"
+    },
+    {
+        "id_word": "118",
+        "name_word": "proof",
+        "pronounce_word": "/pru:f/",
+        "explain_word": "something which shows that something else is true or correct",
+        "mean_word": "chứng cứ, bằng chứng",
+        "id_group": "10"
+    },
+    {
+        "id_word": "120",
+        "name_word": "revise",
+        "pronounce_word": "/ri'vaiz/",
+        "explain_word": "to make changes especially to correct or improve (something)",
+        "mean_word": "xét lại, xem lại, duyệt lại",
+        "id_group": "10"
     }
 ]
