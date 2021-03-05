@@ -208,5 +208,145 @@
         "mean_group": "thuê và cho thuê",
         "pronounce_group": "/rentiη ænd 'li:siɳ/",
         "image_group": "https://i.imgur.com/sv7X62N.png"
+    },
+    {
+        "id_group": "31",
+        "name_group": "Selecting A Restaurant",
+        "mean_group": "chọn lựa nhà hàng",
+        "pronounce_group": "/si'lektiη a 'restrɒnt/",
+        "image_group": "https://i.imgur.com/6ZPuYm9.png"
+    },
+    {
+        "id_group": "32",
+        "name_group": "Eating Out",
+        "mean_group": "ăn bên ngoài",
+        "pronounce_group": "/'i:tiɳ aʊt/",
+        "image_group": "https://i.imgur.com/hVirPgy.png"
+    },
+    {
+        "id_group": "33",
+        "name_group": "Ordering Lunch",
+        "mean_group": "đặt bữa trưa",
+        "pronounce_group": "/'ɔ:dəriɳ lʌnt∫/",
+        "image_group": "https://i.imgur.com/grS2x9w.png"
+    },
+    {
+        "id_group": "34",
+        "name_group": "Cooking As A Career",
+        "mean_group": "nghề nấu ăn",
+        "pronounce_group": "/'kukiɳ əz a kə'riə/",
+        "image_group": "https://i.imgur.com/Di7Tn1L.png"
+    },
+    {
+        "id_group": "35",
+        "name_group": "Events",
+        "mean_group": "sự kiện",
+        "pronounce_group": "/i'vent/",
+        "image_group": "https://i.imgur.com/hJ9KDKT.png"
+    },
+    {
+        "id_group": "36",
+        "name_group": "General Travel",
+        "mean_group": "du lịch tổng quan",
+        "pronounce_group": "/'dʒenərəl 'trævl/",
+        "image_group": "https://i.imgur.com/oRfjplu.png"
+    },
+    {
+        "id_group": "37",
+        "name_group": "Airlines",
+        "mean_group": "các hãng hàng không",
+        "pronounce_group": "/ˈeɚˌlaɪn/",
+        "image_group": "https://i.imgur.com/m7t2WbQ.png"
+    },
+    {
+        "id_group": "38",
+        "name_group": "Trains",
+        "mean_group": "tàu điện",
+        "pronounce_group": "/treins/",
+        "image_group": "https://i.imgur.com/k3OJzne.png"
+    },
+    {
+        "id_group": "39",
+        "name_group": "Hotels",
+        "mean_group": "khách sạn",
+        "pronounce_group": "/'həʊ'tel/",
+        "image_group": "https://i.imgur.com/GIpuIH1.png"
+    },
+    {
+        "id_group": "40",
+        "name_group": "Car Rentals",
+        "mean_group": "cho thuê ô tô",
+        "pronounce_group": "/kɑ: 'rentl/",
+        "image_group": "https://i.imgur.com/Dxaji1a.png"
+    },
+    {
+        "id_group": "41",
+        "name_group": "Movies",
+        "mean_group": "phim",
+        "pronounce_group": "/'mu:vi/",
+        "image_group": "https://i.imgur.com/CF59vaj.png"
+    },
+    {
+        "id_group": "42",
+        "name_group": "Theater",
+        "mean_group": "rạp hát",
+        "pronounce_group": "/'θiətə/",
+        "image_group": "https://i.imgur.com/sIp0NiE.png"
+    },
+    {
+        "id_group": "43",
+        "name_group": "Music",
+        "mean_group": "âm nhạc",
+        "pronounce_group": "/'mju:zik/",
+        "image_group": "https://i.imgur.com/cQC0YB8.png"
+    },
+    {
+        "id_group": "44",
+        "name_group": "Museums",
+        "mean_group": "bảo tàng",
+        "pronounce_group": "/mju:'ziəm/",
+        "image_group": "https://i.imgur.com/LbQt1bW.png"
+    },
+    {
+        "id_group": "45",
+        "name_group": "Media",
+        "mean_group": "truyền thông",
+        "pronounce_group": "/'mi:diə/",
+        "image_group": "https://i.imgur.com/BFRfDkj.png"
+    },
+    {
+        "id_group": "46",
+        "name_group": "Doctor's Office",
+        "mean_group": "văn phòng bác sĩ",
+        "pronounce_group": "/'dɒktərs ɒfis/",
+        "image_group": "https://i.imgur.com/gux6Hn1.png"
+    },
+    {
+        "id_group": "47",
+        "name_group": "Dentist's Office",
+        "mean_group": "văn phòng nha sĩ",
+        "pronounce_group": "/'dentists ɒfis/",
+        "image_group": "https://i.imgur.com/0d8G81G.png"
+    },
+    {
+        "id_group": "48",
+        "name_group": "Health",
+        "mean_group": "sức khỏe",
+        "pronounce_group": "/helθ/",
+        "image_group": "https://i.imgur.com/9o7Ym3f.png"
+    },
+    {
+        "id_group": "49",
+        "name_group": "Hospital",
+        "mean_group": "bệnh viện",
+        "pronounce_group": "/'hɒspitl/",
+        "image_group": "https://i.imgur.com/JukyC6L.png"
+    },
+    {
+        "id_group": "50",
+        "name_group": "Pharmacy",
+        "mean_group": "ngành dược",
+        "pronounce_group": "/'fɑ:məsi/",
+        "image_group": "https://i.imgur.com/M9sDEnr.png"
     }
 ]

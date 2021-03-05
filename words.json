@@ -452,7 +452,7 @@
         "name_word": "register",
         "pronounce_word": "/'redʒistə/",
         "explain_word": "an official list, book, or system for keeping records of something",
-        "mean_word": "đăng ký, sổ, sổ sách",
+        "mean_word": "sổ, đăng ký, sổ sách",
         "id_group": "5"
     },
     {
@@ -941,6 +941,14 @@
         "pronounce_word": "/pru:f/",
         "explain_word": "something which shows that something else is true or correct",
         "mean_word": "chứng cứ, bằng chứng",
+        "id_group": "10"
+    },
+    {
+        "id_word": "119",
+        "name_word": "register",
+        "pronounce_word": "/'redʒistə/",
+        "explain_word": "an official list, book, or system for keeping records of something - often + of",
+        "mean_word": "sổ, đăng ký, sổ sách",
         "id_group": "10"
     },
     {
@@ -2870,5 +2878,1925 @@
         "explain_word": "likely to experience or suffer from something",
         "mean_word": "chịu, phải bị, tùy theo",
         "id_group": "30"
+    },
+    {
+        "id_word": "361",
+        "name_word": "appeal",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "31"
+    },
+    {
+        "id_word": "362",
+        "name_word": "arrive",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "31"
+    },
+    {
+        "id_word": "363",
+        "name_word": "compromise",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "31"
+    },
+    {
+        "id_word": "364",
+        "name_word": "daringly",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "31"
+    },
+    {
+        "id_word": "365",
+        "name_word": "familiar",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "31"
+    },
+    {
+        "id_word": "366",
+        "name_word": "guide",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "31"
+    },
+    {
+        "id_word": "367",
+        "name_word": "majority",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "31"
+    },
+    {
+        "id_word": "368",
+        "name_word": "mix",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "31"
+    },
+    {
+        "id_word": "369",
+        "name_word": "rely",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "31"
+    },
+    {
+        "id_word": "370",
+        "name_word": "secure",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "31"
+    },
+    {
+        "id_word": "371",
+        "name_word": "subjective",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "31"
+    },
+    {
+        "id_word": "372",
+        "name_word": "suggestion",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "31"
+    },
+    {
+        "id_word": "373",
+        "name_word": "basis",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "32"
+    },
+    {
+        "id_word": "374",
+        "name_word": "complete",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "32"
+    },
+    {
+        "id_word": "375",
+        "name_word": "excite",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "32"
+    },
+    {
+        "id_word": "376",
+        "name_word": "flavor",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "32"
+    },
+    {
+        "id_word": "377",
+        "name_word": "forget",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "32"
+    },
+    {
+        "id_word": "378",
+        "name_word": "ingredient",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "32"
+    },
+    {
+        "id_word": "379",
+        "name_word": "judge",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "32"
+    },
+    {
+        "id_word": "380",
+        "name_word": "mix-up",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "32"
+    },
+    {
+        "id_word": "381",
+        "name_word": "patron",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "32"
+    },
+    {
+        "id_word": "382",
+        "name_word": "predict",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "32"
+    },
+    {
+        "id_word": "383",
+        "name_word": "randomly",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "32"
+    },
+    {
+        "id_word": "384",
+        "name_word": "remind",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "32"
+    },
+    {
+        "id_word": "385",
+        "name_word": "burden",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "33"
+    },
+    {
+        "id_word": "386",
+        "name_word": "commonly",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "33"
+    },
+    {
+        "id_word": "387",
+        "name_word": "delivery",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "33"
+    },
+    {
+        "id_word": "388",
+        "name_word": "elegance",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "33"
+    },
+    {
+        "id_word": "389",
+        "name_word": "fall to",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "33"
+    },
+    {
+        "id_word": "390",
+        "name_word": "impress",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "33"
+    },
+    {
+        "id_word": "391",
+        "name_word": "individual",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "33"
+    },
+    {
+        "id_word": "392",
+        "name_word": "list",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "33"
+    },
+    {
+        "id_word": "393",
+        "name_word": "multiple",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "33"
+    },
+    {
+        "id_word": "394",
+        "name_word": "narrow",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "33"
+    },
+    {
+        "id_word": "395",
+        "name_word": "pick up",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "33"
+    },
+    {
+        "id_word": "396",
+        "name_word": "settle",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "33"
+    },
+    {
+        "id_word": "397",
+        "name_word": "accustom to",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "34"
+    },
+    {
+        "id_word": "398",
+        "name_word": "apprentice",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "34"
+    },
+    {
+        "id_word": "399",
+        "name_word": "culinary",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "34"
+    },
+    {
+        "id_word": "400",
+        "name_word": "demand",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "34"
+    },
+    {
+        "id_word": "401",
+        "name_word": "draw",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "34"
+    },
+    {
+        "id_word": "402",
+        "name_word": "incorporate",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "34"
+    },
+    {
+        "id_word": "403",
+        "name_word": "influx",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "34"
+    },
+    {
+        "id_word": "404",
+        "name_word": "method",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "34"
+    },
+    {
+        "id_word": "405",
+        "name_word": "outlet",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "34"
+    },
+    {
+        "id_word": "406",
+        "name_word": "profession",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "34"
+    },
+    {
+        "id_word": "407",
+        "name_word": "relinquish",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "34"
+    },
+    {
+        "id_word": "408",
+        "name_word": "theme",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "34"
+    },
+    {
+        "id_word": "409",
+        "name_word": "assist",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "35"
+    },
+    {
+        "id_word": "410",
+        "name_word": "coordinate",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "35"
+    },
+    {
+        "id_word": "411",
+        "name_word": "dimension",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "35"
+    },
+    {
+        "id_word": "412",
+        "name_word": "exact",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "35"
+    },
+    {
+        "id_word": "413",
+        "name_word": "general",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "35"
+    },
+    {
+        "id_word": "414",
+        "name_word": "ideally",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "35"
+    },
+    {
+        "id_word": "415",
+        "name_word": "lead time",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "35"
+    },
+    {
+        "id_word": "416",
+        "name_word": "plan",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "35"
+    },
+    {
+        "id_word": "417",
+        "name_word": "proximity",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "35"
+    },
+    {
+        "id_word": "418",
+        "name_word": "regulate",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "35"
+    },
+    {
+        "id_word": "419",
+        "name_word": "site",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "35"
+    },
+    {
+        "id_word": "420",
+        "name_word": "stage",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "35"
+    },
+    {
+        "id_word": "421",
+        "name_word": "agent",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "36"
+    },
+    {
+        "id_word": "422",
+        "name_word": "announcement",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "36"
+    },
+    {
+        "id_word": "423",
+        "name_word": "beverage",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "36"
+    },
+    {
+        "id_word": "424",
+        "name_word": "blanket",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "36"
+    },
+    {
+        "id_word": "425",
+        "name_word": "board",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "36"
+    },
+    {
+        "id_word": "426",
+        "name_word": "claim",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "36"
+    },
+    {
+        "id_word": "427",
+        "name_word": "delay",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "36"
+    },
+    {
+        "id_word": "428",
+        "name_word": "depart",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "36"
+    },
+    {
+        "id_word": "429",
+        "name_word": "embarkation",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "36"
+    },
+    {
+        "id_word": "430",
+        "name_word": "itinerary",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "36"
+    },
+    {
+        "id_word": "431",
+        "name_word": "prohibit",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "36"
+    },
+    {
+        "id_word": "432",
+        "name_word": "valid",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "36"
+    },
+    {
+        "id_word": "433",
+        "name_word": "deal with",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "37"
+    },
+    {
+        "id_word": "434",
+        "name_word": "destination",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "37"
+    },
+    {
+        "id_word": "435",
+        "name_word": "distinguish",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "37"
+    },
+    {
+        "id_word": "436",
+        "name_word": "economize",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "37"
+    },
+    {
+        "id_word": "437",
+        "name_word": "equivalent",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "37"
+    },
+    {
+        "id_word": "438",
+        "name_word": "excursion",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "37"
+    },
+    {
+        "id_word": "439",
+        "name_word": "expense",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "37"
+    },
+    {
+        "id_word": "440",
+        "name_word": "extend",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "37"
+    },
+    {
+        "id_word": "441",
+        "name_word": "prospective",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "37"
+    },
+    {
+        "id_word": "442",
+        "name_word": "situation",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "37"
+    },
+    {
+        "id_word": "443",
+        "name_word": "substantially",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "37"
+    },
+    {
+        "id_word": "444",
+        "name_word": "system",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "37"
+    },
+    {
+        "id_word": "445",
+        "name_word": "comprehensive",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "38"
+    },
+    {
+        "id_word": "446",
+        "name_word": "deluxe",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "38"
+    },
+    {
+        "id_word": "447",
+        "name_word": "directory",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "38"
+    },
+    {
+        "id_word": "448",
+        "name_word": "duration",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "38"
+    },
+    {
+        "id_word": "449",
+        "name_word": "entitle",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "38"
+    },
+    {
+        "id_word": "450",
+        "name_word": "fare",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "38"
+    },
+    {
+        "id_word": "451",
+        "name_word": "offset",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "38"
+    },
+    {
+        "id_word": "452",
+        "name_word": "operate",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "38"
+    },
+    {
+        "id_word": "453",
+        "name_word": "punctually",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "38"
+    },
+    {
+        "id_word": "454",
+        "name_word": "relatively",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "38"
+    },
+    {
+        "id_word": "455",
+        "name_word": "remainder",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "38"
+    },
+    {
+        "id_word": "456",
+        "name_word": "remote",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "38"
+    },
+    {
+        "id_word": "457",
+        "name_word": "advanced",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "39"
+    },
+    {
+        "id_word": "458",
+        "name_word": "chain",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "39"
+    },
+    {
+        "id_word": "459",
+        "name_word": "check in",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "39"
+    },
+    {
+        "id_word": "460",
+        "name_word": "confirm",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "39"
+    },
+    {
+        "id_word": "461",
+        "name_word": "expect",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "39"
+    },
+    {
+        "id_word": "462",
+        "name_word": "housekeeper",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "39"
+    },
+    {
+        "id_word": "463",
+        "name_word": "notify",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "39"
+    },
+    {
+        "id_word": "464",
+        "name_word": "preclude",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "39"
+    },
+    {
+        "id_word": "465",
+        "name_word": "quote",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "39"
+    },
+    {
+        "id_word": "466",
+        "name_word": "rate",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "39"
+    },
+    {
+        "id_word": "467",
+        "name_word": "reservation",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "39"
+    },
+    {
+        "id_word": "468",
+        "name_word": "service",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "39"
+    },
+    {
+        "id_word": "469",
+        "name_word": "busy",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "40"
+    },
+    {
+        "id_word": "470",
+        "name_word": "coincide",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "40"
+    },
+    {
+        "id_word": "471",
+        "name_word": "confusion",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "40"
+    },
+    {
+        "id_word": "472",
+        "name_word": "contact",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "40"
+    },
+    {
+        "id_word": "473",
+        "name_word": "disappoint",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "40"
+    },
+    {
+        "id_word": "474",
+        "name_word": "intend",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "40"
+    },
+    {
+        "id_word": "475",
+        "name_word": "license",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "40"
+    },
+    {
+        "id_word": "476",
+        "name_word": "nervously",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "40"
+    },
+    {
+        "id_word": "477",
+        "name_word": "optional",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "40"
+    },
+    {
+        "id_word": "478",
+        "name_word": "tempt",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "40"
+    },
+    {
+        "id_word": "479",
+        "name_word": "thrill",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "40"
+    },
+    {
+        "id_word": "480",
+        "name_word": "tier",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "40"
+    },
+    {
+        "id_word": "481",
+        "name_word": "attainment",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "41"
+    },
+    {
+        "id_word": "482",
+        "name_word": "combine",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "41"
+    },
+    {
+        "id_word": "483",
+        "name_word": "continue",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "41"
+    },
+    {
+        "id_word": "484",
+        "name_word": "description",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "41"
+    },
+    {
+        "id_word": "485",
+        "name_word": "disperse",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "41"
+    },
+    {
+        "id_word": "486",
+        "name_word": "entertainment",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "41"
+    },
+    {
+        "id_word": "487",
+        "name_word": "influence",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "41"
+    },
+    {
+        "id_word": "488",
+        "name_word": "range",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "41"
+    },
+    {
+        "id_word": "489",
+        "name_word": "release",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "41"
+    },
+    {
+        "id_word": "490",
+        "name_word": "representation",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "41"
+    },
+    {
+        "id_word": "491",
+        "name_word": "separately",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "41"
+    },
+    {
+        "id_word": "492",
+        "name_word": "successive",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "41"
+    },
+    {
+        "id_word": "493",
+        "name_word": "action",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "42"
+    },
+    {
+        "id_word": "494",
+        "name_word": "approach",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "42"
+    },
+    {
+        "id_word": "495",
+        "name_word": "audience",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "42"
+    },
+    {
+        "id_word": "496",
+        "name_word": "creative",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "42"
+    },
+    {
+        "id_word": "497",
+        "name_word": "dialogue",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "42"
+    },
+    {
+        "id_word": "498",
+        "name_word": "element",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "42"
+    },
+    {
+        "id_word": "499",
+        "name_word": "experience",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "42"
+    },
+    {
+        "id_word": "500",
+        "name_word": "occur",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "42"
+    },
+    {
+        "id_word": "501",
+        "name_word": "perform",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "42"
+    },
+    {
+        "id_word": "502",
+        "name_word": "rehearse",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "42"
+    },
+    {
+        "id_word": "503",
+        "name_word": "review",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "42"
+    },
+    {
+        "id_word": "504",
+        "name_word": "sell out",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "42"
+    },
+    {
+        "id_word": "505",
+        "name_word": "available",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "43"
+    },
+    {
+        "id_word": "506",
+        "name_word": "broaden",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "43"
+    },
+    {
+        "id_word": "507",
+        "name_word": "category",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "43"
+    },
+    {
+        "id_word": "508",
+        "name_word": "disparate",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "43"
+    },
+    {
+        "id_word": "509",
+        "name_word": "divide",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "43"
+    },
+    {
+        "id_word": "510",
+        "name_word": "favor",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "43"
+    },
+    {
+        "id_word": "511",
+        "name_word": "instinct",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "43"
+    },
+    {
+        "id_word": "512",
+        "name_word": "prefer",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "43"
+    },
+    {
+        "id_word": "513",
+        "name_word": "reason",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "43"
+    },
+    {
+        "id_word": "514",
+        "name_word": "relaxation",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "43"
+    },
+    {
+        "id_word": "515",
+        "name_word": "taste",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "43"
+    },
+    {
+        "id_word": "516",
+        "name_word": "urge",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "43"
+    },
+    {
+        "id_word": "517",
+        "name_word": "acquire",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "44"
+    },
+    {
+        "id_word": "518",
+        "name_word": "admire",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "44"
+    },
+    {
+        "id_word": "519",
+        "name_word": "collection",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "44"
+    },
+    {
+        "id_word": "520",
+        "name_word": "criticism",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "44"
+    },
+    {
+        "id_word": "521",
+        "name_word": "express",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "44"
+    },
+    {
+        "id_word": "522",
+        "name_word": "fashion",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "44"
+    },
+    {
+        "id_word": "523",
+        "name_word": "leisure",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "44"
+    },
+    {
+        "id_word": "524",
+        "name_word": "respond",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "44"
+    },
+    {
+        "id_word": "525",
+        "name_word": "schedule",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "44"
+    },
+    {
+        "id_word": "526",
+        "name_word": "significant",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "44"
+    },
+    {
+        "id_word": "527",
+        "name_word": "specialize",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "44"
+    },
+    {
+        "id_word": "528",
+        "name_word": "spectrum",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "44"
+    },
+    {
+        "id_word": "529",
+        "name_word": "assignment",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "45"
+    },
+    {
+        "id_word": "530",
+        "name_word": "choose",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "45"
+    },
+    {
+        "id_word": "531",
+        "name_word": "constantly",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "45"
+    },
+    {
+        "id_word": "532",
+        "name_word": "constitute",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "45"
+    },
+    {
+        "id_word": "533",
+        "name_word": "decision",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "45"
+    },
+    {
+        "id_word": "534",
+        "name_word": "disseminate",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "45"
+    },
+    {
+        "id_word": "535",
+        "name_word": "impact",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "45"
+    },
+    {
+        "id_word": "536",
+        "name_word": "in-depth",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "45"
+    },
+    {
+        "id_word": "537",
+        "name_word": "investigate",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "45"
+    },
+    {
+        "id_word": "538",
+        "name_word": "link",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "45"
+    },
+    {
+        "id_word": "539",
+        "name_word": "subscribe",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "45"
+    },
+    {
+        "id_word": "540",
+        "name_word": "thorough",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "45"
+    },
+    {
+        "id_word": "541",
+        "name_word": "annually",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "46"
+    },
+    {
+        "id_word": "542",
+        "name_word": "appointment",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "46"
+    },
+    {
+        "id_word": "543",
+        "name_word": "assess",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "46"
+    },
+    {
+        "id_word": "544",
+        "name_word": "diagnose",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "46"
+    },
+    {
+        "id_word": "545",
+        "name_word": "effective",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "46"
+    },
+    {
+        "id_word": "546",
+        "name_word": "instrument",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "46"
+    },
+    {
+        "id_word": "547",
+        "name_word": "manage",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "46"
+    },
+    {
+        "id_word": "548",
+        "name_word": "prevent",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "46"
+    },
+    {
+        "id_word": "549",
+        "name_word": "recommendation",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "46"
+    },
+    {
+        "id_word": "550",
+        "name_word": "record",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "46"
+    },
+    {
+        "id_word": "551",
+        "name_word": "refer",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "46"
+    },
+    {
+        "id_word": "552",
+        "name_word": "serious",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "46"
+    },
+    {
+        "id_word": "553",
+        "name_word": "aware",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "47"
+    },
+    {
+        "id_word": "554",
+        "name_word": "catch up",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "47"
+    },
+    {
+        "id_word": "555",
+        "name_word": "distraction",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "47"
+    },
+    {
+        "id_word": "556",
+        "name_word": "encouragement",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "47"
+    },
+    {
+        "id_word": "557",
+        "name_word": "evident",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "47"
+    },
+    {
+        "id_word": "558",
+        "name_word": "habit",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "47"
+    },
+    {
+        "id_word": "559",
+        "name_word": "illuminate",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "47"
+    },
+    {
+        "id_word": "560",
+        "name_word": "irritate",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "47"
+    },
+    {
+        "id_word": "561",
+        "name_word": "overview",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "47"
+    },
+    {
+        "id_word": "562",
+        "name_word": "position",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "47"
+    },
+    {
+        "id_word": "563",
+        "name_word": "regularly",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "47"
+    },
+    {
+        "id_word": "564",
+        "name_word": "restore",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "47"
+    },
+    {
+        "id_word": "565",
+        "name_word": "allow",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "48"
+    },
+    {
+        "id_word": "566",
+        "name_word": "alternative",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "48"
+    },
+    {
+        "id_word": "567",
+        "name_word": "aspect",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "48"
+    },
+    {
+        "id_word": "568",
+        "name_word": "concern",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "48"
+    },
+    {
+        "id_word": "569",
+        "name_word": "emphasize",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "48"
+    },
+    {
+        "id_word": "570",
+        "name_word": "incur",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "48"
+    },
+    {
+        "id_word": "571",
+        "name_word": "personnel",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "48"
+    },
+    {
+        "id_word": "572",
+        "name_word": "policy",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "48"
+    },
+    {
+        "id_word": "573",
+        "name_word": "portion",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "48"
+    },
+    {
+        "id_word": "574",
+        "name_word": "regardless",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "48"
+    },
+    {
+        "id_word": "575",
+        "name_word": "salary",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "48"
+    },
+    {
+        "id_word": "576",
+        "name_word": "suit",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "48"
+    },
+    {
+        "id_word": "577",
+        "name_word": "admit",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "49"
+    },
+    {
+        "id_word": "578",
+        "name_word": "authorize",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "49"
+    },
+    {
+        "id_word": "579",
+        "name_word": "designate",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "49"
+    },
+    {
+        "id_word": "580",
+        "name_word": "escort",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "49"
+    },
+    {
+        "id_word": "581",
+        "name_word": "identify",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "49"
+    },
+    {
+        "id_word": "582",
+        "name_word": "mission",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "49"
+    },
+    {
+        "id_word": "583",
+        "name_word": "permit",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "49"
+    },
+    {
+        "id_word": "584",
+        "name_word": "pertinent",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "49"
+    },
+    {
+        "id_word": "585",
+        "name_word": "procedure",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "49"
+    },
+    {
+        "id_word": "586",
+        "name_word": "result",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "49"
+    },
+    {
+        "id_word": "587",
+        "name_word": "statement",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "49"
+    },
+    {
+        "id_word": "588",
+        "name_word": "usually",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "49"
+    },
+    {
+        "id_word": "589",
+        "name_word": "consult",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "50"
+    },
+    {
+        "id_word": "590",
+        "name_word": "control",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "50"
+    },
+    {
+        "id_word": "591",
+        "name_word": "convenient",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "50"
+    },
+    {
+        "id_word": "592",
+        "name_word": "detect",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "50"
+    },
+    {
+        "id_word": "593",
+        "name_word": "factor",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "50"
+    },
+    {
+        "id_word": "594",
+        "name_word": "interaction",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "50"
+    },
+    {
+        "id_word": "595",
+        "name_word": "limit",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "50"
+    },
+    {
+        "id_word": "596",
+        "name_word": "monitor",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "50"
+    },
+    {
+        "id_word": "597",
+        "name_word": "potential",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "50"
+    },
+    {
+        "id_word": "598",
+        "name_word": "sample",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "50"
+    },
+    {
+        "id_word": "599",
+        "name_word": "sense",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "50"
+    },
+    {
+        "id_word": "600",
+        "name_word": "volunteer",
+        "pronounce_word": "",
+        "explain_word": "",
+        "mean_word": "",
+        "id_group": "50"
     }
 ]
