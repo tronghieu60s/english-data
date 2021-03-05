@@ -450,7 +450,7 @@
     {
         "id_word": "57",
         "name_word": "register",
-        "pronounce_word": "/'redʒistə[r]/",
+        "pronounce_word": "/'redʒistə/",
         "explain_word": "an official list, book, or system for keeping records of something",
         "mean_word": "đăng ký, sổ, sổ sách",
         "id_group": "5"
@@ -530,7 +530,7 @@
     {
         "id_word": "67",
         "name_word": "failure",
-        "pronounce_word": "/'feiljə[r]/",
+        "pronounce_word": "/'feiljə/",
         "explain_word": "the act or result of failing",
         "mean_word": "hỏng, thất bại, bất thành",
         "id_group": "6"
@@ -634,7 +634,7 @@
     {
         "id_word": "80",
         "name_word": "provider",
-        "pronounce_word": "/prə'vaidə[r]/",
+        "pronounce_word": "/prə'vaidə/",
         "explain_word": "a group or company that provides a specified service",
         "mean_word": "người cung cấp, nhà cung cấp",
         "id_group": "7"
@@ -1186,7 +1186,7 @@
     {
         "id_word": "150",
         "name_word": "mentor",
-        "pronounce_word": "/'mentɔ:[r]/",
+        "pronounce_word": "/'mentɔ:/",
         "explain_word": "someone who teaches or gives help and advice to a less experienced and often younger person",
         "mean_word": "người hướng dẫn, người cố vấn",
         "id_group": "13"
@@ -1251,7 +1251,7 @@
         "id_word": "158",
         "name_word": "benefit",
         "pronounce_word": "/'benifit/",
-        "explain_word": "a good or helpful result or effect [count]",
+        "explain_word": "a good or helpful result or effect ",
         "mean_word": "lợi, lợi ít, phúc lợi",
         "id_group": "14"
     },
@@ -1291,7 +1291,7 @@
         "id_word": "163",
         "name_word": "negotiate",
         "pronounce_word": "/ni'gəɜ∫ieit/",
-        "explain_word": "to discuss something formally in order to make an agreement [no obj]",
+        "explain_word": "to discuss something formally in order to make an agreement",
         "mean_word": "thương lượng, đàm phán",
         "id_group": "14"
     },
@@ -1306,7 +1306,7 @@
     {
         "id_word": "165",
         "name_word": "retire",
-        "pronounce_word": "/ri'taiə[r]/",
+        "pronounce_word": "/ri'taiə/",
         "explain_word": "to stop a job or career because you have reached the age when you are not allowed to work anymore or do not need or want to work anymore",
         "mean_word": "nghỉ hưu, cho nghỉ hưu",
         "id_group": "14"
@@ -1442,7 +1442,7 @@
     {
         "id_word": "182",
         "name_word": "bear",
-        "pronounce_word": "/beə[r]/",
+        "pronounce_word": "/beə/",
         "explain_word": "to be able to accept and deal with something unpleasant",
         "mean_word": "chịu đựng, cam chịu",
         "id_group": "16"
@@ -1450,7 +1450,7 @@
     {
         "id_word": "183",
         "name_word": "behaviour",
-        "pronounce_word": "/bi'heivjə[r]/",
+        "pronounce_word": "/bi'heivjə/",
         "explain_word": "the way that somebody behaves, especially towards other people",
         "mean_word": "cách ứng xử, tư cách, thái độ, hành vi",
         "id_group": "16"
@@ -1482,7 +1482,7 @@
     {
         "id_word": "187",
         "name_word": "explore",
-        "pronounce_word": "/ik'splɔ:[r]/",
+        "pronounce_word": "/ik'splɔ:/",
         "explain_word": "to look at (something) in a careful way to learn more about it :to study or analyze (something)",
         "mean_word": "khảo sát, thăm dò, khám phá",
         "id_group": "16"
@@ -1563,7 +1563,7 @@
         "id_word": "197",
         "name_word": "function",
         "pronounce_word": "/ˈfʌŋkʃən/",
-        "explain_word": "the special purpose or activity for which a thing exists or is used [count]",
+        "explain_word": "the special purpose or activity for which a thing exists or is used ",
         "mean_word": "chức năng",
         "id_group": "17"
     },
@@ -1634,7 +1634,7 @@
     {
         "id_word": "206",
         "name_word": "carrier",
-        "pronounce_word": "/'kæriə[r]/",
+        "pronounce_word": "/'kæriə/",
         "explain_word": "someone or something that carries something",
         "mean_word": "người chở, vật chở",
         "id_group": "18"
@@ -1690,7 +1690,7 @@
     {
         "id_word": "213",
         "name_word": "remember",
-        "pronounce_word": "/ri'membə[r]/ ",
+        "pronounce_word": "/ri'membə/ ",
         "explain_word": "to have or keep an image or idea in your mind of (something or someone from the past)",
         "mean_word": "nhớ, ghi nhớ",
         "id_group": "18"
@@ -1738,7 +1738,7 @@
     {
         "id_word": "219",
         "name_word": "customer",
-        "pronounce_word": "/'kʌstəmə[r]/",
+        "pronounce_word": "/'kʌstəmə/",
         "explain_word": "someone who buys goods or services from a business",
         "mean_word": "khách hàng",
         "id_group": "19"
@@ -1786,7 +1786,7 @@
     {
         "id_word": "225",
         "name_word": "order",
-        "pronounce_word": "/'ɔ:də[r]/",
+        "pronounce_word": "/'ɔ:də/",
         "explain_word": "a request for food or drinks made at a restaurant",
         "mean_word": "đơn đặt hàng, thứ tự, trật tự, thứ, bậc",
         "id_group": "19"
@@ -1986,7 +1986,7 @@
     {
         "id_word": "250",
         "name_word": "signature",
-        "pronounce_word": "/'signət∫ə[r]/",
+        "pronounce_word": "/'signət∫ə/",
         "explain_word": "a person's name written in that person's handwriting",
         "mean_word": "chữ ký, sự ký tên",
         "id_group": "21"
@@ -2035,7 +2035,7 @@
         "id_word": "256",
         "name_word": "audit",
         "pronounce_word": "/'ɔ:dit/",
-        "explain_word": "a complete and careful examination of the financial records of a business or person [count]",
+        "explain_word": "a complete and careful examination of the financial records of a business or person ",
         "mean_word": "sự kiểm tra sổ sách, kiểm toán",
         "id_group": "22"
     },
@@ -2043,7 +2043,7 @@
         "id_word": "257",
         "name_word": "budget",
         "pronounce_word": "/'bʌdʒit/",
-        "explain_word": "an amount of money available for spending that is based on a plan for how it will be spent [count]",
+        "explain_word": "an amount of money available for spending that is based on a plan for how it will be spent ",
         "mean_word": "ngân quỹ, ngân sách",
         "id_group": "22"
     },
@@ -2099,7 +2099,7 @@
         "id_word": "264",
         "name_word": "turnover",
         "pronounce_word": "/'tɜ:n,əʊvə/",
-        "explain_word": "the amount of money that is received in sales by a store or company [count]",
+        "explain_word": "the amount of money that is received in sales by a store or company ",
         "mean_word": "doanh số, doanh thu",
         "id_group": "22"
     },
@@ -2147,7 +2147,7 @@
         "id_word": "270",
         "name_word": "invest",
         "pronounce_word": "/in'vest/",
-        "explain_word": "to use money to earn more money :to use your money to purchase stock in a company, to buy property, etc., in order to make future profit [no obj]",
+        "explain_word": "to use money to earn more money :to use your money to purchase stock in a company, to buy property, etc., in order to make future profit",
         "mean_word": "đầu tư, ",
         "id_group": "23"
     },
@@ -2203,7 +2203,7 @@
         "id_word": "277",
         "name_word": "calculation",
         "pronounce_word": "/,kælkjʊ'lei∫n/",
-        "explain_word": "a process or result of calculating something [count]",
+        "explain_word": "a process or result of calculating something ",
         "mean_word": "sự tính toán, sự cân nhắc",
         "id_group": "24"
     },
@@ -2211,7 +2211,7 @@
         "id_word": "278",
         "name_word": "deadline",
         "pronounce_word": "/'dedlain/",
-        "explain_word": "a date or time when something must be finished :the last day, hour, or minute that something will be accepted [count]",
+        "explain_word": "a date or time when something must be finished :the last day, hour, or minute that something will be accepted ",
         "mean_word": "thời hạn cuối cùng, hạn chót",
         "id_group": "24"
     },
@@ -2259,7 +2259,7 @@
         "id_word": "284",
         "name_word": "penalty",
         "pronounce_word": "/'penlti/",
-        "explain_word": "punishment for breaking a rule or law [count]",
+        "explain_word": "punishment for breaking a rule or law ",
         "mean_word": "sự phạt, hình phạt, tiền phạt",
         "id_group": "24"
     },
@@ -2298,7 +2298,7 @@
     {
         "id_word": "289",
         "name_word": "desire",
-        "pronounce_word": "/di'zaiə[r]/",
+        "pronounce_word": "/di'zaiə/",
         "explain_word": "to want or wish for (something)",
         "mean_word": "thèm muốn, khao khát, ao ước",
         "id_group": "25"
@@ -2339,7 +2339,7 @@
         "id_word": "294",
         "name_word": "perspective",
         "pronounce_word": "/pə'spektiv/",
-        "explain_word": "a way of thinking about and understanding something (such as a particular issue or life in general) [count]",
+        "explain_word": "a way of thinking about and understanding something (such as a particular issue or life in general) ",
         "mean_word": "phối cảnh, viễn cảnh, triển vọng",
         "id_group": "25"
     },
@@ -2371,7 +2371,7 @@
         "id_word": "298",
         "name_word": "translation",
         "pronounce_word": "/trænz'lei∫n/",
-        "explain_word": "words that have been changed from one language into a different language :words that have been translated [count]",
+        "explain_word": "words that have been changed from one language into a different language :words that have been translated ",
         "mean_word": "bản dịch, bài dịch",
         "id_group": "25"
     },
@@ -2394,481 +2394,481 @@
     {
         "id_word": "301",
         "name_word": "adjacent",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/æ'dʒeisnt/",
+        "explain_word": "close or near :sharing a border, wall, or point",
+        "mean_word": "kề, sát ngay",
         "id_group": "26"
     },
     {
         "id_word": "302",
         "name_word": "collaboration",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/kə,læbə'rei∫n/",
+        "explain_word": "the action of working with someone to produce or create something",
+        "mean_word": "sự cộng tác, hợp tác",
         "id_group": "26"
     },
     {
         "id_word": "303",
         "name_word": "concentrate",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'kɒnsntreit/",
+        "explain_word": "to think about something :to give your attention to the thing you are doing, reading, etc",
+        "mean_word": "tập trung, tụ tập",
         "id_group": "26"
     },
     {
         "id_word": "304",
         "name_word": "conducive",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/kən'dju:siv/",
+        "explain_word": "making it easy, possible, or likely for something to happen or exist - + to",
+        "mean_word": "có ích, có lợi, dẫn đến",
         "id_group": "26"
     },
     {
         "id_word": "305",
         "name_word": "disruption",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/dis'rʌpʃn/",
+        "explain_word": "disturbance or problems which interrupt an event, activity, or process",
+        "mean_word": "đập gãy, phá vỡ, xâu xé, chia rẽ",
         "id_group": "26"
     },
     {
         "id_word": "306",
         "name_word": "hamper",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'hæmpə/",
+        "explain_word": "to slow the movement, progress, or action of (someone or something)",
+        "mean_word": "làm vướng, cản trở",
         "id_group": "26"
     },
     {
         "id_word": "307",
         "name_word": "inconsiderately",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/,iŋkən'sidərət/",
+        "explain_word": "not giving enough thought to other people''s feeling or needs",
+        "mean_word": "thiếu thận trọng, thiếu suy nghĩ, khinh suất",
         "id_group": "26"
     },
     {
         "id_word": "308",
         "name_word": "lobby",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'lɒbi/",
+        "explain_word": "a large open area inside and near the entrance of a public building (such as a hotel or theater)",
+        "mean_word": "hành lang, tiền sảnh",
         "id_group": "26"
     },
     {
         "id_word": "309",
         "name_word": "move up",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ˈmuːv ʌp/",
+        "explain_word": "to advance, improve position",
+        "mean_word": "tiến lên, thăng tiến",
         "id_group": "26"
     },
     {
         "id_word": "310",
         "name_word": "open to",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'əʊpən tu:/",
+        "explain_word": "likely to suffer from something or be affected by something",
+        "mean_word": "khả năng chịu, sẵn sàng chấp nhận",
         "id_group": "26"
     },
     {
         "id_word": "311",
         "name_word": "opt",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ɒpt/",
+        "explain_word": "to choose one thing instead of another - often + for",
+        "mean_word": "chọn, chọn lựa",
         "id_group": "26"
     },
     {
         "id_word": "312",
         "name_word": "scrutiny",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'skru:tini/",
+        "explain_word": "the act of carefully examining something especially in a critical way",
+        "mean_word": "xem xét, kiểm tra kỹ lưỡng, khảo sát tỉ mỉ",
         "id_group": "26"
     },
     {
         "id_word": "313",
         "name_word": "adhere to",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/əd'hiə tu:/",
+        "explain_word": "to continue to obey a rule or have a belief",
+        "mean_word": "tuân thủ, tôn trọng triệt để",
         "id_group": "27"
     },
     {
         "id_word": "314",
         "name_word": "agenda",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ə'dʒendə/",
+        "explain_word": "a list of things to be considered or done",
+        "mean_word": "việc phải làm, nhật ký công tác, chương trình nghị sự",
         "id_group": "27"
     },
     {
         "id_word": "315",
         "name_word": "bring up",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/briŋ ʌp/",
+        "explain_word": "look after a child until it is an adult.",
+        "mean_word": "nuôi nấng, chăm sóc, đưa ra",
         "id_group": "27"
     },
     {
         "id_word": "316",
         "name_word": "conclude",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/kən'klu:d/",
+        "explain_word": "to stop or finish :to come to an end",
+        "mean_word": "kết luận, bế mạc, quyết định",
         "id_group": "27"
     },
     {
         "id_word": "317",
         "name_word": "go ahead",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/gəʊ ə'hed/",
+        "explain_word": "proceed",
+        "mean_word": "tiến hành, đi thẳng, tiến lên",
         "id_group": "27"
     },
     {
         "id_word": "318",
         "name_word": "goal",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/gəʊl/",
+        "explain_word": "something that you are trying to do or achieve",
+        "mean_word": "mục đích, mục tiêu",
         "id_group": "27"
     },
     {
         "id_word": "319",
         "name_word": "lengthy",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'leηθi/",
+        "explain_word": "lasting for a long time",
+        "mean_word": "lâu, dài, dài dòng",
         "id_group": "27"
     },
     {
         "id_word": "320",
         "name_word": "matter",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'mætə/",
+        "explain_word": "something that is being done, talked about, or thought about",
+        "mean_word": "vấn đề, sự việc",
         "id_group": "27"
     },
     {
         "id_word": "321",
         "name_word": "periodically",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/piəri'ɒdikli/",
+        "explain_word": "from time to time, occasionally",
+        "mean_word": "định kỳ, chu kỳ",
         "id_group": "27"
     },
     {
         "id_word": "322",
         "name_word": "priority",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/prai'ɒrəti/",
+        "explain_word": "something that is more important than other things and that needs to be done or dealt with first",
+        "mean_word": "ưu tiên, vị trí hàng đầu",
         "id_group": "27"
     },
     {
         "id_word": "323",
         "name_word": "progress",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'prəʊgres/",
+        "explain_word": "movement forward or toward a place",
+        "mean_word": "tiến tới, tiến bộ, phát triển",
         "id_group": "27"
     },
     {
         "id_word": "324",
         "name_word": "waste",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/weist/",
+        "explain_word": "loss of something valuable that occurs because too much of it is being used or because it is being used in a way that is not necessary or effective",
+        "mean_word": "lãng phí, phung phí, đồ bỏ đi, bỏ hoang",
         "id_group": "27"
     },
     {
         "id_word": "325",
         "name_word": "brand",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/brænd/",
+        "explain_word": "a category of products that are all made by a particular company and all have a particular name",
+        "mean_word": "nhãn, mác, kiểu",
         "id_group": "28"
     },
     {
         "id_word": "326",
         "name_word": "conform",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/kən'fɔ:m/",
+        "explain_word": "to be similar to or the same as something - usually + to or with",
+        "mean_word": "hợp với, tuân theo, phù hợp",
         "id_group": "28"
     },
     {
         "id_word": "327",
         "name_word": "defect",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'di:fekt/",
+        "explain_word": "a problem or fault that makes someone or something not perfect",
+        "mean_word": "thiếu sót, sai sót, khuyết tật",
         "id_group": "28"
     },
     {
         "id_word": "328",
         "name_word": "enhance",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/in'hɒ:ns/",
+        "explain_word": "to increase or improve (something)",
+        "mean_word": "làm tăng, nâng cao",
         "id_group": "28"
     },
     {
         "id_word": "329",
         "name_word": "garment",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'gɑ:mənt/",
+        "explain_word": "a piece of clothing",
+        "mean_word": "áo, quần",
         "id_group": "28"
     },
     {
         "id_word": "330",
         "name_word": "inspect",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/in'spekt/",
+        "explain_word": "to look at (something) carefully in order to learn more about it, to find problems, etc",
+        "mean_word": "thanh tra, kiểm tra, xem xét kỹ",
         "id_group": "28"
     },
     {
         "id_word": "331",
         "name_word": "perceptive",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/pə'septiv/",
+        "explain_word": "having or showing an ability to understand or notice something easily or quickly",
+        "mean_word": "nhận thức được, sâu sắc, sáng suốt",
         "id_group": "28"
     },
     {
         "id_word": "332",
         "name_word": "repel",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ri'pel/",
+        "explain_word": "to keep (something) out or away",
+        "mean_word": "đẩy lùi, khước từ",
         "id_group": "28"
     },
     {
         "id_word": "333",
         "name_word": "take back",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/teik bæk/",
+        "explain_word": "to receive or accept something that you previously sold, offered, or gave away",
+        "mean_word": "rút lui, rút lại, lấy lại",
         "id_group": "28"
     },
     {
         "id_word": "334",
         "name_word": "throw out",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/θrəʊ aʊt/",
+        "explain_word": "to get rid of something by treating it as garbage",
+        "mean_word": "vứt bỏ, bỏ đi",
         "id_group": "28"
     },
     {
         "id_word": "335",
         "name_word": "uniformly",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ˈjuːnɪfɔːmli/",
+        "explain_word": "in a way that is the same everywhere or for everyone",
+        "mean_word": "đều, giống nhau, đồng dạng",
         "id_group": "28"
     },
     {
         "id_word": "336",
         "name_word": "wrinkle",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/riŋkl/",
+        "explain_word": "a small line or fold that appears on your skin as you grow older - usually plural",
+        "mean_word": "nhăn, nhàu, mách nước, mẹo vặt",
         "id_group": "28"
     },
     {
         "id_word": "337",
         "name_word": "anxious",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'æηk∫əs/",
+        "explain_word": "afraid or nervous especially about what may happen :feeling anxiety",
+        "mean_word": "lo lắng, áy náy",
         "id_group": "29"
     },
     {
         "id_word": "338",
         "name_word": "ascertain",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/,æsə'tein/",
+        "explain_word": "to learn or find out (something, such as information or the truth)",
+        "mean_word": "xác minh, xác định rõ ràng, tìm hiểu chắc chắn",
         "id_group": "29"
     },
     {
         "id_word": "339",
         "name_word": "assume",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ə'sju:m/",
+        "explain_word": "to think that something is true or probably true without knowing that it is true",
+        "mean_word": "giả sử, cho rằng, thừa nhận",
         "id_group": "29"
     },
     {
         "id_word": "340",
         "name_word": "decade",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'dekeid/",
+        "explain_word": "a period of 10 years",
+        "mean_word": "thập niên, thập kỷ, bộ mười, nhóm mười",
         "id_group": "29"
     },
     {
         "id_word": "341",
         "name_word": "examine",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ig'zæmin/",
+        "explain_word": "to look at (something) closely and carefully in order to learn more about it, to find problems, etc",
+        "mean_word": "khám bệnh, xem xét, nghiên cứu, kiểm tra, khảo sát",
         "id_group": "29"
     },
     {
         "id_word": "342",
         "name_word": "experiment",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ik'sperimənt/",
+        "explain_word": "a scientific test in which you perform a series of actions and carefully observe their effects in order to learn about something",
+        "mean_word": "thí nghiệm",
         "id_group": "29"
     },
     {
         "id_word": "343",
         "name_word": "logical",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'lɒdʒikl/",
+        "explain_word": "agreeing with the rules of logic, sensible or reasonable",
+        "mean_word": "hợp lý, hợp với logic, theo logic",
         "id_group": "29"
     },
     {
         "id_word": "344",
         "name_word": "research",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ri'sɜ:t∫/",
+        "explain_word": "careful study that is done to find and report new knowledge about something",
+        "mean_word": "sự nghiên cứu, nghiên cứu",
         "id_group": "29"
     },
     {
         "id_word": "345",
         "name_word": "responsibility",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ri,spɒnsə'biləti/",
+        "explain_word": "the state of being the person who caused something to happen",
+        "mean_word": "trách nhiệm, bổn phận",
         "id_group": "29"
     },
     {
         "id_word": "346",
         "name_word": "solve",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'sɒlv/",
+        "explain_word": "to find a way to deal with and end (a problem)",
+        "mean_word": "giải, giải quyết, làm sáng tỏ",
         "id_group": "29"
     },
     {
         "id_word": "347",
         "name_word": "supervisor",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'sju:pəvaizə/",
+        "explain_word": "a person who supervises someone or something",
+        "mean_word": "người giám sát",
         "id_group": "29"
     },
     {
         "id_word": "348",
         "name_word": "systematically",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/,sistə'mætikli/",
+        "explain_word": "in a way that is done according to an agreed set of methods or organized plan",
+        "mean_word": "có hệ thống, có phương pháp",
         "id_group": "29"
     },
     {
         "id_word": "349",
         "name_word": "apprehensive",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/,æpri'hensiv/",
+        "explain_word": "afraid that something bad or unpleasant is going to happen :feeling or showing fear or apprehension about the future",
+        "mean_word": "sợ hãi, e sợ, lo lắng",
         "id_group": "30"
     },
     {
         "id_word": "350",
         "name_word": "circumstance",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'sɜ:kəmstəns/",
+        "explain_word": "a condition or fact that affects a situation",
+        "mean_word": "hoàn cảnh, trường hợp",
         "id_group": "30"
     },
     {
         "id_word": "351",
         "name_word": "condition",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/kən'di∫n/",
+        "explain_word": "the state in which something exists :the physical state of something",
+        "mean_word": "tình trạng, điều kiện",
         "id_group": "30"
     },
     {
         "id_word": "352",
         "name_word": "due to",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/dju: tu:/",
+        "explain_word": "expected to happen, arrive, etc. at a particular time",
+        "mean_word": "bởi vì, do đó",
         "id_group": "30"
     },
     {
         "id_word": "353",
         "name_word": "fluctuate",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'flʌkt∫ʊeit/",
+        "explain_word": "to change level, strength, or value frequently",
+        "mean_word": "dao động",
         "id_group": "30"
     },
     {
         "id_word": "354",
         "name_word": "get out of",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/get aʊt əv/",
+        "explain_word": "to avoid doing something that you do not want to do, especially by giving an excuse",
+        "mean_word": "rời bỏ, tránh né, từ bỏ",
         "id_group": "30"
     },
     {
         "id_word": "355",
         "name_word": "indicator",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'indikeitə/",
+        "explain_word": "a sign that shows the condition or existence of something",
+        "mean_word": "người chỉ, vật chỉ, vật biểu thị, đèn hiệu",
         "id_group": "30"
     },
     {
         "id_word": "356",
         "name_word": "lease",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/li:s/",
+        "explain_word": "a legal agreement that lets someone use a car, house, etc., for a period of time in return for payment",
+        "mean_word": "cho thuê, thuê, hợp đồng cho thuê",
         "id_group": "30"
     },
     {
         "id_word": "357",
         "name_word": "lock into",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/lʊk 'intə/",
+        "explain_word": "to prevent a person or organization from ending or changing an agreement or financial arrangement",
+        "mean_word": "nhốt, giam, ràng buộc chặt",
         "id_group": "30"
     },
     {
         "id_word": "358",
         "name_word": "occupy",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'ɒkjupai/",
+        "explain_word": "to live in (a house, apartment, etc.)",
+        "mean_word": "sở hữu, chiếm hữu, chiếm đóng",
         "id_group": "30"
     },
     {
         "id_word": "359",
         "name_word": "option",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'ɒp∫n/",
+        "explain_word": "the opportunity or ability to choose something or to choose between two or more things",
+        "mean_word": "sự chọn, quyền chọn, sự tự do chọn",
         "id_group": "30"
     },
     {
         "id_word": "360",
         "name_word": "subject to",
-        "pronounce_word": "",
-        "explain_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'sʌbdʒikt tu:/",
+        "explain_word": "likely to experience or suffer from something",
+        "mean_word": "chịu, phải bị, tùy theo",
         "id_group": "30"
     }
 ]

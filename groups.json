@@ -39,35 +39,35 @@
         "name_group": "Computers",
         "mean_group": "máy vi tính",
         "pronounce_group": "/kəmˈpyo͞odər/",
-        "image_group": "https://i.imgur.com/ZKxTilT.png"
+        "image_group": "https://i.imgur.com/YtlBRgV.png"
     },
     {
         "id_group": "7",
         "name_group": "Office Technology",
         "mean_group": "công nghệ văn phòng",
         "pronounce_group": "/ˈôfis,ˈäfis tekˈnäləjē/",
-        "image_group": "https://i.imgur.com/6rrV9ps.png"
+        "image_group": "https://i.imgur.com/9RNcANm.png"
     },
     {
         "id_group": "8",
         "name_group": "Office Procedures",
         "mean_group": "thủ tục văn phòng",
         "pronounce_group": "/ˈôfis,ˈäfis prəˈsējər/",
-        "image_group": "https://i.imgur.com/unLcaec.png"
+        "image_group": "https://i.imgur.com/edBeEQh.png"
     },
     {
         "id_group": "9",
         "name_group": "Electronics",
         "mean_group": "thiết bị điện tử",
         "pronounce_group": "/əˌlekˈträniks/",
-        "image_group": "https://i.imgur.com/E38mj27.png"
+        "image_group": "https://i.imgur.com/R0W6ZRf.png"
     },
     {
         "id_group": "10",
         "name_group": "Correspondence",
         "mean_group": "thư tín",
         "pronounce_group": "/ˌkôrəˈspändəns/",
-        "image_group": "https://i.imgur.com/ZYmJdH1.png"
+        "image_group": "https://i.imgur.com/OXsQMkL.png"
     },
     {
         "id_group": "11",
@@ -109,35 +109,35 @@
         "name_group": "Shopping",
         "mean_group": "mua sắm",
         "pronounce_group": "/'∫ɒpiŋ/",
-        "image_group": "https://i.imgur.com/vuadvSx.png"
+        "image_group": "https://i.imgur.com/DMlZToy.png"
     },
     {
         "id_group": "17",
         "name_group": "Ordering Supplies",
         "mean_group": "đặt hàng nhà cung cấp",
         "pronounce_group": "/'ɔ:dəiŋ sə'plaiz/",
-        "image_group": "https://i.imgur.com/cgJ59Hh.png"
+        "image_group": "https://i.imgur.com/Cnw2fdl.png"
     },
     {
         "id_group": "18",
         "name_group": "Shipping",
         "mean_group": "vận chuyển hàng hóa",
         "pronounce_group": "/'∫i:piŋ/",
-        "image_group": "https://i.imgur.com/RLC1mFA.png"
+        "image_group": "https://i.imgur.com/M4xmnyd.png"
     },
     {
         "id_group": "19",
         "name_group": "Invoices",
         "mean_group": "hóa đơn",
         "pronounce_group": "/'invɔis/",
-        "image_group": "https://i.imgur.com/guVtD8a.png"
+        "image_group": "https://i.imgur.com/tgAIcP9.png"
     },
     {
         "id_group": "20",
         "name_group": "Inventory",
         "mean_group": "hàng tồn kho",
         "pronounce_group": "/ˈɪnvənˌtori/",
-        "image_group": "https://i.imgur.com/zZHH00I.png"
+        "image_group": "https://i.imgur.com/4xodhHB.png"
     },
     {
         "id_group": "21",
@@ -179,34 +179,34 @@
         "name_group": "Property and Departments",
         "mean_group": "bất động sản và căn hộ",
         "pronounce_group": "/ˈprɑːpɚti ænd di'pɑ:tmənt/",
-        "image_group": "https://i.imgur.com/c5OHt2y.png"
+        "image_group": "https://i.imgur.com/DfJdUyG.png"
     },
     {
         "id_group": "27",
         "name_group": "Board Meetings and Committees",
         "mean_group": "họp hội đồng ban quản trị và ủy ban",
         "pronounce_group": "/bɔ:d 'mi:tiη ænd kə'miti/",
-        "image_group": "https://i.imgur.com/DhVhPmM.png"
+        "image_group": "https://i.imgur.com/HsIBY0M.png"
     },
     {
         "id_group": "28",
         "name_group": "Quality Control",
         "mean_group": "quản lý chất lượng",
         "pronounce_group": "/'kwɒləti kən'trəʊl/",
-        "image_group": "https://i.imgur.com/B2pnB4Z.png"
+        "image_group": "https://i.imgur.com/AaLn57S.png"
     },
     {
         "id_group": "29",
         "name_group": "Product Development",
         "mean_group": "phát triển sản phẩm",
         "pronounce_group": "/'prɒdʌkt di'veləpmənt/",
-        "image_group": "https://i.imgur.com/ATCjGad.png"
+        "image_group": "https://i.imgur.com/MK9ixG5.png"
     },
     {
         "id_group": "30",
         "name_group": "Renting and Leasing",
         "mean_group": "thuê và cho thuê",
         "pronounce_group": "/rentiη ænd 'li:siɳ/",
-        "image_group": "https://i.imgur.com/QCmZVNE.png"
+        "image_group": "https://i.imgur.com/sv7X62N.png"
     }
 ]
