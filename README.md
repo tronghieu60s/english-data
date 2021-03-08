@@ -1,2 +1,1 @@
-# toeic-ew-data
-📑 Toeic Data API
+# english-data
