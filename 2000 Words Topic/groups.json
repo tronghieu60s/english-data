@@ -1,0 +1,37 @@
+[
+    {
+        "id_group": "1",
+        "name_group": "character",
+        "mean_group": "tính cách",
+        "pronounce_group": "/'kærəktə[r]/",
+        "image_group": ""
+    },
+    {
+        "id_group": "2",
+        "name_group": "words of people",
+        "mean_group": "từ chỉ người",
+        "pronounce_group": "/wɜ:d əv 'pi:pl/",
+        "image_group": ""
+    },
+    {
+        "id_group": "3",
+        "name_group": "parts of the body",
+        "mean_group": "bộ phận cơ thể",
+        "pronounce_group": "/pɑ:t əv ðə 'bɒdi/",
+        "image_group": ""
+    },
+    {
+        "id_group": "4",
+        "name_group": "face and hair",
+        "mean_group": "khuôn mặt và kiểu tóc",
+        "pronounce_group": "/feis ænd heə[r]/",
+        "image_group": ""
+    },
+    {
+        "id_group": "5",
+        "name_group": "appearance",
+        "mean_group": "ngoại hình",
+        "pronounce_group": "/ə'piərəns/",
+        "image_group": ""
+    }
+]
