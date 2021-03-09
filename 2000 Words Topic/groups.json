@@ -33,5 +33,40 @@
         "mean_group": "ngoại hình",
         "pronounce_group": "/ə'piərəns/",
         "image_group": ""
+    },
+    {
+        "id_group": "6",
+        "name_group": "body movement",
+        "mean_group": "cử động của cơ thể",
+        "pronounce_group": "/'bɒdi 'mu:vmənt/",
+        "image_group": ""
+    },
+    {
+        "id_group": "7",
+        "name_group": "feelings and emotions",
+        "mean_group": "cảm giác và cảm xúc",
+        "pronounce_group": "/'fi:liη ænd i'məʊ∫n/",
+        "image_group": ""
+    },
+    {
+        "id_group": "8",
+        "name_group": "health and diseases",
+        "mean_group": "sức khỏe và bệnh",
+        "pronounce_group": "/helθ ænd di'zi:z/",
+        "image_group": ""
+    },
+    {
+        "id_group": "9",
+        "name_group": "marriage",
+        "mean_group": "kết hôn",
+        "pronounce_group": "/'mæridʒ/",
+        "image_group": ""
+    },
+    {
+        "id_group": "10",
+        "name_group": "family",
+        "mean_group": "gia đình",
+        "pronounce_group": "/'fæməli/",
+        "image_group": ""
     }
 ]

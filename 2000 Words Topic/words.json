@@ -1782,5 +1782,3069 @@
         "pronounce_word": "/'blædə[r]/",
         "mean_word": "bàng quang, bóng đái",
         "id_group": "3"
+    },
+    {
+        "id_word": "224",
+        "name_word": "oval",
+        "classifier": "adj",
+        "pronounce_word": "/eʊvl/",
+        "mean_word": "hình ô van, bầu dục",
+        "id_group": "4"
+    },
+    {
+        "id_word": "225",
+        "name_word": "round",
+        "classifier": "adj",
+        "pronounce_word": "/raʊnd/",
+        "mean_word": "tròn, tròn trĩnh",
+        "id_group": "4"
+    },
+    {
+        "id_word": "226",
+        "name_word": "square",
+        "classifier": "adj",
+        "pronounce_word": "/skweə[r]/",
+        "mean_word": "hình vuông",
+        "id_group": "4"
+    },
+    {
+        "id_word": "227",
+        "name_word": "tan",
+        "classifier": "adj",
+        "pronounce_word": "/tæn/",
+        "mean_word": "rám nắng",
+        "id_group": "4"
+    },
+    {
+        "id_word": "228",
+        "name_word": "scar",
+        "classifier": "n",
+        "pronounce_word": "/skɑ:[r]/",
+        "mean_word": "vết sẹo, sẹo",
+        "id_group": "4"
+    },
+    {
+        "id_word": "229",
+        "name_word": "mole",
+        "classifier": "n",
+        "pronounce_word": "/məʊl/",
+        "mean_word": "nốt ruồi",
+        "id_group": "4"
+    },
+    {
+        "id_word": "230",
+        "name_word": "wrinkle",
+        "classifier": "n",
+        "pronounce_word": "/riŋkl/",
+        "mean_word": "nếp nhăn",
+        "id_group": "4"
+    },
+    {
+        "id_word": "231",
+        "name_word": "bald",
+        "classifier": "n",
+        "pronounce_word": "/bɔ:ld/",
+        "mean_word": "hói",
+        "id_group": "4"
+    },
+    {
+        "id_word": "232",
+        "name_word": "bob",
+        "classifier": "n",
+        "pronounce_word": "/bɒb/",
+        "mean_word": "tóc ngắn quá vai",
+        "id_group": "4"
+    },
+    {
+        "id_word": "233",
+        "name_word": "long hair",
+        "classifier": "n",
+        "pronounce_word": "/'lɔɳ heə/",
+        "mean_word": "tóc dài",
+        "id_group": "4"
+    },
+    {
+        "id_word": "234",
+        "name_word": "short hair",
+        "classifier": "n",
+        "pronounce_word": "/∫ɔ:t heə/",
+        "mean_word": "tóc ngắn",
+        "id_group": "4"
+    },
+    {
+        "id_word": "235",
+        "name_word": "curly hair",
+        "classifier": "n",
+        "pronounce_word": "/'kə:li heə/",
+        "mean_word": "tóc quăn, tóc xoăn",
+        "id_group": "4"
+    },
+    {
+        "id_word": "236",
+        "name_word": "flat top",
+        "classifier": "n",
+        "pronounce_word": "/flæt tɒp/",
+        "mean_word": "mái bằng",
+        "id_group": "4"
+    },
+    {
+        "id_word": "237",
+        "name_word": "fringe",
+        "classifier": "n",
+        "pronounce_word": "/frindʒ/",
+        "mean_word": "tóc mái, tóc cắt ngang trán",
+        "id_group": "4"
+    },
+    {
+        "id_word": "238",
+        "name_word": "wavy hair",
+        "classifier": "n",
+        "pronounce_word": "/'weivi heə/",
+        "mean_word": "tóc quăn gợn sóng",
+        "id_group": "4"
+    },
+    {
+        "id_word": "239",
+        "name_word": "dreadlocks",
+        "classifier": "n",
+        "pronounce_word": "/'dredlɒks/",
+        "mean_word": "kiểu tóc cuốn lọn dài",
+        "id_group": "4"
+    },
+    {
+        "id_word": "240",
+        "name_word": "ponytail",
+        "classifier": "n",
+        "pronounce_word": "/ˈpoʊniˌteɪl/",
+        "mean_word": "kiểu tóc đuôi ngựa",
+        "id_group": "4"
+    },
+    {
+        "id_word": "241",
+        "name_word": "side parting",
+        "classifier": "n",
+        "pronounce_word": "kiểu tóc rẽ một bên",
+        "mean_word": "",
+        "id_group": "4"
+    },
+    {
+        "id_word": "242",
+        "name_word": "spiky",
+        "classifier": "n",
+        "pronounce_word": "/'spaiki/",
+        "mean_word": "kiểu tóc búi",
+        "id_group": "4"
+    },
+    {
+        "id_word": "243",
+        "name_word": "wig",
+        "classifier": "n",
+        "pronounce_word": "/wig/",
+        "mean_word": "bộ tóc giả",
+        "id_group": "4"
+    },
+    {
+        "id_word": "244",
+        "name_word": "complexion",
+        "classifier": "n",
+        "pronounce_word": "/kəm'plek∫n/",
+        "mean_word": "nước da",
+        "id_group": "5"
+    },
+    {
+        "id_word": "245",
+        "name_word": "dark",
+        "classifier": "adj",
+        "pronounce_word": "/dɑ:k/",
+        "mean_word": "đen",
+        "id_group": "5"
+    },
+    {
+        "id_word": "246",
+        "name_word": "fair",
+        "classifier": "adj",
+        "pronounce_word": "/feə[r]/",
+        "mean_word": "trắng, sáng",
+        "id_group": "5"
+    },
+    {
+        "id_word": "247",
+        "name_word": "smooth",
+        "classifier": "adj",
+        "pronounce_word": "/smu:ð/",
+        "mean_word": "láng mịn",
+        "id_group": "5"
+    },
+    {
+        "id_word": "248",
+        "name_word": "rough",
+        "classifier": "adj",
+        "pronounce_word": "/rʌf/",
+        "mean_word": "thô ráp",
+        "id_group": "5"
+    },
+    {
+        "id_word": "249",
+        "name_word": "swarthy",
+        "classifier": "adj",
+        "pronounce_word": "/swɔ:ði/",
+        "mean_word": "thô ráp",
+        "id_group": "5"
+    },
+    {
+        "id_word": "250",
+        "name_word": "weather-beaten",
+        "classifier": "adj",
+        "pronounce_word": "/'weðə,bi:tn/",
+        "mean_word": "dày dạn nắng gió, dày dạn phong sương",
+        "id_group": "5"
+    },
+    {
+        "id_word": "251",
+        "name_word": "rosy",
+        "classifier": "adj",
+        "pronounce_word": "/'rəʊzi/",
+        "mean_word": "hồng hào",
+        "id_group": "5"
+    },
+    {
+        "id_word": "252",
+        "name_word": "build",
+        "classifier": "n",
+        "pronounce_word": "/bild/",
+        "mean_word": "tầm vóc",
+        "id_group": "5"
+    },
+    {
+        "id_word": "253",
+        "name_word": "attractive",
+        "classifier": "adj",
+        "pronounce_word": "/ə'træktiv/",
+        "mean_word": "thu hút, lôi cuốn, hấp dẫn",
+        "id_group": "5"
+    },
+    {
+        "id_word": "254",
+        "name_word": "beautiful",
+        "classifier": "adj",
+        "pronounce_word": "/ə'træktiv/",
+        "mean_word": "đẹp",
+        "id_group": "5"
+    },
+    {
+        "id_word": "255",
+        "name_word": "pretty",
+        "classifier": "adj",
+        "pronounce_word": "/'priti/",
+        "mean_word": "xinh, xinh xắn",
+        "id_group": "5"
+    },
+    {
+        "id_word": "256",
+        "name_word": "handsome",
+        "classifier": "adj",
+        "pronounce_word": "/'hænsəm/",
+        "mean_word": "đẹp trai",
+        "id_group": "5"
+    },
+    {
+        "id_word": "257",
+        "name_word": "ugly",
+        "classifier": "adj",
+        "pronounce_word": "/'ʌgli/",
+        "mean_word": "xấu xí",
+        "id_group": "5"
+    },
+    {
+        "id_word": "258",
+        "name_word": "plump",
+        "classifier": "adj",
+        "pronounce_word": "/plʌmp/",
+        "mean_word": "tròn trĩnh, phúng phính",
+        "id_group": "5"
+    },
+    {
+        "id_word": "259",
+        "name_word": "stout",
+        "classifier": "adj",
+        "pronounce_word": "/staʊt/",
+        "mean_word": "quả cảm, kiên cường, to khỏe",
+        "id_group": "5"
+    },
+    {
+        "id_word": "260",
+        "name_word": "slim",
+        "classifier": "adj",
+        "pronounce_word": "/slim/",
+        "mean_word": "mảnh mai, mỏng manh, thon thả",
+        "id_group": "5"
+    },
+    {
+        "id_word": "261",
+        "name_word": "obese",
+        "classifier": "adj",
+        "pronounce_word": "/əʊ'bi:s/",
+        "mean_word": "béo phì",
+        "id_group": "5"
+    },
+    {
+        "id_word": "262",
+        "name_word": "overweight",
+        "classifier": "adj",
+        "pronounce_word": "/,əʊvə'weit/",
+        "mean_word": "quá nặng cân, thừa cân",
+        "id_group": "5"
+    },
+    {
+        "id_word": "263",
+        "name_word": "skinny",
+        "classifier": "adj",
+        "pronounce_word": "/'skini/",
+        "mean_word": "gầy giơ xương, gầy nhom",
+        "id_group": "5"
+    },
+    {
+        "id_word": "264",
+        "name_word": "stocky",
+        "classifier": "adj",
+        "pronounce_word": "/'stɒki/",
+        "mean_word": "thấp, khỏe, vạm vỡ",
+        "id_group": "5"
+    },
+    {
+        "id_word": "265",
+        "name_word": "short",
+        "classifier": "adj",
+        "pronounce_word": "/∫ɔ:t/",
+        "mean_word": "thấp, lùn",
+        "id_group": "5"
+    },
+    {
+        "id_word": "266",
+        "name_word": "tall",
+        "classifier": "adj",
+        "pronounce_word": "/tɔ:l/",
+        "mean_word": "cao",
+        "id_group": "5"
+    },
+    {
+        "id_word": "267",
+        "name_word": "fat",
+        "classifier": "adj",
+        "pronounce_word": "/fæt/",
+        "mean_word": "béo, mập",
+        "id_group": "5"
+    },
+    {
+        "id_word": "268",
+        "name_word": "thin",
+        "classifier": "adj",
+        "pronounce_word": "/θin/",
+        "mean_word": "gầy",
+        "id_group": "5"
+    },
+    {
+        "id_word": "269",
+        "name_word": "well-built",
+        "classifier": "adj",
+        "pronounce_word": "/,wel'bilt/",
+        "mean_word": "lực lưỡng, cường tráng, vạm vỡ",
+        "id_group": "5"
+    },
+    {
+        "id_word": "270",
+        "name_word": "muscular",
+        "classifier": "adj",
+        "pronounce_word": "/'mʌskjʊlə[r]/",
+        "mean_word": "nổi bắp thịt, cơ bắp to khỏe",
+        "id_group": "5"
+    },
+    {
+        "id_word": "271",
+        "name_word": "medium height",
+        "classifier": "adj",
+        "pronounce_word": "/'mi:diəm hait/",
+        "mean_word": "cao trung bình",
+        "id_group": "5"
+    },
+    {
+        "id_word": "272",
+        "name_word": "age",
+        "classifier": "n",
+        "pronounce_word": "/eidʒ/",
+        "mean_word": "tuổi tác",
+        "id_group": "5"
+    },
+    {
+        "id_word": "273",
+        "name_word": "young",
+        "classifier": "adj",
+        "pronounce_word": "/jʌŋ/",
+        "mean_word": "trẻ, thiếu niên, thanh niên",
+        "id_group": "5"
+    },
+    {
+        "id_word": "274",
+        "name_word": "middle-aged",
+        "classifier": "adj",
+        "pronounce_word": "/midl'eidʒid/",
+        "mean_word": "trung niên",
+        "id_group": "5"
+    },
+    {
+        "id_word": "275",
+        "name_word": "elderly",
+        "classifier": "adj",
+        "pronounce_word": "/'eldəli/",
+        "mean_word": "luống tuổi, đứng tuổi",
+        "id_group": "5"
+    },
+    {
+        "id_word": "276",
+        "name_word": "old",
+        "classifier": "adj",
+        "pronounce_word": "/əʊld/",
+        "mean_word": "già",
+        "id_group": "5"
+    },
+    {
+        "id_word": "277",
+        "name_word": "smartly dressed",
+        "classifier": "adj",
+        "pronounce_word": "/'smɑ:tli dresed/",
+        "mean_word": "ăn mặc bảnh bao, (smartly: bảnh bao)",
+        "id_group": "5"
+    },
+    {
+        "id_word": "278",
+        "name_word": "neatly dressed",
+        "classifier": "adj",
+        "pronounce_word": "/'ni:tli dresed/",
+        "mean_word": "ăn mặc chỉnh tề, ăn mặc gọn gàng, (neatly: gọn gàng)",
+        "id_group": "5"
+    },
+    {
+        "id_word": "279",
+        "name_word": "untidily dressed",
+        "classifier": "adj",
+        "pronounce_word": "/ʌn'taidili dresed/",
+        "mean_word": "ăn mặc luộm thuộm, (untidily: bề bộn)",
+        "id_group": "5"
+    },
+    {
+        "id_word": "280",
+        "name_word": "bite",
+        "classifier": "v",
+        "pronounce_word": "/bait/",
+        "mean_word": "cắn, đớp, ngoạm",
+        "id_group": "6"
+    },
+    {
+        "id_word": "281",
+        "name_word": "bow",
+        "classifier": "v",
+        "pronounce_word": "/bəʊ/",
+        "mean_word": "cúi chào, cúi đầu, khòm lưng",
+        "id_group": "6"
+    },
+    {
+        "id_word": "282",
+        "name_word": "breathe",
+        "classifier": "v",
+        "pronounce_word": "/bri:ð/",
+        "mean_word": "hô hấp, thở, hít thở",
+        "id_group": "6"
+    },
+    {
+        "id_word": "283",
+        "name_word": "clap",
+        "classifier": "v",
+        "pronounce_word": "/klæp/",
+        "mean_word": "vỗ, vỗ tay",
+        "id_group": "6"
+    },
+    {
+        "id_word": "284",
+        "name_word": "climb",
+        "classifier": "v",
+        "pronounce_word": "/klaim/",
+        "mean_word": "trèo, leo trèo",
+        "id_group": "6"
+    },
+    {
+        "id_word": "285",
+        "name_word": "chew",
+        "classifier": "v",
+        "pronounce_word": "/t∫u:/",
+        "mean_word": "nhai",
+        "id_group": "6"
+    },
+    {
+        "id_word": "286",
+        "name_word": "collapse",
+        "classifier": "v",
+        "pronounce_word": "/kə'læps/",
+        "mean_word": "ngã quỵ xuống, suy sụp, thất bại",
+        "id_group": "6"
+    },
+    {
+        "id_word": "287",
+        "name_word": "crawl",
+        "classifier": "v",
+        "pronounce_word": "/krɔ:l/",
+        "mean_word": "bò, trườn",
+        "id_group": "6"
+    },
+    {
+        "id_word": "288",
+        "name_word": "dance",
+        "classifier": "v",
+        "pronounce_word": "/dɑ:ns/",
+        "mean_word": "nhảy, khiêu vũ, nhảy múa",
+        "id_group": "6"
+    },
+    {
+        "id_word": "289",
+        "name_word": "dive",
+        "classifier": "v",
+        "pronounce_word": "/daiv/",
+        "mean_word": "lặn xuống, lao đầu xuống nước",
+        "id_group": "6"
+    },
+    {
+        "id_word": "290",
+        "name_word": "drag",
+        "classifier": "v",
+        "pronounce_word": "/dræg/",
+        "mean_word": "lôi kéo, kéo lê",
+        "id_group": "6"
+    },
+    {
+        "id_word": "291",
+        "name_word": "draw",
+        "classifier": "v",
+        "pronounce_word": "/drɔ:/",
+        "mean_word": "vẽ",
+        "id_group": "6"
+    },
+    {
+        "id_word": "292",
+        "name_word": "drink",
+        "classifier": "v",
+        "pronounce_word": "/driηk/",
+        "mean_word": "uống",
+        "id_group": "6"
+    },
+    {
+        "id_word": "293",
+        "name_word": "eat",
+        "classifier": "v",
+        "pronounce_word": "/i:t/",
+        "mean_word": "ăn",
+        "id_group": "6"
+    },
+    {
+        "id_word": "294",
+        "name_word": "fall down",
+        "classifier": "v",
+        "pronounce_word": "/fɔ:l daʊn/",
+        "mean_word": "rơi xuống, ngã xuống",
+        "id_group": "6"
+    },
+    {
+        "id_word": "295",
+        "name_word": "glance",
+        "classifier": "v",
+        "pronounce_word": "/glɑ:ns/",
+        "mean_word": "liếc nhìn, liếc",
+        "id_group": "6"
+    },
+    {
+        "id_word": "296",
+        "name_word": "grab",
+        "classifier": "v",
+        "pronounce_word": "/græb/",
+        "mean_word": "chộp lấy, giật lấy, vồ lấy, túm lấy",
+        "id_group": "6"
+    },
+    {
+        "id_word": "297",
+        "name_word": "hold",
+        "classifier": "v",
+        "pronounce_word": "/həʊld/",
+        "mean_word": "cầm, nắm",
+        "id_group": "6"
+    },
+    {
+        "id_word": "298",
+        "name_word": "hop",
+        "classifier": "v",
+        "pronounce_word": "/hɒp/",
+        "mean_word": "nhảy lò cò, nhảy qua",
+        "id_group": "6"
+    },
+    {
+        "id_word": "299",
+        "name_word": "jump",
+        "classifier": "v",
+        "pronounce_word": "/dʒʌmp/",
+        "mean_word": "nhảy",
+        "id_group": "6"
+    },
+    {
+        "id_word": "300",
+        "name_word": "kick",
+        "classifier": "v",
+        "pronounce_word": "/kik/",
+        "mean_word": "đá, sút",
+        "id_group": "6"
+    },
+    {
+        "id_word": "301",
+        "name_word": "kiss",
+        "classifier": "v",
+        "pronounce_word": "/kis/",
+        "mean_word": "hôn",
+        "id_group": "6"
+    },
+    {
+        "id_word": "302",
+        "name_word": "kneel",
+        "classifier": "v",
+        "pronounce_word": "/ni:l/",
+        "mean_word": "quỳ gối, quỳ xuống",
+        "id_group": "6"
+    },
+    {
+        "id_word": "303",
+        "name_word": "lean",
+        "classifier": "v",
+        "pronounce_word": "/li:n/",
+        "mean_word": "dựa, tựa, chống",
+        "id_group": "6"
+    },
+    {
+        "id_word": "304",
+        "name_word": "lick",
+        "classifier": "v",
+        "pronounce_word": "/lik/",
+        "mean_word": "liếm",
+        "id_group": "6"
+    },
+    {
+        "id_word": "305",
+        "name_word": "lie-down",
+        "classifier": "v",
+        "pronounce_word": "/'laidəʊn/",
+        "mean_word": "nằm xuống, ngả lưng chốc lát",
+        "id_group": "6"
+    },
+    {
+        "id_word": "306",
+        "name_word": "lift",
+        "classifier": "v",
+        "pronounce_word": "/lift/",
+        "mean_word": "nâng lên, nhấc lên",
+        "id_group": "6"
+    },
+    {
+        "id_word": "307",
+        "name_word": "nod",
+        "classifier": "v",
+        "pronounce_word": "/nɑd/",
+        "mean_word": "gật đầu, cúi đầu",
+        "id_group": "6"
+    },
+    {
+        "id_word": "308",
+        "name_word": "point",
+        "classifier": "v",
+        "pronounce_word": "/pɔint/",
+        "mean_word": "chỉ, trỏ",
+        "id_group": "6"
+    },
+    {
+        "id_word": "309",
+        "name_word": "pull",
+        "classifier": "v",
+        "pronounce_word": "/pʊl/",
+        "mean_word": "lôi, kéo, giật",
+        "id_group": "6"
+    },
+    {
+        "id_word": "310",
+        "name_word": "punch",
+        "classifier": "v",
+        "pronounce_word": "/pʌnt∫/",
+        "mean_word": "đấm, thoi, thụi",
+        "id_group": "6"
+    },
+    {
+        "id_word": "311",
+        "name_word": "reach",
+        "classifier": "v",
+        "pronounce_word": "/ri:t∫/",
+        "mean_word": "với lấy, với tới",
+        "id_group": "6"
+    },
+    {
+        "id_word": "312",
+        "name_word": "read",
+        "classifier": "v",
+        "pronounce_word": "/ri:d/",
+        "mean_word": "đọc",
+        "id_group": "6"
+    },
+    {
+        "id_word": "313",
+        "name_word": "run",
+        "classifier": "v",
+        "pronounce_word": "/rʌn/",
+        "mean_word": "chạy",
+        "id_group": "6"
+    },
+    {
+        "id_word": "314",
+        "name_word": "scratch",
+        "classifier": "v",
+        "pronounce_word": "/skræt∫/",
+        "mean_word": "cào, làm xước, rạch, gãi",
+        "id_group": "6"
+    },
+    {
+        "id_word": "315",
+        "name_word": "sleep",
+        "classifier": "v",
+        "pronounce_word": "/sli:p/",
+        "mean_word": "ngủ",
+        "id_group": "6"
+    },
+    {
+        "id_word": "316",
+        "name_word": "shake",
+        "classifier": "v",
+        "pronounce_word": "/∫eik/",
+        "mean_word": "rung, lắc, giũ",
+        "id_group": "6"
+    },
+    {
+        "id_word": "317",
+        "name_word": "sit",
+        "classifier": "v",
+        "pronounce_word": "/sit/",
+        "mean_word": "ngồi",
+        "id_group": "6"
+    },
+    {
+        "id_word": "318",
+        "name_word": "shrug",
+        "classifier": "v",
+        "pronounce_word": "/∫rʌg/",
+        "mean_word": "nhún vai",
+        "id_group": "6"
+    },
+    {
+        "id_word": "319",
+        "name_word": "slap",
+        "classifier": "v",
+        "pronounce_word": "/slæp/",
+        "mean_word": "vỗ, vả, tát",
+        "id_group": "6"
+    },
+    {
+        "id_word": "320",
+        "name_word": "slip",
+        "classifier": "v",
+        "pronounce_word": "/slip/",
+        "mean_word": "trượt, trượt chân, sơ suất",
+        "id_group": "6"
+    },
+    {
+        "id_word": "321",
+        "name_word": "smell",
+        "classifier": "v",
+        "pronounce_word": "/smel/",
+        "mean_word": "ngửi",
+        "id_group": "6"
+    },
+    {
+        "id_word": "322",
+        "name_word": "stare",
+        "classifier": "v",
+        "pronounce_word": "/steə[r]/",
+        "mean_word": "nhìn chằm chằm, trố mắt nhìn",
+        "id_group": "6"
+    },
+    {
+        "id_word": "323",
+        "name_word": "sniff",
+        "classifier": "v",
+        "pronounce_word": "/snif/",
+        "mean_word": "khịt mũi, hít thở, hít ngửi",
+        "id_group": "6"
+    },
+    {
+        "id_word": "324",
+        "name_word": "stamp",
+        "classifier": "v",
+        "pronounce_word": "/stæmp/",
+        "mean_word": "giậm chân, giẫm nát",
+        "id_group": "6"
+    },
+    {
+        "id_word": "325",
+        "name_word": "stand",
+        "classifier": "v",
+        "pronounce_word": "/stænd/",
+        "mean_word": "đứng, dừng lại, đứng lại",
+        "id_group": "6"
+    },
+    {
+        "id_word": "326",
+        "name_word": "step",
+        "classifier": "v",
+        "pronounce_word": "/step/",
+        "mean_word": "bước, bước chân, bước tiến",
+        "id_group": "6"
+    },
+    {
+        "id_word": "327",
+        "name_word": "swallow",
+        "classifier": "v",
+        "pronounce_word": "/'swɒləʊ/",
+        "mean_word": "nuốt",
+        "id_group": "6"
+    },
+    {
+        "id_word": "328",
+        "name_word": "talk",
+        "classifier": "v",
+        "pronounce_word": "/tɔ:k/",
+        "mean_word": "nói chuyện",
+        "id_group": "6"
+    },
+    {
+        "id_word": "329",
+        "name_word": "taste",
+        "classifier": "v",
+        "pronounce_word": "/teist/",
+        "mean_word": "nếm thử, nếm trải",
+        "id_group": "6"
+    },
+    {
+        "id_word": "330",
+        "name_word": "touch",
+        "classifier": "v",
+        "pronounce_word": "/tʌt∫/",
+        "mean_word": "đụng, chạm, sờ, mó",
+        "id_group": "6"
+    },
+    {
+        "id_word": "331",
+        "name_word": "throw",
+        "classifier": "v",
+        "pronounce_word": "/θrəʊ/",
+        "mean_word": "ném, vứt, quăng, liệng",
+        "id_group": "6"
+    },
+    {
+        "id_word": "332",
+        "name_word": "trip over",
+        "classifier": "v",
+        "pronounce_word": "/trip 'əʊvə/",
+        "mean_word": "hụt chân, vướng chân",
+        "id_group": "6"
+    },
+    {
+        "id_word": "333",
+        "name_word": "walk",
+        "classifier": "v",
+        "pronounce_word": "/wɔ:k/",
+        "mean_word": "đi, đi bộ, cuốc bộ",
+        "id_group": "6"
+    },
+    {
+        "id_word": "334",
+        "name_word": "wave",
+        "classifier": "v",
+        "pronounce_word": "/weiv/",
+        "mean_word": "vẫy tay, vẫy tay gọi, vẫy tay chào",
+        "id_group": "6"
+    },
+    {
+        "id_word": "335",
+        "name_word": "whisper",
+        "classifier": "v",
+        "pronounce_word": "/'wispə[r]/",
+        "mean_word": "thì thầm, xì xào",
+        "id_group": "6"
+    },
+    {
+        "id_word": "336",
+        "name_word": "whistle",
+        "classifier": "v",
+        "pronounce_word": "/'wisl/",
+        "mean_word": "huýt gió, huýt sáo, huýt còi",
+        "id_group": "6"
+    },
+    {
+        "id_word": "337",
+        "name_word": "wink",
+        "classifier": "v",
+        "pronounce_word": "/wiŋk/",
+        "mean_word": "nháy mắt",
+        "id_group": "6"
+    },
+    {
+        "id_word": "338",
+        "name_word": "write",
+        "classifier": "v",
+        "pronounce_word": "/rait/",
+        "mean_word": "viết",
+        "id_group": "6"
+    },
+    {
+        "id_word": "339",
+        "name_word": "amazed",
+        "classifier": "adj",
+        "pronounce_word": "/ə'meiz/",
+        "mean_word": "ngạc nhiên",
+        "id_group": "7"
+    },
+    {
+        "id_word": "340",
+        "name_word": "angry",
+        "classifier": "adj",
+        "pronounce_word": "/'æηgri/",
+        "mean_word": "tức giận, giận dữ",
+        "id_group": "7"
+    },
+    {
+        "id_word": "341",
+        "name_word": "annoyed",
+        "classifier": "adj",
+        "pronounce_word": "/ə'nɔid/",
+        "mean_word": "bực mình",
+        "id_group": "7"
+    },
+    {
+        "id_word": "342",
+        "name_word": "awful",
+        "classifier": "adj",
+        "pronounce_word": "/'ɔ:ful/",
+        "mean_word": "đáng sợ, khủng khiếp",
+        "id_group": "7"
+    },
+    {
+        "id_word": "343",
+        "name_word": "bad",
+        "classifier": "adj",
+        "pronounce_word": "/bæd/",
+        "mean_word": "tồi tệ",
+        "id_group": "7"
+    },
+    {
+        "id_word": "344",
+        "name_word": "bored",
+        "classifier": "adj",
+        "pronounce_word": "/bɔ:[r]/",
+        "mean_word": "buồn chán",
+        "id_group": "7"
+    },
+    {
+        "id_word": "345",
+        "name_word": "confused",
+        "classifier": "adj",
+        "pronounce_word": "/kən'fju:zd/",
+        "mean_word": "bối rối, rối lên",
+        "id_group": "7"
+    },
+    {
+        "id_word": "346",
+        "name_word": "comfortable",
+        "classifier": "adj",
+        "pronounce_word": "/'kʌmftəbl/",
+        "mean_word": "thoải mái, dễ chịu",
+        "id_group": "7"
+    },
+    {
+        "id_word": "347",
+        "name_word": "crazy",
+        "classifier": "adj",
+        "pronounce_word": "/'kreizi/",
+        "mean_word": "phát điên lên",
+        "id_group": "7"
+    },
+    {
+        "id_word": "348",
+        "name_word": "disappointed",
+        "classifier": "adj",
+        "pronounce_word": "/,disə'pɔintid/",
+        "mean_word": "chán nản, thất vọng",
+        "id_group": "7"
+    },
+    {
+        "id_word": "349",
+        "name_word": "embarrassed",
+        "classifier": "adj",
+        "pronounce_word": "/im'bærəst/",
+        "mean_word": "bối rối, ngượng ngùng",
+        "id_group": "7"
+    },
+    {
+        "id_word": "350",
+        "name_word": "enraged",
+        "classifier": "adj",
+        "pronounce_word": "/inˈrājd,enˈrājd/",
+        "mean_word": "nổi giận, nổi khùng, hóa điên",
+        "id_group": "7"
+    },
+    {
+        "id_word": "351",
+        "name_word": "energetic",
+        "classifier": "adj",
+        "pronounce_word": "/,enə'dʒetik/",
+        "mean_word": "mạnh mẽ, hoạt bát, đầy sinh lực",
+        "id_group": "7"
+    },
+    {
+        "id_word": "352",
+        "name_word": "exhausted",
+        "classifier": "adj",
+        "pronounce_word": "/ig'zɔ:stid/",
+        "mean_word": "kiệt sức, mệt lử",
+        "id_group": "7"
+    },
+    {
+        "id_word": "353",
+        "name_word": "excited",
+        "classifier": "adj",
+        "pronounce_word": "/ik'saitid/",
+        "mean_word": "bị kích thích, đầy hứng khởi",
+        "id_group": "7"
+    },
+    {
+        "id_word": "354",
+        "name_word": "frightened",
+        "classifier": "adj",
+        "pronounce_word": "/'fraitnd/",
+        "mean_word": "hoảng sợ, sợ hãi",
+        "id_group": "7"
+    },
+    {
+        "id_word": "355",
+        "name_word": "funny",
+        "classifier": "adj",
+        "pronounce_word": "/'fʌni/",
+        "mean_word": "buồn cười, ngộ nghĩnh",
+        "id_group": "7"
+    },
+    {
+        "id_word": "356",
+        "name_word": "glad",
+        "classifier": "adj",
+        "pronounce_word": "/glæd/",
+        "mean_word": "vui mừng, vui lòng",
+        "id_group": "7"
+    },
+    {
+        "id_word": "357",
+        "name_word": "guilty",
+        "classifier": "adj",
+        "pronounce_word": "/'gilti/",
+        "mean_word": "tội lỗi",
+        "id_group": "7"
+    },
+    {
+        "id_word": "358",
+        "name_word": "happy",
+        "classifier": "adj",
+        "pronounce_word": "/'hæpi/",
+        "mean_word": "hạnh phúc, sung sướng",
+        "id_group": "7"
+    },
+    {
+        "id_word": "359",
+        "name_word": "horrible",
+        "classifier": "adj",
+        "pronounce_word": "/'hɒrəbl/",
+        "mean_word": "khủng khiếp",
+        "id_group": "7"
+    },
+    {
+        "id_word": "360",
+        "name_word": "hurt",
+        "classifier": "adj",
+        "pronounce_word": "/hɜ:t/",
+        "mean_word": "tổn thương",
+        "id_group": "7"
+    },
+    {
+        "id_word": "361",
+        "name_word": "interested",
+        "classifier": "adj",
+        "pronounce_word": "/'intrəstid/",
+        "mean_word": "thú vị",
+        "id_group": "7"
+    },
+    {
+        "id_word": "362",
+        "name_word": "jealous",
+        "classifier": "adj",
+        "pronounce_word": "/'dʒeləs/",
+        "mean_word": "ghen tị, ghen tức",
+        "id_group": "7"
+    },
+    {
+        "id_word": "363",
+        "name_word": "joyful",
+        "classifier": "adj",
+        "pronounce_word": "/'dʒɔifəl/",
+        "mean_word": "vui sướng, vui hân hoan",
+        "id_group": "7"
+    },
+    {
+        "id_word": "364",
+        "name_word": "lonely",
+        "classifier": "adj",
+        "pronounce_word": "/'ləʊnli/",
+        "mean_word": "đơn độc, cô đơn",
+        "id_group": "7"
+    },
+    {
+        "id_word": "365",
+        "name_word": "lovesick",
+        "classifier": "adj",
+        "pronounce_word": "/'lʌvsik/",
+        "mean_word": "tương tư",
+        "id_group": "7"
+    },
+    {
+        "id_word": "366",
+        "name_word": "lucky",
+        "classifier": "adj",
+        "pronounce_word": "/'lʌki/",
+        "mean_word": "may mắn, gặp may",
+        "id_group": "7"
+    },
+    {
+        "id_word": "367",
+        "name_word": "miserable",
+        "classifier": "adj",
+        "pronounce_word": "/'mizrəbl/",
+        "mean_word": "khốn khổ, thảm thương",
+        "id_group": "7"
+    },
+    {
+        "id_word": "368",
+        "name_word": "moody",
+        "classifier": "adj",
+        "pronounce_word": "/'mu:di/",
+        "mean_word": "cáu kỉnh, ủ rũ",
+        "id_group": "7"
+    },
+    {
+        "id_word": "369",
+        "name_word": "nervous",
+        "classifier": "adj",
+        "pronounce_word": "/'nɜ:vəs/",
+        "mean_word": "sợ sệt rụt rè, căng thẳng",
+        "id_group": "7"
+    },
+    {
+        "id_word": "370",
+        "name_word": "peaceful",
+        "classifier": "adj",
+        "pronounce_word": "/'pi:sfl/",
+        "mean_word": "yên bình",
+        "id_group": "7"
+    },
+    {
+        "id_word": "371",
+        "name_word": "pleasant",
+        "classifier": "adj",
+        "pronounce_word": "/'pleznt/",
+        "mean_word": "dễ chịu, dễ thương",
+        "id_group": "7"
+    },
+    {
+        "id_word": "372",
+        "name_word": "pleased",
+        "classifier": "adj",
+        "pronounce_word": "/pli:zd/",
+        "mean_word": "vui lòng, vừa lòng, vừa ý",
+        "id_group": "7"
+    },
+    {
+        "id_word": "373",
+        "name_word": "proud",
+        "classifier": "adj",
+        "pronounce_word": "/praud/",
+        "mean_word": "tự hào, hãnh diện",
+        "id_group": "7"
+    },
+    {
+        "id_word": "374",
+        "name_word": "relaxed",
+        "classifier": "adj",
+        "pronounce_word": "/ri'lækst/",
+        "mean_word": "thanh thản, không căng thẳng, ung dung",
+        "id_group": "7"
+    },
+    {
+        "id_word": "375",
+        "name_word": "reliable",
+        "classifier": "adj",
+        "pronounce_word": "/ri'laiəbl/",
+        "mean_word": "chín chắn, đáng tin cậy",
+        "id_group": "7"
+    },
+    {
+        "id_word": "376",
+        "name_word": "reserved",
+        "classifier": "adj",
+        "pronounce_word": "/ri'zɜ:vd/",
+        "mean_word": "dè dặt, kín đáo",
+        "id_group": "7"
+    },
+    {
+        "id_word": "377",
+        "name_word": "rude",
+        "classifier": "adj",
+        "pronounce_word": "/ru:d/",
+        "mean_word": "khiếm nhã, vô lễ",
+        "id_group": "7"
+    },
+    {
+        "id_word": "378",
+        "name_word": "sad",
+        "classifier": "adj",
+        "pronounce_word": "/sæd/",
+        "mean_word": "buồn bã, buồn",
+        "id_group": "7"
+    },
+    {
+        "id_word": "379",
+        "name_word": "satisfied",
+        "classifier": "adj",
+        "pronounce_word": "/'sætisfaid/",
+        "mean_word": "thỏa mãn, hài lòng",
+        "id_group": "7"
+    },
+    {
+        "id_word": "380",
+        "name_word": "scared",
+        "classifier": "adj",
+        "pronounce_word": "/skeə[r]d/",
+        "mean_word": "hoảng sợ, hoảng loạn",
+        "id_group": "7"
+    },
+    {
+        "id_word": "381",
+        "name_word": "sensitive",
+        "classifier": "adj",
+        "pronounce_word": "/'sensətiv/",
+        "mean_word": "nhạy cảm, dễ bị tổn thương",
+        "id_group": "7"
+    },
+    {
+        "id_word": "382",
+        "name_word": "shocked",
+        "classifier": "adj",
+        "pronounce_word": "/∫ɒk/",
+        "mean_word": "cơn choáng, cơn sốc",
+        "id_group": "7"
+    },
+    {
+        "id_word": "383",
+        "name_word": "shy",
+        "classifier": "adj",
+        "pronounce_word": "/∫ai/",
+        "mean_word": "nhút nhát, bẽn lẽn, e lệ",
+        "id_group": "7"
+    },
+    {
+        "id_word": "384",
+        "name_word": "silly",
+        "classifier": "adj",
+        "pronounce_word": "/'sili/",
+        "mean_word": "ngờ nghệch, ngớ ngẩn, khờ dại",
+        "id_group": "7"
+    },
+    {
+        "id_word": "385",
+        "name_word": "spiteful",
+        "classifier": "adj",
+        "pronounce_word": "/'spaitfl/",
+        "mean_word": "đầy ác ý, hằn học",
+        "id_group": "7"
+    },
+    {
+        "id_word": "386",
+        "name_word": "surprised",
+        "classifier": "adj",
+        "pronounce_word": "/sə'praizd/",
+        "mean_word": "ngạc nhiên, kinh ngạc",
+        "id_group": "7"
+    },
+    {
+        "id_word": "387",
+        "name_word": "sympatheric",
+        "classifier": "adj",
+        "pronounce_word": "/ˌsɪm.pəˈθet.ɪk/",
+        "mean_word": "thông cảm",
+        "id_group": "7"
+    },
+    {
+        "id_word": "388",
+        "name_word": "tense",
+        "classifier": "adj",
+        "pronounce_word": "/tens/",
+        "mean_word": "căng thẳng",
+        "id_group": "7"
+    },
+    {
+        "id_word": "389",
+        "name_word": "thick",
+        "classifier": "adj",
+        "pronounce_word": "/θik/",
+        "mean_word": "đần độn, ngu",
+        "id_group": "7"
+    },
+    {
+        "id_word": "390",
+        "name_word": "tired",
+        "classifier": "adj",
+        "pronounce_word": "/taiəd/",
+        "mean_word": "mệt mỏi",
+        "id_group": "7"
+    },
+    {
+        "id_word": "391",
+        "name_word": "tired",
+        "classifier": "adj",
+        "pronounce_word": "/taiəd/",
+        "mean_word": "chán",
+        "id_group": "7"
+    },
+    {
+        "id_word": "392",
+        "name_word": "tolerant",
+        "classifier": "adj",
+        "pronounce_word": "/'tɒlərənt/",
+        "mean_word": "khoan dung, tha thứ",
+        "id_group": "7"
+    },
+    {
+        "id_word": "393",
+        "name_word": "unpleasant",
+        "classifier": "adj",
+        "pronounce_word": "/ʌn'pleznt/",
+        "mean_word": "khó chịu, khó ưa",
+        "id_group": "7"
+    },
+    {
+        "id_word": "394",
+        "name_word": "upset",
+        "classifier": "adj",
+        "pronounce_word": "/,ʌp'set/",
+        "mean_word": "buồn chán, thất vọng",
+        "id_group": "7"
+    },
+    {
+        "id_word": "395",
+        "name_word": "warm",
+        "classifier": "adj",
+        "pronounce_word": "/wɔ:m/",
+        "mean_word": "ấm áp",
+        "id_group": "7"
+    },
+    {
+        "id_word": "396",
+        "name_word": "wonderful",
+        "classifier": "adj",
+        "pronounce_word": "/'wʌndəfl/",
+        "mean_word": "tuyệt vời",
+        "id_group": "7"
+    },
+    {
+        "id_word": "397",
+        "name_word": "abortion",
+        "classifier": "n",
+        "pronounce_word": "/ə'bɔ:∫n/",
+        "mean_word": "sự phá thai, sự sẩy thai",
+        "id_group": "8"
+    },
+    {
+        "id_word": "398",
+        "name_word": "allergy",
+        "classifier": "n",
+        "pronounce_word": "/'ælədgi/",
+        "mean_word": "dị ứng",
+        "id_group": "8"
+    },
+    {
+        "id_word": "399",
+        "name_word": "antibiotic",
+        "classifier": "n",
+        "pronounce_word": "/,æntibai'ɒtik/",
+        "mean_word": "thuốc kháng sinh",
+        "id_group": "8"
+    },
+    {
+        "id_word": "400",
+        "name_word": "appendicitis",
+        "classifier": "n",
+        "pronounce_word": "/ə,pendi'saitis/",
+        "mean_word": "viêm ruột thừa",
+        "id_group": "8"
+    },
+    {
+        "id_word": "401",
+        "name_word": "appointment",
+        "classifier": "n",
+        "pronounce_word": "/ə'pɔintmənt/",
+        "mean_word": "cuộc hẹn, sự hẹn gặp",
+        "id_group": "8"
+    },
+    {
+        "id_word": "402",
+        "name_word": "arthritis",
+        "classifier": "n",
+        "pronounce_word": "/ɑ:'θraitis/",
+        "mean_word": "viêm khớp",
+        "id_group": "8"
+    },
+    {
+        "id_word": "403",
+        "name_word": "asthma",
+        "classifier": "n",
+        "pronounce_word": "/'æsmə/",
+        "mean_word": "bệnh hen, bệnh suyễn",
+        "id_group": "8"
+    },
+    {
+        "id_word": "404",
+        "name_word": "backache",
+        "classifier": "n",
+        "pronounce_word": "/'bækeik/",
+        "mean_word": "đau lưng",
+        "id_group": "8"
+    },
+    {
+        "id_word": "405",
+        "name_word": "blister",
+        "classifier": "n",
+        "pronounce_word": "/'blistə[r]/",
+        "mean_word": "chỗ rộp, vết bỏng rộp",
+        "id_group": "8"
+    },
+    {
+        "id_word": "406",
+        "name_word": "blood pressure",
+        "classifier": "n",
+        "pronounce_word": "/'blʌd,pre∫ə[r]/",
+        "mean_word": "huyết áp, (pressure: áp lực)",
+        "id_group": "8"
+    },
+    {
+        "id_word": "407",
+        "name_word": "bronchitis",
+        "classifier": "n",
+        "pronounce_word": "/brɒŋ'kaitis/",
+        "mean_word": "viêm phế quản",
+        "id_group": "8"
+    },
+    {
+        "id_word": "408",
+        "name_word": "bruise",
+        "classifier": "n",
+        "pronounce_word": "/bru:z/",
+        "mean_word": "vết thâm tím",
+        "id_group": "8"
+    },
+    {
+        "id_word": "409",
+        "name_word": "casualty",
+        "classifier": "n",
+        "pronounce_word": "/'kæʒʊəlti/",
+        "mean_word": "thương vong, nạn nhân",
+        "id_group": "8"
+    },
+    {
+        "id_word": "410",
+        "name_word": "cough",
+        "classifier": "n",
+        "pronounce_word": "/kɒf/",
+        "mean_word": "ho, cơn ho, tiếng ho",
+        "id_group": "8"
+    },
+    {
+        "id_word": "411",
+        "name_word": "cramp",
+        "classifier": "n",
+        "pronounce_word": "/kræmp/",
+        "mean_word": "chuột rút",
+        "id_group": "8"
+    },
+    {
+        "id_word": "412",
+        "name_word": "depression",
+        "classifier": "n",
+        "pronounce_word": "/di'pre∫n/",
+        "mean_word": "suy nhược cơ thể",
+        "id_group": "8"
+    },
+    {
+        "id_word": "413",
+        "name_word": "diabetes",
+        "classifier": "n",
+        "pronounce_word": "/,daiə'bi:ti:z/",
+        "mean_word": "tiểu đường",
+        "id_group": "8"
+    },
+    {
+        "id_word": "414",
+        "name_word": "diet",
+        "classifier": "n",
+        "pronounce_word": "/'daiət/",
+        "mean_word": "ăn kiêng",
+        "id_group": "8"
+    },
+    {
+        "id_word": "415",
+        "name_word": "eating disorder",
+        "classifier": "n",
+        "pronounce_word": "/'i:tiɳ dis'ɔ:də[r]/",
+        "mean_word": "rối loạn ăn uống",
+        "id_group": "8"
+    },
+    {
+        "id_word": "416",
+        "name_word": "epidemic",
+        "classifier": "n",
+        "pronounce_word": "/,epi'demik/",
+        "mean_word": "bệnh dịch, dịch bệnh",
+        "id_group": "8"
+    },
+    {
+        "id_word": "417",
+        "name_word": "flu",
+        "classifier": "n",
+        "pronounce_word": "/flu:/",
+        "mean_word": "bệnh cúm, (influenza)",
+        "id_group": "8"
+    },
+    {
+        "id_word": "418",
+        "name_word": "fracture",
+        "classifier": "n",
+        "pronounce_word": "/'frækt∫ə[r]/",
+        "mean_word": "gãy xương, chỗ gãy xương",
+        "id_group": "8"
+    },
+    {
+        "id_word": "419",
+        "name_word": "hangover",
+        "classifier": "n",
+        "pronounce_word": "/'hæηəʊvə[r]/",
+        "mean_word": "cảm giác khó chịu, dư vị khó chịu của bữa rượu say, tàn dư",
+        "id_group": "8"
+    },
+    {
+        "id_word": "420",
+        "name_word": "hay fever",
+        "classifier": "n",
+        "pronounce_word": "/'heifi:və[r]/",
+        "mean_word": "sốt mùa hè",
+        "id_group": "8"
+    },
+    {
+        "id_word": "421",
+        "name_word": "headache",
+        "classifier": "n",
+        "pronounce_word": "/'hedak/",
+        "mean_word": "chứng nhức đầu, đau đầu",
+        "id_group": "8"
+    },
+    {
+        "id_word": "422",
+        "name_word": "health",
+        "classifier": "n",
+        "pronounce_word": "/helθ/",
+        "mean_word": "sức khỏe",
+        "id_group": "8"
+    },
+    {
+        "id_word": "423",
+        "name_word": "heart disease",
+        "classifier": "n",
+        "pronounce_word": "/'hɑ:tdi'zi:z/",
+        "mean_word": "bệnh tim",
+        "id_group": "8"
+    },
+    {
+        "id_word": "424",
+        "name_word": "hepatitis",
+        "classifier": "n",
+        "pronounce_word": "/,hepə'taitis/",
+        "mean_word": "viêm gan",
+        "id_group": "8"
+    },
+    {
+        "id_word": "425",
+        "name_word": "indigestion",
+        "classifier": "n",
+        "pronounce_word": "/,indi'dʒest∫n/",
+        "mean_word": "chứng khó tiêu, đầy bụng",
+        "id_group": "8"
+    },
+    {
+        "id_word": "426",
+        "name_word": "infection",
+        "classifier": "n",
+        "pronounce_word": "/in'fek∫ən/",
+        "mean_word": "sự nhiễm khuẩn, bệnh lây nhiễm",
+        "id_group": "8"
+    },
+    {
+        "id_word": "427",
+        "name_word": "inflammation",
+        "classifier": "n",
+        "pronounce_word": "/,inflə'mei∫n/",
+        "mean_word": "viêm",
+        "id_group": "8"
+    },
+    {
+        "id_word": "428",
+        "name_word": "injection",
+        "classifier": "n",
+        "pronounce_word": "/in'dʒek∫n/",
+        "mean_word": "sự tiêm, sự chích, mũi tiêm, phát tiêm",
+        "id_group": "8"
+    },
+    {
+        "id_word": "429",
+        "name_word": "jet lag",
+        "classifier": "n",
+        "pronounce_word": "/'dʒet læg/",
+        "mean_word": "cơ mệt mỏi sau một chuyến bay dài",
+        "id_group": "8"
+    },
+    {
+        "id_word": "430",
+        "name_word": "lump",
+        "classifier": "n",
+        "pronounce_word": "/lʌmp/",
+        "mean_word": "cái bướu, chỗ sưng u lên",
+        "id_group": "8"
+    },
+    {
+        "id_word": "431",
+        "name_word": "lung cancer",
+        "classifier": "n",
+        "pronounce_word": "/lʌη 'kænsə[r]/",
+        "mean_word": "ung thư phổi, (lung: phổi)",
+        "id_group": "8"
+    },
+    {
+        "id_word": "432",
+        "name_word": "malaria",
+        "classifier": "n",
+        "pronounce_word": "/mə'leəriæ/",
+        "mean_word": "bệnh sốt rét",
+        "id_group": "8"
+    },
+    {
+        "id_word": "433",
+        "name_word": "measles",
+        "classifier": "n",
+        "pronounce_word": "/'mi:zlz/",
+        "mean_word": "bệnh sởi",
+        "id_group": "8"
+    },
+    {
+        "id_word": "434",
+        "name_word": "medicine",
+        "classifier": "n",
+        "pronounce_word": "/'medsn/",
+        "mean_word": "thuốc, y học, y khoa",
+        "id_group": "8"
+    },
+    {
+        "id_word": "435",
+        "name_word": "midwife",
+        "classifier": "n",
+        "pronounce_word": "/'midwaif/",
+        "mean_word": "bà đỡ, bà mụ",
+        "id_group": "8"
+    },
+    {
+        "id_word": "436",
+        "name_word": "migraine",
+        "classifier": "n",
+        "pronounce_word": "/'mi:grein/",
+        "mean_word": "chứng đau nửa đầu",
+        "id_group": "8"
+    },
+    {
+        "id_word": "437",
+        "name_word": "mumps",
+        "classifier": "n",
+        "pronounce_word": "/mʌmps/",
+        "mean_word": "bệnh quai bị",
+        "id_group": "8"
+    },
+    {
+        "id_word": "438",
+        "name_word": "nurse",
+        "classifier": "n",
+        "pronounce_word": "/nɜ:s/",
+        "mean_word": "y tá, nữ y tá",
+        "id_group": "8"
+    },
+    {
+        "id_word": "439",
+        "name_word": "operation",
+        "classifier": "n",
+        "pronounce_word": "/,ɒpə'rei∫n/",
+        "mean_word": "cuộc phẫu thuật",
+        "id_group": "8"
+    },
+    {
+        "id_word": "440",
+        "name_word": "optician",
+        "classifier": "n",
+        "pronounce_word": "/ɒp'ti∫n/",
+        "mean_word": "bác sĩ nhãn khoa",
+        "id_group": "8"
+    },
+    {
+        "id_word": "441",
+        "name_word": "out-patient",
+        "classifier": "n",
+        "pronounce_word": "/aʊt 'pei∫nt/",
+        "mean_word": "bệnh nhân ngoại trú",
+        "id_group": "8"
+    },
+    {
+        "id_word": "442",
+        "name_word": "paediatrician",
+        "classifier": "n",
+        "pronounce_word": "/pi:di'ætrician/",
+        "mean_word": "bác sĩ nhi khoa",
+        "id_group": "8"
+    },
+    {
+        "id_word": "443",
+        "name_word": "pain",
+        "classifier": "n",
+        "pronounce_word": "/pein/",
+        "mean_word": "nỗi đau, vết đau, sự đau",
+        "id_group": "8"
+    },
+    {
+        "id_word": "444",
+        "name_word": "painkiller",
+        "classifier": "n",
+        "pronounce_word": "/ˈpeɪnˌkɪlɚ/",
+        "mean_word": "thuốc giảm đau",
+        "id_group": "8"
+    },
+    {
+        "id_word": "445",
+        "name_word": "patient",
+        "classifier": "n",
+        "pronounce_word": "/'pei∫nt/",
+        "mean_word": "kiên nhẫn, nhẫn nại",
+        "id_group": "8"
+    },
+    {
+        "id_word": "446",
+        "name_word": "pill",
+        "classifier": "n",
+        "pronounce_word": "/pil/",
+        "mean_word": "viên thuốc",
+        "id_group": "8"
+    },
+    {
+        "id_word": "447",
+        "name_word": "prescription",
+        "classifier": "n",
+        "pronounce_word": "/'pri'skrip∫n/",
+        "mean_word": "đơn thuốc",
+        "id_group": "8"
+    },
+    {
+        "id_word": "448",
+        "name_word": "psychiatrist",
+        "classifier": "n",
+        "pronounce_word": "/,saiki'ætrist/",
+        "mean_word": "bác sĩ tâm lý, bác sĩ tâm thần",
+        "id_group": "8"
+    },
+    {
+        "id_word": "449",
+        "name_word": "pulse",
+        "classifier": "n",
+        "pronounce_word": "/pʌls/",
+        "mean_word": "nhịp tim",
+        "id_group": "8"
+    },
+    {
+        "id_word": "450",
+        "name_word": "rash",
+        "classifier": "n",
+        "pronounce_word": "/ræ∫/",
+        "mean_word": "phát ban, nốt ban",
+        "id_group": "8"
+    },
+    {
+        "id_word": "451",
+        "name_word": "rheumatologist",
+        "classifier": "n",
+        "pronounce_word": "/ruːməˈtɒlədʒi/",
+        "mean_word": "bác sĩ thấp khớp",
+        "id_group": "8"
+    },
+    {
+        "id_word": "452",
+        "name_word": "sore throat",
+        "classifier": "n",
+        "pronounce_word": "/sɔ:[r] θrəʊt/",
+        "mean_word": "viêm họng",
+        "id_group": "8"
+    },
+    {
+        "id_word": "453",
+        "name_word": "specialist",
+        "classifier": "n",
+        "pronounce_word": "/'spe∫əlist/",
+        "mean_word": "bác sĩ chuyên khoa, chuyên gia, chuyên viên",
+        "id_group": "8"
+    },
+    {
+        "id_word": "454",
+        "name_word": "stomach ache",
+        "classifier": "n",
+        "pronounce_word": "/'stʌməkeik/",
+        "mean_word": "đau dạ dày",
+        "id_group": "8"
+    },
+    {
+        "id_word": "455",
+        "name_word": "surgeon",
+        "classifier": "n",
+        "pronounce_word": "/'sɜ:dʒən/",
+        "mean_word": "bác sĩ phẫu thuật",
+        "id_group": "8"
+    },
+    {
+        "id_word": "456",
+        "name_word": "surgery",
+        "classifier": "n",
+        "pronounce_word": "/'sɜ:dʒəri/",
+        "mean_word": "ca phẫu thuật, phòng giải phẫu",
+        "id_group": "8"
+    },
+    {
+        "id_word": "457",
+        "name_word": "swelling",
+        "classifier": "n",
+        "pronounce_word": "/'sweliη/",
+        "mean_word": "sưng tấy, sưng lên, chỗ sưng",
+        "id_group": "8"
+    },
+    {
+        "id_word": "458",
+        "name_word": "symptom",
+        "classifier": "n",
+        "pronounce_word": "/'simptəm/",
+        "mean_word": "triệu chứng bệnh",
+        "id_group": "8"
+    },
+    {
+        "id_word": "459",
+        "name_word": "tablet",
+        "classifier": "n",
+        "pronounce_word": "/'tæblit/",
+        "mean_word": "thuốc viên",
+        "id_group": "8"
+    },
+    {
+        "id_word": "460",
+        "name_word": "tonsillitis",
+        "classifier": "n",
+        "pronounce_word": "/,tɒnsi'laitis/",
+        "mean_word": "viêm amidan",
+        "id_group": "8"
+    },
+    {
+        "id_word": "461",
+        "name_word": "ulcer",
+        "classifier": "n",
+        "pronounce_word": "/'ʌlsə[r]/",
+        "mean_word": "loét",
+        "id_group": "8"
+    },
+    {
+        "id_word": "462",
+        "name_word": "virus",
+        "classifier": "n",
+        "pronounce_word": "/'vaiərəs/",
+        "mean_word": "virut, vi rút",
+        "id_group": "8"
+    },
+    {
+        "id_word": "463",
+        "name_word": "x-ray",
+        "classifier": "n",
+        "pronounce_word": "/'eksrei/",
+        "mean_word": "tia X, X quang",
+        "id_group": "8"
+    },
+    {
+        "id_word": "464",
+        "name_word": "catch a cold",
+        "classifier": "v",
+        "pronounce_word": "/kæt∫ a kəʊld/",
+        "mean_word": "bị cảm",
+        "id_group": "8"
+    },
+    {
+        "id_word": "465",
+        "name_word": "cure",
+        "classifier": "v",
+        "pronounce_word": "/kjʊə[r]/",
+        "mean_word": "chữa khỏi, chữa trị, chữa",
+        "id_group": "8"
+    },
+    {
+        "id_word": "466",
+        "name_word": "get ill",
+        "classifier": "v",
+        "pronounce_word": "/get il/",
+        "mean_word": "ốm, bị ốm",
+        "id_group": "8"
+    },
+    {
+        "id_word": "467",
+        "name_word": "keep fit",
+        "classifier": "v",
+        "pronounce_word": "/ki:p fit/",
+        "mean_word": "giữ eo, giữ dáng",
+        "id_group": "8"
+    },
+    {
+        "id_word": "468",
+        "name_word": "lose weight",
+        "classifier": "v",
+        "pronounce_word": "giảm cân",
+        "mean_word": "/lu:z weit/",
+        "id_group": "8"
+    },
+    {
+        "id_word": "469",
+        "name_word": "recover",
+        "classifier": "v",
+        "pronounce_word": "/ri'kʌvə[r]/",
+        "mean_word": "hồi phục, tỉnh lại",
+        "id_group": "8"
+    },
+    {
+        "id_word": "470",
+        "name_word": "put on weight",
+        "classifier": "v",
+        "pronounce_word": "/put ɒn weit/",
+        "mean_word": "tăng cân",
+        "id_group": "8"
+    },
+    {
+        "id_word": "471",
+        "name_word": "cough",
+        "classifier": "v",
+        "pronounce_word": "/kɒf/",
+        "mean_word": "ho",
+        "id_group": "8"
+    },
+    {
+        "id_word": "472",
+        "name_word": "sneeze",
+        "classifier": "v",
+        "pronounce_word": "/sni:z/",
+        "mean_word": "hắt hơi",
+        "id_group": "8"
+    },
+    {
+        "id_word": "473",
+        "name_word": "bleed",
+        "classifier": "v",
+        "pronounce_word": "/bli:d/",
+        "mean_word": "chảy máu, mất máu",
+        "id_group": "8"
+    },
+    {
+        "id_word": "474",
+        "name_word": "injury",
+        "classifier": "v",
+        "pronounce_word": "/'indʒəri/",
+        "mean_word": "bị thương, vết thương, sự tổn thương",
+        "id_group": "8"
+    },
+    {
+        "id_word": "475",
+        "name_word": "bad",
+        "classifier": "adj",
+        "pronounce_word": "/bæd/",
+        "mean_word": "xấu, tồi, dở",
+        "id_group": "8"
+    },
+    {
+        "id_word": "476",
+        "name_word": "dizzy",
+        "classifier": "adj",
+        "pronounce_word": "/'dizi/",
+        "mean_word": "hoa mắt, chóng mặt",
+        "id_group": "8"
+    },
+    {
+        "id_word": "477",
+        "name_word": "fat",
+        "classifier": "adj",
+        "pronounce_word": "/fæt/",
+        "mean_word": "béo, mập",
+        "id_group": "8"
+    },
+    {
+        "id_word": "478",
+        "name_word": "fit",
+        "classifier": "adj",
+        "pronounce_word": "/fit/",
+        "mean_word": "khỏe mạnh, thích hợp",
+        "id_group": "8"
+    },
+    {
+        "id_word": "479",
+        "name_word": "healthy",
+        "classifier": "adj",
+        "pronounce_word": "/'helθi/",
+        "mean_word": "lành mạnh, có lợi cho sức khỏe",
+        "id_group": "8"
+    },
+    {
+        "id_word": "480",
+        "name_word": "thin",
+        "classifier": "adj",
+        "pronounce_word": "/θin/",
+        "mean_word": "gầy",
+        "id_group": "8"
+    },
+    {
+        "id_word": "481",
+        "name_word": "sick",
+        "classifier": "adj",
+        "pronounce_word": "/sik/",
+        "mean_word": "ốm yếu, ốm đau",
+        "id_group": "8"
+    },
+    {
+        "id_word": "482",
+        "name_word": "infected",
+        "classifier": "adj",
+        "pronounce_word": "/inˈfektəd/",
+        "mean_word": "bị lây nhiễm",
+        "id_group": "8"
+    },
+    {
+        "id_word": "483",
+        "name_word": "painful",
+        "classifier": "adj",
+        "pronounce_word": "/ˈpānfəl/",
+        "mean_word": "đau đớn",
+        "id_group": "8"
+    },
+    {
+        "id_word": "484",
+        "name_word": "ill",
+        "classifier": "adj",
+        "pronounce_word": "/il/",
+        "mean_word": "ốm, bệnh",
+        "id_group": "8"
+    },
+    {
+        "id_word": "485",
+        "name_word": "well",
+        "classifier": "adj",
+        "pronounce_word": "/wel/",
+        "mean_word": "khỏe mạnh",
+        "id_group": "8"
+    },
+    {
+        "id_word": "486",
+        "name_word": "unwell",
+        "classifier": "adj",
+        "pronounce_word": "/ʌn'wel/",
+        "mean_word": "không khỏe",
+        "id_group": "8"
+    },
+    {
+        "id_word": "487",
+        "name_word": "hurt",
+        "classifier": "adj",
+        "pronounce_word": "/hɜ:t/",
+        "mean_word": "bị đau",
+        "id_group": "8"
+    },
+    {
+        "id_word": "488",
+        "name_word": "bridesmaid",
+        "classifier": "n",
+        "pronounce_word": "/'braidzmeid/",
+        "mean_word": "phù dâu",
+        "id_group": "9"
+    },
+    {
+        "id_word": "489",
+        "name_word": "adultery",
+        "classifier": "n",
+        "pronounce_word": "/ə'dʌltəri/",
+        "mean_word": "ngoại tình",
+        "id_group": "9"
+    },
+    {
+        "id_word": "490",
+        "name_word": "bachelor",
+        "classifier": "n",
+        "pronounce_word": "/'bæt∫ələ[r]/",
+        "mean_word": "người chưa vợ, người độc thân",
+        "id_group": "9"
+    },
+    {
+        "id_word": "491",
+        "name_word": "bestman",
+        "classifier": "n",
+        "pronounce_word": "/best mæn/",
+        "mean_word": "phù rể",
+        "id_group": "9"
+    },
+    {
+        "id_word": "492",
+        "name_word": "bridal bouquet",
+        "classifier": "n",
+        "pronounce_word": "/'braidl bʊ'kei/",
+        "mean_word": "bó hoa cưới",
+        "id_group": "9"
+    },
+    {
+        "id_word": "493",
+        "name_word": "bridal veil",
+        "classifier": "n",
+        "pronounce_word": "/'braidl veil/",
+        "mean_word": "khăn trùm đầu cô dâu",
+        "id_group": "9"
+    },
+    {
+        "id_word": "494",
+        "name_word": "bride",
+        "classifier": "n",
+        "pronounce_word": "/braid/",
+        "mean_word": "cô dâu",
+        "id_group": "9"
+    },
+    {
+        "id_word": "495",
+        "name_word": "bridegroom",
+        "classifier": "n",
+        "pronounce_word": "/'braidgrʊm/",
+        "mean_word": "chú rể",
+        "id_group": "9"
+    },
+    {
+        "id_word": "496",
+        "name_word": "bridesmaid",
+        "classifier": "n",
+        "pronounce_word": "/'braidzmeid/",
+        "mean_word": "phù dâu",
+        "id_group": "9"
+    },
+    {
+        "id_word": "497",
+        "name_word": "couple",
+        "classifier": "n",
+        "pronounce_word": "/'kʌpl/",
+        "mean_word": "cặp vợ chồng, đôi tình nhân",
+        "id_group": "9"
+    },
+    {
+        "id_word": "498",
+        "name_word": "court",
+        "classifier": "n",
+        "pronounce_word": "/kɔ:t/",
+        "mean_word": "tán tỉnh, tỏ tình, tìm hiểu",
+        "id_group": "9"
+    },
+    {
+        "id_word": "499",
+        "name_word": "cuckold",
+        "classifier": "n",
+        "pronounce_word": "/ˈkʌkəld/",
+        "mean_word": "mọc sừng, cắm sừng",
+        "id_group": "9"
+    },
+    {
+        "id_word": "500",
+        "name_word": "date",
+        "classifier": "n",
+        "pronounce_word": "/deit/",
+        "mean_word": "cuộc hẹn, hẹn hò",
+        "id_group": "9"
+    },
+    {
+        "id_word": "501",
+        "name_word": "divorce",
+        "classifier": "n",
+        "pronounce_word": "/di'vɔ:s/",
+        "mean_word": "ly hôn",
+        "id_group": "9"
+    },
+    {
+        "id_word": "502",
+        "name_word": "dowry",
+        "classifier": "n",
+        "pronounce_word": "/'daʊəri/",
+        "mean_word": "của hồi môn",
+        "id_group": "9"
+    },
+    {
+        "id_word": "503",
+        "name_word": "engagement",
+        "classifier": "n",
+        "pronounce_word": "/in'geidʒmənt/",
+        "mean_word": "sự đính hôn, sự hứa hôn, việc đính hôn",
+        "id_group": "9"
+    },
+    {
+        "id_word": "504",
+        "name_word": "espousal",
+        "classifier": "n",
+        "pronounce_word": "/i'spaʊzl/",
+        "mean_word": "tán thành",
+        "id_group": "9"
+    },
+    {
+        "id_word": "505",
+        "name_word": "fiance",
+        "classifier": "n",
+        "pronounce_word": "/fiˈɑːnˌseɪ/",
+        "mean_word": "hôn phu",
+        "id_group": "9"
+    },
+    {
+        "id_word": "506",
+        "name_word": "fiancee",
+        "classifier": "n",
+        "pronounce_word": "/fiˈɑːnˌseɪ/",
+        "mean_word": "hôn thê",
+        "id_group": "9"
+    },
+    {
+        "id_word": "507",
+        "name_word": "flower girl",
+        "classifier": "n",
+        "pronounce_word": "/'flaʊəgɜ:l/",
+        "mean_word": "cô gái cầm hoa trong lễ cưới",
+        "id_group": "9"
+    },
+    {
+        "id_word": "508",
+        "name_word": "groom",
+        "classifier": "n",
+        "pronounce_word": "/grum/",
+        "mean_word": "chú rể",
+        "id_group": "9"
+    },
+    {
+        "id_word": "509",
+        "name_word": "honeymoon",
+        "classifier": "n",
+        "pronounce_word": "/'hʌnimu:n/",
+        "mean_word": "tuần trăng mật",
+        "id_group": "9"
+    },
+    {
+        "id_word": "510",
+        "name_word": "husband",
+        "classifier": "n",
+        "pronounce_word": "/'hʌzbənd/",
+        "mean_word": "chồng, người chồng",
+        "id_group": "9"
+    },
+    {
+        "id_word": "511",
+        "name_word": "love triangle",
+        "classifier": "n",
+        "pronounce_word": "/lʌv 'traiæηgl/",
+        "mean_word": "mối tình tay ba",
+        "id_group": "9"
+    },
+    {
+        "id_word": "512",
+        "name_word": "lover",
+        "classifier": "n",
+        "pronounce_word": "/'lʌvə[r]/",
+        "mean_word": "người yêu, người tình",
+        "id_group": "9"
+    },
+    {
+        "id_word": "513",
+        "name_word": "matrimony",
+        "classifier": "n",
+        "pronounce_word": "/'mætriməni/",
+        "mean_word": "hôn nhân",
+        "id_group": "9"
+    },
+    {
+        "id_word": "514",
+        "name_word": "monogamy",
+        "classifier": "n",
+        "pronounce_word": "/mə'nɒgəmi/",
+        "mean_word": "chế độ một vợ một chồng",
+        "id_group": "9"
+    },
+    {
+        "id_word": "515",
+        "name_word": "nuptials",
+        "classifier": "n",
+        "pronounce_word": "/'nʌp∫lz/",
+        "mean_word": "lễ cưới",
+        "id_group": "9"
+    },
+    {
+        "id_word": "516",
+        "name_word": "polygamy",
+        "classifier": "n",
+        "pronounce_word": "/pə'ligəmi/",
+        "mean_word": "chế độ đa thê",
+        "id_group": "9"
+    },
+    {
+        "id_word": "517",
+        "name_word": "romance",
+        "classifier": "n",
+        "pronounce_word": "/rōˈmans/",
+        "mean_word": "lãng mạn",
+        "id_group": "9"
+    },
+    {
+        "id_word": "518",
+        "name_word": "separation",
+        "classifier": "n",
+        "pronounce_word": "/,sepə'rei∫n/",
+        "mean_word": "ly thân",
+        "id_group": "9"
+    },
+    {
+        "id_word": "519",
+        "name_word": "spouse",
+        "classifier": "n",
+        "pronounce_word": "/spaʊz/",
+        "mean_word": "chồng hoặc vợ",
+        "id_group": "9"
+    },
+    {
+        "id_word": "520",
+        "name_word": "veil",
+        "classifier": "n",
+        "pronounce_word": "/veil/",
+        "mean_word": "che mạng, khăn voan",
+        "id_group": "9"
+    },
+    {
+        "id_word": "521",
+        "name_word": "wedding card",
+        "classifier": "n",
+        "pronounce_word": "/'wediŋ kɑ:d/",
+        "mean_word": "thiệp cưới, thiếp mời đám cưới (card: thẻ - thiếp)",
+        "id_group": "9"
+    },
+    {
+        "id_word": "522",
+        "name_word": "wedding party",
+        "classifier": "n",
+        "pronounce_word": "/'wediŋ 'pɑ:ti/",
+        "mean_word": "tiệc cưới",
+        "id_group": "9"
+    },
+    {
+        "id_word": "523",
+        "name_word": "wedding ring",
+        "classifier": "n",
+        "pronounce_word": "/'wediŋ riŋ/",
+        "mean_word": "nhẫn cưới",
+        "id_group": "9"
+    },
+    {
+        "id_word": "524",
+        "name_word": "wedding gown",
+        "classifier": "n",
+        "pronounce_word": "/'wediŋ gaʊn/",
+        "mean_word": "váy cưới",
+        "id_group": "9"
+    },
+    {
+        "id_word": "525",
+        "name_word": "widow",
+        "classifier": "n",
+        "pronounce_word": "/'widəʊ/",
+        "mean_word": "người đàn bà góa, quả phụ",
+        "id_group": "9"
+    },
+    {
+        "id_word": "526",
+        "name_word": "widower",
+        "classifier": "n",
+        "pronounce_word": "/'widəʊə[r]/",
+        "mean_word": "người góa vợ",
+        "id_group": "9"
+    },
+    {
+        "id_word": "527",
+        "name_word": "wife",
+        "classifier": "n",
+        "pronounce_word": "/waif/",
+        "mean_word": "vợ",
+        "id_group": "9"
+    },
+    {
+        "id_word": "528",
+        "name_word": "adulterous",
+        "classifier": "adj",
+        "pronounce_word": "/ə'dʌltərəs/",
+        "mean_word": "ngoại tình",
+        "id_group": "9"
+    },
+    {
+        "id_word": "529",
+        "name_word": "betrothed",
+        "classifier": "adj",
+        "pronounce_word": "/bi'trəʊðd/",
+        "mean_word": "người hứa hôn, đã hứa hôn",
+        "id_group": "9"
+    },
+    {
+        "id_word": "530",
+        "name_word": "celibate",
+        "classifier": "adj",
+        "pronounce_word": "/'selibət/",
+        "mean_word": "độc thân",
+        "id_group": "9"
+    },
+    {
+        "id_word": "531",
+        "name_word": "childless",
+        "classifier": "adj",
+        "pronounce_word": "/'t∫aildlis/",
+        "mean_word": "không có con",
+        "id_group": "9"
+    },
+    {
+        "id_word": "532",
+        "name_word": "faithful",
+        "classifier": "adj",
+        "pronounce_word": "/'feiθfl/",
+        "mean_word": "trung thành, chung thủy",
+        "id_group": "9"
+    },
+    {
+        "id_word": "533",
+        "name_word": "flirtatious",
+        "classifier": "adj",
+        "pronounce_word": "/flɜ:'tei∫əs/",
+        "mean_word": "lẳng lơ, thích ve vãn, thích tán tỉnh",
+        "id_group": "9"
+    },
+    {
+        "id_word": "534",
+        "name_word": "jealous",
+        "classifier": "adj",
+        "pronounce_word": "/'dʒeləs/",
+        "mean_word": "ghen",
+        "id_group": "9"
+    },
+    {
+        "id_word": "535",
+        "name_word": "lovelorn",
+        "classifier": "adj",
+        "pronounce_word": "/'lʌvlɔ:n/",
+        "mean_word": "thất tình",
+        "id_group": "9"
+    },
+    {
+        "id_word": "536",
+        "name_word": "lovesick",
+        "classifier": "adj",
+        "pronounce_word": "/'lʌvsik/",
+        "mean_word": "tương tư",
+        "id_group": "9"
+    },
+    {
+        "id_word": "537",
+        "name_word": "happy",
+        "classifier": "adj",
+        "pronounce_word": "/'hæpi/",
+        "mean_word": "hạnh phúc, sung sướng",
+        "id_group": "9"
+    },
+    {
+        "id_word": "538",
+        "name_word": "married",
+        "classifier": "adj",
+        "pronounce_word": "/'mærid/",
+        "mean_word": "đã lập gia đình, đã kết hôn",
+        "id_group": "9"
+    },
+    {
+        "id_word": "539",
+        "name_word": "morganatic",
+        "classifier": "adj",
+        "pronounce_word": "/,mɔ:gə'nætik/",
+        "mean_word": "không môn đăng hộ đối",
+        "id_group": "9"
+    },
+    {
+        "id_word": "540",
+        "name_word": "pert",
+        "classifier": "adj",
+        "pronounce_word": "/pɜ:t/",
+        "mean_word": "vô lễ, hỗn xược",
+        "id_group": "9"
+    },
+    {
+        "id_word": "541",
+        "name_word": "portionless",
+        "classifier": "adj",
+        "pronounce_word": "/'pɔ:ʃnlis/",
+        "mean_word": "không có của hồi môn",
+        "id_group": "9"
+    },
+    {
+        "id_word": "542",
+        "name_word": "sparkish",
+        "classifier": "adj",
+        "pronounce_word": "/'spɑ:kiʃ/",
+        "mean_word": "trai lơ, hay tán gái",
+        "id_group": "9"
+    },
+    {
+        "id_word": "543",
+        "name_word": "single",
+        "classifier": "adj",
+        "pronounce_word": "/siŋgl/",
+        "mean_word": "độc thân",
+        "id_group": "9"
+    },
+    {
+        "id_word": "544",
+        "name_word": "cohabit",
+        "classifier": "v",
+        "pronounce_word": "/kəʊ'hæbit/",
+        "mean_word": "sống thử, ăn ở với nhau",
+        "id_group": "9"
+    },
+    {
+        "id_word": "545",
+        "name_word": "engage",
+        "classifier": "v",
+        "pronounce_word": "/in'geidʒ/",
+        "mean_word": "đính hôn",
+        "id_group": "9"
+    },
+    {
+        "id_word": "546",
+        "name_word": "get married",
+        "classifier": "v",
+        "pronounce_word": "/get 'mærid/",
+        "mean_word": "kết hôn",
+        "id_group": "9"
+    },
+    {
+        "id_word": "547",
+        "name_word": "divorce",
+        "classifier": "v",
+        "pronounce_word": "/di'vɔ:s/",
+        "mean_word": "ly hôn",
+        "id_group": "9"
+    },
+    {
+        "id_word": "548",
+        "name_word": "father",
+        "classifier": "n",
+        "pronounce_word": "/'fɑ:ðə[r]/",
+        "mean_word": "ba, bố, cha",
+        "id_group": "10"
+    },
+    {
+        "id_word": "549",
+        "name_word": "mother",
+        "classifier": "n",
+        "pronounce_word": "/'mʌðə[r]/",
+        "mean_word": "mẹ, má",
+        "id_group": "10"
+    },
+    {
+        "id_word": "550",
+        "name_word": "sister",
+        "classifier": "n",
+        "pronounce_word": "/'sistə[r]/",
+        "mean_word": "chị gái, em gái",
+        "id_group": "10"
+    },
+    {
+        "id_word": "551",
+        "name_word": "brother",
+        "classifier": "n",
+        "pronounce_word": "/'brʌðə[r]/",
+        "mean_word": "anh trai, em trai",
+        "id_group": "10"
+    },
+    {
+        "id_word": "552",
+        "name_word": "aunt",
+        "classifier": "n",
+        "pronounce_word": "/ɑ:nt/",
+        "mean_word": "cô, dì, thím, mợ, bác gái",
+        "id_group": "10"
+    },
+    {
+        "id_word": "553",
+        "name_word": "uncle",
+        "classifier": "n",
+        "pronounce_word": "/'ʌŋkl/",
+        "mean_word": "bác, chú, cậu",
+        "id_group": "10"
+    },
+    {
+        "id_word": "554",
+        "name_word": "son",
+        "classifier": "n",
+        "pronounce_word": "/sʌn/",
+        "mean_word": "con trai",
+        "id_group": "10"
+    },
+    {
+        "id_word": "555",
+        "name_word": "daughter",
+        "classifier": "n",
+        "pronounce_word": "/'dɔ:tə[r]/",
+        "mean_word": "con gái",
+        "id_group": "10"
+    },
+    {
+        "id_word": "556",
+        "name_word": "bastard",
+        "classifier": "n",
+        "pronounce_word": "/'bɑ:stəd/",
+        "mean_word": "con hoang, con rơi",
+        "id_group": "10"
+    },
+    {
+        "id_word": "557",
+        "name_word": "stepchild",
+        "classifier": "n",
+        "pronounce_word": "/'stept∫aild/",
+        "mean_word": "con riêng, con ghẻ",
+        "id_group": "10"
+    },
+    {
+        "id_word": "558",
+        "name_word": "cousin",
+        "classifier": "n",
+        "pronounce_word": "/'kʌzn/",
+        "mean_word": "anh chị em họ",
+        "id_group": "10"
+    },
+    {
+        "id_word": "559",
+        "name_word": "sibling",
+        "classifier": "n",
+        "pronounce_word": "/'sibliŋ/",
+        "mean_word": "anh chị em ruột",
+        "id_group": "10"
+    },
+    {
+        "id_word": "560",
+        "name_word": "twin",
+        "classifier": "n",
+        "pronounce_word": "/twin/",
+        "mean_word": "anh chị em sinh đôi",
+        "id_group": "10"
+    },
+    {
+        "id_word": "561",
+        "name_word": "father-in-law",
+        "classifier": "n",
+        "pronounce_word": "/'fɑ:ðəinlɔ:/",
+        "mean_word": "bố chồng, bố vợ, (law: luật)",
+        "id_group": "10"
+    },
+    {
+        "id_word": "562",
+        "name_word": "daughter-in-law",
+        "classifier": "n",
+        "pronounce_word": "/'dɔ:tərinlɔ:/",
+        "mean_word": "con dâu, (law: luật)",
+        "id_group": "10"
+    },
+    {
+        "id_word": "563",
+        "name_word": "son-in-law",
+        "classifier": "n",
+        "pronounce_word": "/'sʌninlɔ:/",
+        "mean_word": "con rể, (law: luật)",
+        "id_group": "10"
+    },
+    {
+        "id_word": "564",
+        "name_word": "sister-in-law",
+        "classifier": "n",
+        "pronounce_word": "/'sistə,inlɔ:/",
+        "mean_word": "chị dâu, cô em dâu, chị vợ, cô em vợ, (law: luật)",
+        "id_group": "10"
+    },
+    {
+        "id_word": "565",
+        "name_word": "brother-in-law",
+        "classifier": "n",
+        "pronounce_word": "/'brʌðərinlɔ:/",
+        "mean_word": "anh em chồng, anh em vợ, anh em rể, (law: luật)",
+        "id_group": "10"
+    },
+    {
+        "id_word": "566",
+        "name_word": "folks",
+        "classifier": "n",
+        "pronounce_word": "/fəʊks/",
+        "mean_word": "người thân thuộc",
+        "id_group": "10"
+    },
+    {
+        "id_word": "567",
+        "name_word": "godchild",
+        "classifier": "n",
+        "pronounce_word": "/'gɔdt∫aild/",
+        "mean_word": "con đỡ đầu",
+        "id_group": "10"
+    },
+    {
+        "id_word": "568",
+        "name_word": "goddaughter",
+        "classifier": "n",
+        "pronounce_word": "/'gɔddɔ:tə/",
+        "mean_word": "con gái đỡ đầu",
+        "id_group": "10"
+    },
+    {
+        "id_word": "569",
+        "name_word": "godparents",
+        "classifier": "n",
+        "pronounce_word": "/'gɔdpeərənt/",
+        "mean_word": "người đỡ đầu",
+        "id_group": "10"
+    },
+    {
+        "id_word": "570",
+        "name_word": "grandchild",
+        "classifier": "n",
+        "pronounce_word": "/'grændt∫aid/",
+        "mean_word": "cháu, cháu nội, cháu ngoại",
+        "id_group": "10"
+    },
+    {
+        "id_word": "571",
+        "name_word": "granddaughter",
+        "classifier": "n",
+        "pronounce_word": "/'grændɔ:tə[r]/",
+        "mean_word": "cháu gái",
+        "id_group": "10"
+    },
+    {
+        "id_word": "572",
+        "name_word": "grandson",
+        "classifier": "n",
+        "pronounce_word": "/'grændsʌn/",
+        "mean_word": "cháu trai",
+        "id_group": "10"
+    },
+    {
+        "id_word": "573",
+        "name_word": "grandmother",
+        "classifier": "n",
+        "pronounce_word": "/'grændmʌðər[r]/",
+        "mean_word": "bà",
+        "id_group": "10"
+    },
+    {
+        "id_word": "574",
+        "name_word": "grandfather",
+        "classifier": "n",
+        "pronounce_word": "/'grændfɑ:ðə[r]/",
+        "mean_word": "ông",
+        "id_group": "10"
+    },
+    {
+        "id_word": "575",
+        "name_word": "grandparents",
+        "classifier": "n",
+        "pronounce_word": "/'grænpeərənts/",
+        "mean_word": "ông bà",
+        "id_group": "10"
+    },
+    {
+        "id_word": "576",
+        "name_word": "great-grand-child",
+        "classifier": "n",
+        "pronounce_word": "/greit'grændt∫aid/",
+        "mean_word": "cháu chắt",
+        "id_group": "10"
+    },
+    {
+        "id_word": "577",
+        "name_word": "great-grand-parents",
+        "classifier": "n",
+        "pronounce_word": "/greit'grænpeərənts/",
+        "mean_word": "ông bà cố",
+        "id_group": "10"
+    },
+    {
+        "id_word": "578",
+        "name_word": "half-brother",
+        "classifier": "n",
+        "pronounce_word": "/'hɑ:fbrʌđə[r]/",
+        "mean_word": "anh em khác cha hoặc mẹ, (half: một nửa)",
+        "id_group": "10"
+    },
+    {
+        "id_word": "579",
+        "name_word": "half-sister",
+        "classifier": "n",
+        "pronounce_word": "/'hɑ:f sistə[r]/",
+        "mean_word": "chị em khác cha hoặc mẹ, (half: một nửa)",
+        "id_group": "10"
+    },
+    {
+        "id_word": "580",
+        "name_word": "neighbor",
+        "classifier": "n",
+        "pronounce_word": "/ˈneɪ·bər/",
+        "mean_word": "hàng xóm",
+        "id_group": "10"
+    },
+    {
+        "id_word": "581",
+        "name_word": "nephew",
+        "classifier": "n",
+        "pronounce_word": "/'nevju:/",
+        "mean_word": "cháu trai",
+        "id_group": "10"
+    },
+    {
+        "id_word": "582",
+        "name_word": "niece",
+        "classifier": "n",
+        "pronounce_word": "/ni:s/",
+        "mean_word": "cháu gái",
+        "id_group": "10"
+    },
+    {
+        "id_word": "583",
+        "name_word": "orphan",
+        "classifier": "n",
+        "pronounce_word": "/'ɔ:fn/",
+        "mean_word": "trẻ mồ côi",
+        "id_group": "10"
+    },
+    {
+        "id_word": "584",
+        "name_word": "relative",
+        "classifier": "n",
+        "pronounce_word": "/'relətiv/",
+        "mean_word": "bà con, họ hàng, họ hàng thân thuộc",
+        "id_group": "10"
+    },
+    {
+        "id_word": "585",
+        "name_word": "step-mother",
+        "classifier": "n",
+        "pronounce_word": "/step 'mʌðə[r]/",
+        "mean_word": "mẹ kế, mẹ ghẻ",
+        "id_group": "10"
+    },
+    {
+        "id_word": "586",
+        "name_word": "step-father",
+        "classifier": "n",
+        "pronounce_word": "/step 'fɑ:ðə[r]/",
+        "mean_word": "dượng, bố dượng",
+        "id_group": "10"
+    },
+    {
+        "id_word": "587",
+        "name_word": "step-child",
+        "classifier": "n",
+        "pronounce_word": "/step t∫aild/",
+        "mean_word": "con riêng",
+        "id_group": "10"
+    },
+    {
+        "id_word": "588",
+        "name_word": "foster-mother",
+        "classifier": "n",
+        "pronounce_word": "/'fɔstə mʌðə/",
+        "mean_word": "mẹ nuôi, vú nuôi",
+        "id_group": "10"
+    },
+    {
+        "id_word": "589",
+        "name_word": "foster-father",
+        "classifier": "n",
+        "pronounce_word": "/'fɔstə fɑ:ðə/",
+        "mean_word": "bố nuôi",
+        "id_group": "10"
+    },
+    {
+        "id_word": "590",
+        "name_word": "foster-child",
+        "classifier": "n",
+        "pronounce_word": "/'fɔstətʃaild/",
+        "mean_word": "con nuôi",
+        "id_group": "10"
+    },
+    {
+        "id_word": "591",
+        "name_word": "dishonest",
+        "classifier": "adj",
+        "pronounce_word": "/dis'ɒnist/",
+        "mean_word": "bất lương, bất chính, không trung thực",
+        "id_group": "10"
+    },
+    {
+        "id_word": "592",
+        "name_word": "dutiful",
+        "classifier": "adj",
+        "pronounce_word": "/'dju:tifl/",
+        "mean_word": "có hiếu, biết vâng lời làm tròn bổn phận",
+        "id_group": "10"
+    },
+    {
+        "id_word": "593",
+        "name_word": "grateful",
+        "classifier": "adj",
+        "pronounce_word": "/'greitful/",
+        "mean_word": "biết ơn",
+        "id_group": "10"
+    },
+    {
+        "id_word": "594",
+        "name_word": "ill-bred",
+        "classifier": "adj",
+        "pronounce_word": "/il'bred/",
+        "mean_word": "mất dạy, vô giáo dục",
+        "id_group": "10"
+    },
+    {
+        "id_word": "595",
+        "name_word": "illegitimate",
+        "classifier": "adj",
+        "pronounce_word": "/,ili'dʒitimət/",
+        "mean_word": "ngoài giá thú",
+        "id_group": "10"
+    },
+    {
+        "id_word": "596",
+        "name_word": "impious",
+        "classifier": "adj",
+        "pronounce_word": "/'impiəs/",
+        "mean_word": "bất hiếu, nghịch đạo, bất kính",
+        "id_group": "10"
+    },
+    {
+        "id_word": "597",
+        "name_word": "kindred",
+        "classifier": "adj",
+        "pronounce_word": "/'kindrəd/",
+        "mean_word": "cùng họ hàng",
+        "id_group": "10"
+    },
+    {
+        "id_word": "598",
+        "name_word": "fatherless",
+        "classifier": "adj",
+        "pronounce_word": "/'fɑ:ðəlis/",
+        "mean_word": "mồ côi cha, không có cha",
+        "id_group": "10"
+    },
+    {
+        "id_word": "599",
+        "name_word": "motherless",
+        "classifier": "adj",
+        "pronounce_word": "/'mʌðələs/",
+        "mean_word": "mồ côi mẹ, không có mẹ",
+        "id_group": "10"
+    },
+    {
+        "id_word": "600",
+        "name_word": "homeless",
+        "classifier": "adj",
+        "pronounce_word": "/'həʊmlis/",
+        "mean_word": "vô gia cư, không nhà cửa",
+        "id_group": "10"
+    },
+    {
+        "id_word": "601",
+        "name_word": "undutiful",
+        "classifier": "adj",
+        "pronounce_word": "/'ʌn'dju:tiful/",
+        "mean_word": "không biết vâng lời, không biết kính trọng",
+        "id_group": "10"
+    },
+    {
+        "id_word": "602",
+        "name_word": "well-bred",
+        "classifier": "adj",
+        "pronounce_word": "/,wel'bred/",
+        "mean_word": "có giáo dục",
+        "id_group": "10"
+    },
+    {
+        "id_word": "603",
+        "name_word": "obey",
+        "classifier": "v",
+        "pronounce_word": "/ə'bei/",
+        "mean_word": "vâng lời, vâng theo, tuân theo",
+        "id_group": "10"
+    },
+    {
+        "id_word": "604",
+        "name_word": "disobey",
+        "classifier": "v",
+        "pronounce_word": "/disə'bei/",
+        "mean_word": "không tuân theo, không vâng lời",
+        "id_group": "10"
+    },
+    {
+        "id_word": "605",
+        "name_word": "bring up",
+        "classifier": "v",
+        "pronounce_word": "/briŋ ʌp/",
+        "mean_word": "nuôi dưỡng",
+        "id_group": "10"
+    },
+    {
+        "id_word": "606",
+        "name_word": "foster",
+        "classifier": "v",
+        "pronounce_word": "/'fɒstə[r]/",
+        "mean_word": "nhận nuôi, nuôi dưỡng",
+        "id_group": "10"
     }
 ]
