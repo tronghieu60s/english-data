@@ -4846,5 +4846,885 @@
         "pronounce_word": "/'fɒstə[r]/",
         "mean_word": "nhận nuôi, nuôi dưỡng",
         "id_group": "10"
+    },
+    {
+        "id_word": "607",
+        "name_word": "accountant",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "kế toán viên",
+        "id_group": "11"
+    },
+    {
+        "id_word": "608",
+        "name_word": "actor",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nam diển viên",
+        "id_group": "11"
+    },
+    {
+        "id_word": "609",
+        "name_word": "actress",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nữ diễn viên",
+        "id_group": "11"
+    },
+    {
+        "id_word": "610",
+        "name_word": "architect",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "kiến trúc sư",
+        "id_group": "11"
+    },
+    {
+        "id_word": "611",
+        "name_word": "artist",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nghệ sĩ",
+        "id_group": "11"
+    },
+    {
+        "id_word": "612",
+        "name_word": "baker",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thợ làm bánh",
+        "id_group": "11"
+    },
+    {
+        "id_word": "613",
+        "name_word": "builder",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thợ xây",
+        "id_group": "11"
+    },
+    {
+        "id_word": "614",
+        "name_word": "burglar",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "kẻ trộm đêm",
+        "id_group": "11"
+    },
+    {
+        "id_word": "615",
+        "name_word": "butcher",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "người bán thịt",
+        "id_group": "11"
+    },
+    {
+        "id_word": "616",
+        "name_word": "carpenter",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thợ mộc",
+        "id_group": "11"
+    },
+    {
+        "id_word": "617",
+        "name_word": "chef",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "đầu bếp trưởng",
+        "id_group": "11"
+    },
+    {
+        "id_word": "618",
+        "name_word": "chemist",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhà nghiên cứu hóa học",
+        "id_group": "11"
+    },
+    {
+        "id_word": "619",
+        "name_word": "cook",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "đầu bếp",
+        "id_group": "11"
+    },
+    {
+        "id_word": "620",
+        "name_word": "cleaner",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhân viên quét dọn",
+        "id_group": "11"
+    },
+    {
+        "id_word": "621",
+        "name_word": "dancer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "vũ công",
+        "id_group": "11"
+    },
+    {
+        "id_word": "622",
+        "name_word": "dentist",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nha sĩ",
+        "id_group": "11"
+    },
+    {
+        "id_word": "623",
+        "name_word": "director",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "giám đốc",
+        "id_group": "11"
+    },
+    {
+        "id_word": "624",
+        "name_word": "doctor",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bác sĩ",
+        "id_group": "11"
+    },
+    {
+        "id_word": "625",
+        "name_word": "docker",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "công nhân bốc xếp ở bến tàu",
+        "id_group": "11"
+    },
+    {
+        "id_word": "626",
+        "name_word": "driver",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "tài xế lái xe",
+        "id_group": "11"
+    },
+    {
+        "id_word": "627",
+        "name_word": "electrician",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thợ điện",
+        "id_group": "11"
+    },
+    {
+        "id_word": "628",
+        "name_word": "engineer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "kỹ sư",
+        "id_group": "11"
+    },
+    {
+        "id_word": "629",
+        "name_word": "factory worker",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "công nhân xí nghiệp",
+        "id_group": "11"
+    },
+    {
+        "id_word": "630",
+        "name_word": "farmer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nông dân",
+        "id_group": "11"
+    },
+    {
+        "id_word": "631",
+        "name_word": "firefighter",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "lính cứu hỏa",
+        "id_group": "11"
+    },
+    {
+        "id_word": "632",
+        "name_word": "flight attendant",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "tiếp viên hàng không",
+        "id_group": "11"
+    },
+    {
+        "id_word": "633",
+        "name_word": "florist",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "người bán hoa",
+        "id_group": "11"
+    },
+    {
+        "id_word": "634",
+        "name_word": "graphic designer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "người thiết kế đồ họa",
+        "id_group": "11"
+    },
+    {
+        "id_word": "635",
+        "name_word": "hairdresser",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thợ làm tóc",
+        "id_group": "11"
+    },
+    {
+        "id_word": "636",
+        "name_word": "journalist",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhà báo",
+        "id_group": "11"
+    },
+    {
+        "id_word": "637",
+        "name_word": "labour",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "lao động, nhân công",
+        "id_group": "11"
+    },
+    {
+        "id_word": "638",
+        "name_word": "lawyer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "luật sư",
+        "id_group": "11"
+    },
+    {
+        "id_word": "639",
+        "name_word": "lecturer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "giảng viên",
+        "id_group": "11"
+    },
+    {
+        "id_word": "640",
+        "name_word": "manager",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "người quản lý",
+        "id_group": "11"
+    },
+    {
+        "id_word": "641",
+        "name_word": "model",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "người mẫu",
+        "id_group": "11"
+    },
+    {
+        "id_word": "642",
+        "name_word": "musician",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhạc sĩ",
+        "id_group": "11"
+    },
+    {
+        "id_word": "643",
+        "name_word": "nurse",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "y tá",
+        "id_group": "11"
+    },
+    {
+        "id_word": "644",
+        "name_word": "office worker",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhân viên văn phòng",
+        "id_group": "11"
+    },
+    {
+        "id_word": "645",
+        "name_word": "optician",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bác sĩ mắt",
+        "id_group": "11"
+    },
+    {
+        "id_word": "646",
+        "name_word": "painter",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "họa sĩ",
+        "id_group": "11"
+    },
+    {
+        "id_word": "647",
+        "name_word": "pharmacist",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "dược sĩ",
+        "id_group": "11"
+    },
+    {
+        "id_word": "648",
+        "name_word": "photographer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thợ ảnh",
+        "id_group": "11"
+    },
+    {
+        "id_word": "649",
+        "name_word": "plumber",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thợ sửa ống nước",
+        "id_group": "11"
+    },
+    {
+        "id_word": "650",
+        "name_word": "physlotherapist",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhà vật lý trị liệu",
+        "id_group": "11"
+    },
+    {
+        "id_word": "651",
+        "name_word": "pilot",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phi công",
+        "id_group": "11"
+    },
+    {
+        "id_word": "652",
+        "name_word": "playwright",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhà soạn kịch",
+        "id_group": "11"
+    },
+    {
+        "id_word": "653",
+        "name_word": "police officer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cảnh sát",
+        "id_group": "11"
+    },
+    {
+        "id_word": "654",
+        "name_word": "polictician",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "chính trị gia",
+        "id_group": "11"
+    },
+    {
+        "id_word": "655",
+        "name_word": "postman",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bưu tá",
+        "id_group": "11"
+    },
+    {
+        "id_word": "656",
+        "name_word": "programmer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "lập trình viên",
+        "id_group": "11"
+    },
+    {
+        "id_word": "657",
+        "name_word": "psychiatrist",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhà tâm thần học",
+        "id_group": "11"
+    },
+    {
+        "id_word": "658",
+        "name_word": "receptionist",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "lễ tân",
+        "id_group": "11"
+    },
+    {
+        "id_word": "659",
+        "name_word": "sailor",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thủy thủ",
+        "id_group": "11"
+    },
+    {
+        "id_word": "660",
+        "name_word": "salesman",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhân viên bán hàng nam",
+        "id_group": "11"
+    },
+    {
+        "id_word": "661",
+        "name_word": "saleswoman",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhân viên bán hàng nữ",
+        "id_group": "11"
+    },
+    {
+        "id_word": "662",
+        "name_word": "secretary",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thư ký",
+        "id_group": "11"
+    },
+    {
+        "id_word": "663",
+        "name_word": "singer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "ca sĩ",
+        "id_group": "11"
+    },
+    {
+        "id_word": "664",
+        "name_word": "shop assistant",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhân viên bán hàng",
+        "id_group": "11"
+    },
+    {
+        "id_word": "665",
+        "name_word": "shopkeeper",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "chủ cửa hàng",
+        "id_group": "11"
+    },
+    {
+        "id_word": "666",
+        "name_word": "social worker",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "người làm công tác xã hội",
+        "id_group": "11"
+    },
+    {
+        "id_word": "667",
+        "name_word": "soldier",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "người lính",
+        "id_group": "11"
+    },
+    {
+        "id_word": "668",
+        "name_word": "surgeon",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bác sĩ phẫu thuật",
+        "id_group": "11"
+    },
+    {
+        "id_word": "669",
+        "name_word": "staff",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhân viên",
+        "id_group": "11"
+    },
+    {
+        "id_word": "670",
+        "name_word": "tailor",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thợ máy",
+        "id_group": "11"
+    },
+    {
+        "id_word": "671",
+        "name_word": "teacher",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "giáo viên",
+        "id_group": "11"
+    },
+    {
+        "id_word": "672",
+        "name_word": "telephonist",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhân viên trực điện thoại",
+        "id_group": "11"
+    },
+    {
+        "id_word": "673",
+        "name_word": "translator",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phiên dịch viên",
+        "id_group": "11"
+    },
+    {
+        "id_word": "674",
+        "name_word": "travel agent",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhân viên đại lý du lịch",
+        "id_group": "11"
+    },
+    {
+        "id_word": "675",
+        "name_word": "writer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhà văn",
+        "id_group": "11"
+    },
+    {
+        "id_word": "676",
+        "name_word": "waiter",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bồi bàn nam",
+        "id_group": "11"
+    },
+    {
+        "id_word": "677",
+        "name_word": "waitress",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bồi bàn nữ",
+        "id_group": "11"
+    },
+    {
+        "id_word": "678",
+        "name_word": "web designer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "người thiết kế trang web",
+        "id_group": "11"
+    },
+    {
+        "id_word": "679",
+        "name_word": "housewife",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nội trợ",
+        "id_group": "11"
+    },
+    {
+        "id_word": "680",
+        "name_word": "vet",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bác sĩ thú y",
+        "id_group": "11"
+    },
+    {
+        "id_word": "681",
+        "name_word": "solicitor",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cố vấn pháp luật",
+        "id_group": "11"
+    },
+    {
+        "id_word": "682",
+        "name_word": "barrister",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "luật sư bào chữa",
+        "id_group": "11"
+    },
+    {
+        "id_word": "683",
+        "name_word": "shepherd",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "người chăn cừu",
+        "id_group": "11"
+    },
+    {
+        "id_word": "684",
+        "name_word": "trainee",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "người được huấn luyện",
+        "id_group": "11"
+    },
+    {
+        "id_word": "685",
+        "name_word": "advertisement",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự quảng cáo",
+        "id_group": "11"
+    },
+    {
+        "id_word": "686",
+        "name_word": "application",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự nộp đơn, đơn xin",
+        "id_group": "11"
+    },
+    {
+        "id_word": "687",
+        "name_word": "business",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "kinh doanh",
+        "id_group": "11"
+    },
+    {
+        "id_word": "688",
+        "name_word": "cash",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "tiền mặt",
+        "id_group": "11"
+    },
+    {
+        "id_word": "689",
+        "name_word": "crew",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "ban nhóm, đội",
+        "id_group": "11"
+    },
+    {
+        "id_word": "690",
+        "name_word": "economy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "kinh tế, nền kinh tế",
+        "id_group": "11"
+    },
+    {
+        "id_word": "691",
+        "name_word": "experience",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "kinh nghiệm",
+        "id_group": "11"
+    },
+    {
+        "id_word": "692",
+        "name_word": "interview",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cuộc phỏng vấn",
+        "id_group": "11"
+    },
+    {
+        "id_word": "693",
+        "name_word": "profit",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "lợi nhuận",
+        "id_group": "11"
+    },
+    {
+        "id_word": "694",
+        "name_word": "promotion",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự thăng chức, sự thăng tiến",
+        "id_group": "11"
+    },
+    {
+        "id_word": "695",
+        "name_word": "prospect",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "viễn tưởng, triển vọng",
+        "id_group": "11"
+    },
+    {
+        "id_word": "696",
+        "name_word": "qualification",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "trình độ chuyên môn, năng lực",
+        "id_group": "11"
+    },
+    {
+        "id_word": "697",
+        "name_word": "salary",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "lương, tiền lương",
+        "id_group": "11"
+    },
+    {
+        "id_word": "698",
+        "name_word": "income",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thu nhập",
+        "id_group": "11"
+    },
+    {
+        "id_word": "699",
+        "name_word": "wage",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "lương tính theo tuần",
+        "id_group": "11"
+    },
+    {
+        "id_word": "700",
+        "name_word": "pension",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "tiền trợ cấp, lương hưu",
+        "id_group": "11"
+    },
+    {
+        "id_word": "701",
+        "name_word": "vacancy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "chỗ trống, vị trí còn bỏ trống",
+        "id_group": "11"
+    },
+    {
+        "id_word": "702",
+        "name_word": "contract",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "hợp đồng",
+        "id_group": "11"
+    },
+    {
+        "id_word": "703",
+        "name_word": "redundancy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự dư thừa, công nhân thừa ra",
+        "id_group": "11"
+    },
+    {
+        "id_word": "704",
+        "name_word": "boss",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sếp",
+        "id_group": "11"
+    },
+    {
+        "id_word": "705",
+        "name_word": "colleague",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "đồng nghiệp",
+        "id_group": "11"
+    },
+    {
+        "id_word": "706",
+        "name_word": "department",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phòng ban",
+        "id_group": "11"
+    },
+    {
+        "id_word": "707",
+        "name_word": "earn",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "kiếm tiền, kiếm sống",
+        "id_group": "11"
+    },
+    {
+        "id_word": "708",
+        "name_word": "gain",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "đạt được",
+        "id_group": "11"
+    },
+    {
+        "id_word": "709",
+        "name_word": "retire",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "về hưu",
+        "id_group": "11"
+    },
+    {
+        "id_word": "710",
+        "name_word": "part-time",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bán thời gian",
+        "id_group": "11"
+    },
+    {
+        "id_word": "711",
+        "name_word": "full-time",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "toàn thời gian",
+        "id_group": "11"
+    },
+    {
+        "id_word": "712",
+        "name_word": "permanent",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "dài hạn",
+        "id_group": "11"
+    },
+    {
+        "id_word": "713",
+        "name_word": "overtime",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "làm ngoài giờ",
+        "id_group": "11"
+    },
+    {
+        "id_word": "714",
+        "name_word": "redundant",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bị thừa",
+        "id_group": "11"
+    },
+    {
+        "id_word": "715",
+        "name_word": "unemployed",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thất nghiệp",
+        "id_group": "11"
+    },
+    {
+        "id_word": "716",
+        "name_word": "temporary",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "tạm thời, nhất thời",
+        "id_group": "11"
     }
 ]
