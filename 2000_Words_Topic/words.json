@@ -83,7 +83,7 @@
         "id_word": "11",
         "name_word": "clever",
         "classifier": "adj",
-        "pronounce_word": "/'klevə[r]/",
+        "pronounce_word": "/'klevər/",
         "mean_word": "thông minh, lanh lợi",
         "id_group": "1"
     },
@@ -179,7 +179,7 @@
         "id_word": "23",
         "name_word": "mature",
         "classifier": "adj",
-        "pronounce_word": "/mə't∫ʊə[r]/",
+        "pronounce_word": "/mə't∫ʊər/",
         "mean_word": "trưởng thành",
         "id_group": "1"
     },
@@ -187,7 +187,7 @@
         "id_word": "24",
         "name_word": "miser",
         "classifier": "adj",
-        "pronounce_word": "/'maizə[r]/",
+        "pronounce_word": "/'maizər/",
         "mean_word": "người keo kiệt, người bủn xỉn",
         "id_group": "1"
     },
@@ -571,7 +571,7 @@
         "id_word": "72",
         "name_word": "amateur",
         "classifier": "n",
-        "pronounce_word": "/'æmətə[r]/",
+        "pronounce_word": "/'æmətər/",
         "mean_word": "người chơi nghiệp dư, người chơi không chuyên",
         "id_group": "2"
     },
@@ -587,7 +587,7 @@
         "id_word": "74",
         "name_word": "ancestor",
         "classifier": "n",
-        "pronounce_word": "/'ænsestə[r]/",
+        "pronounce_word": "/'ænsestər/",
         "mean_word": "tổ tiên, ông tổ",
         "id_group": "2"
     },
@@ -651,7 +651,7 @@
         "id_word": "82",
         "name_word": "bachelor",
         "classifier": "n",
-        "pronounce_word": "/'bæt∫ələ[r]/",
+        "pronounce_word": "/'bæt∫ələr/",
         "mean_word": "người chưa vợ, người độc thân",
         "id_group": "2"
     },
@@ -667,7 +667,7 @@
         "id_word": "84",
         "name_word": "benefactor",
         "classifier": "n",
-        "pronounce_word": "/'benifæktə[r]/",
+        "pronounce_word": "/'benifæktər/",
         "mean_word": "người làm việc nghĩa, nhà hảo tâm",
         "id_group": "2"
     },
@@ -723,7 +723,7 @@
         "id_word": "91",
         "name_word": "compere",
         "classifier": "n",
-        "pronounce_word": "/'kɒmpeə[r]/",
+        "pronounce_word": "/'kɒmpeər/",
         "mean_word": "người dẫn chương trình",
         "id_group": "2"
     },
@@ -731,7 +731,7 @@
         "id_word": "92",
         "name_word": "connoisseur",
         "classifier": "n",
-        "pronounce_word": "/,kɒnə'sɜ:[r]/",
+        "pronounce_word": "/,kɒnə'sɜ:r/",
         "mean_word": "người sành sỏi, người thành thạo",
         "id_group": "2"
     },
@@ -739,7 +739,7 @@
         "id_word": "93",
         "name_word": "conqueror",
         "classifier": "n",
-        "pronounce_word": "/'kɒŋkərə[r]/",
+        "pronounce_word": "/'kɒŋkərər/",
         "mean_word": "người chinh phục",
         "id_group": "2"
     },
@@ -779,7 +779,7 @@
         "id_word": "98",
         "name_word": "eavesdropper",
         "classifier": "n",
-        "pronounce_word": "/'i:vzdrɒpə[r]/",
+        "pronounce_word": "/'i:vzdrɒpər/",
         "mean_word": "người nghe trộm",
         "id_group": "2"
     },
@@ -867,7 +867,7 @@
         "id_word": "109",
         "name_word": "martyr",
         "classifier": "n",
-        "pronounce_word": "/'mɑ:tə[r]/",
+        "pronounce_word": "/'mɑ:tər/",
         "mean_word": "người tử vì đạo, người chết vì nghĩa",
         "id_group": "2"
     },
@@ -907,7 +907,7 @@
         "id_word": "114",
         "name_word": "moderator",
         "classifier": "n",
-        "pronounce_word": "/'mɒdəreitə[r]/",
+        "pronounce_word": "/'mɒdəreitər/",
         "mean_word": "người hoà giải",
         "id_group": "2"
     },
@@ -931,7 +931,7 @@
         "id_word": "117",
         "name_word": "non-smoker",
         "classifier": "n",
-        "pronounce_word": "/,nɒn 'sməʊkə[r]/",
+        "pronounce_word": "/,nɒn 'sməʊkər/",
         "mean_word": "người không hút thuốc",
         "id_group": "2"
     },
@@ -1011,7 +1011,7 @@
         "id_word": "127",
         "name_word": "predecessor",
         "classifier": "n",
-        "pronounce_word": "/'pri:disesə[r]/",
+        "pronounce_word": "/'pri:disesər/",
         "mean_word": "người tiền nhiệm",
         "id_group": "2"
     },
@@ -1067,7 +1067,7 @@
         "id_word": "134",
         "name_word": "smoker",
         "classifier": "n",
-        "pronounce_word": "/'sməʊkə[r]/",
+        "pronounce_word": "/'sməʊkər/",
         "mean_word": "người nghiện thuốc, toa hút thuốc",
         "id_group": "2"
     },
@@ -1083,7 +1083,7 @@
         "id_word": "136",
         "name_word": "spinster",
         "classifier": "n",
-        "pronounce_word": "/'spinstə[r]/",
+        "pronounce_word": "/'spinstər/",
         "mean_word": "người phụ nữ độc thân",
         "id_group": "2"
     },
@@ -1091,7 +1091,7 @@
         "id_word": "137",
         "name_word": "sponsor",
         "classifier": "n",
-        "pronounce_word": "/spɒnsə[r]/",
+        "pronounce_word": "/spɒnsər/",
         "mean_word": "cha đỡ đầu, mẹ đỡ đầu, người bảo trợ, hãng tài trợ",
         "id_group": "2"
     },
@@ -1107,7 +1107,7 @@
         "id_word": "139",
         "name_word": "successor",
         "classifier": "n",
-        "pronounce_word": "/sək'sesə[r]/",
+        "pronounce_word": "/sək'sesər/",
         "mean_word": "người kế nhiệm",
         "id_group": "2"
     },
@@ -1131,7 +1131,7 @@
         "id_word": "142",
         "name_word": "traitor",
         "classifier": "n",
-        "pronounce_word": "/'treitə[r]/",
+        "pronounce_word": "/'treitər/",
         "mean_word": "kẻ phản bội, kẻ phản quốc",
         "id_group": "2"
     },
@@ -1147,7 +1147,7 @@
         "id_word": "144",
         "name_word": "usher",
         "classifier": "n",
-        "pronounce_word": "/'ʌ∫ə[r]/",
+        "pronounce_word": "/'ʌ∫ər/",
         "mean_word": "người xếp chỗ",
         "id_group": "2"
     },
@@ -1187,7 +1187,7 @@
         "id_word": "149",
         "name_word": "volunteer",
         "classifier": "n",
-        "pronounce_word": "/,vɒlən'tiə[r]/",
+        "pronounce_word": "/,vɒlən'tiər/",
         "mean_word": "người tình nguyện, tình nguyện viên, quân tình nguyện",
         "id_group": "2"
     },
@@ -1243,7 +1243,7 @@
         "id_word": "156",
         "name_word": "shoulder",
         "classifier": "n",
-        "pronounce_word": "/∫əʊldə[r]/",
+        "pronounce_word": "/∫əʊldər/",
         "mean_word": "vai",
         "id_group": "3"
     },
@@ -1259,7 +1259,7 @@
         "id_word": "158",
         "name_word": "upper arm",
         "classifier": "n",
-        "pronounce_word": "/'ʌpə[r] ɑ:m/",
+        "pronounce_word": "/'ʌpər ɑ:m/",
         "mean_word": "cánh tay trên",
         "id_group": "3"
     },
@@ -1443,7 +1443,7 @@
         "id_word": "181",
         "name_word": "hair",
         "classifier": "n",
-        "pronounce_word": "/heə[r]/",
+        "pronounce_word": "/heər/",
         "mean_word": "tóc",
         "id_group": "3"
     },
@@ -1723,7 +1723,7 @@
         "id_word": "216",
         "name_word": "liver",
         "classifier": "n",
-        "pronounce_word": "/'livə[r]/",
+        "pronounce_word": "/'livər/",
         "mean_word": "gan",
         "id_group": "3"
     },
@@ -1779,7 +1779,7 @@
         "id_word": "223",
         "name_word": "bladder",
         "classifier": "n",
-        "pronounce_word": "/'blædə[r]/",
+        "pronounce_word": "/'blædər/",
         "mean_word": "bàng quang, bóng đái",
         "id_group": "3"
     },
@@ -1803,7 +1803,7 @@
         "id_word": "226",
         "name_word": "square",
         "classifier": "adj",
-        "pronounce_word": "/skweə[r]/",
+        "pronounce_word": "/skweər/",
         "mean_word": "hình vuông",
         "id_group": "4"
     },
@@ -1819,7 +1819,7 @@
         "id_word": "228",
         "name_word": "scar",
         "classifier": "n",
-        "pronounce_word": "/skɑ:[r]/",
+        "pronounce_word": "/skɑ:r/",
         "mean_word": "vết sẹo, sẹo",
         "id_group": "4"
     },
@@ -1963,7 +1963,7 @@
         "id_word": "246",
         "name_word": "fair",
         "classifier": "adj",
-        "pronounce_word": "/feə[r]/",
+        "pronounce_word": "/feər/",
         "mean_word": "trắng, sáng",
         "id_group": "5"
     },
@@ -2155,7 +2155,7 @@
         "id_word": "270",
         "name_word": "muscular",
         "classifier": "adj",
-        "pronounce_word": "/'mʌskjʊlə[r]/",
+        "pronounce_word": "/'mʌskjʊlər/",
         "mean_word": "nổi bắp thịt, cơ bắp to khỏe",
         "id_group": "5"
     },
@@ -2571,7 +2571,7 @@
         "id_word": "322",
         "name_word": "stare",
         "classifier": "v",
-        "pronounce_word": "/steə[r]/",
+        "pronounce_word": "/steər/",
         "mean_word": "nhìn chằm chằm, trố mắt nhìn",
         "id_group": "6"
     },
@@ -2675,7 +2675,7 @@
         "id_word": "335",
         "name_word": "whisper",
         "classifier": "v",
-        "pronounce_word": "/'wispə[r]/",
+        "pronounce_word": "/'wispər/",
         "mean_word": "thì thầm, xì xào",
         "id_group": "6"
     },
@@ -2747,7 +2747,7 @@
         "id_word": "344",
         "name_word": "bored",
         "classifier": "adj",
-        "pronounce_word": "/bɔ:[r]/",
+        "pronounce_word": "/bɔ:r/",
         "mean_word": "buồn chán",
         "id_group": "7"
     },
@@ -3035,7 +3035,7 @@
         "id_word": "380",
         "name_word": "scared",
         "classifier": "adj",
-        "pronounce_word": "/skeə[r]d/",
+        "pronounce_word": "/skeərd/",
         "mean_word": "hoảng sợ, hoảng loạn",
         "id_group": "7"
     },
@@ -3235,7 +3235,7 @@
         "id_word": "405",
         "name_word": "blister",
         "classifier": "n",
-        "pronounce_word": "/'blistə[r]/",
+        "pronounce_word": "/'blistər/",
         "mean_word": "chỗ rộp, vết bỏng rộp",
         "id_group": "8"
     },
@@ -3243,7 +3243,7 @@
         "id_word": "406",
         "name_word": "blood pressure",
         "classifier": "n",
-        "pronounce_word": "/'blʌd,pre∫ə[r]/",
+        "pronounce_word": "/'blʌd,pre∫ər/",
         "mean_word": "huyết áp, (pressure: áp lực)",
         "id_group": "8"
     },
@@ -3315,7 +3315,7 @@
         "id_word": "415",
         "name_word": "eating disorder",
         "classifier": "n",
-        "pronounce_word": "/'i:tiɳ dis'ɔ:də[r]/",
+        "pronounce_word": "/'i:tiɳ dis'ɔ:dər/",
         "mean_word": "rối loạn ăn uống",
         "id_group": "8"
     },
@@ -3339,7 +3339,7 @@
         "id_word": "418",
         "name_word": "fracture",
         "classifier": "n",
-        "pronounce_word": "/'frækt∫ə[r]/",
+        "pronounce_word": "/'frækt∫ər/",
         "mean_word": "gãy xương, chỗ gãy xương",
         "id_group": "8"
     },
@@ -3347,7 +3347,7 @@
         "id_word": "419",
         "name_word": "hangover",
         "classifier": "n",
-        "pronounce_word": "/'hæηəʊvə[r]/",
+        "pronounce_word": "/'hæηəʊvər/",
         "mean_word": "cảm giác khó chịu, dư vị khó chịu của bữa rượu say, tàn dư",
         "id_group": "8"
     },
@@ -3355,7 +3355,7 @@
         "id_word": "420",
         "name_word": "hay fever",
         "classifier": "n",
-        "pronounce_word": "/'heifi:və[r]/",
+        "pronounce_word": "/'heifi:vər/",
         "mean_word": "sốt mùa hè",
         "id_group": "8"
     },
@@ -3443,7 +3443,7 @@
         "id_word": "431",
         "name_word": "lung cancer",
         "classifier": "n",
-        "pronounce_word": "/lʌη 'kænsə[r]/",
+        "pronounce_word": "/lʌη 'kænsər/",
         "mean_word": "ung thư phổi, (lung: phổi)",
         "id_group": "8"
     },
@@ -3611,7 +3611,7 @@
         "id_word": "452",
         "name_word": "sore throat",
         "classifier": "n",
-        "pronounce_word": "/sɔ:[r] θrəʊt/",
+        "pronounce_word": "/sɔ:r θrəʊt/",
         "mean_word": "viêm họng",
         "id_group": "8"
     },
@@ -3683,7 +3683,7 @@
         "id_word": "461",
         "name_word": "ulcer",
         "classifier": "n",
-        "pronounce_word": "/'ʌlsə[r]/",
+        "pronounce_word": "/'ʌlsər/",
         "mean_word": "loét",
         "id_group": "8"
     },
@@ -3715,7 +3715,7 @@
         "id_word": "465",
         "name_word": "cure",
         "classifier": "v",
-        "pronounce_word": "/kjʊə[r]/",
+        "pronounce_word": "/kjʊər/",
         "mean_word": "chữa khỏi, chữa trị, chữa",
         "id_group": "8"
     },
@@ -3747,7 +3747,7 @@
         "id_word": "469",
         "name_word": "recover",
         "classifier": "v",
-        "pronounce_word": "/ri'kʌvə[r]/",
+        "pronounce_word": "/ri'kʌvər/",
         "mean_word": "hồi phục, tỉnh lại",
         "id_group": "8"
     },
@@ -3915,7 +3915,7 @@
         "id_word": "490",
         "name_word": "bachelor",
         "classifier": "n",
-        "pronounce_word": "/'bæt∫ələ[r]/",
+        "pronounce_word": "/'bæt∫ələr/",
         "mean_word": "người chưa vợ, người độc thân",
         "id_group": "9"
     },
@@ -4091,7 +4091,7 @@
         "id_word": "512",
         "name_word": "lover",
         "classifier": "n",
-        "pronounce_word": "/'lʌvə[r]/",
+        "pronounce_word": "/'lʌvər/",
         "mean_word": "người yêu, người tình",
         "id_group": "9"
     },
@@ -4203,7 +4203,7 @@
         "id_word": "526",
         "name_word": "widower",
         "classifier": "n",
-        "pronounce_word": "/'widəʊə[r]/",
+        "pronounce_word": "/'widəʊər/",
         "mean_word": "người góa vợ",
         "id_group": "9"
     },
@@ -4379,7 +4379,7 @@
         "id_word": "548",
         "name_word": "father",
         "classifier": "n",
-        "pronounce_word": "/'fɑ:ðə[r]/",
+        "pronounce_word": "/'fɑ:ðər/",
         "mean_word": "ba, bố, cha",
         "id_group": "10"
     },
@@ -4387,7 +4387,7 @@
         "id_word": "549",
         "name_word": "mother",
         "classifier": "n",
-        "pronounce_word": "/'mʌðə[r]/",
+        "pronounce_word": "/'mʌðər/",
         "mean_word": "mẹ, má",
         "id_group": "10"
     },
@@ -4395,7 +4395,7 @@
         "id_word": "550",
         "name_word": "sister",
         "classifier": "n",
-        "pronounce_word": "/'sistə[r]/",
+        "pronounce_word": "/'sistər/",
         "mean_word": "chị gái, em gái",
         "id_group": "10"
     },
@@ -4403,7 +4403,7 @@
         "id_word": "551",
         "name_word": "brother",
         "classifier": "n",
-        "pronounce_word": "/'brʌðə[r]/",
+        "pronounce_word": "/'brʌðər/",
         "mean_word": "anh trai, em trai",
         "id_group": "10"
     },
@@ -4435,7 +4435,7 @@
         "id_word": "555",
         "name_word": "daughter",
         "classifier": "n",
-        "pronounce_word": "/'dɔ:tə[r]/",
+        "pronounce_word": "/'dɔ:tər/",
         "mean_word": "con gái",
         "id_group": "10"
     },
@@ -4563,7 +4563,7 @@
         "id_word": "571",
         "name_word": "granddaughter",
         "classifier": "n",
-        "pronounce_word": "/'grændɔ:tə[r]/",
+        "pronounce_word": "/'grændɔ:tər/",
         "mean_word": "cháu gái",
         "id_group": "10"
     },
@@ -4579,7 +4579,7 @@
         "id_word": "573",
         "name_word": "grandmother",
         "classifier": "n",
-        "pronounce_word": "/'grændmʌðər[r]/",
+        "pronounce_word": "/'grændmʌðərr/",
         "mean_word": "bà",
         "id_group": "10"
     },
@@ -4587,7 +4587,7 @@
         "id_word": "574",
         "name_word": "grandfather",
         "classifier": "n",
-        "pronounce_word": "/'grændfɑ:ðə[r]/",
+        "pronounce_word": "/'grændfɑ:ðər/",
         "mean_word": "ông",
         "id_group": "10"
     },
@@ -4619,7 +4619,7 @@
         "id_word": "578",
         "name_word": "half-brother",
         "classifier": "n",
-        "pronounce_word": "/'hɑ:fbrʌđə[r]/",
+        "pronounce_word": "/'hɑ:fbrʌđər/",
         "mean_word": "anh em khác cha hoặc mẹ, (half: một nửa)",
         "id_group": "10"
     },
@@ -4627,7 +4627,7 @@
         "id_word": "579",
         "name_word": "half-sister",
         "classifier": "n",
-        "pronounce_word": "/'hɑ:f sistə[r]/",
+        "pronounce_word": "/'hɑ:f sistər/",
         "mean_word": "chị em khác cha hoặc mẹ, (half: một nửa)",
         "id_group": "10"
     },
@@ -4675,7 +4675,7 @@
         "id_word": "585",
         "name_word": "step-mother",
         "classifier": "n",
-        "pronounce_word": "/step 'mʌðə[r]/",
+        "pronounce_word": "/step 'mʌðər/",
         "mean_word": "mẹ kế, mẹ ghẻ",
         "id_group": "10"
     },
@@ -4683,7 +4683,7 @@
         "id_word": "586",
         "name_word": "step-father",
         "classifier": "n",
-        "pronounce_word": "/step 'fɑ:ðə[r]/",
+        "pronounce_word": "/step 'fɑ:ðər/",
         "mean_word": "dượng, bố dượng",
         "id_group": "10"
     },
@@ -4843,7 +4843,7 @@
         "id_word": "606",
         "name_word": "foster",
         "classifier": "v",
-        "pronounce_word": "/'fɒstə[r]/",
+        "pronounce_word": "/'fɒstər/",
         "mean_word": "nhận nuôi, nuôi dưỡng",
         "id_group": "10"
     },
@@ -4851,7 +4851,7 @@
         "id_word": "607",
         "name_word": "accountant",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ə'kaʊntənt/",
         "mean_word": "kế toán viên",
         "id_group": "11"
     },
@@ -4859,7 +4859,7 @@
         "id_word": "608",
         "name_word": "actor",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'æktər/",
         "mean_word": "nam diển viên",
         "id_group": "11"
     },
@@ -4867,7 +4867,7 @@
         "id_word": "609",
         "name_word": "actress",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'æktris/",
         "mean_word": "nữ diễn viên",
         "id_group": "11"
     },
@@ -4875,7 +4875,7 @@
         "id_word": "610",
         "name_word": "architect",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ɑ:kitekt/",
         "mean_word": "kiến trúc sư",
         "id_group": "11"
     },
@@ -4883,7 +4883,7 @@
         "id_word": "611",
         "name_word": "artist",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ɑ:tist/",
         "mean_word": "nghệ sĩ",
         "id_group": "11"
     },
@@ -4891,7 +4891,7 @@
         "id_word": "612",
         "name_word": "baker",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'beikər/",
         "mean_word": "thợ làm bánh",
         "id_group": "11"
     },
@@ -4899,7 +4899,7 @@
         "id_word": "613",
         "name_word": "builder",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bildər/",
         "mean_word": "thợ xây",
         "id_group": "11"
     },
@@ -4907,7 +4907,7 @@
         "id_word": "614",
         "name_word": "burglar",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bɜ:glər/",
         "mean_word": "kẻ trộm đêm",
         "id_group": "11"
     },
@@ -4915,7 +4915,7 @@
         "id_word": "615",
         "name_word": "butcher",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bʊt∫ər/",
         "mean_word": "người bán thịt",
         "id_group": "11"
     },
@@ -4923,7 +4923,7 @@
         "id_word": "616",
         "name_word": "carpenter",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɑ:pəntər/",
         "mean_word": "thợ mộc",
         "id_group": "11"
     },
@@ -4931,15 +4931,15 @@
         "id_word": "617",
         "name_word": "chef",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "đầu bếp trưởng",
+        "pronounce_word": "/∫ef/",
+        "mean_word": "đầu bếp, bếp trưởng",
         "id_group": "11"
     },
     {
         "id_word": "618",
         "name_word": "chemist",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kemist/",
         "mean_word": "nhà nghiên cứu hóa học",
         "id_group": "11"
     },
@@ -4947,7 +4947,7 @@
         "id_word": "619",
         "name_word": "cook",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/kuk/",
         "mean_word": "đầu bếp",
         "id_group": "11"
     },
@@ -4955,7 +4955,7 @@
         "id_word": "620",
         "name_word": "cleaner",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kli:nər/",
         "mean_word": "nhân viên quét dọn",
         "id_group": "11"
     },
@@ -4963,7 +4963,7 @@
         "id_word": "621",
         "name_word": "dancer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'dɑ:nsər/",
         "mean_word": "vũ công",
         "id_group": "11"
     },
@@ -4971,7 +4971,7 @@
         "id_word": "622",
         "name_word": "dentist",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'dentist/",
         "mean_word": "nha sĩ",
         "id_group": "11"
     },
@@ -4979,7 +4979,7 @@
         "id_word": "623",
         "name_word": "director",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/di'rektər/",
         "mean_word": "giám đốc",
         "id_group": "11"
     },
@@ -4995,7 +4995,7 @@
         "id_word": "625",
         "name_word": "docker",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'dɒktər/",
         "mean_word": "công nhân bốc xếp ở bến tàu",
         "id_group": "11"
     },
@@ -5003,7 +5003,7 @@
         "id_word": "626",
         "name_word": "driver",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'draivər/",
         "mean_word": "tài xế lái xe",
         "id_group": "11"
     },
@@ -5011,7 +5011,7 @@
         "id_word": "627",
         "name_word": "electrician",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/i,lek'tri∫n/",
         "mean_word": "thợ điện",
         "id_group": "11"
     },
@@ -5019,7 +5019,7 @@
         "id_word": "628",
         "name_word": "engineer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/endʒi'niər/",
         "mean_word": "kỹ sư",
         "id_group": "11"
     },
@@ -5027,7 +5027,7 @@
         "id_word": "629",
         "name_word": "factory worker",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'fæktəri 'wɜ:kər/",
         "mean_word": "công nhân xí nghiệp",
         "id_group": "11"
     },
@@ -5035,7 +5035,7 @@
         "id_word": "630",
         "name_word": "farmer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'fɑ:mər/",
         "mean_word": "nông dân",
         "id_group": "11"
     },
@@ -5043,7 +5043,7 @@
         "id_word": "631",
         "name_word": "firefighter",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈfajɚˌfaɪtɚ/",
         "mean_word": "lính cứu hỏa",
         "id_group": "11"
     },
@@ -5051,7 +5051,7 @@
         "id_word": "632",
         "name_word": "flight attendant",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/flait ə'tendəntr/",
         "mean_word": "tiếp viên hàng không",
         "id_group": "11"
     },
@@ -5059,7 +5059,7 @@
         "id_word": "633",
         "name_word": "florist",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'flɒrist/",
         "mean_word": "người bán hoa",
         "id_group": "11"
     },
@@ -5067,7 +5067,7 @@
         "id_word": "634",
         "name_word": "graphic designer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'græfik di'zainər/",
         "mean_word": "người thiết kế đồ họa",
         "id_group": "11"
     },
@@ -5075,7 +5075,7 @@
         "id_word": "635",
         "name_word": "hairdresser",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'heə,dresər/",
         "mean_word": "thợ làm tóc",
         "id_group": "11"
     },
@@ -5083,7 +5083,7 @@
         "id_word": "636",
         "name_word": "journalist",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'dʒɜ:nəlist/",
         "mean_word": "nhà báo",
         "id_group": "11"
     },
@@ -5091,7 +5091,7 @@
         "id_word": "637",
         "name_word": "labour",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'leibər/",
         "mean_word": "lao động, nhân công",
         "id_group": "11"
     },
@@ -5099,7 +5099,7 @@
         "id_word": "638",
         "name_word": "lawyer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'lɔ:jər/",
         "mean_word": "luật sư",
         "id_group": "11"
     },
@@ -5107,7 +5107,7 @@
         "id_word": "639",
         "name_word": "lecturer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'lekt∫ərər/",
         "mean_word": "giảng viên",
         "id_group": "11"
     },
@@ -5115,7 +5115,7 @@
         "id_word": "640",
         "name_word": "manager",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'mænidʒər/",
         "mean_word": "người quản lý",
         "id_group": "11"
     },
@@ -5123,7 +5123,7 @@
         "id_word": "641",
         "name_word": "model",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'mɒdl/",
         "mean_word": "người mẫu",
         "id_group": "11"
     },
@@ -5131,7 +5131,7 @@
         "id_word": "642",
         "name_word": "musician",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/mju:'zi∫n/",
         "mean_word": "nhạc sĩ",
         "id_group": "11"
     },
@@ -5139,7 +5139,7 @@
         "id_word": "643",
         "name_word": "nurse",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/nɜ:s/",
         "mean_word": "y tá",
         "id_group": "11"
     },
@@ -5147,7 +5147,7 @@
         "id_word": "644",
         "name_word": "office worker",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ɒfis 'wɜ:kər/",
         "mean_word": "nhân viên văn phòng",
         "id_group": "11"
     },
@@ -5155,7 +5155,7 @@
         "id_word": "645",
         "name_word": "optician",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ɒp'ti∫n/",
         "mean_word": "bác sĩ mắt",
         "id_group": "11"
     },
@@ -5163,7 +5163,7 @@
         "id_word": "646",
         "name_word": "painter",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'peintər/",
         "mean_word": "họa sĩ",
         "id_group": "11"
     },
@@ -5171,7 +5171,7 @@
         "id_word": "647",
         "name_word": "pharmacist",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'fɑ:məsist/",
         "mean_word": "dược sĩ",
         "id_group": "11"
     },
@@ -5179,7 +5179,7 @@
         "id_word": "648",
         "name_word": "photographer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/fə'tɒgrəfər/",
         "mean_word": "thợ ảnh",
         "id_group": "11"
     },
@@ -5187,15 +5187,15 @@
         "id_word": "649",
         "name_word": "plumber",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'plʌmər/",
         "mean_word": "thợ sửa ống nước",
         "id_group": "11"
     },
     {
         "id_word": "650",
-        "name_word": "physlotherapist",
+        "name_word": "physiotherapist",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,fiziəʊ'θerəpist/",
         "mean_word": "nhà vật lý trị liệu",
         "id_group": "11"
     },
@@ -5203,7 +5203,7 @@
         "id_word": "651",
         "name_word": "pilot",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'pailət/",
         "mean_word": "phi công",
         "id_group": "11"
     },
@@ -5211,7 +5211,7 @@
         "id_word": "652",
         "name_word": "playwright",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'pleirait/",
         "mean_word": "nhà soạn kịch",
         "id_group": "11"
     },
@@ -5219,15 +5219,15 @@
         "id_word": "653",
         "name_word": "police officer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/pə'li:s 'ɒfisər/",
         "mean_word": "cảnh sát",
         "id_group": "11"
     },
     {
         "id_word": "654",
-        "name_word": "polictician",
+        "name_word": "politician",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,pəli'ti∫n/",
         "mean_word": "chính trị gia",
         "id_group": "11"
     },
@@ -5235,7 +5235,7 @@
         "id_word": "655",
         "name_word": "postman",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'pəʊstmən/",
         "mean_word": "bưu tá",
         "id_group": "11"
     },
@@ -5243,7 +5243,7 @@
         "id_word": "656",
         "name_word": "programmer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'prəʊgræmər/",
         "mean_word": "lập trình viên",
         "id_group": "11"
     },
@@ -5251,7 +5251,7 @@
         "id_word": "657",
         "name_word": "psychiatrist",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,saiki'ætrist/",
         "mean_word": "nhà tâm thần học",
         "id_group": "11"
     },
@@ -5259,7 +5259,7 @@
         "id_word": "658",
         "name_word": "receptionist",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ri'sep∫ənist/",
         "mean_word": "lễ tân",
         "id_group": "11"
     },
@@ -5267,15 +5267,15 @@
         "id_word": "659",
         "name_word": "sailor",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "thủy thủ",
+        "pronounce_word": "/'seilər/",
+        "mean_word": "thủy thủ, lính thủy",
         "id_group": "11"
     },
     {
         "id_word": "660",
         "name_word": "salesman",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'seilzmən/",
         "mean_word": "nhân viên bán hàng nam",
         "id_group": "11"
     },
@@ -5283,7 +5283,7 @@
         "id_word": "661",
         "name_word": "saleswoman",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'seilzwʊmən/",
         "mean_word": "nhân viên bán hàng nữ",
         "id_group": "11"
     },
@@ -5291,7 +5291,7 @@
         "id_word": "662",
         "name_word": "secretary",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'sekrətri/",
         "mean_word": "thư ký",
         "id_group": "11"
     },
@@ -5299,7 +5299,7 @@
         "id_word": "663",
         "name_word": "singer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/siŋər/",
         "mean_word": "ca sĩ",
         "id_group": "11"
     },
@@ -5307,7 +5307,7 @@
         "id_word": "664",
         "name_word": "shop assistant",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/∫ɒp ə'sistənt/",
         "mean_word": "nhân viên bán hàng",
         "id_group": "11"
     },
@@ -5315,7 +5315,7 @@
         "id_word": "665",
         "name_word": "shopkeeper",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'∫ɒpki:pər/",
         "mean_word": "chủ cửa hàng",
         "id_group": "11"
     },
@@ -5323,7 +5323,7 @@
         "id_word": "666",
         "name_word": "social worker",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'səʊ∫l 'wɜ:kər/",
         "mean_word": "người làm công tác xã hội",
         "id_group": "11"
     },
@@ -5331,7 +5331,7 @@
         "id_word": "667",
         "name_word": "soldier",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'səʊldʒər/",
         "mean_word": "người lính",
         "id_group": "11"
     },
@@ -5339,7 +5339,7 @@
         "id_word": "668",
         "name_word": "surgeon",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'sɜ:dʒən/",
         "mean_word": "bác sĩ phẫu thuật",
         "id_group": "11"
     },
@@ -5347,7 +5347,7 @@
         "id_word": "669",
         "name_word": "staff",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/stɑ:f/",
         "mean_word": "nhân viên",
         "id_group": "11"
     },
@@ -5355,7 +5355,7 @@
         "id_word": "670",
         "name_word": "tailor",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'teilər/",
         "mean_word": "thợ máy",
         "id_group": "11"
     },
@@ -5363,7 +5363,7 @@
         "id_word": "671",
         "name_word": "teacher",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ti:t∫ər/",
         "mean_word": "giáo viên",
         "id_group": "11"
     },
@@ -5371,7 +5371,7 @@
         "id_word": "672",
         "name_word": "telephonist",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/tilefəʊnist/",
         "mean_word": "nhân viên trực điện thoại",
         "id_group": "11"
     },
@@ -5379,7 +5379,7 @@
         "id_word": "673",
         "name_word": "translator",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/trænz'leitər/",
         "mean_word": "phiên dịch viên",
         "id_group": "11"
     },
@@ -5387,7 +5387,7 @@
         "id_word": "674",
         "name_word": "travel agent",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'trævl 'eidʒənt/",
         "mean_word": "nhân viên đại lý du lịch",
         "id_group": "11"
     },
@@ -5395,7 +5395,7 @@
         "id_word": "675",
         "name_word": "writer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'raitər/",
         "mean_word": "nhà văn",
         "id_group": "11"
     },
@@ -5403,7 +5403,7 @@
         "id_word": "676",
         "name_word": "waiter",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'weitər/",
         "mean_word": "bồi bàn nam",
         "id_group": "11"
     },
@@ -5411,7 +5411,7 @@
         "id_word": "677",
         "name_word": "waitress",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'weitris/",
         "mean_word": "bồi bàn nữ",
         "id_group": "11"
     },
@@ -5419,7 +5419,7 @@
         "id_word": "678",
         "name_word": "web designer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/web di'zainər/",
         "mean_word": "người thiết kế trang web",
         "id_group": "11"
     },
@@ -5427,15 +5427,15 @@
         "id_word": "679",
         "name_word": "housewife",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'haʊswaif/",
         "mean_word": "nội trợ",
         "id_group": "11"
     },
     {
         "id_word": "680",
-        "name_word": "vet",
+        "name_word": "veterinarian",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,vetəri'neəriən/",
         "mean_word": "bác sĩ thú y",
         "id_group": "11"
     },
@@ -5443,7 +5443,7 @@
         "id_word": "681",
         "name_word": "solicitor",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/sə'lisitər/",
         "mean_word": "cố vấn pháp luật",
         "id_group": "11"
     },
@@ -5451,7 +5451,7 @@
         "id_word": "682",
         "name_word": "barrister",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bæristər/",
         "mean_word": "luật sư bào chữa",
         "id_group": "11"
     },
@@ -5459,7 +5459,7 @@
         "id_word": "683",
         "name_word": "shepherd",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'∫epəd/",
         "mean_word": "người chăn cừu",
         "id_group": "11"
     },
@@ -5467,7 +5467,7 @@
         "id_word": "684",
         "name_word": "trainee",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/trei'ni:/",
         "mean_word": "người được huấn luyện",
         "id_group": "11"
     },
@@ -5475,7 +5475,7 @@
         "id_word": "685",
         "name_word": "advertisement",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/əd'vɜ:tismənt/",
         "mean_word": "sự quảng cáo",
         "id_group": "11"
     },
@@ -5483,7 +5483,7 @@
         "id_word": "686",
         "name_word": "application",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,æpli'kei∫n/",
         "mean_word": "sự nộp đơn, đơn xin",
         "id_group": "11"
     },
@@ -5491,7 +5491,7 @@
         "id_word": "687",
         "name_word": "business",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'biznis/",
         "mean_word": "kinh doanh",
         "id_group": "11"
     },
@@ -5499,7 +5499,7 @@
         "id_word": "688",
         "name_word": "cash",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/kæ∫/",
         "mean_word": "tiền mặt",
         "id_group": "11"
     },
@@ -5507,7 +5507,7 @@
         "id_word": "689",
         "name_word": "crew",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/kru:/",
         "mean_word": "ban nhóm, đội",
         "id_group": "11"
     },
@@ -5515,7 +5515,7 @@
         "id_word": "690",
         "name_word": "economy",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/i'kɒnəmi/",
         "mean_word": "kinh tế, nền kinh tế",
         "id_group": "11"
     },
@@ -5523,7 +5523,7 @@
         "id_word": "691",
         "name_word": "experience",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ik'spiəriəns/",
         "mean_word": "kinh nghiệm",
         "id_group": "11"
     },
@@ -5531,7 +5531,7 @@
         "id_word": "692",
         "name_word": "interview",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'intəvju:/",
         "mean_word": "cuộc phỏng vấn",
         "id_group": "11"
     },
@@ -5539,7 +5539,7 @@
         "id_word": "693",
         "name_word": "profit",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'prɒfit/",
         "mean_word": "lợi nhuận",
         "id_group": "11"
     },
@@ -5547,7 +5547,7 @@
         "id_word": "694",
         "name_word": "promotion",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/prə'məʊt∫n/",
         "mean_word": "sự thăng chức, sự thăng tiến",
         "id_group": "11"
     },
@@ -5555,7 +5555,7 @@
         "id_word": "695",
         "name_word": "prospect",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'prɒspekt/",
         "mean_word": "viễn tưởng, triển vọng",
         "id_group": "11"
     },
@@ -5563,7 +5563,7 @@
         "id_word": "696",
         "name_word": "qualification",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/kwɒlifi'kei∫n/",
         "mean_word": "trình độ chuyên môn, năng lực",
         "id_group": "11"
     },
@@ -5571,7 +5571,7 @@
         "id_word": "697",
         "name_word": "salary",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'sæləri/",
         "mean_word": "lương, tiền lương",
         "id_group": "11"
     },
@@ -5579,7 +5579,7 @@
         "id_word": "698",
         "name_word": "income",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'iŋkʌm/",
         "mean_word": "thu nhập",
         "id_group": "11"
     },
@@ -5587,7 +5587,7 @@
         "id_word": "699",
         "name_word": "wage",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/weidʒ/",
         "mean_word": "lương tính theo tuần",
         "id_group": "11"
     },
@@ -5595,7 +5595,7 @@
         "id_word": "700",
         "name_word": "pension",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'pen∫n/",
         "mean_word": "tiền trợ cấp, lương hưu",
         "id_group": "11"
     },
@@ -5603,7 +5603,7 @@
         "id_word": "701",
         "name_word": "vacancy",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'veikənsi/",
         "mean_word": "chỗ trống, vị trí còn bỏ trống",
         "id_group": "11"
     },
@@ -5611,7 +5611,7 @@
         "id_word": "702",
         "name_word": "contract",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɒntrækt/",
         "mean_word": "hợp đồng",
         "id_group": "11"
     },
@@ -5619,7 +5619,7 @@
         "id_word": "703",
         "name_word": "redundancy",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ri'dʌndənsi/",
         "mean_word": "sự dư thừa, công nhân thừa ra",
         "id_group": "11"
     },
@@ -5627,7 +5627,7 @@
         "id_word": "704",
         "name_word": "boss",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/bɒs/",
         "mean_word": "sếp",
         "id_group": "11"
     },
@@ -5635,7 +5635,7 @@
         "id_word": "705",
         "name_word": "colleague",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɒli:g/",
         "mean_word": "đồng nghiệp",
         "id_group": "11"
     },
@@ -5643,7 +5643,7 @@
         "id_word": "706",
         "name_word": "department",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/di'pɑ:tmənt/",
         "mean_word": "phòng ban",
         "id_group": "11"
     },
@@ -5651,7 +5651,7 @@
         "id_word": "707",
         "name_word": "earn",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/iə/",
         "mean_word": "kiếm tiền, kiếm sống",
         "id_group": "11"
     },
@@ -5659,7 +5659,7 @@
         "id_word": "708",
         "name_word": "gain",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/gein/",
         "mean_word": "đạt được",
         "id_group": "11"
     },
@@ -5667,7 +5667,7 @@
         "id_word": "709",
         "name_word": "retire",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ri'taiər/",
         "mean_word": "về hưu",
         "id_group": "11"
     },
@@ -5675,7 +5675,7 @@
         "id_word": "710",
         "name_word": "part-time",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'pɑ:taim/",
         "mean_word": "bán thời gian",
         "id_group": "11"
     },
@@ -5683,7 +5683,7 @@
         "id_word": "711",
         "name_word": "full-time",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,fʊl'taim/",
         "mean_word": "toàn thời gian",
         "id_group": "11"
     },
@@ -5691,7 +5691,7 @@
         "id_word": "712",
         "name_word": "permanent",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'pɜ:mənənt/",
         "mean_word": "dài hạn",
         "id_group": "11"
     },
@@ -5699,7 +5699,7 @@
         "id_word": "713",
         "name_word": "overtime",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'əʊvətaim/",
         "mean_word": "làm ngoài giờ",
         "id_group": "11"
     },
@@ -5707,7 +5707,7 @@
         "id_word": "714",
         "name_word": "redundant",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ri'dʌndənt/",
         "mean_word": "bị thừa",
         "id_group": "11"
     },
@@ -5715,7 +5715,7 @@
         "id_word": "715",
         "name_word": "unemployed",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,ʌnim'plɔid/",
         "mean_word": "thất nghiệp",
         "id_group": "11"
     },
@@ -5723,7 +5723,7 @@
         "id_word": "716",
         "name_word": "temporary",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'temprəri/",
         "mean_word": "tạm thời, nhất thời",
         "id_group": "11"
     },
@@ -5731,7 +5731,7 @@
         "id_word": "717",
         "name_word": "academic records",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,ækə'demik 'rekɔ:d/",
         "mean_word": "học bạ",
         "id_group": "12"
     },
@@ -5739,7 +5739,7 @@
         "id_word": "718",
         "name_word": "academic transcript",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,ækə'demik 'trænskript/",
         "mean_word": "bảng điểm",
         "id_group": "12"
     },
@@ -5747,7 +5747,7 @@
         "id_word": "719",
         "name_word": "boarder",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bɔ:dər/",
         "mean_word": "học sinh nội trú",
         "id_group": "12"
     },
@@ -5755,7 +5755,7 @@
         "id_word": "720",
         "name_word": "candidate",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kændidət/",
         "mean_word": "thí sinh",
         "id_group": "12"
     },
@@ -5763,7 +5763,7 @@
         "id_word": "721",
         "name_word": "certificate",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/sə'tifikət/",
         "mean_word": "chứng chỉ",
         "id_group": "12"
     },
@@ -5771,7 +5771,7 @@
         "id_word": "722",
         "name_word": "class observation",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/klɑ:s ,ɒbzə'vei∫n/",
         "mean_word": "dự giờ",
         "id_group": "12"
     },
@@ -5779,7 +5779,7 @@
         "id_word": "723",
         "name_word": "classroom teacher",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'klæsrʊm 'ti:t∫ər/",
         "mean_word": "giáo viên đứng lớp",
         "id_group": "12"
     },
@@ -5787,7 +5787,7 @@
         "id_word": "724",
         "name_word": "conduct",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɒndʌkt/",
         "mean_word": "hạnh kiểm",
         "id_group": "12"
     },
@@ -5795,7 +5795,7 @@
         "id_word": "725",
         "name_word": "credit mania",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kredit 'meinjə/",
         "mean_word": "bệnh thành tích",
         "id_group": "12"
     },
@@ -5803,7 +5803,7 @@
         "id_word": "726",
         "name_word": "curriculum",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/kə'rikjʊləm/",
         "mean_word": "chương trình",
         "id_group": "12"
     },
@@ -5811,7 +5811,7 @@
         "id_word": "727",
         "name_word": "credit",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kredit/",
         "mean_word": "điểm khá",
         "id_group": "12"
     },
@@ -5819,7 +5819,7 @@
         "id_word": "728",
         "name_word": "day boarder",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/dei 'bɔ:dər/",
         "mean_word": "học sinh bán trú",
         "id_group": "12"
     },
@@ -5827,7 +5827,7 @@
         "id_word": "729",
         "name_word": "dean",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/di:n/",
         "mean_word": "chủ nhiệm khoa",
         "id_group": "12"
     },
@@ -5835,15 +5835,15 @@
         "id_word": "730",
         "name_word": "distinction",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "điểm giỏi",
+        "pronounce_word": "/di'stiηk∫n/",
+        "mean_word": "sự ưu tú, biểu hiện danh dự",
         "id_group": "12"
     },
     {
         "id_word": "731",
         "name_word": "drop-outs",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'drɒp aʊt/ ",
         "mean_word": "học sinh bỏ học",
         "id_group": "12"
     },
@@ -5851,7 +5851,7 @@
         "id_word": "732",
         "name_word": "evaluation",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/i,væljʊ'ei∫n/",
         "mean_word": "đánh giá",
         "id_group": "12"
     },
@@ -5859,7 +5859,7 @@
         "id_word": "733",
         "name_word": "exercise",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'eksəsaiz/",
         "mean_word": "bài tập",
         "id_group": "12"
     },
@@ -5867,7 +5867,7 @@
         "id_word": "734",
         "name_word": "extra curriculum",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ekstrə kə'rikjʊləm/",
         "mean_word": "ngoại khóa",
         "id_group": "12"
     },
@@ -5875,7 +5875,7 @@
         "id_word": "735",
         "name_word": "final exam",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/fainl ig'zæm/",
         "mean_word": "thi tốt nghiệp",
         "id_group": "12"
     },
@@ -5883,15 +5883,15 @@
         "id_word": "736",
         "name_word": "freshman",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "sinh viên năm đầu",
+        "pronounce_word": "/'fre∫mən/",
+        "mean_word": "sinh viên năm nhất",
         "id_group": "12"
     },
     {
         "id_word": "737",
         "name_word": "junior",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'dʒu:njər/",
         "mean_word": "học sinh cấp hai, sinh viên năm ba",
         "id_group": "12"
     },
@@ -5899,7 +5899,7 @@
         "id_word": "738",
         "name_word": "homework",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'həʊmwɜ:k/",
         "mean_word": "bài tập về nhà",
         "id_group": "12"
     },
@@ -5907,7 +5907,7 @@
         "id_word": "739",
         "name_word": "laboratory",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/lə'bɒrətri/",
         "mean_word": "phòng thí nghiệm",
         "id_group": "12"
     },
@@ -5915,7 +5915,7 @@
         "id_word": "740",
         "name_word": "lesson",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'lesn/",
         "mean_word": "bài học",
         "id_group": "12"
     },
@@ -5923,7 +5923,7 @@
         "id_word": "741",
         "name_word": "library",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'laibrəri/",
         "mean_word": "thư viện",
         "id_group": "12"
     },
@@ -5931,7 +5931,7 @@
         "id_word": "742",
         "name_word": "librarian",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/lai'breəriən/",
         "mean_word": "người thủ thư",
         "id_group": "12"
     },
@@ -5939,7 +5939,7 @@
         "id_word": "743",
         "name_word": "mark",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/mɑ:k/",
         "mean_word": "chấm bài",
         "id_group": "12"
     },
@@ -5947,7 +5947,7 @@
         "id_word": "744",
         "name_word": "master",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'mɑ:stər/",
         "mean_word": "thạc sĩ",
         "id_group": "12"
     },
@@ -5955,7 +5955,7 @@
         "id_word": "745",
         "name_word": "monitress",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'mɔnitris/",
         "mean_word": "nữ lớp trưởng",
         "id_group": "12"
     },
@@ -5963,7 +5963,7 @@
         "id_word": "746",
         "name_word": "monitor",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'mɒnitər/",
         "mean_word": "lớp trưởng, cán bộ lớp",
         "id_group": "12"
     },
@@ -5971,7 +5971,7 @@
         "id_word": "747",
         "name_word": "professor",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/prə'fesər/",
         "mean_word": "giáo sư",
         "id_group": "12"
     },
@@ -5979,7 +5979,7 @@
         "id_word": "748",
         "name_word": "reader",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ri:dər/",
         "mean_word": "phó giáo sư (trường đại học)",
         "id_group": "12"
     },
@@ -5987,7 +5987,7 @@
         "id_word": "749",
         "name_word": "lecturer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'lekt∫ərər/",
         "mean_word": "giảng viên",
         "id_group": "12"
     },
@@ -5995,7 +5995,7 @@
         "id_word": "750",
         "name_word": "principal",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'prinsəpl/",
         "mean_word": "hiệu trưởng",
         "id_group": "12"
     },
@@ -6003,7 +6003,7 @@
         "id_word": "751",
         "name_word": "headmistress",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/hed'mistris/",
         "mean_word": "hiệu trưởng nữ",
         "id_group": "12"
     },
@@ -6011,7 +6011,7 @@
         "id_word": "752",
         "name_word": "headmaster",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/hed'mɑ:stər/",
         "mean_word": "hiệu trưởng nam",
         "id_group": "12"
     },
@@ -6019,7 +6019,7 @@
         "id_word": "753",
         "name_word": "high distinction",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/hai di'stiηk∫n/",
         "mean_word": "điểm xuất sắc",
         "id_group": "12"
     },
@@ -6027,7 +6027,7 @@
         "id_word": "754",
         "name_word": "inspector",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/in'spektər/",
         "mean_word": "thanh tra",
         "id_group": "12"
     },
@@ -6035,7 +6035,7 @@
         "id_word": "755",
         "name_word": "illiteracy rate",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/i'litərəsi reit/",
         "mean_word": "tỷ lệ mù chữ",
         "id_group": "12"
     },
@@ -6043,7 +6043,7 @@
         "id_word": "756",
         "name_word": "progress",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'prəʊgres/",
         "mean_word": "sự tiến bộ",
         "id_group": "12"
     },
@@ -6051,7 +6051,7 @@
         "id_word": "757",
         "name_word": "pupil",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'pju:pl/",
         "mean_word": "học sinh",
         "id_group": "12"
     },
@@ -6059,7 +6059,7 @@
         "id_word": "758",
         "name_word": "objective test",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/əb'dʒektiv test/",
         "mean_word": "thi trắc nghiệm",
         "id_group": "12"
     },
@@ -6067,7 +6067,7 @@
         "id_word": "759",
         "name_word": "pass",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/pɑ:s/",
         "mean_word": "điểm trung bình",
         "id_group": "12"
     },
@@ -6075,7 +6075,7 @@
         "id_word": "760",
         "name_word": "performance",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/pə'fɔ:məns/",
         "mean_word": "học lực",
         "id_group": "12"
     },
@@ -6083,7 +6083,7 @@
         "id_word": "761",
         "name_word": "post graduate",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/pəʊst 'grædʒuət/",
         "mean_word": "sau đại học",
         "id_group": "12"
     },
@@ -6091,7 +6091,7 @@
         "id_word": "762",
         "name_word": "qualification",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/kwɒlifi'kei∫n/",
         "mean_word": "bằng cấp",
         "id_group": "12"
     },
@@ -6099,7 +6099,7 @@
         "id_word": "763",
         "name_word": "regulation",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/regjʊ'lei∫n/",
         "mean_word": "nội quy",
         "id_group": "12"
     },
@@ -6107,7 +6107,7 @@
         "id_word": "764",
         "name_word": "schoolmaster",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'sku:lmɑ:stər/",
         "mean_word": "giáo viên nam",
         "id_group": "12"
     },
@@ -6115,7 +6115,7 @@
         "id_word": "765",
         "name_word": "schoolmistress",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'sku:lmistris/",
         "mean_word": "giáo viên nữ",
         "id_group": "12"
     },
@@ -6123,7 +6123,7 @@
         "id_word": "766",
         "name_word": "schoolyard",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈskuːlˌjɑɚd/",
         "mean_word": "sân trường",
         "id_group": "12"
     },
@@ -6131,7 +6131,7 @@
         "id_word": "767",
         "name_word": "semester",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/si'mestər/",
         "mean_word": "học kỳ",
         "id_group": "12"
     },
@@ -6139,7 +6139,7 @@
         "id_word": "768",
         "name_word": "skill",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/skil/",
         "mean_word": "kỹ năng",
         "id_group": "12"
     },
@@ -6147,7 +6147,7 @@
         "id_word": "769",
         "name_word": "sophister",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'sɔfistə/",
         "mean_word": "sinh viên khóa trên",
         "id_group": "12"
     },
@@ -6155,7 +6155,7 @@
         "id_word": "770",
         "name_word": "subject",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'sʌbdʒikt/",
         "mean_word": "môn học",
         "id_group": "12"
     },
@@ -6163,7 +6163,7 @@
         "id_word": "771",
         "name_word": "subjective test",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/səb'dʒektiv test/",
         "mean_word": "thi tự luận",
         "id_group": "12"
     },
@@ -6171,15 +6171,15 @@
         "id_word": "772",
         "name_word": "staffroom",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "phòng hội đồng",
+        "pronounce_word": "/ˈstɑːf.rʊm/",
+        "mean_word": "phòng hội đồng, phòng giáo viên",
         "id_group": "12"
     },
     {
         "id_word": "773",
         "name_word": "student",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'stju:dənt/",
         "mean_word": "học sinh, sinh viên",
         "id_group": "12"
     },
@@ -6187,7 +6187,7 @@
         "id_word": "774",
         "name_word": "syllabus",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'siləbəs/",
         "mean_word": "giáo án",
         "id_group": "12"
     },
@@ -6195,7 +6195,7 @@
         "id_word": "775",
         "name_word": "tutor",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'tju:tər/",
         "mean_word": "gia sư",
         "id_group": "12"
     },
@@ -6203,7 +6203,7 @@
         "id_word": "776",
         "name_word": "term",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/tɜ:m/",
         "mean_word": "học kỳ",
         "id_group": "12"
     },
@@ -6211,7 +6211,7 @@
         "id_word": "777",
         "name_word": "test",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/test/",
         "mean_word": "kiểm tra",
         "id_group": "12"
     },
@@ -6219,7 +6219,7 @@
         "id_word": "778",
         "name_word": "visiting teacher",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'vizitiɳ 'ti:t∫ər/",
         "mean_word": "giáo viên thỉnh giảng",
         "id_group": "12"
     },
@@ -6227,7 +6227,7 @@
         "id_word": "779",
         "name_word": "cheat",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/t∫i:t/",
         "mean_word": "quay cóp, gian lận",
         "id_group": "12"
     },
@@ -6235,7 +6235,7 @@
         "id_word": "780",
         "name_word": "drop out",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/'drɒp aʊt/",
         "mean_word": "bỏ học",
         "id_group": "12"
     },
@@ -6243,7 +6243,7 @@
         "id_word": "781",
         "name_word": "enroll",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/in'roul/",
         "mean_word": "nhập học",
         "id_group": "12"
     },
@@ -6251,7 +6251,7 @@
         "id_word": "782",
         "name_word": "fail",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/feil/",
         "mean_word": "trượt",
         "id_group": "12"
     },
@@ -6259,7 +6259,7 @@
         "id_word": "783",
         "name_word": "pass",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/pɑ:s/",
         "mean_word": "đỗ",
         "id_group": "12"
     },
@@ -6267,7 +6267,7 @@
         "id_word": "784",
         "name_word": "take an exam",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/teik an ig'zæm/",
         "mean_word": "dự thi",
         "id_group": "12"
     },
@@ -6275,7 +6275,7 @@
         "id_word": "785",
         "name_word": "train",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/trein/",
         "mean_word": "đào tạo",
         "id_group": "12"
     },
@@ -6283,7 +6283,7 @@
         "id_word": "786",
         "name_word": "nursery",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'nɜ:sri/",
         "mean_word": "nhà trẻ",
         "id_group": "12"
     },
@@ -6291,7 +6291,7 @@
         "id_word": "787",
         "name_word": "teacher training",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ti:t∫ər 'treiniŋ/",
         "mean_word": "đào tạo giáo viên",
         "id_group": "12"
     },
@@ -6299,7 +6299,7 @@
         "id_word": "788",
         "name_word": "college",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɒlidʒ/",
         "mean_word": "cao đẳng, đại học",
         "id_group": "12"
     },
@@ -6307,7 +6307,7 @@
         "id_word": "789",
         "name_word": "institute",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'institju:t/",
         "mean_word": "học viện",
         "id_group": "12"
     },
@@ -6315,7 +6315,7 @@
         "id_word": "790",
         "name_word": "university",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ju:ni'vɜ:səti/",
         "mean_word": "đại học",
         "id_group": "12"
     },
@@ -6323,7 +6323,7 @@
         "id_word": "791",
         "name_word": "kindergarten",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kindəgɑ:tn/",
         "mean_word": "mẫu giáo",
         "id_group": "12"
     },
@@ -6331,7 +6331,7 @@
         "id_word": "792",
         "name_word": "primary school",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'praiməri sku:l/",
         "mean_word": "tiểu học",
         "id_group": "12"
     },
@@ -6339,7 +6339,7 @@
         "id_word": "793",
         "name_word": "secondary school",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'sekəndri sku:l/",
         "mean_word": "trung học cơ sở",
         "id_group": "12"
     },
@@ -6347,7 +6347,7 @@
         "id_word": "794",
         "name_word": "continuing education",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɒntinju:ing edju:∫ən/",
         "mean_word": "giáo dục thường xuyên",
         "id_group": "12"
     },
@@ -6355,7 +6355,7 @@
         "id_word": "795",
         "name_word": "boarding school",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bɔ:diŋ sku:l/",
         "mean_word": "trường nội trú",
         "id_group": "12"
     },
@@ -6363,7 +6363,7 @@
         "id_word": "796",
         "name_word": "day school",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/dei sku:l/",
         "mean_word": "trường bán trú",
         "id_group": "12"
     },
@@ -6371,7 +6371,7 @@
         "id_word": "797",
         "name_word": "private school",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'praivit sku:l/",
         "mean_word": "trường tư thục",
         "id_group": "12"
     },
@@ -6379,7 +6379,7 @@
         "id_word": "798",
         "name_word": "public school",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'pʌblik sku:l/",
         "mean_word": "trường công lập",
         "id_group": "12"
     },
@@ -6387,7 +6387,7 @@
         "id_word": "799",
         "name_word": "complementary education",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,kɒmpli'mentri ,edjʊ'kei∫n/",
         "mean_word": "bổ túc văn hóa",
         "id_group": "12"
     },
@@ -6395,7 +6395,7 @@
         "id_word": "800",
         "name_word": "service education",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'sɜ:vis ,edjʊ'kei∫n/",
         "mean_word": "tại chức",
         "id_group": "12"
     },
@@ -6403,7 +6403,7 @@
         "id_word": "801",
         "name_word": "post-graduate courses",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/pəʊst 'grædʒuət kɔ:z/",
         "mean_word": "nghiên cứu sinh",
         "id_group": "12"
     },
@@ -6411,7 +6411,7 @@
         "id_word": "802",
         "name_word": "polytechnic",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/pɒli'teknik/",
         "mean_word": "trường bách khoa",
         "id_group": "12"
     },
@@ -6419,15 +6419,15 @@
         "id_word": "803",
         "name_word": "vocational school",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/vəʊ'kei∫nl sku:l/",
         "mean_word": "trường dạy nghề",
         "id_group": "12"
     },
     {
         "id_word": "804",
-        "name_word": "faculity",
+        "name_word": "faculty",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'fæklti/",
         "mean_word": "khoa",
         "id_group": "12"
     },
@@ -6435,7 +6435,7 @@
         "id_word": "805",
         "name_word": "National University",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'næ∫nəl ju:ni'vɜ:səti/",
         "mean_word": "Trường Đại học quốc gia",
         "id_group": "12"
     },
@@ -6443,7 +6443,7 @@
         "id_word": "806",
         "name_word": "National Economics University",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'næ∫nəl ,i:kə'nɒmiks ju:ni'vɜ:səti/",
         "mean_word": "Trường Đại học kinh tế quốc dân",
         "id_group": "12"
     },
@@ -6451,7 +6451,7 @@
         "id_word": "807",
         "name_word": "Architectural University",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,ɑ:ki'tekt∫ərəl ju:ni'vɜ:səti/",
         "mean_word": "Trường Đại học kiến trúc",
         "id_group": "12"
     },
@@ -6459,7 +6459,7 @@
         "id_word": "808",
         "name_word": "Medical University",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'medikl ju:ni'vɜ:səti/",
         "mean_word": "Trường Đại học y",
         "id_group": "12"
     },
@@ -6467,7 +6467,7 @@
         "id_word": "809",
         "name_word": "Water Resources University",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'wɔ:tər ri'sɔ:s ju:ni'vɜ:səti/",
         "mean_word": "Trường Đại học Thủy lợi",
         "id_group": "12"
     },
@@ -6475,7 +6475,7 @@
         "id_word": "810",
         "name_word": "Electric Power University",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/i'lektrik 'paʊər ju:ni'vɜ:səti/",
         "mean_word": "Trường Đại học Điện lực",
         "id_group": "12"
     },
@@ -6483,7 +6483,7 @@
         "id_word": "811",
         "name_word": "University of Science and Technology",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ju:ni'vɜ:səti əv 'saiəns ænd tek'nɒlədʒi/",
         "mean_word": "Trường Đại học Bách khoa",
         "id_group": "12"
     },
@@ -6491,7 +6491,7 @@
         "id_word": "812",
         "name_word": "College of Natural Science",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɒlidʒ əv 'næt∫rəl 'saiəns/",
         "mean_word": "Trường Đại học Khoa học Tự Nhiên",
         "id_group": "12"
     },
@@ -6499,7 +6499,7 @@
         "id_word": "813",
         "name_word": "College of Social Science and Humanity",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɒlidʒ əv 'səʊ∫l 'saiəns ænd hju:mænəti/",
         "mean_word": "Trường Đại học Khoa học Xã hội và Nhân văn",
         "id_group": "12"
     },
@@ -6507,7 +6507,7 @@
         "id_word": "814",
         "name_word": "Hanoi College of Pharmacy",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/Hanoi 'kɒlidʒ əv 'fɑ:məsi/",
         "mean_word": "Trường Đại học Dược Hà Nội",
         "id_group": "12"
     },
@@ -6515,7 +6515,7 @@
         "id_word": "815",
         "name_word": "Art",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ɑ:t/",
         "mean_word": "Mỹ thuật",
         "id_group": "13"
     },
@@ -6523,7 +6523,7 @@
         "id_word": "816",
         "name_word": "Biology",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/bai'ɒlədʒi/",
         "mean_word": "Sinh học",
         "id_group": "13"
     },
@@ -6531,7 +6531,7 @@
         "id_word": "817",
         "name_word": "Chemistry",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kemistri/",
         "mean_word": "Hóa học",
         "id_group": "13"
     },
@@ -6539,7 +6539,7 @@
         "id_word": "818",
         "name_word": "English",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'iηgli∫/",
         "mean_word": "Tiếng Anh",
         "id_group": "13"
     },
@@ -6547,7 +6547,7 @@
         "id_word": "819",
         "name_word": "Geography",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/dʒi'ɒgrəfi/",
         "mean_word": "Địa lý",
         "id_group": "13"
     },
@@ -6555,7 +6555,7 @@
         "id_word": "820",
         "name_word": "History",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'histri/",
         "mean_word": "Lịch sử",
         "id_group": "13"
     },
@@ -6563,7 +6563,7 @@
         "id_word": "821",
         "name_word": "Physics",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'fiziks/",
         "mean_word": "Vật lý",
         "id_group": "13"
     },
@@ -6571,7 +6571,7 @@
         "id_word": "822",
         "name_word": "Information Technology",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,infə'mei∫n tek'nɒlədʒi/",
         "mean_word": "Công nghệ thông tin",
         "id_group": "13"
     },
@@ -6579,7 +6579,7 @@
         "id_word": "823",
         "name_word": "Literature",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'litrət∫ər/",
         "mean_word": "Văn học",
         "id_group": "13"
     },
@@ -6587,7 +6587,7 @@
         "id_word": "824",
         "name_word": "Engineering",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/endʒi'niəriη/",
         "mean_word": "Kỹ thuật",
         "id_group": "13"
     },
@@ -6595,7 +6595,7 @@
         "id_word": "825",
         "name_word": "Informatics",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˌɪnfəˈmætɪks/",
         "mean_word": "Tin học",
         "id_group": "13"
     },
@@ -6603,7 +6603,7 @@
         "id_word": "826",
         "name_word": "Technology",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/tek'nɒlədʒi/",
         "mean_word": "Công nghệ",
         "id_group": "13"
     },
@@ -6611,7 +6611,7 @@
         "id_word": "827",
         "name_word": "Politics",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'pɒlitiks/",
         "mean_word": "Chính trị",
         "id_group": "13"
     },
@@ -6619,7 +6619,7 @@
         "id_word": "828",
         "name_word": "Psychology",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/sai'kɒlədʒi/",
         "mean_word": "Tâm lý",
         "id_group": "13"
     },
@@ -6627,7 +6627,7 @@
         "id_word": "829",
         "name_word": "Music",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'mju:zik/",
         "mean_word": "Âm nhạc",
         "id_group": "13"
     },
@@ -6635,7 +6635,7 @@
         "id_word": "830",
         "name_word": "Economics",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,i:kə'nɒmiks/",
         "mean_word": "Kinh tế",
         "id_group": "13"
     },
@@ -6643,7 +6643,7 @@
         "id_word": "831",
         "name_word": "Science",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'saiəns/",
         "mean_word": "Khoa học",
         "id_group": "13"
     },
@@ -6651,7 +6651,7 @@
         "id_word": "832",
         "name_word": "Foreign Language",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'fɒrən 'læηgwidʒ/",
         "mean_word": "Ngoại ngữ",
         "id_group": "13"
     },
@@ -6659,7 +6659,7 @@
         "id_word": "833",
         "name_word": "Physical Education",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'fizikl ,edjʊ'kei∫n",
         "mean_word": "Thể dục",
         "id_group": "13"
     },
@@ -6667,7 +6667,7 @@
         "id_word": "834",
         "name_word": "Math",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/mæθ/",
         "mean_word": "Môn toán",
         "id_group": "13"
     },
@@ -6675,7 +6675,7 @@
         "id_word": "835",
         "name_word": "medicine",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'medsn/",
         "mean_word": "y học",
         "id_group": "13"
     },
@@ -6683,7 +6683,7 @@
         "id_word": "836",
         "name_word": "dentistry",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'dentistri/",
         "mean_word": "nha khoa học",
         "id_group": "13"
     },
@@ -6691,15 +6691,15 @@
         "id_word": "837",
         "name_word": "accountancy",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ə'kaʊntənsi/",
         "mean_word": "kế toán",
         "id_group": "13"
     },
     {
         "id_word": "838",
-        "name_word": "econimics",
+        "name_word": "economics",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,i:kə'nɒmiks/",
         "mean_word": "kinh tế học",
         "id_group": "13"
     },
@@ -6707,7 +6707,7 @@
         "id_word": "839",
         "name_word": "nursing",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'nɜ:siŋ/",
         "mean_word": "y tá học",
         "id_group": "13"
     },
@@ -6715,7 +6715,7 @@
         "id_word": "840",
         "name_word": "law",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/lɔ:/",
         "mean_word": "luật",
         "id_group": "13"
     },
@@ -6723,7 +6723,7 @@
         "id_word": "841",
         "name_word": "geology",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/dʒi'ɔlədʒi/",
         "mean_word": "địa chất học",
         "id_group": "13"
     },
@@ -6731,7 +6731,7 @@
         "id_word": "842",
         "name_word": "sociology",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,səʊsiˈɒlədʒi/",
         "mean_word": "xã hội học",
         "id_group": "13"
     },
@@ -6739,7 +6739,7 @@
         "id_word": "843",
         "name_word": "politics",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'pɒlitiks/",
         "mean_word": "chính trị học",
         "id_group": "13"
     },
@@ -6747,7 +6747,7 @@
         "id_word": "844",
         "name_word": "philosophy",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/fi'lɔsəfi/",
         "mean_word": "triết học",
         "id_group": "13"
     },
@@ -6755,7 +6755,7 @@
         "id_word": "845",
         "name_word": "psychology",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/sai'kɒlədʒi/",
         "mean_word": "tâm lý học",
         "id_group": "13"
     },
@@ -6763,7 +6763,7 @@
         "id_word": "846",
         "name_word": "archaeology",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,ɑ:ki'ɒlədʒi/",
         "mean_word": "khảo cổ học",
         "id_group": "13"
     },
@@ -6771,7 +6771,7 @@
         "id_word": "847",
         "name_word": "architecture",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ɑ:kitekt∫ər/",
         "mean_word": "kiến trúc học",
         "id_group": "13"
     },
@@ -6779,7 +6779,7 @@
         "id_word": "848",
         "name_word": "ballpoint pen",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bɔ:lpɔint pen/",
         "mean_word": "bút bi",
         "id_group": "13"
     },
@@ -6787,7 +6787,7 @@
         "id_word": "849",
         "name_word": "pen",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/pen/",
         "mean_word": "bút",
         "id_group": "13"
     },
@@ -6795,7 +6795,7 @@
         "id_word": "850",
         "name_word": "ink",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/iŋk/",
         "mean_word": "mực",
         "id_group": "13"
     },
@@ -6803,7 +6803,7 @@
         "id_word": "851",
         "name_word": "pencil",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'pensl/",
         "mean_word": "bút chì",
         "id_group": "13"
     },
@@ -6811,7 +6811,7 @@
         "id_word": "852",
         "name_word": "crayon",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kreiən/",
         "mean_word": "bút màu",
         "id_group": "13"
     },
@@ -6819,7 +6819,7 @@
         "id_word": "853",
         "name_word": "pencil sharpener",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'pensl '∫ɑ:pənər/",
         "mean_word": "cái gọt bút chì",
         "id_group": "13"
     },
@@ -6827,7 +6827,7 @@
         "id_word": "854",
         "name_word": "fountain pen",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'faʊntin pen/",
         "mean_word": "bút mực",
         "id_group": "13"
     },
@@ -6835,7 +6835,7 @@
         "id_word": "855",
         "name_word": "ruler",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ru:lər/",
         "mean_word": "thước kẻ",
         "id_group": "13"
     },
@@ -6843,7 +6843,7 @@
         "id_word": "856",
         "name_word": "eraser",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/i'reizər/",
         "mean_word": "cục tẩy, cục gôm",
         "id_group": "13"
     },
@@ -6851,7 +6851,7 @@
         "id_word": "857",
         "name_word": "rubber",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'rʌbər/",
         "mean_word": "cục tẩy, cục gôm, cao su",
         "id_group": "13"
     },
@@ -6859,7 +6859,7 @@
         "id_word": "858",
         "name_word": "schoolbag",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈskuːlˌbæg/",
         "mean_word": "cặp sách",
         "id_group": "13"
     },
@@ -6867,7 +6867,7 @@
         "id_word": "859",
         "name_word": "compass",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kʌmpəs/",
         "mean_word": "com-pa",
         "id_group": "13"
     },
@@ -6875,7 +6875,7 @@
         "id_word": "860",
         "name_word": "book",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/bʊk/",
         "mean_word": "quyển sách",
         "id_group": "13"
     },
@@ -6883,7 +6883,7 @@
         "id_word": "861",
         "name_word": "notebook",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'nəʊtbʊk/",
         "mean_word": "quyển vở",
         "id_group": "13"
     },
@@ -6891,7 +6891,7 @@
         "id_word": "862",
         "name_word": "paper",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'peipər/",
         "mean_word": "giấy",
         "id_group": "13"
     },
@@ -6899,7 +6899,7 @@
         "id_word": "863",
         "name_word": "pencil case",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'pensl keis/",
         "mean_word": "hộp bút",
         "id_group": "13"
     },
@@ -6907,7 +6907,7 @@
         "id_word": "864",
         "name_word": "globe",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/gləʊb/",
         "mean_word": "quả địa cầu",
         "id_group": "13"
     },
@@ -6915,7 +6915,7 @@
         "id_word": "865",
         "name_word": "writing pad",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'raitiŋ pæd/",
         "mean_word": "tập giấy",
         "id_group": "13"
     },
@@ -6923,7 +6923,7 @@
         "id_word": "866",
         "name_word": "calculator",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kælkjʊleitər/",
         "mean_word": "máy tính",
         "id_group": "13"
     },
@@ -6931,7 +6931,7 @@
         "id_word": "867",
         "name_word": "glue",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/glu:/",
         "mean_word": "hồ dán",
         "id_group": "13"
     },
@@ -6939,7 +6939,7 @@
         "id_word": "868",
         "name_word": "brush",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/brʌ∫/",
         "mean_word": "bút lông",
         "id_group": "13"
     },
@@ -6947,7 +6947,7 @@
         "id_word": "869",
         "name_word": "desk",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/desk/",
         "mean_word": "bàn học",
         "id_group": "13"
     },
@@ -6955,7 +6955,7 @@
         "id_word": "870",
         "name_word": "cleaner",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kli:nər/",
         "mean_word": "cái xóa bảng",
         "id_group": "13"
     },
@@ -6963,7 +6963,7 @@
         "id_word": "871",
         "name_word": "chalk",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/t∫ɔ:k/",
         "mean_word": "phấn",
         "id_group": "13"
     },
@@ -6971,7 +6971,7 @@
         "id_word": "872",
         "name_word": "chalk tray",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/t∫ɔ:k trei/",
         "mean_word": "khay đựng phấn",
         "id_group": "13"
     },
@@ -6979,7 +6979,7 @@
         "id_word": "873",
         "name_word": "bulletin board",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bʊlətin bɔ:d/",
         "mean_word": "bảng tin",
         "id_group": "13"
     },
@@ -6987,7 +6987,7 @@
         "id_word": "874",
         "name_word": "clock",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/klɒk/",
         "mean_word": "đồng hồ",
         "id_group": "13"
     },
@@ -6995,7 +6995,7 @@
         "id_word": "875",
         "name_word": "flag",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'flæg/",
         "mean_word": "lá cờ",
         "id_group": "13"
     },
@@ -7003,7 +7003,7 @@
         "id_word": "876",
         "name_word": "thumbtack",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'θʌmtæk/",
         "mean_word": "đinh bấm",
         "id_group": "13"
     }
