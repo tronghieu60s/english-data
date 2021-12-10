@@ -1,69 +1,65 @@
 const fs = require("fs");
 
-/* 2000_Words_Topic */
+const folderName = process.argv[2] || "";
 
-let Words600 = require("./1.600_Words_Toeic/words.json");
-let Groups600 = require("./1.600_Words_Toeic/groups.json");
+if (folderName.length === 0) {
+  throw new Error("No folder name specified!");
+}
 
-Words600 = Words600.map((o, i) => ({ ...o, id_word: `${i + 1}` }));
-Groups600 = Groups600.map((o, i) => ({ ...o, id_group: `${i + 1}` }));
+const WordsPath = `./${folderName}/words.json`;
+const GroupsPath = `./${folderName}/groups.json`;
 
-fs.writeFile(
-  "./1.600_Words_Toeic/words.json",
-  JSON.stringify(Words600),
-  "utf8",
-  function (err) {
-    if (err) {
-      return console.log(err);
-    }
+if (!fs.existsSync(WordsPath) || !fs.existsSync(GroupsPath)) {
+  throw new Error("No folder name exists!");
+}
 
-    console.log("600_Words_TOEIC: The file words was saved!");
+/* Fix ID Words */
+
+const WordsData = require(WordsPath).map((o, i) => ({
+  ...o,
+  id_word: `${i + 1}`,
+}));
+
+fs.writeFile(WordsPath, JSON.stringify(WordsData), "utf8", function (err) {
+  if (err) {
+    return console.log(err);
   }
+
+  console.log(`${folderName}: The file words was saved!`);
+});
+
+/* Fix ID Groups */
+
+const GroupsData = require(GroupsPath).map((o, i) => ({
+  ...o,
+  id_group: `${i + 1}`,
+}));
+fs.writeFile(GroupsPath, JSON.stringify(GroupsData), "utf8", function (err) {
+  if (err) {
+    return console.log(err);
+  }
+
+  console.log(`${folderName}: The file groups was saved!`);
+});
+
+/* Find Duplicate Words */
+
+const WordsDataLookup = WordsData.reduce((a, e) => {
+  a[e.name_word] = ++a[e.name_word] || 0;
+  return a;
+}, {});
+
+WordsData.filter((e) => WordsDataLookup[e.name_word]).map((e) =>
+  console.log(`${e.id_word} - ${e.name_word}`)
 );
 
-fs.writeFile(
-  "./1.600_Words_Toeic/groups.json",
-  JSON.stringify(Groups600),
-  "utf8",
-  function (err) {
-    if (err) {
-      return console.log(err);
-    }
+/* Find Duplicate Groups */
 
-    console.log("600_Words_Toeic: The file groups was saved!");
-  }
-);
+const GroupsDataLookup = GroupsData.reduce((a, e) => {
+  a[e.name_group] = ++a[e.name_group] || 0;
+  return a;
+}, {});
 
-/* 2000_Words_Topic */
-
-let Words2000 = require("./2.2000_Words_Topic/words.json");
-let Groups2000 = require("./2.2000_Words_Topic/groups.json");
-
-Words2000 = Words2000.map((o, i) => ({ ...o, id_word: `${i + 1}` }));
-Groups2000 = Groups2000.map((o, i) => ({ ...o, id_group: `${i + 1}` }));
-
-fs.writeFile(
-  "./2.2000_Words_Topic/words.json",
-  JSON.stringify(Words2000),
-  "utf8",
-  function (err) {
-    if (err) {
-      return console.log(err);
-    }
-
-    console.log("2000_Words_Topic: The file words was saved!");
-  }
-);
-
-fs.writeFile(
-  "./2.2000_Words_Topic/groups.json",
-  JSON.stringify(Groups2000),
-  "utf8",
-  function (err) {
-    if (err) {
-      return console.log(err);
-    }
-
-    console.log("2000_Words_Topic: The file groups was saved!");
-  }
+GroupsData.filter((e) => GroupsDataLookup[e.name_group]).map((e) =>
+  console.log(`${e.id_group} - ${e.name_group}`)
 );
