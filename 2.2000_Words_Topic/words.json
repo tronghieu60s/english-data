@@ -7006,5 +7006,1701 @@
         "pronounce_word": "/'θʌmtæk/",
         "mean_word": "đinh bấm",
         "id_group": "13"
+    },
+    {
+        "id_word": "877",
+        "name_word": "apron",
+        "classifier": "n",
+        "pronounce_word": "cái tạp dề",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "878",
+        "name_word": "blouse",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "áo sơ mi nữ",
+        "id_group": "14"
+    },
+    {
+        "id_word": "879",
+        "name_word": "lapel",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "ve áo",
+        "id_group": "14"
+    },
+    {
+        "id_word": "880",
+        "name_word": "boot",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "881",
+        "name_word": "button",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "882",
+        "name_word": "cap",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "883",
+        "name_word": "dress",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "884",
+        "name_word": "hat",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "885",
+        "name_word": "jacket",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "886",
+        "name_word": "overcoat",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "887",
+        "name_word": "pullover",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "888",
+        "name_word": "pyjamas",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "889",
+        "name_word": "sandal",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "890",
+        "name_word": "shirt",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "891",
+        "name_word": "shoe",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "892",
+        "name_word": "shorts",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "893",
+        "name_word": "skirt",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "894",
+        "name_word": "slacks",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "895",
+        "name_word": "slipper",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "896",
+        "name_word": "sock",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "897",
+        "name_word": "suit",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "898",
+        "name_word": "t-shirt",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "899",
+        "name_word": "tie",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "900",
+        "name_word": "trousers",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "901",
+        "name_word": "waistcoat",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "902",
+        "name_word": "belt",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "903",
+        "name_word": "buckle",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "904",
+        "name_word": "scarf",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "905",
+        "name_word": "collar",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "906",
+        "name_word": "cuff",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "907",
+        "name_word": "glove",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "908",
+        "name_word": "mitten",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "909",
+        "name_word": "napkin",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "910",
+        "name_word": "handkerchief",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "911",
+        "name_word": "heel",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "912",
+        "name_word": "lace",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "913",
+        "name_word": "shoelace",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "914",
+        "name_word": "lining",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "915",
+        "name_word": "pocket",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "916",
+        "name_word": "seam",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "917",
+        "name_word": "sleeve",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "918",
+        "name_word": "sole",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "919",
+        "name_word": "zip",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "920",
+        "name_word": "sweatshirt",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "921",
+        "name_word": "sweatpants",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "922",
+        "name_word": "sneakers",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "923",
+        "name_word": "sweatband",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "924",
+        "name_word": "tank top",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "925",
+        "name_word": "long sleeve",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "926",
+        "name_word": "short sleeve",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "927",
+        "name_word": "purse",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "928",
+        "name_word": "umbrella",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "929",
+        "name_word": "cardigan",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "930",
+        "name_word": "pants",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "931",
+        "name_word": "blouse",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "932",
+        "name_word": "coat",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "933",
+        "name_word": "raincoat",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "934",
+        "name_word": "vest",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "935",
+        "name_word": "uniform",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "936",
+        "name_word": "fashionable",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "937",
+        "name_word": "old-fashion",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "938",
+        "name_word": "smart",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "939",
+        "name_word": "loose",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "940",
+        "name_word": "tight",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "941",
+        "name_word": "fit",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "942",
+        "name_word": "worn-out",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "14"
+    },
+    {
+        "id_word": "943",
+        "name_word": "binder",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "944",
+        "name_word": "bookcase",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "945",
+        "name_word": "calendar",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "946",
+        "name_word": "calculator",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "947",
+        "name_word": "chair",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "948",
+        "name_word": "clasp",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "949",
+        "name_word": "clip",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "950",
+        "name_word": "computer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "951",
+        "name_word": "cubicle",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "952",
+        "name_word": "cutter",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "953",
+        "name_word": "desk",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "954",
+        "name_word": "diary",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "955",
+        "name_word": "document",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "956",
+        "name_word": "envelope",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "957",
+        "name_word": "fax machine",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "958",
+        "name_word": "file cabinet",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "959",
+        "name_word": "file clerk",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "960",
+        "name_word": "file folder",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "961",
+        "name_word": "headset",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "962",
+        "name_word": "highlighter",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "963",
+        "name_word": "hole punch",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "964",
+        "name_word": "in-box",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "965",
+        "name_word": "keyboard",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "966",
+        "name_word": "notice board",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "967",
+        "name_word": "manager",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "968",
+        "name_word": "memory stick",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "969",
+        "name_word": "message pad",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "970",
+        "name_word": "pad",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "971",
+        "name_word": "paper clips",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "972",
+        "name_word": "pen",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "973",
+        "name_word": "pencil",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "974",
+        "name_word": "pencil sharpener",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "975",
+        "name_word": "photocopier",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "976",
+        "name_word": "printer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "977",
+        "name_word": "printout",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "978",
+        "name_word": "rolodex",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "979",
+        "name_word": "scanner",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "980",
+        "name_word": "rubber band",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "981",
+        "name_word": "scissors",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "982",
+        "name_word": "staple",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "983",
+        "name_word": "remover",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "984",
+        "name_word": "stapler",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "985",
+        "name_word": "switchboard",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "986",
+        "name_word": "switchboard operator",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "987",
+        "name_word": "telephone",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "988",
+        "name_word": "typewriter",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "989",
+        "name_word": "typing chair",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "990",
+        "name_word": "typist",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "991",
+        "name_word": "word processor",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "15"
+    },
+    {
+        "id_word": "992",
+        "name_word": "activity",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "993",
+        "name_word": "adventure",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "994",
+        "name_word": "amusement",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "995",
+        "name_word": "attraction",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "996",
+        "name_word": "backpack",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "997",
+        "name_word": "beach",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "998",
+        "name_word": "binoculars",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "999",
+        "name_word": "booking",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1000",
+        "name_word": "camera",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1001",
+        "name_word": "camping",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1002",
+        "name_word": "cancellation",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1003",
+        "name_word": "cheque",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1004",
+        "name_word": "confirmation",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1005",
+        "name_word": "consulate",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1006",
+        "name_word": "contract",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1007",
+        "name_word": "cruise",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1008",
+        "name_word": "day trip",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1009",
+        "name_word": "departure",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1010",
+        "name_word": "lounge",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1011",
+        "name_word": "deposit",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1012",
+        "name_word": "destination",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1013",
+        "name_word": "drink",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1014",
+        "name_word": "embassy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1015",
+        "name_word": "enquiry",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1016",
+        "name_word": "exchange rate",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1017",
+        "name_word": "flight",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1018",
+        "name_word": "food",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1019",
+        "name_word": "foreigner",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1020",
+        "name_word": "gate",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1021",
+        "name_word": "hand luggage",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1022",
+        "name_word": "hotel",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1023",
+        "name_word": "inquire",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1024",
+        "name_word": "insurance",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1025",
+        "name_word": "island",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1026",
+        "name_word": "itinerary",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1027",
+        "name_word": "journey",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1028",
+        "name_word": "luggage",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1029",
+        "name_word": "luggage insurance",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1030",
+        "name_word": "luggage trolley",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1031",
+        "name_word": "map",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1032",
+        "name_word": "mountains",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1033",
+        "name_word": "picnic",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1034",
+        "name_word": "plan",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1035",
+        "name_word": "plane",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1036",
+        "name_word": "preparation",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1037",
+        "name_word": "route",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1038",
+        "name_word": "seatbelt",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1039",
+        "name_word": "souvenir",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1040",
+        "name_word": "suitcase",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1041",
+        "name_word": "suncream",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1042",
+        "name_word": "tent",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1043",
+        "name_word": "ticket",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1044",
+        "name_word": "tour guider",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1045",
+        "name_word": "tram",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1046",
+        "name_word": "travel agency",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1047",
+        "name_word": "travel brochure",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1048",
+        "name_word": "trek",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1049",
+        "name_word": "visa",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1050",
+        "name_word": "way",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1051",
+        "name_word": "enjoyable",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1052",
+        "name_word": "expensive",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1053",
+        "name_word": "cheap",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1054",
+        "name_word": "reasonable",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1055",
+        "name_word": "apply for a visa",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1056",
+        "name_word": "book",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1057",
+        "name_word": "climb",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1058",
+        "name_word": "change",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1059",
+        "name_word": "check in",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1060",
+        "name_word": "check out",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1061",
+        "name_word": "",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1062",
+        "name_word": "discount",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1063",
+        "name_word": "find out",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1064",
+        "name_word": "go skiing",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1065",
+        "name_word": "hire",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1066",
+        "name_word": "issue a visa",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1067",
+        "name_word": "land",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1068",
+        "name_word": "pack",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1069",
+        "name_word": "plan",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1070",
+        "name_word": "row a boat",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1071",
+        "name_word": "take off",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1072",
+        "name_word": "April Fool's Day",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1073",
+        "name_word": "Christmas",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1074",
+        "name_word": "Christmas Eve",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1075",
+        "name_word": "Easter",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1076",
+        "name_word": "Father's Day",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1077",
+        "name_word": "Halloween",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1078",
+        "name_word": "Independence Day",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1079",
+        "name_word": "May Day",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1080",
+        "name_word": "Mid-autumn festival",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1081",
+        "name_word": "Mother's Day",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1082",
+        "name_word": "New Year",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1083",
+        "name_word": "New Year's Eve",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1084",
+        "name_word": "public holiday",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1085",
+        "name_word": "Teacher's Day",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1086",
+        "name_word": "Thanksgiving",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1087",
+        "name_word": "Valentine's Day",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
+    },
+    {
+        "id_word": "1088",
+        "name_word": "Woman's Day",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "16"
     }
 ]
