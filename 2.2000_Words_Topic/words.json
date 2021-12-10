@@ -8702,5 +8702,829 @@
         "pronounce_word": "",
         "mean_word": "",
         "id_group": "16"
+    },
+    {
+        "id_word": "1089",
+        "name_word": "air conditioner",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1090",
+        "name_word": "air conditioner",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1091",
+        "name_word": "attic",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1092",
+        "name_word": "balcony",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1093",
+        "name_word": "bathroom",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1094",
+        "name_word": "bedroom",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1095",
+        "name_word": "broom",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1096",
+        "name_word": "chimney",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1097",
+        "name_word": "clothes line",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1098",
+        "name_word": "corridor",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1099",
+        "name_word": "curtain",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1100",
+        "name_word": "curtain rod",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1101",
+        "name_word": "door",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1102",
+        "name_word": "doorknob",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1103",
+        "name_word": "driveway",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1104",
+        "name_word": "dry",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1105",
+        "name_word": "dustpan",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1106",
+        "name_word": "fan",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1107",
+        "name_word": "floor",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1108",
+        "name_word": "fold",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1109",
+        "name_word": "fold",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1110",
+        "name_word": "fridge",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1111",
+        "name_word": "garage",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1112",
+        "name_word": "garden",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1113",
+        "name_word": "gate",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1114",
+        "name_word": "hang",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1115",
+        "name_word": "hinge",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1116",
+        "name_word": "iron",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1117",
+        "name_word": "keyhole",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1118",
+        "name_word": "keys",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1119",
+        "name_word": "kitchen",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1120",
+        "name_word": "light switch",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1121",
+        "name_word": "living room",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1122",
+        "name_word": "lock",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1123",
+        "name_word": "mop",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1124",
+        "name_word": "polish",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1125",
+        "name_word": "repair",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1126",
+        "name_word": "roof",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1127",
+        "name_word": "scrub",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1128",
+        "name_word": "shingles",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1129",
+        "name_word": "shrub",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1130",
+        "name_word": "shutter",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1131",
+        "name_word": "stairs",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1132",
+        "name_word": "sweep",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1133",
+        "name_word": "telephone",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1134",
+        "name_word": "tighten",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1135",
+        "name_word": "vacuum cleaner",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1136",
+        "name_word": "wall",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1137",
+        "name_word": "wash",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1138",
+        "name_word": "washing",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1139",
+        "name_word": "machine",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1140",
+        "name_word": "watering can",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1141",
+        "name_word": "window",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1142",
+        "name_word": "wipe",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1143",
+        "name_word": "yard",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "17"
+    },
+    {
+        "id_word": "1144",
+        "name_word": "alarm clock",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1145",
+        "name_word": "bed",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1146",
+        "name_word": "bed spread",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1147",
+        "name_word": "blanket",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1148",
+        "name_word": "bunk bed",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1149",
+        "name_word": "candle",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1150",
+        "name_word": "candlestick",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1151",
+        "name_word": "carpet",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1152",
+        "name_word": "chest of drawers",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1153",
+        "name_word": "dresser",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1154",
+        "name_word": "lamp",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1155",
+        "name_word": "lampshade",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1156",
+        "name_word": "light bulb",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1157",
+        "name_word": "mattress",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1158",
+        "name_word": "pillow",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1159",
+        "name_word": "pyjamas",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1160",
+        "name_word": "sheet",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1161",
+        "name_word": "slippers",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1162",
+        "name_word": "stool",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1163",
+        "name_word": "wardrobe",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "18"
+    },
+    {
+        "id_word": "1164",
+        "name_word": "chair",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1165",
+        "name_word": "armchair",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1166",
+        "name_word": "rocking chair",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1167",
+        "name_word": "stool",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1168",
+        "name_word": "shelf",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1169",
+        "name_word": "sofa",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1170",
+        "name_word": "curshion",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1171",
+        "name_word": "coffee table",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1172",
+        "name_word": "vase",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1173",
+        "name_word": "ashtray",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1174",
+        "name_word": "cigarette",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1175",
+        "name_word": "smoke",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1176",
+        "name_word": "cigar",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1177",
+        "name_word": "carpet",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1178",
+        "name_word": "rug",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1179",
+        "name_word": "fireplace",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1180",
+        "name_word": "cup",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1181",
+        "name_word": "pitcher",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1182",
+        "name_word": "glass",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1183",
+        "name_word": "painting",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1184",
+        "name_word": "ceiling",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1185",
+        "name_word": "ceiling fan",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1186",
+        "name_word": "wall",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1187",
+        "name_word": "step",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1188",
+        "name_word": "television",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1189",
+        "name_word": "remote control",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1190",
+        "name_word": "speaker",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "19"
+    },
+    {
+        "id_word": "1191",
+        "name_word": "apron",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
     }
 ]
