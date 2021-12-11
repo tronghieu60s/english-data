@@ -9526,5 +9526,1565 @@
         "pronounce_word": "",
         "mean_word": "",
         "id_group": "20"
+    },
+    {
+        "id_word": "1192",
+        "name_word": "basket",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1193",
+        "name_word": "blender",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1194",
+        "name_word": "bottle opener",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1195",
+        "name_word": "bowl",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1196",
+        "name_word": "broller",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1197",
+        "name_word": "burner",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1198",
+        "name_word": "cabinet",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1199",
+        "name_word": "can opener",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1200",
+        "name_word": "canister",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1201",
+        "name_word": "casserole dish",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1202",
+        "name_word": "coffee maker",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1203",
+        "name_word": "colander",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1204",
+        "name_word": "counter",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1205",
+        "name_word": "cup",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1206",
+        "name_word": "cupboard",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1207",
+        "name_word": "cutting board",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1208",
+        "name_word": "chopsticks",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1209",
+        "name_word": "dish drainer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1210",
+        "name_word": "dishtowel",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1211",
+        "name_word": "dishwasher",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1212",
+        "name_word": "dishwasher liquid",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1213",
+        "name_word": "fork",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1214",
+        "name_word": "freezer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1215",
+        "name_word": "frying pan",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1216",
+        "name_word": "glass",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1217",
+        "name_word": "ice bucket",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1218",
+        "name_word": "ice tray",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1219",
+        "name_word": "jug",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1220",
+        "name_word": "knife",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1221",
+        "name_word": "ladder",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1222",
+        "name_word": "lid",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1223",
+        "name_word": "lighter",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1224",
+        "name_word": "match",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1225",
+        "name_word": "microwave",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1226",
+        "name_word": "mixing bowl",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1227",
+        "name_word": "napkin",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1228",
+        "name_word": "oven",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1229",
+        "name_word": "plate",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1230",
+        "name_word": "pot",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1231",
+        "name_word": "pot holder",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1232",
+        "name_word": "refrigerator",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1233",
+        "name_word": "rice cooker",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1234",
+        "name_word": "roasting pan",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1235",
+        "name_word": "rolling pin",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1236",
+        "name_word": "saucepan",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1237",
+        "name_word": "scouring pad",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1238",
+        "name_word": "spoon",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1239",
+        "name_word": "steamer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1240",
+        "name_word": "stove",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1241",
+        "name_word": "tea pot",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1242",
+        "name_word": "teakettle",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1243",
+        "name_word": "teaspoon",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1244",
+        "name_word": "toaster",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1245",
+        "name_word": "tray",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "20"
+    },
+    {
+        "id_word": "1246",
+        "name_word": "basin",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1247",
+        "name_word": "bath math",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1248",
+        "name_word": "bath towel",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1249",
+        "name_word": "brush",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1250",
+        "name_word": "bathtub",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1251",
+        "name_word": "comb",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1252",
+        "name_word": "cotton swab",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1253",
+        "name_word": "eye liner",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1254",
+        "name_word": "face cloth",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1255",
+        "name_word": "faucet",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1256",
+        "name_word": "hair dryer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1257",
+        "name_word": "hairbrush",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1258",
+        "name_word": "hairspray",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1259",
+        "name_word": "lipstick",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1260",
+        "name_word": "mascara",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1261",
+        "name_word": "mirror",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1262",
+        "name_word": "nail clippers",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1263",
+        "name_word": "perfume",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1264",
+        "name_word": "powder",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1265",
+        "name_word": "razor",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1266",
+        "name_word": "razor blade",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1267",
+        "name_word": "shampoo",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1268",
+        "name_word": "shave",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1269",
+        "name_word": "shower",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1270",
+        "name_word": "sink",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1271",
+        "name_word": "soap",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1272",
+        "name_word": "tap",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1273",
+        "name_word": "tissue",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1274",
+        "name_word": "toilet",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1275",
+        "name_word": "toilet paper",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1276",
+        "name_word": "toothbrush",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1277",
+        "name_word": "toothpaste",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1278",
+        "name_word": "towel",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1279",
+        "name_word": "towel rack",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1280",
+        "name_word": "trash can",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1281",
+        "name_word": "tweezers",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1282",
+        "name_word": "washing machine",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "21"
+    },
+    {
+        "id_word": "1283",
+        "name_word": "bacon",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1284",
+        "name_word": "biscuit",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1285",
+        "name_word": "beef",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1286",
+        "name_word": "bread",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1287",
+        "name_word": "bread rolls",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1288",
+        "name_word": "brown bread",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1289",
+        "name_word": "butter",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1290",
+        "name_word": "cake",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1291",
+        "name_word": "candy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1292",
+        "name_word": "cereal",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1293",
+        "name_word": "cookie",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1294",
+        "name_word": "crab",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1295",
+        "name_word": "cupcake",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1296",
+        "name_word": "custard",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1297",
+        "name_word": "chicken",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1298",
+        "name_word": "curry",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1299",
+        "name_word": "chilli",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1300",
+        "name_word": "chocolate",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1301",
+        "name_word": "donut",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1302",
+        "name_word": "drumstick",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1303",
+        "name_word": "egg",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1304",
+        "name_word": "fast food",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1305",
+        "name_word": "fish",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1306",
+        "name_word": "flour",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1307",
+        "name_word": "french fries",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1308",
+        "name_word": "fried egg",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1309",
+        "name_word": "grease",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1310",
+        "name_word": "green salad",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1311",
+        "name_word": "gum",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1312",
+        "name_word": "ham",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1313",
+        "name_word": "hamburger",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1314",
+        "name_word": "honey",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1315",
+        "name_word": "hotdog",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1316",
+        "name_word": "ice-cream",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1317",
+        "name_word": "ketchup",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1318",
+        "name_word": "loaf",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1319",
+        "name_word": "mayonnaise",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1320",
+        "name_word": "meat",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1321",
+        "name_word": "mixed salad",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1322",
+        "name_word": "muffin",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1323",
+        "name_word": "mustard",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1324",
+        "name_word": "noddles",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1325",
+        "name_word": "omelette",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1326",
+        "name_word": "pancake",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1327",
+        "name_word": "pasta",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1328",
+        "name_word": "pastry",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1329",
+        "name_word": "peanut",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1330",
+        "name_word": "pepper",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1331",
+        "name_word": "pickle",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1332",
+        "name_word": "pie",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1333",
+        "name_word": "pizza",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1334",
+        "name_word": "popcorn",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1335",
+        "name_word": "pork",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1336",
+        "name_word": "porridge",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1337",
+        "name_word": "rice",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1338",
+        "name_word": "salt",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1339",
+        "name_word": "sandwich",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1340",
+        "name_word": "sausage",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1341",
+        "name_word": "slice",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1342",
+        "name_word": "soup",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1343",
+        "name_word": "spaghetti",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1344",
+        "name_word": "steak",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1345",
+        "name_word": "sugar",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1346",
+        "name_word": "sundae",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1347",
+        "name_word": "toast",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1348",
+        "name_word": "vinegar",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1349",
+        "name_word": "white bread",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1350",
+        "name_word": "wlener",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1351",
+        "name_word": "bitter",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1352",
+        "name_word": "bland",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1353",
+        "name_word": "crisp",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1354",
+        "name_word": "crunch",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1355",
+        "name_word": "delicious",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1356",
+        "name_word": "frozen",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1357",
+        "name_word": "greasy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1358",
+        "name_word": "bacon",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1359",
+        "name_word": "healthy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1360",
+        "name_word": "juicy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1361",
+        "name_word": "mushy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1362",
+        "name_word": "rancid",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1363",
+        "name_word": "ripe",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1364",
+        "name_word": "salty",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1365",
+        "name_word": "sour",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1366",
+        "name_word": "spicy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1367",
+        "name_word": "sweet",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1368",
+        "name_word": "tasty",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1369",
+        "name_word": "yummy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1370",
+        "name_word": "cook",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1371",
+        "name_word": "peel",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1372",
+        "name_word": "cut",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1373",
+        "name_word": "boil",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1374",
+        "name_word": "chop",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1375",
+        "name_word": "slice",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1376",
+        "name_word": "grate",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1377",
+        "name_word": "pour",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1378",
+        "name_word": "stretch",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1379",
+        "name_word": "mix",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1380",
+        "name_word": "break",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1381",
+        "name_word": "add",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1382",
+        "name_word": "stir",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1383",
+        "name_word": "bake",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1384",
+        "name_word": "drain",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1385",
+        "name_word": "whisk",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1386",
+        "name_word": "simmer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
     }
 ]
