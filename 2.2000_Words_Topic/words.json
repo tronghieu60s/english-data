@@ -12638,5 +12638,709 @@
         "pronounce_word": "",
         "mean_word": "",
         "id_group": "26"
+    },
+    {
+        "id_word": "1581",
+        "name_word": "beak",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1582",
+        "name_word": "blackbird",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1583",
+        "name_word": "blue tit",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1584",
+        "name_word": "canary",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1585",
+        "name_word": "cockoo",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1586",
+        "name_word": "crane",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1587",
+        "name_word": "crow",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1588",
+        "name_word": "chick",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "gà con, chim non",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1589",
+        "name_word": "chicken",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "gà",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1590",
+        "name_word": "dove",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1591",
+        "name_word": "duck",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1592",
+        "name_word": "eagle",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1593",
+        "name_word": "egg",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1594",
+        "name_word": "falcon",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1595",
+        "name_word": "feather",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1596",
+        "name_word": "flamingo",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1597",
+        "name_word": "goose",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1598",
+        "name_word": "gull",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1599",
+        "name_word": "hawk",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1600",
+        "name_word": "hen",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1601",
+        "name_word": "heron",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1602",
+        "name_word": "hummingbird",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1603",
+        "name_word": "kingfisher",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1604",
+        "name_word": "nest",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1605",
+        "name_word": "nightingale",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1606",
+        "name_word": "ostrich",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1607",
+        "name_word": "owl",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1608",
+        "name_word": "parrot",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1609",
+        "name_word": "peacock",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1610",
+        "name_word": "peahen",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1611",
+        "name_word": "pelican",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1612",
+        "name_word": "penguin",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1613",
+        "name_word": "pigeon",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1614",
+        "name_word": "pheasant",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1615",
+        "name_word": "rooster",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1616",
+        "name_word": "seagull",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1617",
+        "name_word": "seagun",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1618",
+        "name_word": "sparrow",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1619",
+        "name_word": "stock",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1620",
+        "name_word": "swallow",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1621",
+        "name_word": "swan",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1622",
+        "name_word": "vulture",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1623",
+        "name_word": "turkey",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1624",
+        "name_word": "wing",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1625",
+        "name_word": "woodpecker",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "27"
+    },
+    {
+        "id_word": "1626",
+        "name_word": "alligator",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1627",
+        "name_word": "anchovy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1628",
+        "name_word": "carp",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1629",
+        "name_word": "catfish",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1630",
+        "name_word": "cod",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1631",
+        "name_word": "crab",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1632",
+        "name_word": "crocodile",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1633",
+        "name_word": "cuttlefish",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1634",
+        "name_word": "dolphin",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1635",
+        "name_word": "dory",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1636",
+        "name_word": "eel",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1637",
+        "name_word": "fin",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1638",
+        "name_word": "flounder",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1639",
+        "name_word": "goby",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1640",
+        "name_word": "goldfish",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1641",
+        "name_word": "gill",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1642",
+        "name_word": "jellyfish",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1643",
+        "name_word": "lobster",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1644",
+        "name_word": "mackerel",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1645",
+        "name_word": "octopus",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1646",
+        "name_word": "oyster",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1647",
+        "name_word": "prawn",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1648",
+        "name_word": "puffer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1649",
+        "name_word": "seal",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1650",
+        "name_word": "salmon",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1651",
+        "name_word": "sardine",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1652",
+        "name_word": "sea horse",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1653",
+        "name_word": "shark",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1654",
+        "name_word": "shrimp",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1655",
+        "name_word": "skate",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1656",
+        "name_word": "snake-head",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1657",
+        "name_word": "sperm whale",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1658",
+        "name_word": "squid",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1659",
+        "name_word": "starfish",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1660",
+        "name_word": "stingray",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1661",
+        "name_word": "swordfish",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1662",
+        "name_word": "tail",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1663",
+        "name_word": "tench",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1664",
+        "name_word": "tortoise",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1665",
+        "name_word": "tuna",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1666",
+        "name_word": "turtle",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1667",
+        "name_word": "trout",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1668",
+        "name_word": "whale",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "28"
     }
 ]
