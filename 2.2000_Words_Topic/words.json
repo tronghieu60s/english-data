@@ -11086,5 +11086,1557 @@
         "pronounce_word": "",
         "mean_word": "",
         "id_group": "22"
+    },
+    {
+        "id_word": "1387",
+        "name_word": "grill",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1388",
+        "name_word": "roast",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1389",
+        "name_word": "stew",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1390",
+        "name_word": "steam",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1391",
+        "name_word": "beer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1392",
+        "name_word": "coffee",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1393",
+        "name_word": "fruit juice",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1394",
+        "name_word": "fruit smoothie",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1395",
+        "name_word": "hot chocolate",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1396",
+        "name_word": "milk",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1397",
+        "name_word": "full-fat milk",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1398",
+        "name_word": "skimmed milk",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1399",
+        "name_word": "yogurt",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1400",
+        "name_word": "soda",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1401",
+        "name_word": "tea",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1402",
+        "name_word": "water",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1403",
+        "name_word": "mineral water",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1404",
+        "name_word": "wine",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1405",
+        "name_word": "cocktail",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1406",
+        "name_word": "lemonnade",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1407",
+        "name_word": "orange juice",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1408",
+        "name_word": "soft drink",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1409",
+        "name_word": "squash",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1410",
+        "name_word": "lime cordial",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1411",
+        "name_word": "iced tea",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1412",
+        "name_word": "cocoa",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1413",
+        "name_word": "lager",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1414",
+        "name_word": "stout",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1415",
+        "name_word": "red wine",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1416",
+        "name_word": "white wine",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1417",
+        "name_word": "rum",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1418",
+        "name_word": "gin",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1419",
+        "name_word": "vodka",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1420",
+        "name_word": "sparkling wine",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1421",
+        "name_word": "champagne",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1422",
+        "name_word": "hangover",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1423",
+        "name_word": "tipsy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1424",
+        "name_word": "drunk",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1425",
+        "name_word": "aperitif",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1426",
+        "name_word": "bartender",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1427",
+        "name_word": "barman",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1428",
+        "name_word": "barmaid",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1429",
+        "name_word": "beer mat",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1430",
+        "name_word": "straw",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1431",
+        "name_word": "can",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1432",
+        "name_word": "glass",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1433",
+        "name_word": "cup",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1434",
+        "name_word": "mug",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1435",
+        "name_word": "bottle",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1436",
+        "name_word": "packet",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1437",
+        "name_word": "shake",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "23"
+    },
+    {
+        "id_word": "1438",
+        "name_word": "alpinia",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1439",
+        "name_word": "artichoke",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1440",
+        "name_word": "asparagus",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1441",
+        "name_word": "bamboo shoot",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1442",
+        "name_word": "bean-spout",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1443",
+        "name_word": "beats",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1444",
+        "name_word": "bittermelon",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1445",
+        "name_word": "black bean",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1446",
+        "name_word": "bok choy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1447",
+        "name_word": "broccoll",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1448",
+        "name_word": "cabbage",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1449",
+        "name_word": "carrot",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1450",
+        "name_word": "cauliflower",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1451",
+        "name_word": "celery",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1452",
+        "name_word": "clove",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1453",
+        "name_word": "corn",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1454",
+        "name_word": "cucumber",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1455",
+        "name_word": "chinese",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1456",
+        "name_word": "cabbage dill",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1457",
+        "name_word": "eggplant",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1458",
+        "name_word": "garlic",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1459",
+        "name_word": "gourd",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1460",
+        "name_word": "ginger",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1461",
+        "name_word": "heart leaf",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1462",
+        "name_word": "herb",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1463",
+        "name_word": "kidney bean",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1464",
+        "name_word": "kohirabi",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1465",
+        "name_word": "leek",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1466",
+        "name_word": "lemon grass",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1467",
+        "name_word": "lettuce",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1468",
+        "name_word": "mint",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1469",
+        "name_word": "mushroom",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1470",
+        "name_word": "onion",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1471",
+        "name_word": "pea",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1472",
+        "name_word": "peanut",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1473",
+        "name_word": "pepper",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1474",
+        "name_word": "pod",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1475",
+        "name_word": "potato",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1476",
+        "name_word": "pumpkin",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1477",
+        "name_word": "radish",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1478",
+        "name_word": "spinach",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1479",
+        "name_word": "string bean",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1480",
+        "name_word": "taro",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1481",
+        "name_word": "tomato",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1482",
+        "name_word": "turmeric",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1483",
+        "name_word": "turnip",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1484",
+        "name_word": "watercress",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1485",
+        "name_word": "winter melon",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1486",
+        "name_word": "yam",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "24"
+    },
+    {
+        "id_word": "1487",
+        "name_word": "almond",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1488",
+        "name_word": "apple",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1489",
+        "name_word": "apricot",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1490",
+        "name_word": "avocado",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1491",
+        "name_word": "banana",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1492",
+        "name_word": "blackberry",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1493",
+        "name_word": "cantaloupe",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1494",
+        "name_word": "cashew",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1495",
+        "name_word": "coconut",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1496",
+        "name_word": "custard apple",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1497",
+        "name_word": "cherry",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1498",
+        "name_word": "chestnut",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1499",
+        "name_word": "date",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1500",
+        "name_word": "dragon fruit",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1501",
+        "name_word": "durian",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1502",
+        "name_word": "fig",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1503",
+        "name_word": "grape fruit",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1504",
+        "name_word": "grapes",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1505",
+        "name_word": "guava",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1506",
+        "name_word": "hazelnut",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1507",
+        "name_word": "honeydew melon",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1508",
+        "name_word": "jackfruit",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1509",
+        "name_word": "kiwi",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1510",
+        "name_word": "kumquat",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1511",
+        "name_word": "lemon",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1512",
+        "name_word": "lime",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1513",
+        "name_word": "litchi",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1514",
+        "name_word": "mango",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1515",
+        "name_word": "mangosteen",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1516",
+        "name_word": "orange",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1517",
+        "name_word": "papaya",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1518",
+        "name_word": "peach",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1519",
+        "name_word": "pear",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1520",
+        "name_word": "persimmon",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1521",
+        "name_word": "pineapple",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1522",
+        "name_word": "plum",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1523",
+        "name_word": "pomegranate",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1524",
+        "name_word": "rambutan",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1525",
+        "name_word": "raspberries",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1526",
+        "name_word": "star apple",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1527",
+        "name_word": "star fruit",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1528",
+        "name_word": "strawberry",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1529",
+        "name_word": "tangerine",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1530",
+        "name_word": "walnut",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1531",
+        "name_word": "watermelon",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "25"
+    },
+    {
+        "id_word": "1532",
+        "name_word": "acorn",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1533",
+        "name_word": "apricot blossom",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1534",
+        "name_word": "bark",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1535",
+        "name_word": "branch",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1536",
+        "name_word": "bud",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1537",
+        "name_word": "bushes",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1538",
+        "name_word": "buttercup",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1539",
+        "name_word": "cactus",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1540",
+        "name_word": "camellia",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1541",
+        "name_word": "cone",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1542",
+        "name_word": "corn",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1543",
+        "name_word": "crocus",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1544",
+        "name_word": "chrysanthemum",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1545",
+        "name_word": "daffodil",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1546",
+        "name_word": "dahlia",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1547",
+        "name_word": "daisy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1548",
+        "name_word": "iris",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1549",
+        "name_word": "leaf",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1550",
+        "name_word": "lily",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1551",
+        "name_word": "magnolia",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1552",
+        "name_word": "marigold",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1553",
+        "name_word": "milk flower",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1554",
+        "name_word": "needle",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1555",
+        "name_word": "oak",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1556",
+        "name_word": "oats",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1557",
+        "name_word": "orchild",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1558",
+        "name_word": "palm",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1559",
+        "name_word": "pansy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1560",
+        "name_word": "peach blossom",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1561",
+        "name_word": "peony flower",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1562",
+        "name_word": "petal",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1563",
+        "name_word": "pine",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1564",
+        "name_word": "poinsettia",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1565",
+        "name_word": "poison oak",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1566",
+        "name_word": "rice",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1567",
+        "name_word": "root",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1568",
+        "name_word": "rose",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1569",
+        "name_word": "stem",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1570",
+        "name_word": "sugar cane",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1571",
+        "name_word": "sunflower",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1572",
+        "name_word": "tulip",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1573",
+        "name_word": "twig",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1574",
+        "name_word": "thorn",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1575",
+        "name_word": "tree",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1576",
+        "name_word": "trunk",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1577",
+        "name_word": "vine",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1578",
+        "name_word": "violet",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1579",
+        "name_word": "wheat",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
+    },
+    {
+        "id_word": "1580",
+        "name_word": "willow",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "",
+        "id_group": "26"
     }
 ]
