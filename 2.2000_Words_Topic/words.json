@@ -7011,15 +7011,15 @@
         "id_word": "877",
         "name_word": "apron",
         "classifier": "n",
-        "pronounce_word": "cái tạp dề",
-        "mean_word": "",
+        "pronounce_word": "/'eiprən/",
+        "mean_word": "cái tạp dề",
         "id_group": "14"
     },
     {
         "id_word": "878",
         "name_word": "blouse",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/blaʊz/",
         "mean_word": "áo sơ mi nữ",
         "id_group": "14"
     },
@@ -7027,7 +7027,7 @@
         "id_word": "879",
         "name_word": "lapel",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/lə'pel/",
         "mean_word": "ve áo",
         "id_group": "14"
     },
@@ -7035,375 +7035,375 @@
         "id_word": "880",
         "name_word": "boot",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/bu:t/",
+        "mean_word": "ủng, bốt",
         "id_group": "14"
     },
     {
         "id_word": "881",
         "name_word": "button",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'bʌtn/",
+        "mean_word": "cái cúc, cái khuy",
         "id_group": "14"
     },
     {
         "id_word": "882",
         "name_word": "cap",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/kæp/",
+        "mean_word": "mũ lưỡi trai",
         "id_group": "14"
     },
     {
         "id_word": "883",
         "name_word": "dress",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/dres/",
+        "mean_word": "áo đầm, áo váy",
         "id_group": "14"
     },
     {
         "id_word": "884",
         "name_word": "hat",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/hæt/",
+        "mean_word": "cái mũ",
         "id_group": "14"
     },
     {
         "id_word": "885",
         "name_word": "jacket",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'dʒækit/",
+        "mean_word": "áo khoác",
         "id_group": "14"
     },
     {
         "id_word": "886",
         "name_word": "overcoat",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'əʊvəkəʊt/",
+        "mean_word": "áo choàng",
         "id_group": "14"
     },
     {
         "id_word": "887",
         "name_word": "pullover",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'pʊləʊvər/",
+        "mean_word": "áo len chui đầu",
         "id_group": "14"
     },
     {
         "id_word": "888",
         "name_word": "pyjamas",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/pə'dʒɑ:məz/",
+        "mean_word": "pijama, quần áo ngủ",
         "id_group": "14"
     },
     {
         "id_word": "889",
         "name_word": "sandal",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'sændl/",
+        "mean_word": "dép xăng đan, dép có quai hậu",
         "id_group": "14"
     },
     {
         "id_word": "890",
         "name_word": "shirt",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/∫ɜ:t/",
+        "mean_word": "áo sơ mi",
         "id_group": "14"
     },
     {
         "id_word": "891",
         "name_word": "shoe",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/∫u:/",
+        "mean_word": "giày",
         "id_group": "14"
     },
     {
         "id_word": "892",
         "name_word": "shorts",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/∫ɔ:ts/",
+        "mean_word": "quần soóc",
         "id_group": "14"
     },
     {
         "id_word": "893",
         "name_word": "skirt",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/skɜ:t/",
+        "mean_word": "váy ngắn",
         "id_group": "14"
     },
     {
         "id_word": "894",
         "name_word": "slacks",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/slæk/",
+        "mean_word": "quần (loại ống trùng)",
         "id_group": "14"
     },
     {
         "id_word": "895",
         "name_word": "slipper",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'slipər/",
+        "mean_word": "dép lê, dép đi trong nhà",
         "id_group": "14"
     },
     {
         "id_word": "896",
         "name_word": "sock",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/sɒk/",
+        "mean_word": "tất ngắn",
         "id_group": "14"
     },
     {
         "id_word": "897",
         "name_word": "suit",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/su:t/",
+        "mean_word": "bộ quần áo, bộ com-lê, bộ đồ vét",
         "id_group": "14"
     },
     {
         "id_word": "898",
         "name_word": "t-shirt",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'ti:∫3:t/",
+        "mean_word": "áo phông ngắn tay",
         "id_group": "14"
     },
     {
         "id_word": "899",
         "name_word": "tie",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/tai/",
+        "mean_word": "cà vạt",
         "id_group": "14"
     },
     {
         "id_word": "900",
         "name_word": "trousers",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'traʊzəz/",
+        "mean_word": "quần dài",
         "id_group": "14"
     },
     {
         "id_word": "901",
         "name_word": "waistcoat",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'weiskəʊt/",
+        "mean_word": "áo gi-lê",
         "id_group": "14"
     },
     {
         "id_word": "902",
         "name_word": "belt",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/belt/",
+        "mean_word": "dây lưng, thắt lưng",
         "id_group": "14"
     },
     {
         "id_word": "903",
         "name_word": "buckle",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'bʌkl/",
+        "mean_word": "cái khóa (thắt lưng)",
         "id_group": "14"
     },
     {
         "id_word": "904",
         "name_word": "scarf",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/skɑ:f/",
+        "mean_word": "khăn quàng, khăn choàng, khăn trùm",
         "id_group": "14"
     },
     {
         "id_word": "905",
         "name_word": "collar",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'kɒlər/",
+        "mean_word": "cổ áo",
         "id_group": "14"
     },
     {
         "id_word": "906",
         "name_word": "cuff",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'kʌf/",
+        "mean_word": "cổ tay áo (áo sơ mi, áo vét)",
         "id_group": "14"
     },
     {
         "id_word": "907",
         "name_word": "glove",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/glʌvd/",
+        "mean_word": "găng tay",
         "id_group": "14"
     },
     {
         "id_word": "908",
         "name_word": "mitten",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'mitn/",
+        "mean_word": "găng tay hở ngón (chỉ che lòng và mu bàn tay)",
         "id_group": "14"
     },
     {
         "id_word": "909",
         "name_word": "napkin",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/næpkin/",
+        "mean_word": "tả lót",
         "id_group": "14"
     },
     {
         "id_word": "910",
         "name_word": "handkerchief",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'hænkət∫if/",
+        "mean_word": "khăn tay, khăn mùi soa",
         "id_group": "14"
     },
     {
         "id_word": "911",
         "name_word": "heel",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/hi:l/",
+        "mean_word": "gót giày",
         "id_group": "14"
     },
     {
         "id_word": "912",
         "name_word": "lace",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/leis/",
+        "mean_word": "dây buộc",
         "id_group": "14"
     },
     {
         "id_word": "913",
         "name_word": "shoelace",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ˈʃuːˌleɪs/",
+        "mean_word": "dây giày",
         "id_group": "14"
     },
     {
         "id_word": "914",
         "name_word": "lining",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'lainiη/",
+        "mean_word": "lớp vải lót (áo, mũ)",
         "id_group": "14"
     },
     {
         "id_word": "915",
         "name_word": "pocket",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'pɒkit/",
+        "mean_word": "túi, túi đựng",
         "id_group": "14"
     },
     {
         "id_word": "916",
         "name_word": "seam",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/si:m/",
+        "mean_word": "đường may nối, đường khâu nối",
         "id_group": "14"
     },
     {
         "id_word": "917",
         "name_word": "sleeve",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/sli:v/",
+        "mean_word": "tay áo",
         "id_group": "14"
     },
     {
         "id_word": "918",
         "name_word": "sole",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/səʊl/",
+        "mean_word": "đế giày",
         "id_group": "14"
     },
     {
         "id_word": "919",
         "name_word": "zip",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/zip/",
+        "mean_word": "khóa kéo, dây kéo",
         "id_group": "14"
     },
     {
         "id_word": "920",
         "name_word": "sweatshirt",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ˈswɛtˌʃɚt/",
+        "mean_word": "áo nỉ",
         "id_group": "14"
     },
     {
         "id_word": "921",
         "name_word": "sweatpants",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ˈswɛtˌpænts/",
+        "mean_word": "quần nỉ",
         "id_group": "14"
     },
     {
         "id_word": "922",
         "name_word": "sneakers",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'sni:kəz/",
+        "mean_word": "giày thể thao",
         "id_group": "14"
     },
     {
         "id_word": "923",
         "name_word": "sweatband",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ˈswɛtˌbænd/",
+        "mean_word": "băng đeo",
         "id_group": "14"
     },
     {
         "id_word": "924",
         "name_word": "tank top",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/tæŋk tɒp/",
+        "mean_word": "áo ba lỗ",
         "id_group": "14"
     },
     {
         "id_word": "925",
         "name_word": "long sleeve",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/lɔη sli:v/",
+        "mean_word": "áo dài tay",
         "id_group": "14"
     },
     {
         "id_word": "926",
         "name_word": "short sleeve",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/∫ɔ:t sli:v/",
         "mean_word": "",
         "id_group": "14"
     },
@@ -7411,463 +7411,447 @@
         "id_word": "927",
         "name_word": "purse",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/pɜ:s/",
+        "mean_word": "ví xách tay, túi cầm tay",
         "id_group": "14"
     },
     {
         "id_word": "928",
         "name_word": "umbrella",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ʌm'brelə/",
+        "mean_word": "cái ô",
         "id_group": "14"
     },
     {
         "id_word": "929",
         "name_word": "cardigan",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'kɑ:digən/",
+        "mean_word": "áo len đan",
         "id_group": "14"
     },
     {
         "id_word": "930",
         "name_word": "pants",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "14"
-    },
-    {
-        "id_word": "931",
-        "name_word": "blouse",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/pænts/",
+        "mean_word": "quần dài, quần lót",
         "id_group": "14"
     },
     {
         "id_word": "932",
         "name_word": "coat",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/kəʊt/",
+        "mean_word": "áo khoác, áo choàng",
         "id_group": "14"
     },
     {
         "id_word": "933",
         "name_word": "raincoat",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'reinkəʊt/",
+        "mean_word": "áo mưa",
         "id_group": "14"
     },
     {
         "id_word": "934",
         "name_word": "vest",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/vest/",
+        "mean_word": "áo gi-lê",
         "id_group": "14"
     },
     {
         "id_word": "935",
         "name_word": "uniform",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'ju:nifɔ:m/",
+        "mean_word": "đồng phục",
         "id_group": "14"
     },
     {
         "id_word": "936",
         "name_word": "fashionable",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'fæ∫nəbl/",
+        "mean_word": "đúng mốt, hợp thời trang",
         "id_group": "14"
     },
     {
         "id_word": "937",
         "name_word": "old-fashion",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/əʊld 'fæ∫n/",
+        "mean_word": "lỗi thời, lạc hậu",
         "id_group": "14"
     },
     {
         "id_word": "938",
         "name_word": "smart",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/smɑ:t/",
+        "mean_word": "thanh nhã, bảnh bao",
         "id_group": "14"
     },
     {
         "id_word": "939",
         "name_word": "loose",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/lu:s/",
+        "mean_word": "lỏng lẻo, rộng rãi",
         "id_group": "14"
     },
     {
         "id_word": "940",
         "name_word": "tight",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/tait/",
+        "mean_word": "chặt, chật",
         "id_group": "14"
     },
     {
         "id_word": "941",
         "name_word": "fit",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/fit/",
+        "mean_word": "hợp, vừa",
         "id_group": "14"
     },
     {
         "id_word": "942",
         "name_word": "worn-out",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/,wɜ:naʊt/",
+        "mean_word": "bị rách, mòn",
         "id_group": "14"
     },
     {
         "id_word": "943",
         "name_word": "binder",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'baindər/",
+        "mean_word": "kẹp tài liệu",
         "id_group": "15"
     },
     {
         "id_word": "944",
         "name_word": "bookcase",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'bʊkkeis/",
+        "mean_word": "tủ sách",
         "id_group": "15"
     },
     {
         "id_word": "945",
         "name_word": "calendar",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'kælindər/",
+        "mean_word": "lịch",
         "id_group": "15"
     },
     {
         "id_word": "946",
         "name_word": "calculator",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'kælkjʊleitər/",
+        "mean_word": "máy tính",
         "id_group": "15"
     },
     {
         "id_word": "947",
         "name_word": "chair",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/t∫eər/",
+        "mean_word": "ghế tựa",
         "id_group": "15"
     },
     {
         "id_word": "948",
         "name_word": "clasp",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/klɑ:sp/",
+        "mean_word": "cái móc, cái gài",
         "id_group": "15"
     },
     {
         "id_word": "949",
         "name_word": "clip",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/klip/",
+        "mean_word": "cái kẹp",
         "id_group": "15"
     },
     {
         "id_word": "950",
         "name_word": "computer",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/kəm'pju:tər/",
+        "mean_word": "máy tính",
         "id_group": "15"
     },
     {
         "id_word": "951",
         "name_word": "cubicle",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'kju:bikl/",
+        "mean_word": "từng phòng nhỏ",
         "id_group": "15"
     },
     {
         "id_word": "952",
         "name_word": "cutter",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'kʌtər/",
+        "mean_word": "dao rọc giấy",
         "id_group": "15"
     },
     {
         "id_word": "953",
         "name_word": "desk",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/desk/",
+        "mean_word": "bàn làm việc",
         "id_group": "15"
     },
     {
         "id_word": "954",
         "name_word": "diary",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'daiəri/",
+        "mean_word": "nhật ký",
         "id_group": "15"
     },
     {
         "id_word": "955",
         "name_word": "document",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'dɒkjʊmənt/",
+        "mean_word": "văn kiện, tư liệu, tài liệu",
         "id_group": "15"
     },
     {
         "id_word": "956",
         "name_word": "envelope",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'envələʊp/",
+        "mean_word": "bao bì, phong bì",
         "id_group": "15"
     },
     {
         "id_word": "957",
         "name_word": "fax machine",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/fæks mə'∫i:n/",
+        "mean_word": "máy fax",
         "id_group": "15"
     },
     {
         "id_word": "958",
         "name_word": "file cabinet",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/fail 'kæbinit/",
+        "mean_word": "tủ đựng tài liệu",
         "id_group": "15"
     },
     {
         "id_word": "959",
         "name_word": "file clerk",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/fail 'klɑ:k/",
+        "mean_word": "nhân viên văn thư",
         "id_group": "15"
     },
     {
         "id_word": "960",
         "name_word": "file folder",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/fail 'fəʊldər/",
+        "mean_word": "tập hồ sơ",
         "id_group": "15"
     },
     {
         "id_word": "961",
         "name_word": "headset",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'hedset/",
+        "mean_word": "tai nghe",
         "id_group": "15"
     },
     {
         "id_word": "962",
         "name_word": "highlighter",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'hailaitər/",
+        "mean_word": "bút đánh dấu",
         "id_group": "15"
     },
     {
         "id_word": "963",
         "name_word": "hole punch",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/həʊl pʌnt∫/",
+        "mean_word": "cái đục lỗ",
         "id_group": "15"
     },
     {
         "id_word": "964",
         "name_word": "in-box",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ˈɪnˌbɑːks/",
+        "mean_word": "công văn đến",
         "id_group": "15"
     },
     {
         "id_word": "965",
         "name_word": "keyboard",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'ki:bɔ:d/",
+        "mean_word": "bàn phím",
         "id_group": "15"
     },
     {
         "id_word": "966",
         "name_word": "notice board",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'nətis bɔ:d/",
+        "mean_word": "bảng tin",
         "id_group": "15"
     },
     {
         "id_word": "967",
         "name_word": "manager",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'mænidʒər/",
+        "mean_word": "người quản lý, người điều hành",
         "id_group": "15"
     },
     {
         "id_word": "968",
         "name_word": "memory stick",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'meməri stik/",
+        "mean_word": "usb",
         "id_group": "15"
     },
     {
         "id_word": "969",
         "name_word": "message pad",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'mesidʒ pæd/",
+        "mean_word": "giấy nhắn",
         "id_group": "15"
     },
     {
         "id_word": "970",
         "name_word": "pad",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/pæd/",
+        "mean_word": "tập giấy viết",
         "id_group": "15"
     },
     {
         "id_word": "971",
         "name_word": "paper clips",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'peipər klip/",
+        "mean_word": "kẹp giấy",
         "id_group": "15"
     },
     {
         "id_word": "972",
         "name_word": "pen",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/pen/",
+        "mean_word": "bút",
         "id_group": "15"
     },
     {
         "id_word": "973",
         "name_word": "pencil",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'pensl/",
+        "mean_word": "bút chì, viết chì",
         "id_group": "15"
     },
     {
         "id_word": "974",
         "name_word": "pencil sharpener",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'pensl ∫ɑ:pənər/",
+        "mean_word": "cái gọt bút chì",
         "id_group": "15"
     },
     {
         "id_word": "975",
         "name_word": "photocopier",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'fəʊtəʊkɒpiər/",
+        "mean_word": "máy phô tô",
         "id_group": "15"
     },
     {
         "id_word": "976",
         "name_word": "printer",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'printər/",
+        "mean_word": "máy in",
         "id_group": "15"
     },
     {
         "id_word": "977",
         "name_word": "printout",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'printaʊt/",
+        "mean_word": "dữ liệu in ra",
         "id_group": "15"
     },
     {
         "id_word": "978",
         "name_word": "rolodex",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/ˈrōləˌdeks/",
+        "mean_word": "hộp đựng danh thiếp",
         "id_group": "15"
     },
     {
         "id_word": "979",
         "name_word": "scanner",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'skænər/",
+        "mean_word": "máy scan",
         "id_group": "15"
     },
     {
         "id_word": "980",
         "name_word": "rubber band",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/,rʌbə'bænd/",
+        "mean_word": "dây chun",
         "id_group": "15"
     },
     {
         "id_word": "981",
         "name_word": "scissors",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'sizəz/",
+        "mean_word": "cái kéo",
         "id_group": "15"
     },
     {
         "id_word": "982",
         "name_word": "staple",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'steipl/",
+        "mean_word": "cái gỡ ghim giấy",
         "id_group": "15"
     },
     {
         "id_word": "983",
-        "name_word": "remover",
+        "name_word": "remover stapler",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "15"
-    },
-    {
-        "id_word": "984",
-        "name_word": "stapler",
-        "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ri'mu:vər 'steiplər/",
         "mean_word": "",
         "id_group": "15"
     },
@@ -7875,56 +7859,56 @@
         "id_word": "985",
         "name_word": "switchboard",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'switʃbɔ:d/",
+        "mean_word": "tổng đài",
         "id_group": "15"
     },
     {
         "id_word": "986",
         "name_word": "switchboard operator",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'switʃbɔ:d 'ɒpəreitər/",
+        "mean_word": "người trực tổng đài",
         "id_group": "15"
     },
     {
         "id_word": "987",
         "name_word": "telephone",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'telifəʊn/",
+        "mean_word": "điện thoại",
         "id_group": "15"
     },
     {
         "id_word": "988",
         "name_word": "typewriter",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'taip,raitər/",
+        "mean_word": "máy chữ",
         "id_group": "15"
     },
     {
         "id_word": "989",
         "name_word": "typing chair",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'taipiŋ t∫eər/",
+        "mean_word": "ghế văn phòng",
         "id_group": "15"
     },
     {
         "id_word": "990",
         "name_word": "typist",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/'taipist/",
+        "mean_word": "thư ký đánh máy",
         "id_group": "15"
     },
     {
         "id_word": "991",
         "name_word": "word processor",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/wɜ:d 'prəʊsesər/",
+        "mean_word": "máy xử lý văn bản",
         "id_group": "15"
     },
     {
