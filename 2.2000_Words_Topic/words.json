@@ -17326,5 +17326,1557 @@
         "pronounce_word": "",
         "mean_word": "gió",
         "id_group": "35"
+    },
+    {
+        "id_word": "2167",
+        "name_word": "account",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "ngành kế toán",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2168",
+        "name_word": "balance of trade",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cán cân thương mại",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2169",
+        "name_word": "benefit",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "lợi nhuận",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2170",
+        "name_word": "board of directors",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "ban quản trị",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2171",
+        "name_word": "branch",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "chi nhánh",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2172",
+        "name_word": "budget",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "ngân sách, ngân quỹ",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2173",
+        "name_word": "business",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "kinh doanh",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2174",
+        "name_word": "capital",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "vốn",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2175",
+        "name_word": "commodity",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "hàng hóa",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2176",
+        "name_word": "competition",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cạnh tranh",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2177",
+        "name_word": "contract",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bản hợp đồng",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2178",
+        "name_word": "corporation",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "công ty",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2179",
+        "name_word": "customer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "khách",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2180",
+        "name_word": "enterprise",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "doanh nghiệp",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2181",
+        "name_word": "credit",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "tín dụng",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2182",
+        "name_word": "deadline",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "hạn cuối",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2183",
+        "name_word": "debt",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nợ",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2184",
+        "name_word": "delivery",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự phân phối, sự giao hàng",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2185",
+        "name_word": "department",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phòng ban, bộ phận",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2186",
+        "name_word": "disadvantage",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự bất lợi",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2187",
+        "name_word": "employee",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "người lao động, nhân viên",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2188",
+        "name_word": "employer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "chủ lao động",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2189",
+        "name_word": "equipment",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thiết bị",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2190",
+        "name_word": "experience",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "kinh nghiệm",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2191",
+        "name_word": "facility",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "khả năng, điều kiện",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2192",
+        "name_word": "factory",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhà máy",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2193",
+        "name_word": "far east",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "viễn đông",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2194",
+        "name_word": "feedback",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự phản hồi",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2195",
+        "name_word": "finance",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "ngành tài chính",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2196",
+        "name_word": "firm",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "hãng",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2197",
+        "name_word": "franchise",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhượng quyền kinh doanh",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2198",
+        "name_word": "goal",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "mục tiêu",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2199",
+        "name_word": "grownth",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự tăng trưởng",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2200",
+        "name_word": "guarantee",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự bảo đảm, sự bảo hành",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2201",
+        "name_word": "investment",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự đầu tư",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2202",
+        "name_word": "industry",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "ngành công nghiệp",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2203",
+        "name_word": "invoice",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "hóa đơn",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2204",
+        "name_word": "license",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự cho phép, giấy phép",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2205",
+        "name_word": "limited",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "hạn chế, hữu hạn",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2206",
+        "name_word": "market",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thị trường",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2207",
+        "name_word": "personnel",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhân viên, nhân sự",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2208",
+        "name_word": "product",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sản phẩm",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2209",
+        "name_word": "profit",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "lợi ích, lợi nhuận",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2210",
+        "name_word": "promotion",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự khuyến mãi",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2211",
+        "name_word": "real estate",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bất động sản",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2212",
+        "name_word": "result",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "kết quả",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2213",
+        "name_word": "risk",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "rủi ro",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2214",
+        "name_word": "property",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sở hữu, tài sản",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2215",
+        "name_word": "salary",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "lương",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2216",
+        "name_word": "schedule",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "lịch trình, kế hoạch",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2217",
+        "name_word": "share",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cổ phiếu",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2218",
+        "name_word": "bonds",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "trái phiếu",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2219",
+        "name_word": "shareholder",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cổ đông",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2220",
+        "name_word": "signature",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "chữ ký",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2221",
+        "name_word": "stock",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cổ phần",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2222",
+        "name_word": "subsidy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bao cấp, trợ cấp",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2223",
+        "name_word": "success",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thành công",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2224",
+        "name_word": "transaction",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "việc giao dịch",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2225",
+        "name_word": "turnover",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "kim ngạch, doanh thu, lợi nhuận bán hàng",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2226",
+        "name_word": "wholesaler",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "người bán buôn, người cung cấp hàng hóa",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2227",
+        "name_word": "bankrupt",
+        "classifier": "adj",
+        "pronounce_word": "",
+        "mean_word": "phá sản",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2228",
+        "name_word": "responsible",
+        "classifier": "adj",
+        "pronounce_word": "",
+        "mean_word": "có trách nhiệm",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2229",
+        "name_word": "private",
+        "classifier": "adj",
+        "pronounce_word": "",
+        "mean_word": "cá nhân, tư nhân",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2230",
+        "name_word": "wholesale",
+        "classifier": "adj",
+        "pronounce_word": "",
+        "mean_word": "bán buôn",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2231",
+        "name_word": "multinational",
+        "classifier": "adj",
+        "pronounce_word": "",
+        "mean_word": "đa quốc gia",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2232",
+        "name_word": "export",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "xuất khẩu",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2233",
+        "name_word": "fluctuate",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "dao động, biến động",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2234",
+        "name_word": "import",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "nhập khẩu",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2235",
+        "name_word": "invest",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "đầu tư",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2236",
+        "name_word": "increase",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "tăng lên",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2237",
+        "name_word": "levy",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "đánh thuê",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2238",
+        "name_word": "negotiate",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "đàm phán",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2239",
+        "name_word": "oversee",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "giám sát",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2240",
+        "name_word": "produce",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "sản xuất",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2241",
+        "name_word": "promote",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "khuyến mãi",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2242",
+        "name_word": "purchase",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "mua",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2243",
+        "name_word": "retail",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "bán lẻ",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2244",
+        "name_word": "refund",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "trả lại, hoàn tiền",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2245",
+        "name_word": "report",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "lập báo cáo",
+        "id_group": "36"
+    },
+    {
+        "id_word": "2246",
+        "name_word": "access",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "truy cập, việc truy cập",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2247",
+        "name_word": "algol",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "ngôn ngữ lập trình",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2248",
+        "name_word": "antivirus software",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phần mềm chống vi rút",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2249",
+        "name_word": "binary digit",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "số nhị phân",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2250",
+        "name_word": "block diagram",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "biểu đồ khối",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2251",
+        "name_word": "breakdown",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự cố, hỏng hóc",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2252",
+        "name_word": "cable",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "dây cáp",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2253",
+        "name_word": "capacity",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "dung lượng",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2254",
+        "name_word": "card reader",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bộ đọc thẻ",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2255",
+        "name_word": "cartridge",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "hộp, đĩa",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2256",
+        "name_word": "circuit",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "mạch điện tử",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2257",
+        "name_word": "circuit board",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bảng mạch điện tử",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2258",
+        "name_word": "compiler",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bộ biên dịch, trình biên dịch",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2259",
+        "name_word": "computer breakdown",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự cố máy tính",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2260",
+        "name_word": "computer installation",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "trung tâm máy tính",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2261",
+        "name_word": "computer operator",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nhân viên máy tính",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2262",
+        "name_word": "computer system",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "hệ thống máy tính",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2263",
+        "name_word": "database",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cơ sở dữ liệu",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2264",
+        "name_word": "desktop",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "máy tính để bàn",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2265",
+        "name_word": "email",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thư điện tử",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2266",
+        "name_word": "email address",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "địa chỉ email",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2267",
+        "name_word": "file",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "tập tin",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2268",
+        "name_word": "firewall",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "tường lửa",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2269",
+        "name_word": "folder",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thư mục",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2270",
+        "name_word": "hardware",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phần cứng",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2271",
+        "name_word": "lower case",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "chữ thường",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2272",
+        "name_word": "message",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "tin nhắn",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2273",
+        "name_word": "moniter",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phần màn hình",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2274",
+        "name_word": "mouse",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "chuột",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2275",
+        "name_word": "network",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "mạng lưới",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2276",
+        "name_word": "operating system",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "hệ điều hành",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2277",
+        "name_word": "password",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "mật khẩu",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2278",
+        "name_word": "personal computer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "máy tính cá nhân",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2279",
+        "name_word": "printer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "máy in",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2280",
+        "name_word": "printout",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bản in",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2281",
+        "name_word": "programmer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "lập trình viên",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2282",
+        "name_word": "scanner",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "máy quét",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2283",
+        "name_word": "screen",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "màn hình",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2284",
+        "name_word": "software",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phần mềm",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2285",
+        "name_word": "space bar",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phím khoảng trắng, phím cách",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2286",
+        "name_word": "spreadsheet",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bảng tính",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2287",
+        "name_word": "track",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "rãnh",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2288",
+        "name_word": "upper case",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "chữ in hoa",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2289",
+        "name_word": "username",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "tên người dùng",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2290",
+        "name_word": "vacuum tube",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "đèn chân không",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2291",
+        "name_word": "virtual storage",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "lưu trữ ảo, bộ nhớ ảo",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2292",
+        "name_word": "word processing",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "xử lý từ",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2293",
+        "name_word": "zone punch",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "vùng đục lỗ",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2294",
+        "name_word": "online",
+        "classifier": "adj",
+        "pronounce_word": "",
+        "mean_word": "trực tuyến",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2295",
+        "name_word": "wireless",
+        "classifier": "adj",
+        "pronounce_word": "",
+        "mean_word": "không dây",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2296",
+        "name_word": "create",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "tạo, viết (thư mới)",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2297",
+        "name_word": "send",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "gửi",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2298",
+        "name_word": "reply",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "trả lời",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2299",
+        "name_word": "forward",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "chuyển tiếp",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2300",
+        "name_word": "scroll up",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "cuộn lên",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2301",
+        "name_word": "scroll down",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "cuộn xuống",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2302",
+        "name_word": "log on",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "đăng nhập",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2303",
+        "name_word": "log off",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "đăng xuất",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2304",
+        "name_word": "download",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "tải xuống",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2305",
+        "name_word": "type",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "đánh máy",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2306",
+        "name_word": "browse",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "truy cập",
+        "id_group": "37"
+    },
+    {
+        "id_word": "2307",
+        "name_word": "Africa",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "Châu Phi",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2308",
+        "name_word": "Antarctica",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "Châu Nam Cực",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2309",
+        "name_word": "Arctic",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "Bắc Cực",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2310",
+        "name_word": "Asia",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "Châu Á",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2311",
+        "name_word": "Australia",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "Châu Úc",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2312",
+        "name_word": "atmosphere",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bầu khí quyển",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2313",
+        "name_word": "balance",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự cân bằng",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2314",
+        "name_word": "beach",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bãi biển",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2315",
+        "name_word": "Black Sea",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "Hắc Hải",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2316",
+        "name_word": "biodiversity",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "đa dạng sinh học",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2317",
+        "name_word": "city",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thành phố",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2318",
+        "name_word": "cliff",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "vách đá",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2319",
+        "name_word": "coast",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bờ biển",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2320",
+        "name_word": "continents",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "các lục địa",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2321",
+        "name_word": "desert",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sa mạc",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2322",
+        "name_word": "dirt",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bụi",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2323",
+        "name_word": "disaster",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thảm họa",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2324",
+        "name_word": "earthquake",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "động đất",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2325",
+        "name_word": "east",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phía đông",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2326",
+        "name_word": "ecosystem",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "hệ sinh thái",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2327",
+        "name_word": "endangered",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bị nguy hiểm",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2328",
+        "name_word": "environment",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "môi trường",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2329",
+        "name_word": "equator",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "xích đạo",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2330",
+        "name_word": "erode",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "xói mòn",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2331",
+        "name_word": "erosion",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự xói mòn",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2332",
+        "name_word": "eruption",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự phun trào",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2333",
+        "name_word": "Europe",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "Châu Âu",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2334",
+        "name_word": "extinct",
+        "classifier": "adj",
+        "pronounce_word": "",
+        "mean_word": "tuyệt chủng",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2335",
+        "name_word": "field",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cánh đồng",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2336",
+        "name_word": "forest",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "rừng",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2337",
+        "name_word": "hill",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "đồi",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2338",
+        "name_word": "island",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "đảo",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2339",
+        "name_word": "jungle",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "rừng rậm",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2340",
+        "name_word": "lake",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "hồ",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2341",
+        "name_word": "meadow",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "đồng cỏ",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2342",
+        "name_word": "mountain",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "núi",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2343",
+        "name_word": "mountain range",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "dãy núi",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2344",
+        "name_word": "north",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phía bắc",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2345",
+        "name_word": "ozone layer",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "tầng ô zôn",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2346",
+        "name_word": "plain",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "đồng bằng",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2347",
+        "name_word": "pond",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "ao",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2348",
+        "name_word": "pollute",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "gây ô nhiễm",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2349",
+        "name_word": "rainforest",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "rừng mưa nhiệt đới",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2350",
+        "name_word": "reservoir",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "hồ chứa nước",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2351",
+        "name_word": "river",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sông",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2352",
+        "name_word": "rock",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "đá",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2353",
+        "name_word": "sea",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "biển",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2354",
+        "name_word": "south",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phía nam",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2355",
+        "name_word": "stream",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "suối",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2356",
+        "name_word": "town",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thị trấn",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2357",
+        "name_word": "village",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "làng",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2358",
+        "name_word": "volcano",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "núi lửa",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2359",
+        "name_word": "west",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phía tây",
+        "id_group": "38"
+    },
+    {
+        "id_word": "2360",
+        "name_word": "wood",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "rừng",
+        "id_group": "38"
     }
 ]
