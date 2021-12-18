@@ -10876,7 +10876,7 @@
         "name_word": "grill",
         "classifier": "v",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "nướng",
         "id_group": "22"
     },
     {
@@ -10884,7 +10884,23 @@
         "name_word": "roast",
         "classifier": "v",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quay",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1362",
+        "name_word": "fry",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "rán, chiên",
+        "id_group": "22"
+    },
+    {
+        "id_word": "1362",
+        "name_word": "saute",
+        "classifier": "v",
+        "pronounce_word": "",
+        "mean_word": "áp chảo",
         "id_group": "22"
     },
     {
@@ -10892,7 +10908,7 @@
         "name_word": "stew",
         "classifier": "v",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hầm, ninh",
         "id_group": "22"
     },
     {
@@ -10900,7 +10916,7 @@
         "name_word": "steam",
         "classifier": "v",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hấp",
         "id_group": "22"
     },
     {
@@ -10908,7 +10924,7 @@
         "name_word": "beer",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "bia",
         "id_group": "23"
     },
     {
@@ -10916,7 +10932,7 @@
         "name_word": "coffee",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cà phê",
         "id_group": "23"
     },
     {
@@ -10924,7 +10940,7 @@
         "name_word": "fruit juice",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "nước ép hoa quả",
         "id_group": "23"
     },
     {
@@ -10932,7 +10948,7 @@
         "name_word": "fruit smoothie",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "sinh tố hoa quả",
         "id_group": "23"
     },
     {
@@ -10940,7 +10956,7 @@
         "name_word": "hot chocolate",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "ca cao nóng",
         "id_group": "23"
     },
     {
@@ -10948,7 +10964,7 @@
         "name_word": "milk",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "sữa",
         "id_group": "23"
     },
     {
@@ -10956,7 +10972,7 @@
         "name_word": "full-fat milk",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "sữa béo",
         "id_group": "23"
     },
     {
@@ -10964,7 +10980,7 @@
         "name_word": "skimmed milk",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "sữa không béo",
         "id_group": "23"
     },
     {
@@ -10972,7 +10988,7 @@
         "name_word": "yogurt",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "sữa chua",
         "id_group": "23"
     },
     {
@@ -10980,7 +10996,7 @@
         "name_word": "soda",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "nước ngọt có ga",
         "id_group": "23"
     },
     {
@@ -10988,7 +11004,7 @@
         "name_word": "tea",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "trà",
         "id_group": "23"
     },
     {
@@ -10996,7 +11012,7 @@
         "name_word": "water",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "nước",
         "id_group": "23"
     },
     {
@@ -11004,7 +11020,7 @@
         "name_word": "mineral water",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "nước khoáng",
         "id_group": "23"
     },
     {
@@ -11012,15 +11028,7 @@
         "name_word": "wine",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "23"
-    },
-    {
-        "id_word": "1378",
-        "name_word": "cocktail",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "rượu",
         "id_group": "23"
     },
     {
@@ -11028,7 +11036,7 @@
         "name_word": "lemonnade",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "nước chanh",
         "id_group": "23"
     },
     {
@@ -11036,7 +11044,7 @@
         "name_word": "orange juice",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "nước cam ép",
         "id_group": "23"
     },
     {
@@ -11044,7 +11052,7 @@
         "name_word": "soft drink",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "đồ uống ngọt không có cồn",
         "id_group": "23"
     },
     {
@@ -11052,7 +11060,7 @@
         "name_word": "squash",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "nước ép",
         "id_group": "23"
     },
     {
@@ -11060,7 +11068,7 @@
         "name_word": "lime cordial",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "rượu chanh",
         "id_group": "23"
     },
     {
@@ -11068,7 +11076,7 @@
         "name_word": "iced tea",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "trà đá",
         "id_group": "23"
     },
     {
@@ -11076,23 +11084,7 @@
         "name_word": "cocoa",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "23"
-    },
-    {
-        "id_word": "1386",
-        "name_word": "lager",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "23"
-    },
-    {
-        "id_word": "1387",
-        "name_word": "stout",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "ca cao",
         "id_group": "23"
     },
     {
@@ -11100,7 +11092,7 @@
         "name_word": "red wine",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "rượu vang đỏ",
         "id_group": "23"
     },
     {
@@ -11108,31 +11100,7 @@
         "name_word": "white wine",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "23"
-    },
-    {
-        "id_word": "1390",
-        "name_word": "rum",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "23"
-    },
-    {
-        "id_word": "1391",
-        "name_word": "gin",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "23"
-    },
-    {
-        "id_word": "1392",
-        "name_word": "vodka",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "rượu trắng",
         "id_group": "23"
     },
     {
@@ -11140,7 +11108,7 @@
         "name_word": "sparkling wine",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "rượu có ga",
         "id_group": "23"
     },
     {
@@ -11148,7 +11116,7 @@
         "name_word": "champagne",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "sâm banh",
         "id_group": "23"
     },
     {
@@ -11156,7 +11124,7 @@
         "name_word": "hangover",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "mệt sau cơn say",
         "id_group": "23"
     },
     {
@@ -11164,7 +11132,7 @@
         "name_word": "tipsy",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "ngà ngà say",
         "id_group": "23"
     },
     {
@@ -11172,7 +11140,7 @@
         "name_word": "drunk",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "say rượu",
         "id_group": "23"
     },
     {
@@ -11180,7 +11148,7 @@
         "name_word": "aperitif",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "rượu khai vị",
         "id_group": "23"
     },
     {
@@ -11188,7 +11156,7 @@
         "name_word": "bartender",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "nhân viên phục vụ quầy rượu",
         "id_group": "23"
     },
     {
@@ -11196,7 +11164,7 @@
         "name_word": "barman",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "nam phục vụ quầy rượu",
         "id_group": "23"
     },
     {
@@ -11204,7 +11172,7 @@
         "name_word": "barmaid",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "nữ phục vụ quầy rượu",
         "id_group": "23"
     },
     {
@@ -11212,7 +11180,7 @@
         "name_word": "beer mat",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "miếng lót cốc bia",
         "id_group": "23"
     },
     {
@@ -11220,7 +11188,7 @@
         "name_word": "straw",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "ống hút",
         "id_group": "23"
     },
     {
@@ -11228,7 +11196,7 @@
         "name_word": "can",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "lon",
         "id_group": "23"
     },
     {
@@ -11236,7 +11204,7 @@
         "name_word": "glass",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "ly",
         "id_group": "23"
     },
     {
@@ -11244,7 +11212,7 @@
         "name_word": "cup",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "tách, cốc",
         "id_group": "23"
     },
     {
@@ -11252,7 +11220,7 @@
         "name_word": "mug",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "ca, cốc, vại",
         "id_group": "23"
     },
     {
@@ -11260,7 +11228,7 @@
         "name_word": "bottle",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chai",
         "id_group": "23"
     },
     {
@@ -11268,15 +11236,15 @@
         "name_word": "packet",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hộp",
         "id_group": "23"
     },
     {
         "id_word": "1410",
         "name_word": "shake",
-        "classifier": "n",
+        "classifier": "v",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "lắc",
         "id_group": "23"
     },
     {
@@ -11284,7 +11252,7 @@
         "name_word": "alpinia",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "củ riềng",
         "id_group": "24"
     },
     {
@@ -11292,7 +11260,7 @@
         "name_word": "artichoke",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cây atisô",
         "id_group": "24"
     },
     {
@@ -11300,7 +11268,7 @@
         "name_word": "asparagus",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "măng tây",
         "id_group": "24"
     },
     {
@@ -11308,31 +11276,31 @@
         "name_word": "bamboo shoot",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "măng",
         "id_group": "24"
     },
     {
         "id_word": "1415",
-        "name_word": "bean-spout",
+        "name_word": "beansprouts",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "giá",
         "id_group": "24"
     },
     {
         "id_word": "1416",
-        "name_word": "beats",
+        "name_word": "beat",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "củ cải đường",
         "id_group": "24"
     },
     {
         "id_word": "1417",
-        "name_word": "bittermelon",
+        "name_word": "bitter melon",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "khổ qua",
         "id_group": "24"
     },
     {
@@ -11340,7 +11308,7 @@
         "name_word": "black bean",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "đậu đen",
         "id_group": "24"
     },
     {
@@ -11348,7 +11316,7 @@
         "name_word": "bok choy",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cải thìa",
         "id_group": "24"
     },
     {
@@ -11356,7 +11324,7 @@
         "name_word": "broccoll",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "súp lơ xanh",
         "id_group": "24"
     },
     {
@@ -11364,7 +11332,7 @@
         "name_word": "cabbage",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cải bắp",
         "id_group": "24"
     },
     {
@@ -11372,7 +11340,7 @@
         "name_word": "carrot",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cà rốt",
         "id_group": "24"
     },
     {
@@ -11380,7 +11348,7 @@
         "name_word": "cauliflower",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "súp lơ",
         "id_group": "24"
     },
     {
@@ -11388,7 +11356,7 @@
         "name_word": "celery",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cần tây",
         "id_group": "24"
     },
     {
@@ -11396,7 +11364,7 @@
         "name_word": "clove",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "tép tỏi",
         "id_group": "24"
     },
     {
@@ -11404,7 +11372,7 @@
         "name_word": "corn",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "ngô",
         "id_group": "24"
     },
     {
@@ -11412,23 +11380,23 @@
         "name_word": "cucumber",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "dưa chuột",
         "id_group": "24"
     },
     {
         "id_word": "1428",
-        "name_word": "chinese",
+        "name_word": "chinese cabbage",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cải thảo",
         "id_group": "24"
     },
     {
         "id_word": "1429",
-        "name_word": "cabbage dill",
+        "name_word": "dill",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "rau thì là",
         "id_group": "24"
     },
     {
@@ -11436,7 +11404,7 @@
         "name_word": "eggplant",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cà tím",
         "id_group": "24"
     },
     {
@@ -11444,7 +11412,7 @@
         "name_word": "garlic",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "tỏi",
         "id_group": "24"
     },
     {
@@ -11452,7 +11420,7 @@
         "name_word": "gourd",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả bầu, quả bí",
         "id_group": "24"
     },
     {
@@ -11460,7 +11428,7 @@
         "name_word": "ginger",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "gừng",
         "id_group": "24"
     },
     {
@@ -11468,7 +11436,7 @@
         "name_word": "heart leaf",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "rau diếp cá",
         "id_group": "24"
     },
     {
@@ -11476,7 +11444,7 @@
         "name_word": "herb",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "rau thơm",
         "id_group": "24"
     },
     {
@@ -11484,7 +11452,7 @@
         "name_word": "kidney bean",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "đậu tây",
         "id_group": "24"
     },
     {
@@ -11492,7 +11460,7 @@
         "name_word": "kohirabi",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "su hào",
         "id_group": "24"
     },
     {
@@ -11500,7 +11468,7 @@
         "name_word": "leek",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "tỏi tây",
         "id_group": "24"
     },
     {
@@ -11508,7 +11476,7 @@
         "name_word": "lemon grass",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "sả",
         "id_group": "24"
     },
     {
@@ -11516,7 +11484,7 @@
         "name_word": "lettuce",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "xà lách",
         "id_group": "24"
     },
     {
@@ -11524,7 +11492,7 @@
         "name_word": "mint",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "bạc hà",
         "id_group": "24"
     },
     {
@@ -11532,7 +11500,7 @@
         "name_word": "mushroom",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "nấm",
         "id_group": "24"
     },
     {
@@ -11540,7 +11508,7 @@
         "name_word": "onion",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hành",
         "id_group": "24"
     },
     {
@@ -11548,7 +11516,7 @@
         "name_word": "pea",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "đậu",
         "id_group": "24"
     },
     {
@@ -11556,7 +11524,7 @@
         "name_word": "peanut",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "lạc, đậu phộng",
         "id_group": "24"
     },
     {
@@ -11564,7 +11532,7 @@
         "name_word": "pepper",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "ớt",
         "id_group": "24"
     },
     {
@@ -11572,7 +11540,7 @@
         "name_word": "pod",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "vỏ đậu",
         "id_group": "24"
     },
     {
@@ -11580,7 +11548,7 @@
         "name_word": "potato",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "khoai tây",
         "id_group": "24"
     },
     {
@@ -11588,7 +11556,7 @@
         "name_word": "pumpkin",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "bí ngô",
         "id_group": "24"
     },
     {
@@ -11596,7 +11564,7 @@
         "name_word": "radish",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "củ cải",
         "id_group": "24"
     },
     {
@@ -11604,7 +11572,7 @@
         "name_word": "spinach",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "rau bina",
         "id_group": "24"
     },
     {
@@ -11612,7 +11580,7 @@
         "name_word": "string bean",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả dâu tây",
         "id_group": "24"
     },
     {
@@ -11620,7 +11588,7 @@
         "name_word": "taro",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "khoai môn",
         "id_group": "24"
     },
     {
@@ -11628,7 +11596,7 @@
         "name_word": "tomato",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cà chua",
         "id_group": "24"
     },
     {
@@ -11636,7 +11604,7 @@
         "name_word": "turmeric",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "nghệ",
         "id_group": "24"
     },
     {
@@ -11644,7 +11612,7 @@
         "name_word": "turnip",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "củ cải",
         "id_group": "24"
     },
     {
@@ -11652,7 +11620,7 @@
         "name_word": "watercress",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cải xoong",
         "id_group": "24"
     },
     {
@@ -11660,7 +11628,7 @@
         "name_word": "winter melon",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "bí đao",
         "id_group": "24"
     },
     {
@@ -11668,7 +11636,7 @@
         "name_word": "yam",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "khoai lang",
         "id_group": "24"
     },
     {
@@ -11676,7 +11644,7 @@
         "name_word": "almond",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả hạnh",
         "id_group": "25"
     },
     {
@@ -11684,7 +11652,7 @@
         "name_word": "apple",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả táo",
         "id_group": "25"
     },
     {
@@ -11692,7 +11660,7 @@
         "name_word": "apricot",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả mơ",
         "id_group": "25"
     },
     {
@@ -11700,7 +11668,7 @@
         "name_word": "avocado",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả bơ",
         "id_group": "25"
     },
     {
@@ -11708,7 +11676,7 @@
         "name_word": "banana",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả chuối",
         "id_group": "25"
     },
     {
@@ -11716,7 +11684,7 @@
         "name_word": "blackberry",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả mâm xôi đen",
         "id_group": "25"
     },
     {
@@ -11724,7 +11692,7 @@
         "name_word": "cantaloupe",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả dưa chuột vàng",
         "id_group": "25"
     },
     {
@@ -11732,7 +11700,7 @@
         "name_word": "cashew",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả điều",
         "id_group": "25"
     },
     {
@@ -11740,7 +11708,7 @@
         "name_word": "coconut",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả dừa",
         "id_group": "25"
     },
     {
@@ -11748,7 +11716,7 @@
         "name_word": "custard apple",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả na, quả mãng cầu",
         "id_group": "25"
     },
     {
@@ -11756,7 +11724,7 @@
         "name_word": "cherry",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả anh đào",
         "id_group": "25"
     },
     {
@@ -11764,7 +11732,7 @@
         "name_word": "chestnut",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hạt dẻ",
         "id_group": "25"
     },
     {
@@ -11772,7 +11740,7 @@
         "name_word": "date",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả chà là",
         "id_group": "25"
     },
     {
@@ -11780,7 +11748,7 @@
         "name_word": "dragon fruit",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả thanh long",
         "id_group": "25"
     },
     {
@@ -11788,7 +11756,7 @@
         "name_word": "durian",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả sầu riêng",
         "id_group": "25"
     },
     {
@@ -11796,7 +11764,7 @@
         "name_word": "fig",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả sung",
         "id_group": "25"
     },
     {
@@ -11804,7 +11772,7 @@
         "name_word": "grape fruit",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả bưởi",
         "id_group": "25"
     },
     {
@@ -11812,7 +11780,7 @@
         "name_word": "grapes",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả nho",
         "id_group": "25"
     },
     {
@@ -11820,7 +11788,7 @@
         "name_word": "guava",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả ổi",
         "id_group": "25"
     },
     {
@@ -11828,7 +11796,7 @@
         "name_word": "hazelnut",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hạt dẻ nhỏ",
         "id_group": "25"
     },
     {
@@ -11836,7 +11804,7 @@
         "name_word": "honeydew melon",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả dưa bở ruột xanh",
         "id_group": "25"
     },
     {
@@ -11844,15 +11812,7 @@
         "name_word": "jackfruit",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "25"
-    },
-    {
-        "id_word": "1482",
-        "name_word": "kiwi",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả mít",
         "id_group": "25"
     },
     {
@@ -11860,7 +11820,7 @@
         "name_word": "kumquat",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả quất",
         "id_group": "25"
     },
     {
@@ -11868,7 +11828,7 @@
         "name_word": "lemon",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả chanh",
         "id_group": "25"
     },
     {
@@ -11876,7 +11836,7 @@
         "name_word": "lime",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả chanh lá cam",
         "id_group": "25"
     },
     {
@@ -11884,7 +11844,7 @@
         "name_word": "litchi",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả vải",
         "id_group": "25"
     },
     {
@@ -11892,7 +11852,7 @@
         "name_word": "mango",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả xoài",
         "id_group": "25"
     },
     {
@@ -11900,7 +11860,7 @@
         "name_word": "mangosteen",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả măng cụt",
         "id_group": "25"
     },
     {
@@ -11908,7 +11868,7 @@
         "name_word": "orange",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả cam",
         "id_group": "25"
     },
     {
@@ -11916,7 +11876,7 @@
         "name_word": "papaya",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả đu đủ",
         "id_group": "25"
     },
     {
@@ -11924,7 +11884,7 @@
         "name_word": "peach",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả đào",
         "id_group": "25"
     },
     {
@@ -11932,7 +11892,7 @@
         "name_word": "pear",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả lê",
         "id_group": "25"
     },
     {
@@ -11940,7 +11900,7 @@
         "name_word": "persimmon",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả hồng",
         "id_group": "25"
     },
     {
@@ -11948,7 +11908,7 @@
         "name_word": "pineapple",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả dứa",
         "id_group": "25"
     },
     {
@@ -11956,7 +11916,7 @@
         "name_word": "plum",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả mận",
         "id_group": "25"
     },
     {
@@ -11964,7 +11924,7 @@
         "name_word": "pomegranate",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả lựu",
         "id_group": "25"
     },
     {
@@ -11972,7 +11932,7 @@
         "name_word": "rambutan",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả chôm chôm",
         "id_group": "25"
     },
     {
@@ -11980,7 +11940,7 @@
         "name_word": "raspberries",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả mâm xôi",
         "id_group": "25"
     },
     {
@@ -11988,7 +11948,7 @@
         "name_word": "star apple",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả vú sữa",
         "id_group": "25"
     },
     {
@@ -11996,7 +11956,7 @@
         "name_word": "star fruit",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả khế",
         "id_group": "25"
     },
     {
@@ -12004,7 +11964,7 @@
         "name_word": "strawberry",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả dâu tây",
         "id_group": "25"
     },
     {
@@ -12012,7 +11972,7 @@
         "name_word": "tangerine",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả quýt",
         "id_group": "25"
     },
     {
@@ -12020,7 +11980,7 @@
         "name_word": "walnut",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả óc chó",
         "id_group": "25"
     },
     {
@@ -12028,7 +11988,7 @@
         "name_word": "watermelon",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả dưa hấu",
         "id_group": "25"
     },
     {
@@ -12036,7 +11996,7 @@
         "name_word": "acorn",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả sồi",
         "id_group": "26"
     },
     {
@@ -12044,7 +12004,7 @@
         "name_word": "apricot blossom",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa mai",
         "id_group": "26"
     },
     {
@@ -12052,7 +12012,7 @@
         "name_word": "bark",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "vỏ cây",
         "id_group": "26"
     },
     {
@@ -12060,7 +12020,7 @@
         "name_word": "branch",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cành cây",
         "id_group": "26"
     },
     {
@@ -12068,7 +12028,7 @@
         "name_word": "bud",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "nụ",
         "id_group": "26"
     },
     {
@@ -12076,7 +12036,7 @@
         "name_word": "bushes",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cây bụi",
         "id_group": "26"
     },
     {
@@ -12084,7 +12044,7 @@
         "name_word": "buttercup",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa mao lương vàng",
         "id_group": "26"
     },
     {
@@ -12092,7 +12052,7 @@
         "name_word": "cactus",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "xương rồng",
         "id_group": "26"
     },
     {
@@ -12100,7 +12060,7 @@
         "name_word": "camellia",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa trà",
         "id_group": "26"
     },
     {
@@ -12108,7 +12068,7 @@
         "name_word": "cone",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "quả hình nón",
         "id_group": "26"
     },
     {
@@ -12116,7 +12076,7 @@
         "name_word": "corn",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cây ngô, cây bắp",
         "id_group": "26"
     },
     {
@@ -12124,7 +12084,7 @@
         "name_word": "crocus",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa nghệ tây",
         "id_group": "26"
     },
     {
@@ -12132,7 +12092,7 @@
         "name_word": "chrysanthemum",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa cúc",
         "id_group": "26"
     },
     {
@@ -12140,7 +12100,7 @@
         "name_word": "daffodil",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa thủy tiên",
         "id_group": "26"
     },
     {
@@ -12148,7 +12108,7 @@
         "name_word": "dahlia",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa thược dược",
         "id_group": "26"
     },
     {
@@ -12156,7 +12116,7 @@
         "name_word": "daisy",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa cúc",
         "id_group": "26"
     },
     {
@@ -12164,7 +12124,7 @@
         "name_word": "iris",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa diên vi",
         "id_group": "26"
     },
     {
@@ -12172,7 +12132,7 @@
         "name_word": "leaf",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "lá",
         "id_group": "26"
     },
     {
@@ -12180,7 +12140,7 @@
         "name_word": "lily",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa huệ tây",
         "id_group": "26"
     },
     {
@@ -12188,7 +12148,7 @@
         "name_word": "magnolia",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cây mộc lan",
         "id_group": "26"
     },
     {
@@ -12196,7 +12156,7 @@
         "name_word": "marigold",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa cúc vạn thọ",
         "id_group": "26"
     },
     {
@@ -12204,7 +12164,7 @@
         "name_word": "milk flower",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa sữa",
         "id_group": "26"
     },
     {
@@ -12212,7 +12172,7 @@
         "name_word": "needle",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "lá kim",
         "id_group": "26"
     },
     {
@@ -12220,7 +12180,7 @@
         "name_word": "oak",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cây sồi",
         "id_group": "26"
     },
     {
@@ -12228,7 +12188,7 @@
         "name_word": "oats",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cây yến mạch",
         "id_group": "26"
     },
     {
@@ -12236,7 +12196,7 @@
         "name_word": "orchild",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa phong lan",
         "id_group": "26"
     },
     {
@@ -12244,7 +12204,7 @@
         "name_word": "palm",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cây cọ",
         "id_group": "26"
     },
     {
@@ -12252,7 +12212,7 @@
         "name_word": "pansy",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa păng xê",
         "id_group": "26"
     },
     {
@@ -12260,7 +12220,7 @@
         "name_word": "peach blossom",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa đào",
         "id_group": "26"
     },
     {
@@ -12268,7 +12228,7 @@
         "name_word": "peony flower",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa mẫu đơn",
         "id_group": "26"
     },
     {
@@ -12276,7 +12236,7 @@
         "name_word": "petal",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cánh",
         "id_group": "26"
     },
     {
@@ -12284,7 +12244,7 @@
         "name_word": "pine",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cây thông",
         "id_group": "26"
     },
     {
@@ -12292,7 +12252,7 @@
         "name_word": "poinsettia",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa trạng nguyên",
         "id_group": "26"
     },
     {
@@ -12300,7 +12260,7 @@
         "name_word": "poison oak",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cây độc",
         "id_group": "26"
     },
     {
@@ -12308,7 +12268,7 @@
         "name_word": "rice",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cây lúa",
         "id_group": "26"
     },
     {
@@ -12316,7 +12276,7 @@
         "name_word": "root",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "rễ",
         "id_group": "26"
     },
     {
@@ -12324,7 +12284,7 @@
         "name_word": "rose",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa hồng",
         "id_group": "26"
     },
     {
@@ -12332,7 +12292,7 @@
         "name_word": "stem",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cuống",
         "id_group": "26"
     },
     {
@@ -12340,7 +12300,7 @@
         "name_word": "sugar cane",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cây mía",
         "id_group": "26"
     },
     {
@@ -12348,7 +12308,7 @@
         "name_word": "sunflower",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa hướng dương",
         "id_group": "26"
     },
     {
@@ -12356,7 +12316,7 @@
         "name_word": "tulip",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hoa tu líp",
         "id_group": "26"
     },
     {
@@ -12364,7 +12324,7 @@
         "name_word": "twig",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cành con",
         "id_group": "26"
     },
     {
@@ -12372,7 +12332,7 @@
         "name_word": "thorn",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "gai",
         "id_group": "26"
     },
     {
@@ -12380,7 +12340,7 @@
         "name_word": "tree",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cây",
         "id_group": "26"
     },
     {
@@ -12388,7 +12348,7 @@
         "name_word": "trunk",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "thân cây",
         "id_group": "26"
     },
     {
@@ -12396,15 +12356,7 @@
         "name_word": "vine",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "26"
-    },
-    {
-        "id_word": "1551",
-        "name_word": "violet",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cây nho",
         "id_group": "26"
     },
     {
@@ -12412,7 +12364,7 @@
         "name_word": "wheat",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cây lúa mì",
         "id_group": "26"
     },
     {
@@ -12420,7 +12372,7 @@
         "name_word": "willow",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cây liễu",
         "id_group": "26"
     },
     {
@@ -12428,7 +12380,7 @@
         "name_word": "beak",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "mỏ",
         "id_group": "27"
     },
     {
@@ -12436,7 +12388,7 @@
         "name_word": "blackbird",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim sáo",
         "id_group": "27"
     },
     {
@@ -12444,7 +12396,7 @@
         "name_word": "blue tit",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim sẻ ngô",
         "id_group": "27"
     },
     {
@@ -12452,7 +12404,7 @@
         "name_word": "canary",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim hoàng yến",
         "id_group": "27"
     },
     {
@@ -12460,7 +12412,7 @@
         "name_word": "cockoo",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim cúc cu",
         "id_group": "27"
     },
     {
@@ -12468,7 +12420,7 @@
         "name_word": "crane",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "sếu",
         "id_group": "27"
     },
     {
@@ -12476,7 +12428,7 @@
         "name_word": "crow",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "con quạ",
         "id_group": "27"
     },
     {
@@ -12500,7 +12452,7 @@
         "name_word": "dove",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim bồ câu",
         "id_group": "27"
     },
     {
@@ -12508,7 +12460,7 @@
         "name_word": "duck",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "vịt",
         "id_group": "27"
     },
     {
@@ -12516,7 +12468,7 @@
         "name_word": "eagle",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "đại bàng",
         "id_group": "27"
     },
     {
@@ -12524,7 +12476,7 @@
         "name_word": "egg",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "trứng",
         "id_group": "27"
     },
     {
@@ -12532,7 +12484,7 @@
         "name_word": "falcon",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim ưng",
         "id_group": "27"
     },
     {
@@ -12540,7 +12492,7 @@
         "name_word": "feather",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "lông vũ",
         "id_group": "27"
     },
     {
@@ -12548,7 +12500,7 @@
         "name_word": "flamingo",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim hồng hạc",
         "id_group": "27"
     },
     {
@@ -12556,7 +12508,7 @@
         "name_word": "goose",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "ngỗng",
         "id_group": "27"
     },
     {
@@ -12564,7 +12516,7 @@
         "name_word": "gull",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim hải âu",
         "id_group": "27"
     },
     {
@@ -12572,7 +12524,7 @@
         "name_word": "hawk",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "diều hâu",
         "id_group": "27"
     },
     {
@@ -12580,7 +12532,7 @@
         "name_word": "hen",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "gà mái",
         "id_group": "27"
     },
     {
@@ -12588,7 +12540,7 @@
         "name_word": "heron",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "con diệc",
         "id_group": "27"
     },
     {
@@ -12596,7 +12548,7 @@
         "name_word": "hummingbird",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim ruồi",
         "id_group": "27"
     },
     {
@@ -12604,7 +12556,7 @@
         "name_word": "kingfisher",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim bói cá",
         "id_group": "27"
     },
     {
@@ -12612,7 +12564,7 @@
         "name_word": "nest",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cái tổ",
         "id_group": "27"
     },
     {
@@ -12620,7 +12572,7 @@
         "name_word": "nightingale",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim họa mi",
         "id_group": "27"
     },
     {
@@ -12628,7 +12580,7 @@
         "name_word": "ostrich",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "đà điểu",
         "id_group": "27"
     },
     {
@@ -12636,7 +12588,7 @@
         "name_word": "owl",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "con cú",
         "id_group": "27"
     },
     {
@@ -12644,7 +12596,7 @@
         "name_word": "parrot",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "con vẹt",
         "id_group": "27"
     },
     {
@@ -12652,7 +12604,7 @@
         "name_word": "peacock",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "con công trống",
         "id_group": "27"
     },
     {
@@ -12660,7 +12612,7 @@
         "name_word": "peahen",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "con công mái",
         "id_group": "27"
     },
     {
@@ -12668,7 +12620,7 @@
         "name_word": "pelican",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "con bồ nông",
         "id_group": "27"
     },
     {
@@ -12676,7 +12628,7 @@
         "name_word": "penguin",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim cánh cụt",
         "id_group": "27"
     },
     {
@@ -12684,7 +12636,7 @@
         "name_word": "pigeon",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "bồ câu",
         "id_group": "27"
     },
     {
@@ -12692,7 +12644,7 @@
         "name_word": "pheasant",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "gà lôi",
         "id_group": "27"
     },
     {
@@ -12700,7 +12652,7 @@
         "name_word": "rooster",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "gà trống",
         "id_group": "27"
     },
     {
@@ -12708,7 +12660,7 @@
         "name_word": "seagull",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "mòng biển",
         "id_group": "27"
     },
     {
@@ -12716,7 +12668,7 @@
         "name_word": "seagun",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim hải âu",
         "id_group": "27"
     },
     {
@@ -12724,7 +12676,7 @@
         "name_word": "sparrow",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim sẻ",
         "id_group": "27"
     },
     {
@@ -12732,7 +12684,7 @@
         "name_word": "stock",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "con cò",
         "id_group": "27"
     },
     {
@@ -12740,7 +12692,7 @@
         "name_word": "swallow",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim én",
         "id_group": "27"
     },
     {
@@ -12748,7 +12700,7 @@
         "name_word": "swan",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "thiên nga",
         "id_group": "27"
     },
     {
@@ -12756,7 +12708,7 @@
         "name_word": "vulture",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "kền kền",
         "id_group": "27"
     },
     {
@@ -12764,7 +12716,7 @@
         "name_word": "turkey",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "gà tây",
         "id_group": "27"
     },
     {
@@ -12772,7 +12724,7 @@
         "name_word": "wing",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cánh",
         "id_group": "27"
     },
     {
@@ -12780,7 +12732,7 @@
         "name_word": "woodpecker",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "chim gõ kiến",
         "id_group": "27"
     },
     {
@@ -12788,7 +12740,7 @@
         "name_word": "alligator",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá sấu mỹ",
         "id_group": "28"
     },
     {
