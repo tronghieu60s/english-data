@@ -1,7 +1,7 @@
 [
     {
         "id_word": "1",
-        "name_word": "absent-minded",
+        "name_word": "absent minded",
         "classifier": "adj",
         "pronounce_word": "/'æbsənt 'maindid/",
         "mean_word": "đãng trí",
@@ -113,7 +113,7 @@
     },
     {
         "id_word": "15",
-        "name_word": "easy-going",
+        "name_word": "easy going",
         "classifier": "adj",
         "pronounce_word": "/'i:zi,gouiɳ/",
         "mean_word": "dịu dàng, dễ tính, dễ gần",
@@ -481,7 +481,7 @@
     },
     {
         "id_word": "61",
-        "name_word": "self-centred",
+        "name_word": "self centred",
         "classifier": "adj",
         "pronounce_word": "/,self'sentəd/",
         "mean_word": "chỉ biết mình, tự cho mình là trung tâm",
@@ -929,7 +929,7 @@
     },
     {
         "id_word": "117",
-        "name_word": "non-smoker",
+        "name_word": "non smoker",
         "classifier": "n",
         "pronounce_word": "/,nɒn 'sməʊkər/",
         "mean_word": "người không hút thuốc",
@@ -1993,7 +1993,7 @@
     },
     {
         "id_word": "250",
-        "name_word": "weather-beaten",
+        "name_word": "weather beaten",
         "classifier": "adj",
         "pronounce_word": "/'weðə,bi:tn/",
         "mean_word": "dày dạn nắng gió, dày dạn phong sương",
@@ -2145,7 +2145,7 @@
     },
     {
         "id_word": "269",
-        "name_word": "well-built",
+        "name_word": "well built",
         "classifier": "adj",
         "pronounce_word": "/,wel'bilt/",
         "mean_word": "lực lưỡng, cường tráng, vạm vỡ",
@@ -2185,7 +2185,7 @@
     },
     {
         "id_word": "274",
-        "name_word": "middle-aged",
+        "name_word": "middle aged",
         "classifier": "adj",
         "pronounce_word": "/midl'eidʒid/",
         "mean_word": "trung niên",
@@ -3513,7 +3513,7 @@
     },
     {
         "id_word": "440",
-        "name_word": "out-patient",
+        "name_word": "out patient",
         "classifier": "n",
         "pronounce_word": "/aʊt 'pei∫nt/",
         "mean_word": "bệnh nhân ngoại trú",
@@ -3689,7 +3689,7 @@
     },
     {
         "id_word": "462",
-        "name_word": "x-ray",
+        "name_word": "x ray",
         "classifier": "n",
         "pronounce_word": "/'eksrei/",
         "mean_word": "tia X, X quang",
@@ -4156,7 +4156,7 @@
         "name_word": "wedding card",
         "classifier": "n",
         "pronounce_word": "/'wediŋ kɑ:d/",
-        "mean_word": "thiệp cưới, thiếp mời đám cưới (card: thẻ - thiếp)",
+        "mean_word": "thiệp cưới, thiếp mời đám cưới (card: thẻ   thiếp)",
         "id_group": "9"
     },
     {
@@ -4473,7 +4473,7 @@
     },
     {
         "id_word": "560",
-        "name_word": "father-in-law",
+        "name_word": "father in law",
         "classifier": "n",
         "pronounce_word": "/'fɑ:ðəinlɔ:/",
         "mean_word": "bố chồng, bố vợ, (law: luật)",
@@ -4481,7 +4481,7 @@
     },
     {
         "id_word": "561",
-        "name_word": "daughter-in-law",
+        "name_word": "daughter in law",
         "classifier": "n",
         "pronounce_word": "/'dɔ:tərinlɔ:/",
         "mean_word": "con dâu, (law: luật)",
@@ -4489,7 +4489,7 @@
     },
     {
         "id_word": "562",
-        "name_word": "son-in-law",
+        "name_word": "son in law",
         "classifier": "n",
         "pronounce_word": "/'sʌninlɔ:/",
         "mean_word": "con rể, (law: luật)",
@@ -4497,7 +4497,7 @@
     },
     {
         "id_word": "563",
-        "name_word": "sister-in-law",
+        "name_word": "sister in law",
         "classifier": "n",
         "pronounce_word": "/'sistə,inlɔ:/",
         "mean_word": "chị dâu, cô em dâu, chị vợ, cô em vợ, (law: luật)",
@@ -4505,7 +4505,7 @@
     },
     {
         "id_word": "564",
-        "name_word": "brother-in-law",
+        "name_word": "brother in law",
         "classifier": "n",
         "pronounce_word": "/'brʌðərinlɔ:/",
         "mean_word": "anh em chồng, anh em vợ, anh em rể, (law: luật)",
@@ -4593,7 +4593,7 @@
     },
     {
         "id_word": "575",
-        "name_word": "great-grand-child",
+        "name_word": "great grand child",
         "classifier": "n",
         "pronounce_word": "/greit'grændt∫aid/",
         "mean_word": "cháu chắt",
@@ -4601,7 +4601,7 @@
     },
     {
         "id_word": "576",
-        "name_word": "great-grand-parents",
+        "name_word": "great grand parents",
         "classifier": "n",
         "pronounce_word": "/greit'grænpeərənts/",
         "mean_word": "ông bà cố",
@@ -4609,7 +4609,7 @@
     },
     {
         "id_word": "577",
-        "name_word": "half-brother",
+        "name_word": "half brother",
         "classifier": "n",
         "pronounce_word": "/'hɑ:fbrʌđər/",
         "mean_word": "anh em khác cha hoặc mẹ, (half: một nửa)",
@@ -4617,7 +4617,7 @@
     },
     {
         "id_word": "578",
-        "name_word": "half-sister",
+        "name_word": "half sister",
         "classifier": "n",
         "pronounce_word": "/'hɑ:f sistər/",
         "mean_word": "chị em khác cha hoặc mẹ, (half: một nửa)",
@@ -4665,7 +4665,7 @@
     },
     {
         "id_word": "584",
-        "name_word": "step-mother",
+        "name_word": "step mother",
         "classifier": "n",
         "pronounce_word": "/step 'mʌðər/",
         "mean_word": "mẹ kế, mẹ ghẻ",
@@ -4673,7 +4673,7 @@
     },
     {
         "id_word": "585",
-        "name_word": "step-father",
+        "name_word": "step father",
         "classifier": "n",
         "pronounce_word": "/step 'fɑ:ðər/",
         "mean_word": "dượng, bố dượng",
@@ -4681,7 +4681,7 @@
     },
     {
         "id_word": "586",
-        "name_word": "step-child",
+        "name_word": "step child",
         "classifier": "n",
         "pronounce_word": "/step t∫aild/",
         "mean_word": "con riêng",
@@ -4689,7 +4689,7 @@
     },
     {
         "id_word": "587",
-        "name_word": "foster-mother",
+        "name_word": "foster mother",
         "classifier": "n",
         "pronounce_word": "/'fɔstə mʌðə/",
         "mean_word": "mẹ nuôi, vú nuôi",
@@ -4697,7 +4697,7 @@
     },
     {
         "id_word": "588",
-        "name_word": "foster-father",
+        "name_word": "foster father",
         "classifier": "n",
         "pronounce_word": "/'fɔstə fɑ:ðə/",
         "mean_word": "bố nuôi",
@@ -4705,7 +4705,7 @@
     },
     {
         "id_word": "589",
-        "name_word": "foster-child",
+        "name_word": "foster child",
         "classifier": "n",
         "pronounce_word": "/'fɔstətʃaild/",
         "mean_word": "con nuôi",
@@ -4737,7 +4737,7 @@
     },
     {
         "id_word": "593",
-        "name_word": "ill-bred",
+        "name_word": "ill bred",
         "classifier": "adj",
         "pronounce_word": "/il'bred/",
         "mean_word": "mất dạy, vô giáo dục",
@@ -4801,7 +4801,7 @@
     },
     {
         "id_word": "601",
-        "name_word": "well-bred",
+        "name_word": "well bred",
         "classifier": "adj",
         "pronounce_word": "/,wel'bred/",
         "mean_word": "có giáo dục",
@@ -5665,7 +5665,7 @@
     },
     {
         "id_word": "709",
-        "name_word": "part-time",
+        "name_word": "part time",
         "classifier": "n",
         "pronounce_word": "/'pɑ:taim/",
         "mean_word": "bán thời gian",
@@ -5673,7 +5673,7 @@
     },
     {
         "id_word": "710",
-        "name_word": "full-time",
+        "name_word": "full time",
         "classifier": "n",
         "pronounce_word": "/,fʊl'taim/",
         "mean_word": "toàn thời gian",
@@ -5833,7 +5833,7 @@
     },
     {
         "id_word": "730",
-        "name_word": "drop-outs",
+        "name_word": "drop outs",
         "classifier": "n",
         "pronounce_word": "/'drɒp aʊt/ ",
         "mean_word": "học sinh bỏ học",
@@ -6393,7 +6393,7 @@
     },
     {
         "id_word": "800",
-        "name_word": "post-graduate courses",
+        "name_word": "post graduate courses",
         "classifier": "n",
         "pronounce_word": "/pəʊst 'grædʒuət kɔ:z/",
         "mean_word": "nghiên cứu sinh",
@@ -6780,7 +6780,7 @@
         "name_word": "compass",
         "classifier": "n",
         "pronounce_word": "/'kʌmpəs/",
-        "mean_word": "com-pa",
+        "mean_word": "com pa",
         "id_group": "13"
     },
     {
@@ -7084,12 +7084,12 @@
         "name_word": "suit",
         "classifier": "n",
         "pronounce_word": "/su:t/",
-        "mean_word": "bộ quần áo, bộ com-lê, bộ đồ vét",
+        "mean_word": "bộ quần áo, bộ com lê, bộ đồ vét",
         "id_group": "14"
     },
     {
         "id_word": "887",
-        "name_word": "t-shirt",
+        "name_word": "t shirt",
         "classifier": "n",
         "pronounce_word": "/'ti:∫3:t/",
         "mean_word": "áo phông ngắn tay",
@@ -7116,7 +7116,7 @@
         "name_word": "waistcoat",
         "classifier": "n",
         "pronounce_word": "/'weiskəʊt/",
-        "mean_word": "áo gi-lê",
+        "mean_word": "áo gi lê",
         "id_group": "14"
     },
     {
@@ -7372,7 +7372,7 @@
         "name_word": "vest",
         "classifier": "n",
         "pronounce_word": "/vest/",
-        "mean_word": "áo gi-lê",
+        "mean_word": "áo gi lê",
         "id_group": "14"
     },
     {
@@ -7393,7 +7393,7 @@
     },
     {
         "id_word": "925",
-        "name_word": "old-fashion",
+        "name_word": "old fashion",
         "classifier": "adj",
         "pronounce_word": "/əʊld 'fæ∫n/",
         "mean_word": "lỗi thời, lạc hậu",
@@ -7433,7 +7433,7 @@
     },
     {
         "id_word": "930",
-        "name_word": "worn-out",
+        "name_word": "worn out",
         "classifier": "adj",
         "pronounce_word": "/,wɜ:naʊt/",
         "mean_word": "bị rách, mòn",
@@ -7609,7 +7609,7 @@
     },
     {
         "id_word": "952",
-        "name_word": "in-box",
+        "name_word": "in box",
         "classifier": "n",
         "pronounce_word": "/ˈɪnˌbɑːks/",
         "mean_word": "công văn đến",
@@ -8505,7 +8505,7 @@
     },
     {
         "id_word": "1064",
-        "name_word": "Mid-autumn festival",
+        "name_word": "Mid autumn festival",
         "classifier": "n",
         "pronounce_word": "",
         "mean_word": "tết trung thu",
@@ -10337,7 +10337,7 @@
     },
     {
         "id_word": "1293",
-        "name_word": "ice-cream",
+        "name_word": "ice cream",
         "classifier": "n",
         "pronounce_word": "",
         "mean_word": "kem",
@@ -10896,7 +10896,7 @@
         "id_group": "22"
     },
     {
-        "id_word": "1362",
+        "id_word": "1363",
         "name_word": "saute",
         "classifier": "v",
         "pronounce_word": "",
@@ -10904,7 +10904,7 @@
         "id_group": "22"
     },
     {
-        "id_word": "1362",
+        "id_word": "1364",
         "name_word": "stew",
         "classifier": "v",
         "pronounce_word": "",
@@ -10912,7 +10912,7 @@
         "id_group": "22"
     },
     {
-        "id_word": "1363",
+        "id_word": "1365",
         "name_word": "steam",
         "classifier": "v",
         "pronounce_word": "",
@@ -10920,7 +10920,7 @@
         "id_group": "22"
     },
     {
-        "id_word": "1364",
+        "id_word": "1366",
         "name_word": "beer",
         "classifier": "n",
         "pronounce_word": "",
@@ -10928,7 +10928,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1365",
+        "id_word": "1367",
         "name_word": "coffee",
         "classifier": "n",
         "pronounce_word": "",
@@ -10936,7 +10936,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1366",
+        "id_word": "1368",
         "name_word": "fruit juice",
         "classifier": "n",
         "pronounce_word": "",
@@ -10944,7 +10944,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1367",
+        "id_word": "1369",
         "name_word": "fruit smoothie",
         "classifier": "n",
         "pronounce_word": "",
@@ -10952,7 +10952,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1368",
+        "id_word": "1370",
         "name_word": "hot chocolate",
         "classifier": "n",
         "pronounce_word": "",
@@ -10960,7 +10960,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1369",
+        "id_word": "1371",
         "name_word": "milk",
         "classifier": "n",
         "pronounce_word": "",
@@ -10968,15 +10968,15 @@
         "id_group": "23"
     },
     {
-        "id_word": "1370",
-        "name_word": "full-fat milk",
+        "id_word": "1372",
+        "name_word": "full fat milk",
         "classifier": "n",
         "pronounce_word": "",
         "mean_word": "sữa béo",
         "id_group": "23"
     },
     {
-        "id_word": "1371",
+        "id_word": "1373",
         "name_word": "skimmed milk",
         "classifier": "n",
         "pronounce_word": "",
@@ -10984,7 +10984,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1372",
+        "id_word": "1374",
         "name_word": "yogurt",
         "classifier": "n",
         "pronounce_word": "",
@@ -10992,7 +10992,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1373",
+        "id_word": "1375",
         "name_word": "soda",
         "classifier": "n",
         "pronounce_word": "",
@@ -11000,7 +11000,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1374",
+        "id_word": "1376",
         "name_word": "tea",
         "classifier": "n",
         "pronounce_word": "",
@@ -11008,7 +11008,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1375",
+        "id_word": "1377",
         "name_word": "water",
         "classifier": "n",
         "pronounce_word": "",
@@ -11016,7 +11016,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1376",
+        "id_word": "1378",
         "name_word": "mineral water",
         "classifier": "n",
         "pronounce_word": "",
@@ -11024,7 +11024,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1377",
+        "id_word": "1379",
         "name_word": "wine",
         "classifier": "n",
         "pronounce_word": "",
@@ -11032,7 +11032,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1379",
+        "id_word": "1380",
         "name_word": "lemonnade",
         "classifier": "n",
         "pronounce_word": "",
@@ -11040,7 +11040,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1380",
+        "id_word": "1381",
         "name_word": "orange juice",
         "classifier": "n",
         "pronounce_word": "",
@@ -11048,7 +11048,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1381",
+        "id_word": "1382",
         "name_word": "soft drink",
         "classifier": "n",
         "pronounce_word": "",
@@ -11056,7 +11056,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1382",
+        "id_word": "1383",
         "name_word": "squash",
         "classifier": "n",
         "pronounce_word": "",
@@ -11064,7 +11064,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1383",
+        "id_word": "1384",
         "name_word": "lime cordial",
         "classifier": "n",
         "pronounce_word": "",
@@ -11072,7 +11072,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1384",
+        "id_word": "1385",
         "name_word": "iced tea",
         "classifier": "n",
         "pronounce_word": "",
@@ -11080,7 +11080,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1385",
+        "id_word": "1386",
         "name_word": "cocoa",
         "classifier": "n",
         "pronounce_word": "",
@@ -11088,7 +11088,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1388",
+        "id_word": "1387",
         "name_word": "red wine",
         "classifier": "n",
         "pronounce_word": "",
@@ -11096,7 +11096,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1389",
+        "id_word": "1388",
         "name_word": "white wine",
         "classifier": "n",
         "pronounce_word": "",
@@ -11104,7 +11104,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1393",
+        "id_word": "1389",
         "name_word": "sparkling wine",
         "classifier": "n",
         "pronounce_word": "",
@@ -11112,7 +11112,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1394",
+        "id_word": "1390",
         "name_word": "champagne",
         "classifier": "n",
         "pronounce_word": "",
@@ -11120,7 +11120,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1395",
+        "id_word": "1391",
         "name_word": "hangover",
         "classifier": "n",
         "pronounce_word": "",
@@ -11128,7 +11128,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1396",
+        "id_word": "1392",
         "name_word": "tipsy",
         "classifier": "n",
         "pronounce_word": "",
@@ -11136,7 +11136,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1397",
+        "id_word": "1393",
         "name_word": "drunk",
         "classifier": "n",
         "pronounce_word": "",
@@ -11144,7 +11144,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1398",
+        "id_word": "1394",
         "name_word": "aperitif",
         "classifier": "n",
         "pronounce_word": "",
@@ -11152,7 +11152,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1399",
+        "id_word": "1395",
         "name_word": "bartender",
         "classifier": "n",
         "pronounce_word": "",
@@ -11160,7 +11160,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1400",
+        "id_word": "1396",
         "name_word": "barman",
         "classifier": "n",
         "pronounce_word": "",
@@ -11168,7 +11168,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1401",
+        "id_word": "1397",
         "name_word": "barmaid",
         "classifier": "n",
         "pronounce_word": "",
@@ -11176,7 +11176,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1402",
+        "id_word": "1398",
         "name_word": "beer mat",
         "classifier": "n",
         "pronounce_word": "",
@@ -11184,7 +11184,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1403",
+        "id_word": "1399",
         "name_word": "straw",
         "classifier": "n",
         "pronounce_word": "",
@@ -11192,7 +11192,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1404",
+        "id_word": "1400",
         "name_word": "can",
         "classifier": "n",
         "pronounce_word": "",
@@ -11200,7 +11200,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1405",
+        "id_word": "1401",
         "name_word": "glass",
         "classifier": "n",
         "pronounce_word": "",
@@ -11208,7 +11208,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1406",
+        "id_word": "1402",
         "name_word": "cup",
         "classifier": "n",
         "pronounce_word": "",
@@ -11216,7 +11216,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1407",
+        "id_word": "1403",
         "name_word": "mug",
         "classifier": "n",
         "pronounce_word": "",
@@ -11224,7 +11224,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1408",
+        "id_word": "1404",
         "name_word": "bottle",
         "classifier": "n",
         "pronounce_word": "",
@@ -11232,7 +11232,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1409",
+        "id_word": "1405",
         "name_word": "packet",
         "classifier": "n",
         "pronounce_word": "",
@@ -11240,7 +11240,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1410",
+        "id_word": "1406",
         "name_word": "shake",
         "classifier": "v",
         "pronounce_word": "",
@@ -11248,7 +11248,7 @@
         "id_group": "23"
     },
     {
-        "id_word": "1411",
+        "id_word": "1407",
         "name_word": "alpinia",
         "classifier": "n",
         "pronounce_word": "",
@@ -11256,7 +11256,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1412",
+        "id_word": "1408",
         "name_word": "artichoke",
         "classifier": "n",
         "pronounce_word": "",
@@ -11264,7 +11264,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1413",
+        "id_word": "1409",
         "name_word": "asparagus",
         "classifier": "n",
         "pronounce_word": "",
@@ -11272,7 +11272,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1414",
+        "id_word": "1410",
         "name_word": "bamboo shoot",
         "classifier": "n",
         "pronounce_word": "",
@@ -11280,7 +11280,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1415",
+        "id_word": "1411",
         "name_word": "beansprouts",
         "classifier": "n",
         "pronounce_word": "",
@@ -11288,7 +11288,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1416",
+        "id_word": "1412",
         "name_word": "beat",
         "classifier": "n",
         "pronounce_word": "",
@@ -11296,7 +11296,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1417",
+        "id_word": "1413",
         "name_word": "bitter melon",
         "classifier": "n",
         "pronounce_word": "",
@@ -11304,7 +11304,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1418",
+        "id_word": "1414",
         "name_word": "black bean",
         "classifier": "n",
         "pronounce_word": "",
@@ -11312,7 +11312,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1419",
+        "id_word": "1415",
         "name_word": "bok choy",
         "classifier": "n",
         "pronounce_word": "",
@@ -11320,7 +11320,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1420",
+        "id_word": "1416",
         "name_word": "broccoll",
         "classifier": "n",
         "pronounce_word": "",
@@ -11328,7 +11328,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1421",
+        "id_word": "1417",
         "name_word": "cabbage",
         "classifier": "n",
         "pronounce_word": "",
@@ -11336,7 +11336,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1422",
+        "id_word": "1418",
         "name_word": "carrot",
         "classifier": "n",
         "pronounce_word": "",
@@ -11344,7 +11344,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1423",
+        "id_word": "1419",
         "name_word": "cauliflower",
         "classifier": "n",
         "pronounce_word": "",
@@ -11352,7 +11352,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1424",
+        "id_word": "1420",
         "name_word": "celery",
         "classifier": "n",
         "pronounce_word": "",
@@ -11360,7 +11360,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1425",
+        "id_word": "1421",
         "name_word": "clove",
         "classifier": "n",
         "pronounce_word": "",
@@ -11368,7 +11368,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1426",
+        "id_word": "1422",
         "name_word": "corn",
         "classifier": "n",
         "pronounce_word": "",
@@ -11376,7 +11376,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1427",
+        "id_word": "1423",
         "name_word": "cucumber",
         "classifier": "n",
         "pronounce_word": "",
@@ -11384,7 +11384,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1428",
+        "id_word": "1424",
         "name_word": "chinese cabbage",
         "classifier": "n",
         "pronounce_word": "",
@@ -11392,7 +11392,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1429",
+        "id_word": "1425",
         "name_word": "dill",
         "classifier": "n",
         "pronounce_word": "",
@@ -11400,7 +11400,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1430",
+        "id_word": "1426",
         "name_word": "eggplant",
         "classifier": "n",
         "pronounce_word": "",
@@ -11408,7 +11408,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1431",
+        "id_word": "1427",
         "name_word": "garlic",
         "classifier": "n",
         "pronounce_word": "",
@@ -11416,7 +11416,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1432",
+        "id_word": "1428",
         "name_word": "gourd",
         "classifier": "n",
         "pronounce_word": "",
@@ -11424,7 +11424,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1433",
+        "id_word": "1429",
         "name_word": "ginger",
         "classifier": "n",
         "pronounce_word": "",
@@ -11432,7 +11432,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1434",
+        "id_word": "1430",
         "name_word": "heart leaf",
         "classifier": "n",
         "pronounce_word": "",
@@ -11440,7 +11440,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1435",
+        "id_word": "1431",
         "name_word": "herb",
         "classifier": "n",
         "pronounce_word": "",
@@ -11448,7 +11448,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1436",
+        "id_word": "1432",
         "name_word": "kidney bean",
         "classifier": "n",
         "pronounce_word": "",
@@ -11456,7 +11456,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1437",
+        "id_word": "1433",
         "name_word": "kohirabi",
         "classifier": "n",
         "pronounce_word": "",
@@ -11464,7 +11464,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1438",
+        "id_word": "1434",
         "name_word": "leek",
         "classifier": "n",
         "pronounce_word": "",
@@ -11472,7 +11472,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1439",
+        "id_word": "1435",
         "name_word": "lemon grass",
         "classifier": "n",
         "pronounce_word": "",
@@ -11480,7 +11480,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1440",
+        "id_word": "1436",
         "name_word": "lettuce",
         "classifier": "n",
         "pronounce_word": "",
@@ -11488,7 +11488,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1441",
+        "id_word": "1437",
         "name_word": "mint",
         "classifier": "n",
         "pronounce_word": "",
@@ -11496,7 +11496,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1442",
+        "id_word": "1438",
         "name_word": "mushroom",
         "classifier": "n",
         "pronounce_word": "",
@@ -11504,7 +11504,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1443",
+        "id_word": "1439",
         "name_word": "onion",
         "classifier": "n",
         "pronounce_word": "",
@@ -11512,7 +11512,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1444",
+        "id_word": "1440",
         "name_word": "pea",
         "classifier": "n",
         "pronounce_word": "",
@@ -11520,7 +11520,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1445",
+        "id_word": "1441",
         "name_word": "peanut",
         "classifier": "n",
         "pronounce_word": "",
@@ -11528,7 +11528,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1446",
+        "id_word": "1442",
         "name_word": "pepper",
         "classifier": "n",
         "pronounce_word": "",
@@ -11536,7 +11536,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1447",
+        "id_word": "1443",
         "name_word": "pod",
         "classifier": "n",
         "pronounce_word": "",
@@ -11544,7 +11544,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1448",
+        "id_word": "1444",
         "name_word": "potato",
         "classifier": "n",
         "pronounce_word": "",
@@ -11552,7 +11552,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1449",
+        "id_word": "1445",
         "name_word": "pumpkin",
         "classifier": "n",
         "pronounce_word": "",
@@ -11560,7 +11560,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1450",
+        "id_word": "1446",
         "name_word": "radish",
         "classifier": "n",
         "pronounce_word": "",
@@ -11568,7 +11568,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1451",
+        "id_word": "1447",
         "name_word": "spinach",
         "classifier": "n",
         "pronounce_word": "",
@@ -11576,7 +11576,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1452",
+        "id_word": "1448",
         "name_word": "string bean",
         "classifier": "n",
         "pronounce_word": "",
@@ -11584,7 +11584,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1453",
+        "id_word": "1449",
         "name_word": "taro",
         "classifier": "n",
         "pronounce_word": "",
@@ -11592,7 +11592,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1454",
+        "id_word": "1450",
         "name_word": "tomato",
         "classifier": "n",
         "pronounce_word": "",
@@ -11600,7 +11600,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1455",
+        "id_word": "1451",
         "name_word": "turmeric",
         "classifier": "n",
         "pronounce_word": "",
@@ -11608,7 +11608,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1456",
+        "id_word": "1452",
         "name_word": "turnip",
         "classifier": "n",
         "pronounce_word": "",
@@ -11616,7 +11616,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1457",
+        "id_word": "1453",
         "name_word": "watercress",
         "classifier": "n",
         "pronounce_word": "",
@@ -11624,7 +11624,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1458",
+        "id_word": "1454",
         "name_word": "winter melon",
         "classifier": "n",
         "pronounce_word": "",
@@ -11632,7 +11632,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1459",
+        "id_word": "1455",
         "name_word": "yam",
         "classifier": "n",
         "pronounce_word": "",
@@ -11640,7 +11640,7 @@
         "id_group": "24"
     },
     {
-        "id_word": "1460",
+        "id_word": "1456",
         "name_word": "almond",
         "classifier": "n",
         "pronounce_word": "",
@@ -11648,7 +11648,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1461",
+        "id_word": "1457",
         "name_word": "apple",
         "classifier": "n",
         "pronounce_word": "",
@@ -11656,7 +11656,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1462",
+        "id_word": "1458",
         "name_word": "apricot",
         "classifier": "n",
         "pronounce_word": "",
@@ -11664,7 +11664,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1463",
+        "id_word": "1459",
         "name_word": "avocado",
         "classifier": "n",
         "pronounce_word": "",
@@ -11672,7 +11672,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1464",
+        "id_word": "1460",
         "name_word": "banana",
         "classifier": "n",
         "pronounce_word": "",
@@ -11680,7 +11680,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1465",
+        "id_word": "1461",
         "name_word": "blackberry",
         "classifier": "n",
         "pronounce_word": "",
@@ -11688,7 +11688,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1466",
+        "id_word": "1462",
         "name_word": "cantaloupe",
         "classifier": "n",
         "pronounce_word": "",
@@ -11696,7 +11696,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1467",
+        "id_word": "1463",
         "name_word": "cashew",
         "classifier": "n",
         "pronounce_word": "",
@@ -11704,7 +11704,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1468",
+        "id_word": "1464",
         "name_word": "coconut",
         "classifier": "n",
         "pronounce_word": "",
@@ -11712,7 +11712,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1469",
+        "id_word": "1465",
         "name_word": "custard apple",
         "classifier": "n",
         "pronounce_word": "",
@@ -11720,7 +11720,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1470",
+        "id_word": "1466",
         "name_word": "cherry",
         "classifier": "n",
         "pronounce_word": "",
@@ -11728,7 +11728,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1471",
+        "id_word": "1467",
         "name_word": "chestnut",
         "classifier": "n",
         "pronounce_word": "",
@@ -11736,7 +11736,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1472",
+        "id_word": "1468",
         "name_word": "date",
         "classifier": "n",
         "pronounce_word": "",
@@ -11744,7 +11744,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1473",
+        "id_word": "1469",
         "name_word": "dragon fruit",
         "classifier": "n",
         "pronounce_word": "",
@@ -11752,7 +11752,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1474",
+        "id_word": "1470",
         "name_word": "durian",
         "classifier": "n",
         "pronounce_word": "",
@@ -11760,7 +11760,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1475",
+        "id_word": "1471",
         "name_word": "fig",
         "classifier": "n",
         "pronounce_word": "",
@@ -11768,7 +11768,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1476",
+        "id_word": "1472",
         "name_word": "grape fruit",
         "classifier": "n",
         "pronounce_word": "",
@@ -11776,7 +11776,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1477",
+        "id_word": "1473",
         "name_word": "grapes",
         "classifier": "n",
         "pronounce_word": "",
@@ -11784,7 +11784,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1478",
+        "id_word": "1474",
         "name_word": "guava",
         "classifier": "n",
         "pronounce_word": "",
@@ -11792,7 +11792,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1479",
+        "id_word": "1475",
         "name_word": "hazelnut",
         "classifier": "n",
         "pronounce_word": "",
@@ -11800,7 +11800,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1480",
+        "id_word": "1476",
         "name_word": "honeydew melon",
         "classifier": "n",
         "pronounce_word": "",
@@ -11808,7 +11808,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1481",
+        "id_word": "1477",
         "name_word": "jackfruit",
         "classifier": "n",
         "pronounce_word": "",
@@ -11816,7 +11816,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1483",
+        "id_word": "1478",
         "name_word": "kumquat",
         "classifier": "n",
         "pronounce_word": "",
@@ -11824,7 +11824,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1484",
+        "id_word": "1479",
         "name_word": "lemon",
         "classifier": "n",
         "pronounce_word": "",
@@ -11832,7 +11832,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1485",
+        "id_word": "1480",
         "name_word": "lime",
         "classifier": "n",
         "pronounce_word": "",
@@ -11840,7 +11840,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1486",
+        "id_word": "1481",
         "name_word": "litchi",
         "classifier": "n",
         "pronounce_word": "",
@@ -11848,7 +11848,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1487",
+        "id_word": "1482",
         "name_word": "mango",
         "classifier": "n",
         "pronounce_word": "",
@@ -11856,7 +11856,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1488",
+        "id_word": "1483",
         "name_word": "mangosteen",
         "classifier": "n",
         "pronounce_word": "",
@@ -11864,7 +11864,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1489",
+        "id_word": "1484",
         "name_word": "orange",
         "classifier": "n",
         "pronounce_word": "",
@@ -11872,7 +11872,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1490",
+        "id_word": "1485",
         "name_word": "papaya",
         "classifier": "n",
         "pronounce_word": "",
@@ -11880,7 +11880,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1491",
+        "id_word": "1486",
         "name_word": "peach",
         "classifier": "n",
         "pronounce_word": "",
@@ -11888,7 +11888,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1492",
+        "id_word": "1487",
         "name_word": "pear",
         "classifier": "n",
         "pronounce_word": "",
@@ -11896,7 +11896,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1493",
+        "id_word": "1488",
         "name_word": "persimmon",
         "classifier": "n",
         "pronounce_word": "",
@@ -11904,7 +11904,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1494",
+        "id_word": "1489",
         "name_word": "pineapple",
         "classifier": "n",
         "pronounce_word": "",
@@ -11912,7 +11912,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1495",
+        "id_word": "1490",
         "name_word": "plum",
         "classifier": "n",
         "pronounce_word": "",
@@ -11920,7 +11920,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1496",
+        "id_word": "1491",
         "name_word": "pomegranate",
         "classifier": "n",
         "pronounce_word": "",
@@ -11928,7 +11928,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1497",
+        "id_word": "1492",
         "name_word": "rambutan",
         "classifier": "n",
         "pronounce_word": "",
@@ -11936,7 +11936,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1498",
+        "id_word": "1493",
         "name_word": "raspberries",
         "classifier": "n",
         "pronounce_word": "",
@@ -11944,7 +11944,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1499",
+        "id_word": "1494",
         "name_word": "star apple",
         "classifier": "n",
         "pronounce_word": "",
@@ -11952,7 +11952,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1500",
+        "id_word": "1495",
         "name_word": "star fruit",
         "classifier": "n",
         "pronounce_word": "",
@@ -11960,7 +11960,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1501",
+        "id_word": "1496",
         "name_word": "strawberry",
         "classifier": "n",
         "pronounce_word": "",
@@ -11968,7 +11968,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1502",
+        "id_word": "1497",
         "name_word": "tangerine",
         "classifier": "n",
         "pronounce_word": "",
@@ -11976,7 +11976,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1503",
+        "id_word": "1498",
         "name_word": "walnut",
         "classifier": "n",
         "pronounce_word": "",
@@ -11984,7 +11984,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1504",
+        "id_word": "1499",
         "name_word": "watermelon",
         "classifier": "n",
         "pronounce_word": "",
@@ -11992,7 +11992,7 @@
         "id_group": "25"
     },
     {
-        "id_word": "1505",
+        "id_word": "1500",
         "name_word": "acorn",
         "classifier": "n",
         "pronounce_word": "",
@@ -12000,7 +12000,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1506",
+        "id_word": "1501",
         "name_word": "apricot blossom",
         "classifier": "n",
         "pronounce_word": "",
@@ -12008,7 +12008,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1507",
+        "id_word": "1502",
         "name_word": "bark",
         "classifier": "n",
         "pronounce_word": "",
@@ -12016,7 +12016,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1508",
+        "id_word": "1503",
         "name_word": "branch",
         "classifier": "n",
         "pronounce_word": "",
@@ -12024,7 +12024,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1509",
+        "id_word": "1504",
         "name_word": "bud",
         "classifier": "n",
         "pronounce_word": "",
@@ -12032,7 +12032,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1510",
+        "id_word": "1505",
         "name_word": "bushes",
         "classifier": "n",
         "pronounce_word": "",
@@ -12040,7 +12040,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1511",
+        "id_word": "1506",
         "name_word": "buttercup",
         "classifier": "n",
         "pronounce_word": "",
@@ -12048,7 +12048,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1512",
+        "id_word": "1507",
         "name_word": "cactus",
         "classifier": "n",
         "pronounce_word": "",
@@ -12056,7 +12056,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1513",
+        "id_word": "1508",
         "name_word": "camellia",
         "classifier": "n",
         "pronounce_word": "",
@@ -12064,7 +12064,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1514",
+        "id_word": "1509",
         "name_word": "cone",
         "classifier": "n",
         "pronounce_word": "",
@@ -12072,7 +12072,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1515",
+        "id_word": "1510",
         "name_word": "corn",
         "classifier": "n",
         "pronounce_word": "",
@@ -12080,7 +12080,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1516",
+        "id_word": "1511",
         "name_word": "crocus",
         "classifier": "n",
         "pronounce_word": "",
@@ -12088,7 +12088,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1517",
+        "id_word": "1512",
         "name_word": "chrysanthemum",
         "classifier": "n",
         "pronounce_word": "",
@@ -12096,7 +12096,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1518",
+        "id_word": "1513",
         "name_word": "daffodil",
         "classifier": "n",
         "pronounce_word": "",
@@ -12104,7 +12104,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1519",
+        "id_word": "1514",
         "name_word": "dahlia",
         "classifier": "n",
         "pronounce_word": "",
@@ -12112,7 +12112,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1520",
+        "id_word": "1515",
         "name_word": "daisy",
         "classifier": "n",
         "pronounce_word": "",
@@ -12120,7 +12120,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1521",
+        "id_word": "1516",
         "name_word": "iris",
         "classifier": "n",
         "pronounce_word": "",
@@ -12128,7 +12128,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1522",
+        "id_word": "1517",
         "name_word": "leaf",
         "classifier": "n",
         "pronounce_word": "",
@@ -12136,7 +12136,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1523",
+        "id_word": "1518",
         "name_word": "lily",
         "classifier": "n",
         "pronounce_word": "",
@@ -12144,7 +12144,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1524",
+        "id_word": "1519",
         "name_word": "magnolia",
         "classifier": "n",
         "pronounce_word": "",
@@ -12152,7 +12152,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1525",
+        "id_word": "1520",
         "name_word": "marigold",
         "classifier": "n",
         "pronounce_word": "",
@@ -12160,7 +12160,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1526",
+        "id_word": "1521",
         "name_word": "milk flower",
         "classifier": "n",
         "pronounce_word": "",
@@ -12168,7 +12168,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1527",
+        "id_word": "1522",
         "name_word": "needle",
         "classifier": "n",
         "pronounce_word": "",
@@ -12176,7 +12176,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1528",
+        "id_word": "1523",
         "name_word": "oak",
         "classifier": "n",
         "pronounce_word": "",
@@ -12184,7 +12184,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1529",
+        "id_word": "1524",
         "name_word": "oats",
         "classifier": "n",
         "pronounce_word": "",
@@ -12192,7 +12192,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1530",
+        "id_word": "1525",
         "name_word": "orchild",
         "classifier": "n",
         "pronounce_word": "",
@@ -12200,7 +12200,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1531",
+        "id_word": "1526",
         "name_word": "palm",
         "classifier": "n",
         "pronounce_word": "",
@@ -12208,7 +12208,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1532",
+        "id_word": "1527",
         "name_word": "pansy",
         "classifier": "n",
         "pronounce_word": "",
@@ -12216,7 +12216,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1533",
+        "id_word": "1528",
         "name_word": "peach blossom",
         "classifier": "n",
         "pronounce_word": "",
@@ -12224,7 +12224,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1534",
+        "id_word": "1529",
         "name_word": "peony flower",
         "classifier": "n",
         "pronounce_word": "",
@@ -12232,7 +12232,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1535",
+        "id_word": "1530",
         "name_word": "petal",
         "classifier": "n",
         "pronounce_word": "",
@@ -12240,7 +12240,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1536",
+        "id_word": "1531",
         "name_word": "pine",
         "classifier": "n",
         "pronounce_word": "",
@@ -12248,7 +12248,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1537",
+        "id_word": "1532",
         "name_word": "poinsettia",
         "classifier": "n",
         "pronounce_word": "",
@@ -12256,7 +12256,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1538",
+        "id_word": "1533",
         "name_word": "poison oak",
         "classifier": "n",
         "pronounce_word": "",
@@ -12264,7 +12264,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1539",
+        "id_word": "1534",
         "name_word": "rice",
         "classifier": "n",
         "pronounce_word": "",
@@ -12272,7 +12272,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1540",
+        "id_word": "1535",
         "name_word": "root",
         "classifier": "n",
         "pronounce_word": "",
@@ -12280,7 +12280,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1541",
+        "id_word": "1536",
         "name_word": "rose",
         "classifier": "n",
         "pronounce_word": "",
@@ -12288,7 +12288,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1542",
+        "id_word": "1537",
         "name_word": "stem",
         "classifier": "n",
         "pronounce_word": "",
@@ -12296,7 +12296,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1543",
+        "id_word": "1538",
         "name_word": "sugar cane",
         "classifier": "n",
         "pronounce_word": "",
@@ -12304,7 +12304,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1544",
+        "id_word": "1539",
         "name_word": "sunflower",
         "classifier": "n",
         "pronounce_word": "",
@@ -12312,7 +12312,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1545",
+        "id_word": "1540",
         "name_word": "tulip",
         "classifier": "n",
         "pronounce_word": "",
@@ -12320,7 +12320,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1546",
+        "id_word": "1541",
         "name_word": "twig",
         "classifier": "n",
         "pronounce_word": "",
@@ -12328,7 +12328,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1547",
+        "id_word": "1542",
         "name_word": "thorn",
         "classifier": "n",
         "pronounce_word": "",
@@ -12336,7 +12336,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1548",
+        "id_word": "1543",
         "name_word": "tree",
         "classifier": "n",
         "pronounce_word": "",
@@ -12344,7 +12344,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1549",
+        "id_word": "1544",
         "name_word": "trunk",
         "classifier": "n",
         "pronounce_word": "",
@@ -12352,7 +12352,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1550",
+        "id_word": "1545",
         "name_word": "vine",
         "classifier": "n",
         "pronounce_word": "",
@@ -12360,7 +12360,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1552",
+        "id_word": "1546",
         "name_word": "wheat",
         "classifier": "n",
         "pronounce_word": "",
@@ -12368,7 +12368,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1553",
+        "id_word": "1547",
         "name_word": "willow",
         "classifier": "n",
         "pronounce_word": "",
@@ -12376,7 +12376,7 @@
         "id_group": "26"
     },
     {
-        "id_word": "1554",
+        "id_word": "1548",
         "name_word": "beak",
         "classifier": "n",
         "pronounce_word": "",
@@ -12384,7 +12384,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1555",
+        "id_word": "1549",
         "name_word": "blackbird",
         "classifier": "n",
         "pronounce_word": "",
@@ -12392,7 +12392,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1556",
+        "id_word": "1550",
         "name_word": "blue tit",
         "classifier": "n",
         "pronounce_word": "",
@@ -12400,7 +12400,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1557",
+        "id_word": "1551",
         "name_word": "canary",
         "classifier": "n",
         "pronounce_word": "",
@@ -12408,7 +12408,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1558",
+        "id_word": "1552",
         "name_word": "cockoo",
         "classifier": "n",
         "pronounce_word": "",
@@ -12416,7 +12416,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1559",
+        "id_word": "1553",
         "name_word": "crane",
         "classifier": "n",
         "pronounce_word": "",
@@ -12424,7 +12424,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1560",
+        "id_word": "1554",
         "name_word": "crow",
         "classifier": "n",
         "pronounce_word": "",
@@ -12432,7 +12432,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1561",
+        "id_word": "1555",
         "name_word": "chick",
         "classifier": "n",
         "pronounce_word": "",
@@ -12440,7 +12440,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1562",
+        "id_word": "1556",
         "name_word": "chicken",
         "classifier": "n",
         "pronounce_word": "",
@@ -12448,7 +12448,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1563",
+        "id_word": "1557",
         "name_word": "dove",
         "classifier": "n",
         "pronounce_word": "",
@@ -12456,7 +12456,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1564",
+        "id_word": "1558",
         "name_word": "duck",
         "classifier": "n",
         "pronounce_word": "",
@@ -12464,7 +12464,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1565",
+        "id_word": "1559",
         "name_word": "eagle",
         "classifier": "n",
         "pronounce_word": "",
@@ -12472,7 +12472,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1566",
+        "id_word": "1560",
         "name_word": "egg",
         "classifier": "n",
         "pronounce_word": "",
@@ -12480,7 +12480,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1567",
+        "id_word": "1561",
         "name_word": "falcon",
         "classifier": "n",
         "pronounce_word": "",
@@ -12488,7 +12488,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1568",
+        "id_word": "1562",
         "name_word": "feather",
         "classifier": "n",
         "pronounce_word": "",
@@ -12496,7 +12496,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1569",
+        "id_word": "1563",
         "name_word": "flamingo",
         "classifier": "n",
         "pronounce_word": "",
@@ -12504,7 +12504,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1570",
+        "id_word": "1564",
         "name_word": "goose",
         "classifier": "n",
         "pronounce_word": "",
@@ -12512,7 +12512,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1571",
+        "id_word": "1565",
         "name_word": "gull",
         "classifier": "n",
         "pronounce_word": "",
@@ -12520,7 +12520,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1572",
+        "id_word": "1566",
         "name_word": "hawk",
         "classifier": "n",
         "pronounce_word": "",
@@ -12528,7 +12528,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1573",
+        "id_word": "1567",
         "name_word": "hen",
         "classifier": "n",
         "pronounce_word": "",
@@ -12536,7 +12536,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1574",
+        "id_word": "1568",
         "name_word": "heron",
         "classifier": "n",
         "pronounce_word": "",
@@ -12544,7 +12544,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1575",
+        "id_word": "1569",
         "name_word": "hummingbird",
         "classifier": "n",
         "pronounce_word": "",
@@ -12552,7 +12552,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1576",
+        "id_word": "1570",
         "name_word": "kingfisher",
         "classifier": "n",
         "pronounce_word": "",
@@ -12560,7 +12560,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1577",
+        "id_word": "1571",
         "name_word": "nest",
         "classifier": "n",
         "pronounce_word": "",
@@ -12568,7 +12568,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1578",
+        "id_word": "1572",
         "name_word": "nightingale",
         "classifier": "n",
         "pronounce_word": "",
@@ -12576,7 +12576,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1579",
+        "id_word": "1573",
         "name_word": "ostrich",
         "classifier": "n",
         "pronounce_word": "",
@@ -12584,7 +12584,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1580",
+        "id_word": "1574",
         "name_word": "owl",
         "classifier": "n",
         "pronounce_word": "",
@@ -12592,7 +12592,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1581",
+        "id_word": "1575",
         "name_word": "parrot",
         "classifier": "n",
         "pronounce_word": "",
@@ -12600,7 +12600,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1582",
+        "id_word": "1576",
         "name_word": "peacock",
         "classifier": "n",
         "pronounce_word": "",
@@ -12608,7 +12608,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1583",
+        "id_word": "1577",
         "name_word": "peahen",
         "classifier": "n",
         "pronounce_word": "",
@@ -12616,7 +12616,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1584",
+        "id_word": "1578",
         "name_word": "pelican",
         "classifier": "n",
         "pronounce_word": "",
@@ -12624,7 +12624,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1585",
+        "id_word": "1579",
         "name_word": "penguin",
         "classifier": "n",
         "pronounce_word": "",
@@ -12632,7 +12632,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1586",
+        "id_word": "1580",
         "name_word": "pigeon",
         "classifier": "n",
         "pronounce_word": "",
@@ -12640,7 +12640,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1587",
+        "id_word": "1581",
         "name_word": "pheasant",
         "classifier": "n",
         "pronounce_word": "",
@@ -12648,7 +12648,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1588",
+        "id_word": "1582",
         "name_word": "rooster",
         "classifier": "n",
         "pronounce_word": "",
@@ -12656,7 +12656,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1589",
+        "id_word": "1583",
         "name_word": "seagull",
         "classifier": "n",
         "pronounce_word": "",
@@ -12664,7 +12664,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1590",
+        "id_word": "1584",
         "name_word": "seagun",
         "classifier": "n",
         "pronounce_word": "",
@@ -12672,7 +12672,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1591",
+        "id_word": "1585",
         "name_word": "sparrow",
         "classifier": "n",
         "pronounce_word": "",
@@ -12680,7 +12680,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1592",
+        "id_word": "1586",
         "name_word": "stock",
         "classifier": "n",
         "pronounce_word": "",
@@ -12688,7 +12688,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1593",
+        "id_word": "1587",
         "name_word": "swallow",
         "classifier": "n",
         "pronounce_word": "",
@@ -12696,7 +12696,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1594",
+        "id_word": "1588",
         "name_word": "swan",
         "classifier": "n",
         "pronounce_word": "",
@@ -12704,7 +12704,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1595",
+        "id_word": "1589",
         "name_word": "vulture",
         "classifier": "n",
         "pronounce_word": "",
@@ -12712,7 +12712,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1596",
+        "id_word": "1590",
         "name_word": "turkey",
         "classifier": "n",
         "pronounce_word": "",
@@ -12720,7 +12720,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1597",
+        "id_word": "1591",
         "name_word": "wing",
         "classifier": "n",
         "pronounce_word": "",
@@ -12728,7 +12728,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1598",
+        "id_word": "1592",
         "name_word": "woodpecker",
         "classifier": "n",
         "pronounce_word": "",
@@ -12736,7 +12736,7 @@
         "id_group": "27"
     },
     {
-        "id_word": "1599",
+        "id_word": "1593",
         "name_word": "alligator",
         "classifier": "n",
         "pronounce_word": "",
@@ -12744,343 +12744,343 @@
         "id_group": "28"
     },
     {
-        "id_word": "1600",
+        "id_word": "1594",
         "name_word": "anchovy",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá cơm",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1595",
+        "name_word": "carp",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cá chép",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1596",
+        "name_word": "catfish",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cá trê",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1597",
+        "name_word": "cod",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cá tuyết",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1598",
+        "name_word": "crab",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cua",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1599",
+        "name_word": "crocodile",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cá sấu",
+        "id_group": "28"
+    },
+    {
+        "id_word": "1600",
+        "name_word": "cuttlefish",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cá mực",
         "id_group": "28"
     },
     {
         "id_word": "1601",
-        "name_word": "carp",
+        "name_word": "dolphin",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá heo",
         "id_group": "28"
     },
     {
         "id_word": "1602",
-        "name_word": "catfish",
+        "name_word": "dory",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá mè",
         "id_group": "28"
     },
     {
         "id_word": "1603",
-        "name_word": "cod",
+        "name_word": "eel",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá chình",
         "id_group": "28"
     },
     {
         "id_word": "1604",
-        "name_word": "crab",
+        "name_word": "fin",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "vây cá",
         "id_group": "28"
     },
     {
         "id_word": "1605",
-        "name_word": "crocodile",
+        "name_word": "flounder",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá bơn",
         "id_group": "28"
     },
     {
         "id_word": "1606",
-        "name_word": "cuttlefish",
+        "name_word": "goby",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá bống",
         "id_group": "28"
     },
     {
         "id_word": "1607",
-        "name_word": "dolphin",
+        "name_word": "goldfish",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá vàng",
         "id_group": "28"
     },
     {
         "id_word": "1608",
-        "name_word": "dory",
+        "name_word": "gill",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "mang",
         "id_group": "28"
     },
     {
         "id_word": "1609",
-        "name_word": "eel",
+        "name_word": "jellyfish",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "sứa",
         "id_group": "28"
     },
     {
         "id_word": "1610",
-        "name_word": "fin",
+        "name_word": "lobster",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "tôm hùm",
         "id_group": "28"
     },
     {
         "id_word": "1611",
-        "name_word": "flounder",
+        "name_word": "mackerel",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá thu",
         "id_group": "28"
     },
     {
         "id_word": "1612",
-        "name_word": "goby",
+        "name_word": "octopus",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "bạch tuột",
         "id_group": "28"
     },
     {
         "id_word": "1613",
-        "name_word": "goldfish",
+        "name_word": "oyster",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hàu",
         "id_group": "28"
     },
     {
         "id_word": "1614",
-        "name_word": "gill",
+        "name_word": "prawn",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "tôm càng",
         "id_group": "28"
     },
     {
         "id_word": "1615",
-        "name_word": "jellyfish",
+        "name_word": "puffer",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá nóc",
         "id_group": "28"
     },
     {
         "id_word": "1616",
-        "name_word": "lobster",
+        "name_word": "seal",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "hải cẩu",
         "id_group": "28"
     },
     {
         "id_word": "1617",
-        "name_word": "mackerel",
+        "name_word": "salmon",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá hồi",
         "id_group": "28"
     },
     {
         "id_word": "1618",
-        "name_word": "octopus",
+        "name_word": "sardine",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá mòi",
         "id_group": "28"
     },
     {
         "id_word": "1619",
-        "name_word": "oyster",
+        "name_word": "sea horse",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá ngựa",
         "id_group": "28"
     },
     {
         "id_word": "1620",
-        "name_word": "prawn",
+        "name_word": "shark",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá mập",
         "id_group": "28"
     },
     {
         "id_word": "1621",
-        "name_word": "puffer",
+        "name_word": "shrimp",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "tôm",
         "id_group": "28"
     },
     {
         "id_word": "1622",
-        "name_word": "seal",
+        "name_word": "skate",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá đuối",
         "id_group": "28"
     },
     {
         "id_word": "1623",
-        "name_word": "salmon",
+        "name_word": "snake head",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá quả, cá lóc",
         "id_group": "28"
     },
     {
         "id_word": "1624",
-        "name_word": "sardine",
+        "name_word": "sperm whale",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá nhà táng",
         "id_group": "28"
     },
     {
         "id_word": "1625",
-        "name_word": "sea horse",
+        "name_word": "squid",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "mực",
         "id_group": "28"
     },
     {
         "id_word": "1626",
-        "name_word": "shark",
+        "name_word": "starfish",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "sao biển",
         "id_group": "28"
     },
     {
         "id_word": "1627",
-        "name_word": "shrimp",
+        "name_word": "stingray",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá đuối",
         "id_group": "28"
     },
     {
         "id_word": "1628",
-        "name_word": "skate",
+        "name_word": "swordfish",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá kiếm",
         "id_group": "28"
     },
     {
         "id_word": "1629",
-        "name_word": "snake-head",
+        "name_word": "tail",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "đuôi",
         "id_group": "28"
     },
     {
         "id_word": "1630",
-        "name_word": "sperm whale",
+        "name_word": "tench",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá mè",
         "id_group": "28"
     },
     {
         "id_word": "1631",
-        "name_word": "squid",
+        "name_word": "tortoise",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "rùa cạn",
         "id_group": "28"
     },
     {
         "id_word": "1632",
-        "name_word": "starfish",
+        "name_word": "tuna",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá ngừ",
         "id_group": "28"
     },
     {
         "id_word": "1633",
-        "name_word": "stingray",
+        "name_word": "turtle",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "rùa nước",
         "id_group": "28"
     },
     {
         "id_word": "1634",
-        "name_word": "swordfish",
+        "name_word": "trout",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá hồi",
         "id_group": "28"
     },
     {
         "id_word": "1635",
-        "name_word": "tail",
+        "name_word": "whale",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "",
+        "mean_word": "cá voi",
         "id_group": "28"
     },
     {
         "id_word": "1636",
-        "name_word": "tench",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "28"
-    },
-    {
-        "id_word": "1637",
-        "name_word": "tortoise",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "28"
-    },
-    {
-        "id_word": "1638",
-        "name_word": "tuna",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "28"
-    },
-    {
-        "id_word": "1639",
-        "name_word": "turtle",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "28"
-    },
-    {
-        "id_word": "1640",
-        "name_word": "trout",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "28"
-    },
-    {
-        "id_word": "1641",
-        "name_word": "whale",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "28"
-    },
-    {
-        "id_word": "1642",
         "name_word": "ant",
         "classifier": "n",
         "pronounce_word": "",
@@ -13088,7 +13088,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1643",
+        "id_word": "1637",
         "name_word": "bear",
         "classifier": "n",
         "pronounce_word": "",
@@ -13096,7 +13096,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1644",
+        "id_word": "1638",
         "name_word": "bee",
         "classifier": "n",
         "pronounce_word": "",
@@ -13104,7 +13104,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1645",
+        "id_word": "1639",
         "name_word": "baboon",
         "classifier": "n",
         "pronounce_word": "",
@@ -13112,7 +13112,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1646",
+        "id_word": "1640",
         "name_word": "bat",
         "classifier": "n",
         "pronounce_word": "",
@@ -13120,7 +13120,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1647",
+        "id_word": "1641",
         "name_word": "beaver",
         "classifier": "n",
         "pronounce_word": "",
@@ -13128,7 +13128,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1648",
+        "id_word": "1642",
         "name_word": "black bear",
         "classifier": "n",
         "pronounce_word": "",
@@ -13136,7 +13136,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1649",
+        "id_word": "1643",
         "name_word": "bull",
         "classifier": "n",
         "pronounce_word": "",
@@ -13144,7 +13144,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1650",
+        "id_word": "1644",
         "name_word": "calf",
         "classifier": "n",
         "pronounce_word": "",
@@ -13152,7 +13152,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1651",
+        "id_word": "1645",
         "name_word": "camel",
         "classifier": "n",
         "pronounce_word": "",
@@ -13160,7 +13160,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1652",
+        "id_word": "1646",
         "name_word": "cat",
         "classifier": "n",
         "pronounce_word": "",
@@ -13168,7 +13168,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1653",
+        "id_word": "1647",
         "name_word": "claw",
         "classifier": "n",
         "pronounce_word": "",
@@ -13176,7 +13176,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1654",
+        "id_word": "1648",
         "name_word": "cow",
         "classifier": "n",
         "pronounce_word": "",
@@ -13184,7 +13184,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1655",
+        "id_word": "1649",
         "name_word": "chimpanzee",
         "classifier": "n",
         "pronounce_word": "",
@@ -13192,7 +13192,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1656",
+        "id_word": "1650",
         "name_word": "chipmunk",
         "classifier": "n",
         "pronounce_word": "",
@@ -13200,7 +13200,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1657",
+        "id_word": "1651",
         "name_word": "dog",
         "classifier": "n",
         "pronounce_word": "",
@@ -13208,7 +13208,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1658",
+        "id_word": "1652",
         "name_word": "deer",
         "classifier": "n",
         "pronounce_word": "",
@@ -13216,7 +13216,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1659",
+        "id_word": "1653",
         "name_word": "donkey",
         "classifier": "n",
         "pronounce_word": "",
@@ -13224,7 +13224,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1660",
+        "id_word": "1654",
         "name_word": "elephant",
         "classifier": "n",
         "pronounce_word": "",
@@ -13232,7 +13232,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1661",
+        "id_word": "1655",
         "name_word": "fawn",
         "classifier": "n",
         "pronounce_word": "",
@@ -13240,7 +13240,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1662",
+        "id_word": "1656",
         "name_word": "fish",
         "classifier": "n",
         "pronounce_word": "",
@@ -13248,7 +13248,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1663",
+        "id_word": "1657",
         "name_word": "foal",
         "cassifier": "n",
         "pronounce_word": "",
@@ -13256,7 +13256,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1664",
+        "id_word": "1658",
         "name_word": "fox",
         "classifier": "n",
         "pronounce_word": "",
@@ -13264,7 +13264,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1665",
+        "id_word": "1659",
         "name_word": "goat",
         "classifier": "n",
         "pronounce_word": "",
@@ -13272,7 +13272,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1666",
+        "id_word": "1660",
         "name_word": "gorilla",
         "classifier": "n",
         "pronounce_word": "",
@@ -13280,7 +13280,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1667",
+        "id_word": "1661",
         "name_word": "gibbon",
         "classifier": "n",
         "pronounce_word": "",
@@ -13288,7 +13288,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1668",
+        "id_word": "1662",
         "name_word": "giraffe",
         "classifier": "n",
         "pronounce_word": "",
@@ -13296,7 +13296,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1669",
+        "id_word": "1663",
         "name_word": "hamster",
         "classifier": "n",
         "pronounce_word": "",
@@ -13304,7 +13304,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1670",
+        "id_word": "1664",
         "name_word": "hedgehog",
         "classifier": "n",
         "pronounce_word": "",
@@ -13312,7 +13312,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1671",
+        "id_word": "1665",
         "name_word": "hippopotamus",
         "classifier": "n",
         "pronounce_word": "",
@@ -13320,7 +13320,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1672",
+        "id_word": "1666",
         "name_word": "horn",
         "classifier": "n",
         "pronounce_word": "",
@@ -13328,7 +13328,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1673",
+        "id_word": "1667",
         "name_word": "horse",
         "classifier": "n",
         "pronounce_word": "",
@@ -13336,7 +13336,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1674",
+        "id_word": "1668",
         "name_word": "hump",
         "classifier": "n",
         "pronounce_word": "",
@@ -13344,15 +13344,15 @@
         "id_group": "29"
     },
     {
-        "id_word": "1675",
+        "id_word": "1669",
         "name_word": "kangaroo",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "con căng-gu-ru",
+        "mean_word": "con căng gu ru",
         "id_group": "29"
     },
     {
-        "id_word": "1676",
+        "id_word": "1670",
         "name_word": "kitten",
         "classifier": "n",
         "pronounce_word": "",
@@ -13360,7 +13360,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1677",
+        "id_word": "1671",
         "name_word": "koala",
         "classifier": "n",
         "pronounce_word": "",
@@ -13368,7 +13368,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1678",
+        "id_word": "1672",
         "name_word": "lamb",
         "classifier": "n",
         "pronounce_word": "",
@@ -13376,7 +13376,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1679",
+        "id_word": "1673",
         "name_word": "leopard",
         "classifier": "n",
         "pronounce_word": "",
@@ -13384,7 +13384,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1680",
+        "id_word": "1674",
         "name_word": "lion",
         "classifier": "n",
         "pronounce_word": "",
@@ -13392,7 +13392,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1681",
+        "id_word": "1675",
         "name_word": "mane",
         "classifier": "n",
         "pronounce_word": "",
@@ -13400,7 +13400,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1682",
+        "id_word": "1676",
         "name_word": "monkey",
         "classifier": "n",
         "pronounce_word": "",
@@ -13408,7 +13408,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1683",
+        "id_word": "1677",
         "name_word": "moose",
         "classifier": "n",
         "pronounce_word": "",
@@ -13416,7 +13416,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1684",
+        "id_word": "1678",
         "name_word": "mouse",
         "classifier": "n",
         "pronounce_word": "",
@@ -13424,7 +13424,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1685",
+        "id_word": "1679",
         "name_word": "orangutan",
         "classifier": "n",
         "pronounce_word": "",
@@ -13432,7 +13432,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1686",
+        "id_word": "1680",
         "name_word": "panda",
         "classifier": "n",
         "pronounce_word": "",
@@ -13440,7 +13440,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1687",
+        "id_word": "1681",
         "name_word": "pig",
         "classifier": "n",
         "pronounce_word": "",
@@ -13448,7 +13448,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1688",
+        "id_word": "1682",
         "name_word": "polar bear",
         "classifier": "n",
         "pronounce_word": "",
@@ -13456,7 +13456,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1689",
+        "id_word": "1683",
         "name_word": "pony",
         "classifier": "n",
         "pronounce_word": "",
@@ -13464,7 +13464,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1690",
+        "id_word": "1684",
         "name_word": "porcupine",
         "classifier": "n",
         "pronounce_word": "",
@@ -13472,7 +13472,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1691",
+        "id_word": "1685",
         "name_word": "puppy",
         "classifier": "n",
         "pronounce_word": "",
@@ -13480,7 +13480,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1692",
+        "id_word": "1686",
         "name_word": "quill",
         "classifier": "n",
         "pronounce_word": "",
@@ -13488,7 +13488,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1693",
+        "id_word": "1687",
         "name_word": "rabbit",
         "classifier": "n",
         "pronounce_word": "",
@@ -13496,7 +13496,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1694",
+        "id_word": "1688",
         "name_word": "raccoon",
         "classifier": "n",
         "pronounce_word": "",
@@ -13504,7 +13504,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1695",
+        "id_word": "1689",
         "name_word": "rat",
         "classifier": "n",
         "pronounce_word": "",
@@ -13512,7 +13512,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1696",
+        "id_word": "1690",
         "name_word": "rhinoceros",
         "classifier": "n",
         "pronounce_word": "",
@@ -13520,7 +13520,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1697",
+        "id_word": "1691",
         "name_word": "seal",
         "classifier": "n",
         "pronounce_word": "",
@@ -13528,7 +13528,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1698",
+        "id_word": "1692",
         "name_word": "sheep",
         "classifier": "n",
         "pronounce_word": "",
@@ -13536,7 +13536,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1699",
+        "id_word": "1693",
         "name_word": "skunk",
         "classifier": "n",
         "pronounce_word": "",
@@ -13544,7 +13544,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1700",
+        "id_word": "1694",
         "name_word": "squirrel",
         "classifier": "n",
         "pronounce_word": "",
@@ -13552,7 +13552,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1701",
+        "id_word": "1695",
         "name_word": "tail",
         "classifier": "n",
         "pronounce_word": "",
@@ -13560,7 +13560,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1702",
+        "id_word": "1696",
         "name_word": "tiger",
         "classifier": "n",
         "pronounce_word": "",
@@ -13568,7 +13568,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1703",
+        "id_word": "1697",
         "name_word": "walrus",
         "classifier": "n",
         "pronounce_word": "",
@@ -13576,7 +13576,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1704",
+        "id_word": "1698",
         "name_word": "wolf",
         "classifier": "n",
         "pronounce_word": "",
@@ -13584,7 +13584,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1705",
+        "id_word": "1699",
         "name_word": "zebra",
         "classifier": "n",
         "pronounce_word": "",
@@ -13592,7 +13592,7 @@
         "id_group": "29"
     },
     {
-        "id_word": "1706",
+        "id_word": "1700",
         "name_word": "aerobics",
         "classifier": "n",
         "pronounce_word": "",
@@ -13600,7 +13600,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1707",
+        "id_word": "1701",
         "name_word": "archery",
         "classifier": "n",
         "pronounce_word": "",
@@ -13608,7 +13608,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1708",
+        "id_word": "1702",
         "name_word": "athletics",
         "classifier": "n",
         "pronounce_word": "",
@@ -13616,7 +13616,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1709",
+        "id_word": "1703",
         "name_word": "backboard",
         "classifier": "n",
         "pronounce_word": "",
@@ -13624,7 +13624,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1710",
+        "id_word": "1704",
         "name_word": "badminton",
         "classifier": "n",
         "pronounce_word": "",
@@ -13632,7 +13632,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1711",
+        "id_word": "1705",
         "name_word": "ball",
         "classifier": "n",
         "pronounce_word": "",
@@ -13640,7 +13640,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1712",
+        "id_word": "1706",
         "name_word": "baseball",
         "classifier": "n",
         "pronounce_word": "",
@@ -13648,7 +13648,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1713",
+        "id_word": "1707",
         "name_word": "basketball",
         "classifier": "n",
         "pronounce_word": "",
@@ -13656,7 +13656,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1714",
+        "id_word": "1708",
         "name_word": "bat",
         "classifier": "n",
         "pronounce_word": "",
@@ -13664,7 +13664,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1715",
+        "id_word": "1709",
         "name_word": "batter",
         "classifier": "n",
         "pronounce_word": "",
@@ -13672,7 +13672,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1716",
+        "id_word": "1710",
         "name_word": "batting helmet",
         "classifier": "n",
         "pronounce_word": "",
@@ -13680,7 +13680,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1717",
+        "id_word": "1711",
         "name_word": "bicycling",
         "classifier": "n",
         "pronounce_word": "",
@@ -13688,15 +13688,15 @@
         "id_group": "30"
     },
     {
-        "id_word": "1718",
+        "id_word": "1712",
         "name_word": "billiards",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "chơi bi-a",
+        "mean_word": "chơi bi a",
         "id_group": "30"
     },
     {
-        "id_word": "1719",
+        "id_word": "1713",
         "name_word": "bowls",
         "classifier": "n",
         "pronounce_word": "",
@@ -13704,7 +13704,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1720",
+        "id_word": "1714",
         "name_word": "boxing",
         "classifier": "n",
         "pronounce_word": "",
@@ -13712,7 +13712,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1721",
+        "id_word": "1715",
         "name_word": "catcher",
         "classifier": "n",
         "pronounce_word": "",
@@ -13720,7 +13720,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1722",
+        "id_word": "1716",
         "name_word": "catcher's mask",
         "classifier": "n",
         "pronounce_word": "",
@@ -13728,7 +13728,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1723",
+        "id_word": "1717",
         "name_word": "catcher's mitt",
         "classifier": "n",
         "pronounce_word": "",
@@ -13736,7 +13736,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1724",
+        "id_word": "1718",
         "name_word": "coach",
         "classifier": "n",
         "pronounce_word": "",
@@ -13744,7 +13744,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1725",
+        "id_word": "1719",
         "name_word": "competition",
         "classifier": "n",
         "pronounce_word": "",
@@ -13752,7 +13752,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1726",
+        "id_word": "1720",
         "name_word": "competitor",
         "classifier": "n",
         "pronounce_word": "",
@@ -13760,7 +13760,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1727",
+        "id_word": "1721",
         "name_word": "cycling",
         "classifier": "n",
         "pronounce_word": "",
@@ -13768,7 +13768,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1728",
+        "id_word": "1722",
         "name_word": "chess",
         "classifier": "n",
         "pronounce_word": "",
@@ -13776,7 +13776,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1729",
+        "id_word": "1723",
         "name_word": "darts",
         "classifier": "n",
         "pronounce_word": "",
@@ -13784,7 +13784,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1730",
+        "id_word": "1724",
         "name_word": "fencing",
         "classifier": "n",
         "pronounce_word": "",
@@ -13792,7 +13792,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1731",
+        "id_word": "1725",
         "name_word": "fishing",
         "classifier": "n",
         "pronounce_word": "",
@@ -13800,7 +13800,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1732",
+        "id_word": "1726",
         "name_word": "football",
         "classifier": "n",
         "pronounce_word": "",
@@ -13808,7 +13808,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1733",
+        "id_word": "1727",
         "name_word": "goal",
         "classifier": "n",
         "pronounce_word": "",
@@ -13816,7 +13816,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1734",
+        "id_word": "1728",
         "name_word": "goalkeeper",
         "classifier": "n",
         "pronounce_word": "",
@@ -13824,7 +13824,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1735",
+        "id_word": "1729",
         "name_word": "golf",
         "classifier": "n",
         "pronounce_word": "",
@@ -13832,7 +13832,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1736",
+        "id_word": "1730",
         "name_word": "gym",
         "classifier": "n",
         "pronounce_word": "",
@@ -13840,7 +13840,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1737",
+        "id_word": "1731",
         "name_word": "gymnastics",
         "classifier": "n",
         "pronounce_word": "",
@@ -13848,7 +13848,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1738",
+        "id_word": "1732",
         "name_word": "high jumping",
         "classifier": "n",
         "pronounce_word": "",
@@ -13856,7 +13856,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1739",
+        "id_word": "1733",
         "name_word": "hiking",
         "classifier": "n",
         "pronounce_word": "",
@@ -13864,7 +13864,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1740",
+        "id_word": "1734",
         "name_word": "hockey",
         "classifier": "n",
         "pronounce_word": "",
@@ -13872,7 +13872,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1741",
+        "id_word": "1735",
         "name_word": "hockey stick",
         "classifier": "n",
         "pronounce_word": "",
@@ -13880,7 +13880,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1742",
+        "id_word": "1736",
         "name_word": "horse race",
         "classifier": "n",
         "pronounce_word": "",
@@ -13888,7 +13888,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1743",
+        "id_word": "1737",
         "name_word": "hunting",
         "classifier": "n",
         "pronounce_word": "",
@@ -13896,7 +13896,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1744",
+        "id_word": "1738",
         "name_word": "hurdle rate",
         "classifier": "n",
         "pronounce_word": "",
@@ -13904,7 +13904,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1745",
+        "id_word": "1739",
         "name_word": "ice hockey",
         "classifier": "n",
         "pronounce_word": "",
@@ -13912,15 +13912,15 @@
         "id_group": "30"
     },
     {
-        "id_word": "1746",
-        "name_word": "ice-skating",
+        "id_word": "1740",
+        "name_word": "ice skating",
         "classifier": "n",
         "pronounce_word": "",
         "mean_word": "trượt băng",
         "id_group": "30"
     },
     {
-        "id_word": "1747",
+        "id_word": "1741",
         "name_word": "javelin",
         "classifier": "n",
         "pronounce_word": "",
@@ -13928,7 +13928,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1748",
+        "id_word": "1742",
         "name_word": "jogging",
         "classifier": "n",
         "pronounce_word": "",
@@ -13936,7 +13936,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1749",
+        "id_word": "1743",
         "name_word": "judo",
         "classifier": "n",
         "pronounce_word": "",
@@ -13944,7 +13944,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1750",
+        "id_word": "1744",
         "name_word": "jumping",
         "classifier": "n",
         "pronounce_word": "",
@@ -13952,7 +13952,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1751",
+        "id_word": "1745",
         "name_word": "karate",
         "classifier": "n",
         "pronounce_word": "",
@@ -13960,7 +13960,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1752",
+        "id_word": "1746",
         "name_word": "marathon race",
         "classifier": "n",
         "pronounce_word": "",
@@ -13968,7 +13968,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1753",
+        "id_word": "1747",
         "name_word": "mountaineering",
         "classifier": "n",
         "pronounce_word": "",
@@ -13976,7 +13976,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1754",
+        "id_word": "1748",
         "name_word": "net",
         "classifier": "n",
         "pronounce_word": "",
@@ -13984,7 +13984,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1755",
+        "id_word": "1749",
         "name_word": "ping pong",
         "classifier": "n",
         "pronounce_word": "",
@@ -13992,7 +13992,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1756",
+        "id_word": "1750",
         "name_word": "player",
         "classifier": "n",
         "pronounce_word": "",
@@ -14000,7 +14000,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1757",
+        "id_word": "1751",
         "name_word": "pole vault",
         "classifier": "n",
         "pronounce_word": "",
@@ -14008,7 +14008,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1758",
+        "id_word": "1752",
         "name_word": "polo",
         "classifier": "n",
         "pronounce_word": "",
@@ -14016,7 +14016,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1759",
+        "id_word": "1753",
         "name_word": "puck",
         "classifier": "n",
         "pronounce_word": "",
@@ -14024,7 +14024,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1760",
+        "id_word": "1754",
         "name_word": "race",
         "classifier": "n",
         "pronounce_word": "",
@@ -14032,7 +14032,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1761",
+        "id_word": "1755",
         "name_word": "racer",
         "classifier": "n",
         "pronounce_word": "",
@@ -14040,7 +14040,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1762",
+        "id_word": "1756",
         "name_word": "racket",
         "classifier": "n",
         "pronounce_word": "",
@@ -14048,7 +14048,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1763",
+        "id_word": "1757",
         "name_word": "regatta",
         "classifier": "n",
         "pronounce_word": "",
@@ -14056,7 +14056,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1764",
+        "id_word": "1758",
         "name_word": "rugby",
         "classifier": "n",
         "pronounce_word": "",
@@ -14064,7 +14064,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1765",
+        "id_word": "1759",
         "name_word": "scuba diving",
         "classifier": "n",
         "pronounce_word": "",
@@ -14072,7 +14072,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1766",
+        "id_word": "1760",
         "name_word": "skiing",
         "classifier": "n",
         "pronounce_word": "",
@@ -14080,7 +14080,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1767",
+        "id_word": "1761",
         "name_word": "snooker",
         "classifier": "n",
         "pronounce_word": "",
@@ -14088,7 +14088,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1768",
+        "id_word": "1762",
         "name_word": "soccer",
         "classifier": "n",
         "pronounce_word": "",
@@ -14096,7 +14096,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1769",
+        "id_word": "1763",
         "name_word": "soccer ball",
         "classifier": "n",
         "pronounce_word": "",
@@ -14104,7 +14104,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1770",
+        "id_word": "1764",
         "name_word": "swimming",
         "classifier": "n",
         "pronounce_word": "",
@@ -14112,7 +14112,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1771",
+        "id_word": "1765",
         "name_word": "table tenis",
         "classifier": "n",
         "pronounce_word": "",
@@ -14120,7 +14120,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1772",
+        "id_word": "1766",
         "name_word": "tenis",
         "classifier": "n",
         "pronounce_word": "",
@@ -14128,7 +14128,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1773",
+        "id_word": "1767",
         "name_word": "umpire",
         "classifier": "n",
         "pronounce_word": "",
@@ -14136,7 +14136,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1774",
+        "id_word": "1768",
         "name_word": "volleyball",
         "classifier": "n",
         "pronounce_word": "",
@@ -14144,7 +14144,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1775",
+        "id_word": "1769",
         "name_word": "weightlifting",
         "classifier": "n",
         "pronounce_word": "",
@@ -14152,7 +14152,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1776",
+        "id_word": "1770",
         "name_word": "windsurfing",
         "classifier": "n",
         "pronounce_word": "",
@@ -14160,7 +14160,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1777",
+        "id_word": "1771",
         "name_word": "wrestling",
         "classifier": "n",
         "pronounce_word": "",
@@ -14168,7 +14168,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1778",
+        "id_word": "1772",
         "name_word": "wrestler",
         "classifier": "n",
         "pronounce_word": "",
@@ -14176,7 +14176,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1779",
+        "id_word": "1773",
         "name_word": "bounce",
         "classifier": "v",
         "pronounce_word": "",
@@ -14184,7 +14184,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1780",
+        "id_word": "1774",
         "name_word": "catch",
         "classifier": "v",
         "pronounce_word": "",
@@ -14192,7 +14192,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1781",
+        "id_word": "1775",
         "name_word": "compete",
         "classifier": "v",
         "pronounce_word": "",
@@ -14200,7 +14200,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1782",
+        "id_word": "1776",
         "name_word": "dive",
         "classifier": "v",
         "pronounce_word": "",
@@ -14208,15 +14208,15 @@
         "id_group": "30"
     },
     {
-        "id_word": "1783",
-        "name_word": "driver",
+        "id_word": "1777",
+        "name_word": "drive",
         "classifier": "v",
         "pronounce_word": "",
         "mean_word": "lái",
         "id_group": "30"
     },
     {
-        "id_word": "1784",
+        "id_word": "1778",
         "name_word": "fall",
         "classifier": "v",
         "pronounce_word": "",
@@ -14224,7 +14224,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1785",
+        "id_word": "1779",
         "name_word": "hit",
         "classifier": "v",
         "pronounce_word": "",
@@ -14232,7 +14232,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1786",
+        "id_word": "1780",
         "name_word": "jog",
         "classifier": "v",
         "pronounce_word": "",
@@ -14240,7 +14240,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1787",
+        "id_word": "1781",
         "name_word": "jump",
         "classifier": "v",
         "pronounce_word": "",
@@ -14248,7 +14248,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1788",
+        "id_word": "1782",
         "name_word": "kick",
         "classifier": "v",
         "pronounce_word": "",
@@ -14256,7 +14256,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1789",
+        "id_word": "1783",
         "name_word": "pass",
         "classifier": "v",
         "pronounce_word": "",
@@ -14264,7 +14264,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1790",
+        "id_word": "1784",
         "name_word": "ride",
         "classifier": "v",
         "pronounce_word": "",
@@ -14272,7 +14272,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1791",
+        "id_word": "1785",
         "name_word": "run",
         "classifier": "v",
         "pronounce_word": "",
@@ -14280,7 +14280,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1792",
+        "id_word": "1786",
         "name_word": "shoot",
         "classifier": "v",
         "pronounce_word": "",
@@ -14288,7 +14288,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1793",
+        "id_word": "1787",
         "name_word": "skate",
         "classifier": "v",
         "pronounce_word": "",
@@ -14296,7 +14296,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1794",
+        "id_word": "1788",
         "name_word": "surf",
         "classifier": "v",
         "pronounce_word": "",
@@ -14304,7 +14304,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1795",
+        "id_word": "1789",
         "name_word": "throw",
         "classifier": "v",
         "pronounce_word": "",
@@ -14312,7 +14312,7 @@
         "id_group": "30"
     },
     {
-        "id_word": "1796",
+        "id_word": "1790",
         "name_word": "accordion",
         "classifier": "n",
         "pronounce_word": "",
@@ -14320,7 +14320,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1797",
+        "id_word": "1791",
         "name_word": "airplay",
         "classifier": "n",
         "pronounce_word": "",
@@ -14328,7 +14328,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1798",
+        "id_word": "1792",
         "name_word": "album",
         "classifier": "n",
         "pronounce_word": "",
@@ -14336,7 +14336,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1799",
+        "id_word": "1793",
         "name_word": "bass",
         "classifier": "n",
         "pronounce_word": "",
@@ -14344,7 +14344,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1800",
+        "id_word": "1794",
         "name_word": "bass guitarist",
         "classifier": "n",
         "pronounce_word": "",
@@ -14352,7 +14352,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1801",
+        "id_word": "1795",
         "name_word": "beat",
         "classifier": "n",
         "pronounce_word": "",
@@ -14360,15 +14360,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1802",
-        "name_word": "blues",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "nhạc blue",
-        "id_group": "31"
-    },
-    {
-        "id_word": "1803",
+        "id_word": "1796",
         "name_word": "bongos",
         "classifier": "n",
         "pronounce_word": "",
@@ -14376,7 +14368,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1804",
+        "id_word": "1797",
         "name_word": "bow",
         "classifier": "n",
         "pronounce_word": "",
@@ -14384,7 +14376,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1805",
+        "id_word": "1798",
         "name_word": "catchy",
         "classifier": "adj",
         "pronounce_word": "",
@@ -14392,15 +14384,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1806",
-        "name_word": "CD player",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "máy chạy CD",
-        "id_group": "31"
-    },
-    {
-        "id_word": "1807",
+        "id_word": "1799",
         "name_word": "classical music",
         "classifier": "n",
         "pronounce_word": "",
@@ -14408,7 +14392,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1808",
+        "id_word": "1800",
         "name_word": "concert",
         "classifier": "n",
         "pronounce_word": "",
@@ -14416,7 +14400,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1809",
+        "id_word": "1801",
         "name_word": "conductor",
         "classifier": "n",
         "pronounce_word": "",
@@ -14424,7 +14408,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1810",
+        "id_word": "1802",
         "name_word": "country music",
         "classifier": "n",
         "pronounce_word": "",
@@ -14432,7 +14416,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1811",
+        "id_word": "1803",
         "name_word": "chorus",
         "classifier": "n",
         "pronounce_word": "",
@@ -14440,7 +14424,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1812",
+        "id_word": "1804",
         "name_word": "dance",
         "classifier": "n",
         "pronounce_word": "",
@@ -14448,15 +14432,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1813",
-        "name_word": "Disc Jockey",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "DJ",
-        "id_group": "31"
-    },
-    {
-        "id_word": "1814",
+        "id_word": "1805",
         "name_word": "drum",
         "classifier": "n",
         "pronounce_word": "",
@@ -14464,7 +14440,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1815",
+        "id_word": "1806",
         "name_word": "drummer",
         "classifier": "n",
         "pronounce_word": "",
@@ -14472,7 +14448,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1816",
+        "id_word": "1807",
         "name_word": "drumstick",
         "classifier": "n",
         "pronounce_word": "",
@@ -14480,7 +14456,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1817",
+        "id_word": "1808",
         "name_word": "drumstick",
         "classifier": "n",
         "pronounce_word": "",
@@ -14488,7 +14464,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1818",
+        "id_word": "1809",
         "name_word": "electric guitar",
         "classifier": "n",
         "pronounce_word": "",
@@ -14496,7 +14472,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1819",
+        "id_word": "1810",
         "name_word": "electronic",
         "classifier": "n",
         "pronounce_word": "",
@@ -14504,7 +14480,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1820",
+        "id_word": "1811",
         "name_word": "flute",
         "classifier": "n",
         "pronounce_word": "",
@@ -14512,7 +14488,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1821",
+        "id_word": "1812",
         "name_word": "folk music",
         "classifier": "n",
         "pronounce_word": "",
@@ -14520,15 +14496,15 @@
         "id_group": "31"
     },
     {
-        "id_word": "1822",
+        "id_word": "1813",
         "name_word": "guitar",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "đàn ghi-ta",
+        "mean_word": "đàn ghi ta",
         "id_group": "31"
     },
     {
-        "id_word": "1823",
+        "id_word": "1814",
         "name_word": "harmonica",
         "classifier": "n",
         "pronounce_word": "",
@@ -14536,7 +14512,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1824",
+        "id_word": "1815",
         "name_word": "harmony",
         "classifier": "n",
         "pronounce_word": "",
@@ -14544,7 +14520,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1825",
+        "id_word": "1816",
         "name_word": "harp",
         "classifier": "n",
         "pronounce_word": "",
@@ -14552,15 +14528,15 @@
         "id_group": "31"
     },
     {
-        "id_word": "1826",
-        "name_word": "hip-hop",
+        "id_word": "1817",
+        "name_word": "hip hop",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "nhạc hip-hop",
+        "mean_word": "nhạc hip hop",
         "id_group": "31"
     },
     {
-        "id_word": "1827",
+        "id_word": "1818",
         "name_word": "music instrucmental",
         "classifier": "n",
         "pronounce_word": "",
@@ -14568,15 +14544,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1828",
-        "name_word": "jazz",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "nhạc jazz",
-        "id_group": "31"
-    },
-    {
-        "id_word": "1829",
+        "id_word": "1819",
         "name_word": "kettledrum",
         "classifier": "n",
         "pronounce_word": "",
@@ -14584,7 +14552,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1830",
+        "id_word": "1820",
         "name_word": "keyboard",
         "classifier": "n",
         "pronounce_word": "",
@@ -14592,7 +14560,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1831",
+        "id_word": "1821",
         "name_word": "keyboard player",
         "classifier": "n",
         "pronounce_word": "",
@@ -14600,7 +14568,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1832",
+        "id_word": "1822",
         "name_word": "lyrics",
         "classifier": "n",
         "pronounce_word": "",
@@ -14608,7 +14576,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1833",
+        "id_word": "1823",
         "name_word": "melody",
         "classifier": "n",
         "pronounce_word": "",
@@ -14616,7 +14584,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1834",
+        "id_word": "1824",
         "name_word": "musician",
         "classifier": "n",
         "pronounce_word": "",
@@ -14624,7 +14592,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1835",
+        "id_word": "1825",
         "name_word": "note",
         "classifier": "n",
         "pronounce_word": "",
@@ -14632,7 +14600,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1836",
+        "id_word": "1826",
         "name_word": "opera",
         "classifier": "n",
         "pronounce_word": "",
@@ -14640,7 +14608,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1837",
+        "id_word": "1827",
         "name_word": "orchestra",
         "classifier": "n",
         "pronounce_word": "",
@@ -14648,7 +14616,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1838",
+        "id_word": "1828",
         "name_word": "organ",
         "classifier": "n",
         "pronounce_word": "",
@@ -14656,7 +14624,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1839",
+        "id_word": "1829",
         "name_word": "piano",
         "classifier": "n",
         "pronounce_word": "",
@@ -14664,7 +14632,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1840",
+        "id_word": "1830",
         "name_word": "piccolo",
         "classifier": "n",
         "pronounce_word": "",
@@ -14672,31 +14640,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1841",
-        "name_word": "pop music",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "nhạc pop",
-        "id_group": "31"
-    },
-    {
-        "id_word": "1842",
-        "name_word": "rap",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "nhạc ráp",
-        "id_group": "31"
-    },
-    {
-        "id_word": "1843",
-        "name_word": "reggae",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "nhạc reggae",
-        "id_group": "31"
-    },
-    {
-        "id_word": "1844",
+        "id_word": "1831",
         "name_word": "rhythm",
         "classifier": "n",
         "pronounce_word": "",
@@ -14704,7 +14648,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1845",
+        "id_word": "1832",
         "name_word": "rock",
         "classifier": "n",
         "pronounce_word": "",
@@ -14712,15 +14656,15 @@
         "id_group": "31"
     },
     {
-        "id_word": "1846",
+        "id_word": "1833",
         "name_word": "saxophone",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "kèn xắc-sô",
+        "mean_word": "kèn xắc sô",
         "id_group": "31"
     },
     {
-        "id_word": "1847",
+        "id_word": "1834",
         "name_word": "sheet music",
         "classifier": "n",
         "pronounce_word": "",
@@ -14728,7 +14672,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1848",
+        "id_word": "1835",
         "name_word": "singer",
         "classifier": "n",
         "pronounce_word": "",
@@ -14736,7 +14680,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1849",
+        "id_word": "1836",
         "name_word": "single",
         "classifier": "n",
         "pronounce_word": "",
@@ -14744,7 +14688,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1850",
+        "id_word": "1837",
         "name_word": "song",
         "classifier": "n",
         "pronounce_word": "",
@@ -14752,7 +14696,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1851",
+        "id_word": "1838",
         "name_word": "speakers",
         "classifier": "n",
         "pronounce_word": "",
@@ -14760,7 +14704,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1852",
+        "id_word": "1839",
         "name_word": "stage",
         "classifier": "n",
         "pronounce_word": "",
@@ -14768,7 +14712,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1853",
+        "id_word": "1840",
         "name_word": "stereo",
         "classifier": "n",
         "pronounce_word": "",
@@ -14776,7 +14720,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1854",
+        "id_word": "1841",
         "name_word": "techno",
         "classifier": "n",
         "pronounce_word": "",
@@ -14784,7 +14728,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1855",
+        "id_word": "1842",
         "name_word": "tune",
         "classifier": "n",
         "pronounce_word": "",
@@ -14792,23 +14736,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1856",
-        "name_word": "trombone",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "kèn trom-bông",
-        "id_group": "31"
-    },
-    {
-        "id_word": "1857",
-        "name_word": "violin",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "đàn vi-ô-lông",
-        "id_group": "31"
-    },
-    {
-        "id_word": "1858",
+        "id_word": "1843",
         "name_word": "vocals",
         "classifier": "n",
         "pronounce_word": "",
@@ -14816,7 +14744,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1859",
+        "id_word": "1844",
         "name_word": "record",
         "classifier": "v",
         "pronounce_word": "",
@@ -14824,7 +14752,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1860",
+        "id_word": "1845",
         "name_word": "collaborate",
         "classifier": "v",
         "pronounce_word": "",
@@ -14832,7 +14760,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1861",
+        "id_word": "1846",
         "name_word": "compose",
         "classifier": "v",
         "pronounce_word": "",
@@ -14840,7 +14768,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1862",
+        "id_word": "1847",
         "name_word": "blow",
         "classifier": "v",
         "pronounce_word": "",
@@ -14848,7 +14776,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1863",
+        "id_word": "1848",
         "name_word": "sing",
         "classifier": "v",
         "pronounce_word": "",
@@ -14856,7 +14784,7 @@
         "id_group": "31"
     },
     {
-        "id_word": "1864",
+        "id_word": "1849",
         "name_word": "balloon",
         "classifier": "n",
         "pronounce_word": "",
@@ -14864,7 +14792,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1865",
+        "id_word": "1850",
         "name_word": "bicycle",
         "classifier": "n",
         "pronounce_word": "",
@@ -14872,7 +14800,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1866",
+        "id_word": "1851",
         "name_word": "boat",
         "classifier": "n",
         "pronounce_word": "",
@@ -14880,7 +14808,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1867",
+        "id_word": "1852",
         "name_word": "bus",
         "classifier": "n",
         "pronounce_word": "",
@@ -14888,7 +14816,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1868",
+        "id_word": "1853",
         "name_word": "bypass",
         "classifier": "n",
         "pronounce_word": "",
@@ -14896,7 +14824,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1869",
+        "id_word": "1854",
         "name_word": "car",
         "classifier": "n",
         "pronounce_word": "",
@@ -14904,7 +14832,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1870",
+        "id_word": "1855",
         "name_word": "car park",
         "classifier": "n",
         "pronounce_word": "",
@@ -14912,7 +14840,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1871",
+        "id_word": "1856",
         "name_word": "caravan",
         "classifier": "n",
         "pronounce_word": "",
@@ -14920,7 +14848,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1872",
+        "id_word": "1857",
         "name_word": "canoe",
         "classifier": "n",
         "pronounce_word": "",
@@ -14928,7 +14856,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1873",
+        "id_word": "1858",
         "name_word": "carrier",
         "classifier": "n",
         "pronounce_word": "",
@@ -14936,7 +14864,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1874",
+        "id_word": "1859",
         "name_word": "cart",
         "classifier": "n",
         "pronounce_word": "",
@@ -14944,7 +14872,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1875",
+        "id_word": "1860",
         "name_word": "coach",
         "classifier": "n",
         "pronounce_word": "",
@@ -14952,7 +14880,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1876",
+        "id_word": "1861",
         "name_word": "container ship",
         "classifier": "n",
         "pronounce_word": "",
@@ -14960,7 +14888,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1877",
+        "id_word": "1862",
         "name_word": "departure gate",
         "classifier": "n",
         "pronounce_word": "",
@@ -14968,15 +14896,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1878",
-        "name_word": "diesel",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "dầu diesel",
-        "id_group": "32"
-    },
-    {
-        "id_word": "1879",
+        "id_word": "1863",
         "name_word": "dump truck",
         "classifier": "n",
         "pronounce_word": "",
@@ -14984,7 +14904,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1880",
+        "id_word": "1864",
         "name_word": "driving licence",
         "classifier": "n",
         "pronounce_word": "",
@@ -14992,7 +14912,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1881",
+        "id_word": "1865",
         "name_word": "driving test",
         "classifier": "n",
         "pronounce_word": "",
@@ -15000,7 +14920,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1882",
+        "id_word": "1866",
         "name_word": "elevator",
         "classifier": "n",
         "pronounce_word": "",
@@ -15008,7 +14928,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1883",
+        "id_word": "1867",
         "name_word": "engine",
         "classifier": "n",
         "pronounce_word": "",
@@ -15016,7 +14936,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1884",
+        "id_word": "1868",
         "name_word": "ferry",
         "classifier": "n",
         "pronounce_word": "",
@@ -15024,7 +14944,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1885",
+        "id_word": "1869",
         "name_word": "flat tyre",
         "classifier": "n",
         "pronounce_word": "",
@@ -15032,7 +14952,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1886",
+        "id_word": "1870",
         "name_word": "fire engine",
         "classifier": "n",
         "pronounce_word": "",
@@ -15040,7 +14960,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1887",
+        "id_word": "1871",
         "name_word": "fork",
         "classifier": "n",
         "pronounce_word": "",
@@ -15048,7 +14968,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1888",
+        "id_word": "1872",
         "name_word": "icy road",
         "classifier": "n",
         "pronounce_word": "",
@@ -15056,7 +14976,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1889",
+        "id_word": "1873",
         "name_word": "lorry",
         "classifier": "n",
         "pronounce_word": "",
@@ -15064,7 +14984,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1890",
+        "id_word": "1874",
         "name_word": "minbus",
         "classifier": "n",
         "pronounce_word": "",
@@ -15072,7 +14992,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1891",
+        "id_word": "1875",
         "name_word": "motorcycle",
         "classifier": "n",
         "pronounce_word": "",
@@ -15080,7 +15000,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1892",
+        "id_word": "1876",
         "name_word": "motorway",
         "classifier": "n",
         "pronounce_word": "",
@@ -15088,7 +15008,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1893",
+        "id_word": "1877",
         "name_word": "oil",
         "classifier": "n",
         "pronounce_word": "",
@@ -15096,15 +15016,15 @@
         "id_group": "32"
     },
     {
-        "id_word": "1894",
-        "name_word": "one-way street",
+        "id_word": "1878",
+        "name_word": "one way street",
         "classifier": "n",
         "pronounce_word": "",
         "mean_word": "đường một chiều",
         "id_group": "32"
     },
     {
-        "id_word": "1895",
+        "id_word": "1879",
         "name_word": "parking space",
         "classifier": "n",
         "pronounce_word": "",
@@ -15112,7 +15032,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1896",
+        "id_word": "1880",
         "name_word": "parking ticket",
         "classifier": "n",
         "pronounce_word": "",
@@ -15120,7 +15040,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1897",
+        "id_word": "1881",
         "name_word": "passenger",
         "classifier": "n",
         "pronounce_word": "",
@@ -15128,7 +15048,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1898",
+        "id_word": "1882",
         "name_word": "pedestrian crossing",
         "classifier": "n",
         "pronounce_word": "",
@@ -15136,7 +15056,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1899",
+        "id_word": "1883",
         "name_word": "petrol",
         "classifier": "n",
         "pronounce_word": "",
@@ -15144,7 +15064,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1900",
+        "id_word": "1884",
         "name_word": "petrol station",
         "classifier": "n",
         "pronounce_word": "",
@@ -15152,7 +15072,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1901",
+        "id_word": "1885",
         "name_word": "puncture",
         "classifier": "n",
         "pronounce_word": "",
@@ -15160,7 +15080,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1902",
+        "id_word": "1886",
         "name_word": "ring road",
         "classifier": "n",
         "pronounce_word": "",
@@ -15168,7 +15088,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1903",
+        "id_word": "1887",
         "name_word": "road",
         "classifier": "n",
         "pronounce_word": "",
@@ -15176,7 +15096,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1904",
+        "id_word": "1888",
         "name_word": "road sign",
         "classifier": "n",
         "pronounce_word": "",
@@ -15184,7 +15104,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1905",
+        "id_word": "1889",
         "name_word": "roadside",
         "classifier": "n",
         "pronounce_word": "",
@@ -15192,7 +15112,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1906",
+        "id_word": "1890",
         "name_word": "roundabout",
         "classifier": "n",
         "pronounce_word": "",
@@ -15200,7 +15120,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1907",
+        "id_word": "1891",
         "name_word": "scooter",
         "classifier": "n",
         "pronounce_word": "",
@@ -15208,7 +15128,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1908",
+        "id_word": "1892",
         "name_word": "sleigh",
         "classifier": "n",
         "pronounce_word": "",
@@ -15216,7 +15136,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1909",
+        "id_word": "1893",
         "name_word": "ship",
         "classifier": "n",
         "pronounce_word": "",
@@ -15224,7 +15144,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1910",
+        "id_word": "1894",
         "name_word": "speed",
         "classifier": "n",
         "pronounce_word": "",
@@ -15232,7 +15152,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1911",
+        "id_word": "1895",
         "name_word": "speed limit",
         "classifier": "n",
         "pronounce_word": "",
@@ -15240,7 +15160,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1912",
+        "id_word": "1896",
         "name_word": "speeding fine",
         "classifier": "n",
         "pronounce_word": "",
@@ -15248,7 +15168,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1913",
+        "id_word": "1897",
         "name_word": "station",
         "classifier": "n",
         "pronounce_word": "",
@@ -15256,7 +15176,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1914",
+        "id_word": "1898",
         "name_word": "submarine",
         "classifier": "n",
         "pronounce_word": "",
@@ -15264,7 +15184,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1915",
+        "id_word": "1899",
         "name_word": "tanker",
         "classifier": "n",
         "pronounce_word": "",
@@ -15272,7 +15192,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1916",
+        "id_word": "1900",
         "name_word": "timetable",
         "classifier": "n",
         "pronounce_word": "",
@@ -15280,7 +15200,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1917",
+        "id_word": "1901",
         "name_word": "toll",
         "classifier": "n",
         "pronounce_word": "",
@@ -15288,7 +15208,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1918",
+        "id_word": "1902",
         "name_word": "toll road",
         "classifier": "n",
         "pronounce_word": "",
@@ -15296,7 +15216,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1919",
+        "id_word": "1903",
         "name_word": "turning",
         "classifier": "n",
         "pronounce_word": "",
@@ -15304,7 +15224,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1920",
+        "id_word": "1904",
         "name_word": "traffic",
         "classifier": "n",
         "pronounce_word": "",
@@ -15312,7 +15232,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1921",
+        "id_word": "1905",
         "name_word": "traffic jam",
         "classifier": "n",
         "pronounce_word": "",
@@ -15320,7 +15240,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1922",
+        "id_word": "1906",
         "name_word": "traffic light",
         "classifier": "n",
         "pronounce_word": "",
@@ -15328,7 +15248,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1923",
+        "id_word": "1907",
         "name_word": "train",
         "classifier": "n",
         "pronounce_word": "",
@@ -15336,7 +15256,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1924",
+        "id_word": "1908",
         "name_word": "tram",
         "classifier": "n",
         "pronounce_word": "",
@@ -15344,7 +15264,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1925",
+        "id_word": "1909",
         "name_word": "truck",
         "classifier": "n",
         "pronounce_word": "",
@@ -15352,7 +15272,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1926",
+        "id_word": "1910",
         "name_word": "vehicle",
         "classifier": "n",
         "pronounce_word": "",
@@ -15360,7 +15280,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1927",
+        "id_word": "1911",
         "name_word": "wheelchair",
         "classifier": "n",
         "pronounce_word": "",
@@ -15368,7 +15288,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1928",
+        "id_word": "1912",
         "name_word": "yacht",
         "classifier": "n",
         "pronounce_word": "",
@@ -15376,7 +15296,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1929",
+        "id_word": "1913",
         "name_word": "get on",
         "classifier": "v",
         "pronounce_word": "",
@@ -15384,7 +15304,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1930",
+        "id_word": "1914",
         "name_word": "get off",
         "classifier": "v",
         "pronounce_word": "",
@@ -15392,7 +15312,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1931",
+        "id_word": "1915",
         "name_word": "speed up",
         "classifier": "v",
         "pronounce_word": "",
@@ -15400,7 +15320,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1932",
+        "id_word": "1916",
         "name_word": "slow down",
         "classifier": "v",
         "pronounce_word": "",
@@ -15408,7 +15328,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1933",
+        "id_word": "1917",
         "name_word": "stop",
         "classifier": "v",
         "pronounce_word": "",
@@ -15416,7 +15336,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1934",
+        "id_word": "1918",
         "name_word": "drive",
         "classifier": "v",
         "pronounce_word": "",
@@ -15424,7 +15344,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1935",
+        "id_word": "1919",
         "name_word": "ride",
         "classifier": "v",
         "pronounce_word": "",
@@ -15432,7 +15352,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1936",
+        "id_word": "1920",
         "name_word": "accelerator",
         "classifier": "n",
         "pronounce_word": "",
@@ -15440,7 +15360,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1937",
+        "id_word": "1921",
         "name_word": "aerial",
         "classifier": "n",
         "pronounce_word": "",
@@ -15448,15 +15368,15 @@
         "id_group": "32"
     },
     {
-        "id_word": "1938",
-        "name_word": "air-conditioning",
+        "id_word": "1922",
+        "name_word": "air conditioning",
         "classifier": "n",
         "pronounce_word": "",
         "mean_word": "điều hòa",
         "id_group": "32"
     },
     {
-        "id_word": "1939",
+        "id_word": "1923",
         "name_word": "automatic",
         "classifier": "adj",
         "pronounce_word": "",
@@ -15464,7 +15384,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1940",
+        "id_word": "1924",
         "name_word": "back seat",
         "classifier": "n",
         "pronounce_word": "",
@@ -15472,7 +15392,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1941",
+        "id_word": "1925",
         "name_word": "bonnet",
         "classifier": "n",
         "pronounce_word": "",
@@ -15480,7 +15400,15 @@
         "id_group": "32"
     },
     {
-        "id_word": "1942",
+        "id_word": "1926",
+        "name_word": "boot",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thùng xe",
+        "id_group": "32"
+    },
+    {
+        "id_word": "1927",
         "name_word": "brakes",
         "classifier": "n",
         "pronounce_word": "",
@@ -15488,7 +15416,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1943",
+        "id_word": "1928",
         "name_word": "dashboard",
         "classifier": "n",
         "pronounce_word": "",
@@ -15496,7 +15424,23 @@
         "id_group": "32"
     },
     {
-        "id_word": "1944",
+        "id_word": "1929",
+        "name_word": "driver",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "tài xế",
+        "id_group": "32"
+    },
+    {
+        "id_word": "1930",
+        "name_word": "engine",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "động cơ",
+        "id_group": "32"
+    },
+    {
+        "id_word": "1931",
         "name_word": "exhaust pipe",
         "classifier": "n",
         "pronounce_word": "",
@@ -15504,7 +15448,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1945",
+        "id_word": "1932",
         "name_word": "front seat",
         "classifier": "n",
         "pronounce_word": "",
@@ -15512,7 +15456,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1946",
+        "id_word": "1933",
         "name_word": "fuel tanl",
         "classifier": "n",
         "pronounce_word": "",
@@ -15520,7 +15464,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1947",
+        "id_word": "1934",
         "name_word": "gear box",
         "classifier": "n",
         "pronounce_word": "",
@@ -15528,7 +15472,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1948",
+        "id_word": "1935",
         "name_word": "gear stick",
         "classifier": "n",
         "pronounce_word": "",
@@ -15536,7 +15480,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1949",
+        "id_word": "1936",
         "name_word": "headlights",
         "classifier": "n",
         "pronounce_word": "",
@@ -15544,7 +15488,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1950",
+        "id_word": "1937",
         "name_word": "heater",
         "classifier": "n",
         "pronounce_word": "",
@@ -15552,7 +15496,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1951",
+        "id_word": "1938",
         "name_word": "indicator",
         "classifier": "n",
         "pronounce_word": "",
@@ -15560,7 +15504,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1952",
+        "id_word": "1939",
         "name_word": "passenger seat",
         "classifier": "n",
         "pronounce_word": "",
@@ -15568,7 +15512,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1953",
+        "id_word": "1940",
         "name_word": "petrol tank",
         "classifier": "n",
         "pronounce_word": "",
@@ -15576,7 +15520,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1954",
+        "id_word": "1941",
         "name_word": "rear view mirror",
         "classifier": "n",
         "pronounce_word": "",
@@ -15584,7 +15528,15 @@
         "id_group": "32"
     },
     {
-        "id_word": "1955",
+        "id_word": "1942",
+        "name_word": "roof",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "mui xe",
+        "id_group": "32"
+    },
+    {
+        "id_word": "1943",
         "name_word": "seatbelt",
         "classifier": "n",
         "pronounce_word": "",
@@ -15592,7 +15544,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1956",
+        "id_word": "1944",
         "name_word": "sidelights",
         "classifier": "n",
         "pronounce_word": "",
@@ -15600,7 +15552,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1957",
+        "id_word": "1945",
         "name_word": "spark plug",
         "classifier": "n",
         "pronounce_word": "",
@@ -15608,7 +15560,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1958",
+        "id_word": "1946",
         "name_word": "speedometer",
         "classifier": "n",
         "pronounce_word": "",
@@ -15616,7 +15568,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1959",
+        "id_word": "1947",
         "name_word": "steering wheel",
         "classifier": "n",
         "pronounce_word": "",
@@ -15624,7 +15576,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1960",
+        "id_word": "1948",
         "name_word": "temperature gauge",
         "classifier": "n",
         "pronounce_word": "",
@@ -15632,7 +15584,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1961",
+        "id_word": "1949",
         "name_word": "tyre",
         "classifier": "n",
         "pronounce_word": "",
@@ -15640,7 +15592,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1962",
+        "id_word": "1950",
         "name_word": "wheel",
         "classifier": "n",
         "pronounce_word": "",
@@ -15648,7 +15600,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1963",
+        "id_word": "1951",
         "name_word": "windscreen",
         "classifier": "n",
         "pronounce_word": "",
@@ -15656,7 +15608,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1964",
+        "id_word": "1952",
         "name_word": "windscreen wiper",
         "classifier": "n",
         "pronounce_word": "",
@@ -15664,7 +15616,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1965",
+        "id_word": "1953",
         "name_word": "wing mirror",
         "classifier": "n",
         "pronounce_word": "",
@@ -15672,7 +15624,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1966",
+        "id_word": "1954",
         "name_word": "aircraft",
         "classifier": "n",
         "pronounce_word": "",
@@ -15680,7 +15632,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1967",
+        "id_word": "1955",
         "name_word": "airline",
         "classifier": "n",
         "pronounce_word": "",
@@ -15688,7 +15640,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1968",
+        "id_word": "1956",
         "name_word": "airport",
         "classifier": "n",
         "pronounce_word": "",
@@ -15696,15 +15648,15 @@
         "id_group": "32"
     },
     {
-        "id_word": "1969",
-        "name_word": "air-sick",
+        "id_word": "1957",
+        "name_word": "air sick",
         "classifier": "n",
         "pronounce_word": "",
         "mean_word": "sau máy bay",
         "id_group": "32"
     },
     {
-        "id_word": "1970",
+        "id_word": "1958",
         "name_word": "aisle seat",
         "classifier": "n",
         "pronounce_word": "",
@@ -15712,7 +15664,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1971",
+        "id_word": "1959",
         "name_word": "arrival",
         "classifier": "n",
         "pronounce_word": "",
@@ -15720,7 +15672,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1972",
+        "id_word": "1960",
         "name_word": "baggage",
         "classifier": "n",
         "pronounce_word": "",
@@ -15728,7 +15680,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1973",
+        "id_word": "1961",
         "name_word": "boarding card",
         "classifier": "n",
         "pronounce_word": "",
@@ -15736,7 +15688,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1974",
+        "id_word": "1962",
         "name_word": "carousel",
         "classifier": "n",
         "pronounce_word": "",
@@ -15744,15 +15696,15 @@
         "id_group": "32"
     },
     {
-        "id_word": "1975",
-        "name_word": "check-in desk",
+        "id_word": "1963",
+        "name_word": "check in desk",
         "classifier": "n",
         "pronounce_word": "",
         "mean_word": "bàn đăng ký thủ tục",
         "id_group": "32"
     },
     {
-        "id_word": "1976",
+        "id_word": "1964",
         "name_word": "departure",
         "classifier": "n",
         "pronounce_word": "",
@@ -15760,7 +15712,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1977",
+        "id_word": "1965",
         "name_word": "flight",
         "classifier": "n",
         "pronounce_word": "",
@@ -15768,7 +15720,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1978",
+        "id_word": "1966",
         "name_word": "flight attendant",
         "classifier": "n",
         "pronounce_word": "",
@@ -15776,7 +15728,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1979",
+        "id_word": "1967",
         "name_word": "hand luggage",
         "classifier": "n",
         "pronounce_word": "",
@@ -15784,7 +15736,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1980",
+        "id_word": "1968",
         "name_word": "helicopter",
         "classifier": "n",
         "pronounce_word": "",
@@ -15792,7 +15744,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1981",
+        "id_word": "1969",
         "name_word": "hot air balloon",
         "classifier": "n",
         "pronounce_word": "",
@@ -15800,7 +15752,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1982",
+        "id_word": "1970",
         "name_word": "land",
         "classifier": "n",
         "pronounce_word": "",
@@ -15808,7 +15760,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1983",
+        "id_word": "1971",
         "name_word": "passport",
         "classifier": "n",
         "pronounce_word": "",
@@ -15816,7 +15768,15 @@
         "id_group": "32"
     },
     {
-        "id_word": "1984",
+        "id_word": "1972",
+        "name_word": "pilot",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phi công",
+        "id_group": "32"
+    },
+    {
+        "id_word": "1973",
         "name_word": "plane",
         "classifier": "n",
         "pronounce_word": "",
@@ -15824,7 +15784,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1985",
+        "id_word": "1974",
         "name_word": "rocket",
         "classifier": "n",
         "pronounce_word": "",
@@ -15832,7 +15792,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1986",
+        "id_word": "1975",
         "name_word": "runaway",
         "classifier": "n",
         "pronounce_word": "",
@@ -15840,7 +15800,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1987",
+        "id_word": "1976",
         "name_word": "take off",
         "classifier": "n",
         "pronounce_word": "",
@@ -15848,7 +15808,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1988",
+        "id_word": "1977",
         "name_word": "window seat",
         "classifier": "n",
         "pronounce_word": "",
@@ -15856,7 +15816,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1989",
+        "id_word": "1978",
         "name_word": "zeppelin",
         "classifier": "n",
         "pronounce_word": "",
@@ -15864,7 +15824,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1990",
+        "id_word": "1979",
         "name_word": "buffet car",
         "classifier": "n",
         "pronounce_word": "",
@@ -15872,7 +15832,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1991",
+        "id_word": "1980",
         "name_word": "carriage",
         "classifier": "n",
         "pronounce_word": "",
@@ -15880,7 +15840,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1992",
+        "id_word": "1981",
         "name_word": "compartment",
         "classifier": "n",
         "pronounce_word": "",
@@ -15888,7 +15848,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1993",
+        "id_word": "1982",
         "name_word": "derailment",
         "classifier": "n",
         "pronounce_word": "",
@@ -15896,7 +15856,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1994",
+        "id_word": "1983",
         "name_word": "disembark",
         "classifier": "n",
         "pronounce_word": "",
@@ -15904,7 +15864,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1995",
+        "id_word": "1984",
         "name_word": "embark",
         "classifier": "n",
         "pronounce_word": "",
@@ -15912,7 +15872,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1996",
+        "id_word": "1985",
         "name_word": "express train",
         "classifier": "n",
         "pronounce_word": "",
@@ -15920,7 +15880,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1997",
+        "id_word": "1986",
         "name_word": "guard",
         "classifier": "n",
         "pronounce_word": "",
@@ -15928,7 +15888,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1998",
+        "id_word": "1987",
         "name_word": "level crossing",
         "classifier": "n",
         "pronounce_word": "",
@@ -15936,7 +15896,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "1999",
+        "id_word": "1988",
         "name_word": "line closure",
         "classifier": "n",
         "pronounce_word": "",
@@ -15944,7 +15904,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2000",
+        "id_word": "1989",
         "name_word": "pentalty fare",
         "classifier": "n",
         "pronounce_word": "",
@@ -15952,7 +15912,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2001",
+        "id_word": "1990",
         "name_word": "platform",
         "classifier": "n",
         "pronounce_word": "",
@@ -15960,15 +15920,15 @@
         "id_group": "32"
     },
     {
-        "id_word": "2002",
-        "name_word": "rail line",
+        "id_word": "1991",
+        "name_word": "railway line",
         "classifier": "n",
         "pronounce_word": "",
         "mean_word": "đường ray",
         "id_group": "32"
     },
     {
-        "id_word": "2003",
+        "id_word": "1992",
         "name_word": "season ticket",
         "classifier": "n",
         "pronounce_word": "",
@@ -15976,7 +15936,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2004",
+        "id_word": "1993",
         "name_word": "seat number",
         "classifier": "n",
         "pronounce_word": "",
@@ -15984,7 +15944,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2005",
+        "id_word": "1994",
         "name_word": "stopping service",
         "classifier": "n",
         "pronounce_word": "",
@@ -15992,7 +15952,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2006",
+        "id_word": "1995",
         "name_word": "ticket barrier",
         "classifier": "n",
         "pronounce_word": "",
@@ -16000,7 +15960,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2007",
+        "id_word": "1996",
         "name_word": "ticket inspector",
         "classifier": "n",
         "pronounce_word": "",
@@ -16008,7 +15968,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2008",
+        "id_word": "1997",
         "name_word": "track",
         "classifier": "n",
         "pronounce_word": "",
@@ -16016,7 +15976,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2009",
+        "id_word": "1998",
         "name_word": "train crash",
         "classifier": "n",
         "pronounce_word": "",
@@ -16024,7 +15984,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2010",
+        "id_word": "1999",
         "name_word": "train driver",
         "classifier": "n",
         "pronounce_word": "",
@@ -16032,7 +15992,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2011",
+        "id_word": "2000",
         "name_word": "train fare",
         "classifier": "n",
         "pronounce_word": "",
@@ -16040,7 +16000,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2012",
+        "id_word": "2001",
         "name_word": "train journey",
         "classifier": "n",
         "pronounce_word": "",
@@ -16048,7 +16008,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2013",
+        "id_word": "2002",
         "name_word": "travelcard",
         "classifier": "n",
         "pronounce_word": "",
@@ -16056,7 +16016,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2014",
+        "id_word": "2003",
         "name_word": "waiting room",
         "classifier": "n",
         "pronounce_word": "",
@@ -16064,7 +16024,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2015",
+        "id_word": "2004",
         "name_word": "bus",
         "classifier": "n",
         "pronounce_word": "",
@@ -16072,7 +16032,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2016",
+        "id_word": "2005",
         "name_word": "bus driver",
         "classifier": "n",
         "pronounce_word": "",
@@ -16080,7 +16040,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2017",
+        "id_word": "2006",
         "name_word": "bus fare",
         "classifier": "n",
         "pronounce_word": "",
@@ -16088,7 +16048,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2018",
+        "id_word": "2007",
         "name_word": "bus journey",
         "classifier": "n",
         "pronounce_word": "",
@@ -16096,7 +16056,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2019",
+        "id_word": "2008",
         "name_word": "bus lane",
         "classifier": "n",
         "pronounce_word": "",
@@ -16104,7 +16064,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2020",
+        "id_word": "2009",
         "name_word": "bus station",
         "classifier": "n",
         "pronounce_word": "",
@@ -16112,7 +16072,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2021",
+        "id_word": "2010",
         "name_word": "bus stop",
         "classifier": "n",
         "pronounce_word": "",
@@ -16120,7 +16080,15 @@
         "id_group": "32"
     },
     {
-        "id_word": "2022",
+        "id_word": "2011",
+        "name_word": "coach",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "xe khách",
+        "id_group": "32"
+    },
+    {
+        "id_word": "2012",
         "name_word": "coach station",
         "classifier": "n",
         "pronounce_word": "",
@@ -16128,7 +16096,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2023",
+        "id_word": "2013",
         "name_word": "conductor",
         "classifier": "n",
         "pronounce_word": "",
@@ -16136,7 +16104,15 @@
         "id_group": "32"
     },
     {
-        "id_word": "2024",
+        "id_word": "2014",
+        "name_word": "inspector",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thanh tra",
+        "id_group": "32"
+    },
+    {
+        "id_word": "2015",
         "name_word": "request stop",
         "classifier": "n",
         "pronounce_word": "",
@@ -16144,7 +16120,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2025",
+        "id_word": "2016",
         "name_word": "route",
         "classifier": "n",
         "pronounce_word": "",
@@ -16152,7 +16128,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2026",
+        "id_word": "2017",
         "name_word": "terminus",
         "classifier": "n",
         "pronounce_word": "",
@@ -16160,7 +16136,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2027",
+        "id_word": "2018",
         "name_word": "ticket collector",
         "classifier": "n",
         "pronounce_word": "",
@@ -16168,7 +16144,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2028",
+        "id_word": "2019",
         "name_word": "the next stop",
         "classifier": "n",
         "pronounce_word": "",
@@ -16176,7 +16152,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2029",
+        "id_word": "2020",
         "name_word": "captain",
         "classifier": "n",
         "pronounce_word": "",
@@ -16184,7 +16160,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2030",
+        "id_word": "2021",
         "name_word": "deck",
         "classifier": "n",
         "pronounce_word": "",
@@ -16192,7 +16168,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2031",
+        "id_word": "2022",
         "name_word": "dock",
         "classifier": "n",
         "pronounce_word": "",
@@ -16200,7 +16176,15 @@
         "id_group": "32"
     },
     {
-        "id_word": "2032",
+        "id_word": "2023",
+        "name_word": "ferry",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phà",
+        "id_group": "32"
+    },
+    {
+        "id_word": "2024",
         "name_word": "harbour",
         "classifier": "n",
         "pronounce_word": "",
@@ -16208,7 +16192,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2033",
+        "id_word": "2025",
         "name_word": "hovercraft",
         "classifier": "n",
         "pronounce_word": "",
@@ -16216,7 +16200,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2034",
+        "id_word": "2026",
         "name_word": "life belt",
         "classifier": "n",
         "pronounce_word": "",
@@ -16224,7 +16208,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2035",
+        "id_word": "2027",
         "name_word": "life jacket",
         "classifier": "n",
         "pronounce_word": "",
@@ -16232,7 +16216,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2036",
+        "id_word": "2028",
         "name_word": "lifeboat",
         "classifier": "n",
         "pronounce_word": "",
@@ -16240,7 +16224,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2037",
+        "id_word": "2029",
         "name_word": "port",
         "classifier": "n",
         "pronounce_word": "",
@@ -16248,7 +16232,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2038",
+        "id_word": "2030",
         "name_word": "sail",
         "classifier": "n",
         "pronounce_word": "",
@@ -16256,7 +16240,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2039",
+        "id_word": "2031",
         "name_word": "seasick",
         "classifier": "n",
         "pronounce_word": "",
@@ -16264,7 +16248,7 @@
         "id_group": "32"
     },
     {
-        "id_word": "2040",
+        "id_word": "2032",
         "name_word": "alarm",
         "classifier": "v",
         "pronounce_word": "",
@@ -16272,7 +16256,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2041",
+        "id_word": "2033",
         "name_word": "bar",
         "classifier": "n",
         "pronounce_word": "",
@@ -16280,7 +16264,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2042",
+        "id_word": "2034",
         "name_word": "bathtub",
         "classifier": "n",
         "pronounce_word": "",
@@ -16288,7 +16272,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2043",
+        "id_word": "2035",
         "name_word": "beauty salon",
         "classifier": "n",
         "pronounce_word": "",
@@ -16296,7 +16280,15 @@
         "id_group": "33"
     },
     {
-        "id_word": "2044",
+        "id_word": "2036",
+        "name_word": "book",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "đặt phòng",
+        "id_group": "33"
+    },
+    {
+        "id_word": "2037",
         "name_word": "car park",
         "classifier": "n",
         "pronounce_word": "",
@@ -16304,7 +16296,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2045",
+        "id_word": "2038",
         "name_word": "coffee shop",
         "classifier": "n",
         "pronounce_word": "",
@@ -16312,7 +16304,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2046",
+        "id_word": "2039",
         "name_word": "corridor",
         "classifier": "n",
         "pronounce_word": "",
@@ -16320,23 +16312,23 @@
         "id_group": "33"
     },
     {
-        "id_word": "2047",
-        "name_word": "check-in",
+        "id_word": "2040",
+        "name_word": "check in",
         "classifier": "n",
         "pronounce_word": "",
         "mean_word": "sự nhận phòng",
         "id_group": "33"
     },
     {
-        "id_word": "2048",
-        "name_word": "check-out",
+        "id_word": "2041",
+        "name_word": "check out",
         "classifier": "n",
         "pronounce_word": "",
         "mean_word": "sự trả phòng",
         "id_group": "33"
     },
     {
-        "id_word": "2049",
+        "id_word": "2042",
         "name_word": "double room",
         "classifier": "n",
         "pronounce_word": "",
@@ -16344,7 +16336,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2050",
+        "id_word": "2043",
         "name_word": "front door",
         "classifier": "n",
         "pronounce_word": "",
@@ -16352,7 +16344,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2051",
+        "id_word": "2044",
         "name_word": "full board",
         "classifier": "n",
         "pronounce_word": "",
@@ -16360,7 +16352,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2052",
+        "id_word": "2045",
         "name_word": "hotel",
         "classifier": "n",
         "pronounce_word": "",
@@ -16368,7 +16360,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2053",
+        "id_word": "2046",
         "name_word": "housekeeper",
         "classifier": "n",
         "pronounce_word": "",
@@ -16376,7 +16368,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2054",
+        "id_word": "2047",
         "name_word": "key",
         "classifier": "n",
         "pronounce_word": "",
@@ -16384,7 +16376,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2055",
+        "id_word": "2048",
         "name_word": "laundry",
         "classifier": "n",
         "pronounce_word": "",
@@ -16392,7 +16384,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2056",
+        "id_word": "2049",
         "name_word": "pay the bill",
         "classifier": "n",
         "pronounce_word": "",
@@ -16400,7 +16392,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2057",
+        "id_word": "2050",
         "name_word": "porter",
         "classifier": "n",
         "pronounce_word": "",
@@ -16408,15 +16400,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2058",
-        "name_word": "registration",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "đăng ký",
-        "id_group": "33"
-    },
-    {
-        "id_word": "2059",
+        "id_word": "2051",
         "name_word": "reservation",
         "classifier": "n",
         "pronounce_word": "",
@@ -16424,7 +16408,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2060",
+        "id_word": "2052",
         "name_word": "restaurant",
         "classifier": "n",
         "pronounce_word": "",
@@ -16432,7 +16416,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2061",
+        "id_word": "2053",
         "name_word": "room number",
         "classifier": "n",
         "pronounce_word": "",
@@ -16440,7 +16424,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2062",
+        "id_word": "2054",
         "name_word": "room service",
         "classifier": "n",
         "pronounce_word": "",
@@ -16448,7 +16432,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2063",
+        "id_word": "2055",
         "name_word": "sauna",
         "classifier": "n",
         "pronounce_word": "",
@@ -16456,7 +16440,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2064",
+        "id_word": "2056",
         "name_word": "shower",
         "classifier": "n",
         "pronounce_word": "",
@@ -16464,7 +16448,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2065",
+        "id_word": "2057",
         "name_word": "single room",
         "classifier": "n",
         "pronounce_word": "",
@@ -16472,7 +16456,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2066",
+        "id_word": "2058",
         "name_word": "swimming pool",
         "classifier": "n",
         "pronounce_word": "",
@@ -16480,7 +16464,7 @@
         "id_group": "33"
     },
     {
-        "id_word": "2067",
+        "id_word": "2059",
         "name_word": "twin room",
         "classifier": "n",
         "pronounce_word": "",
@@ -16488,7 +16472,15 @@
         "id_group": "33"
     },
     {
-        "id_word": "2068",
+        "id_word": "2060",
+        "name_word": "vacancy",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "phòng trống",
+        "id_group": "33"
+    },
+    {
+        "id_word": "2061",
         "name_word": "appetizer",
         "classifier": "n",
         "pronounce_word": "",
@@ -16496,7 +16488,15 @@
         "id_group": "34"
     },
     {
-        "id_word": "2069",
+        "id_word": "2062",
+        "name_word": "beef",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "thịt bò",
+        "id_group": "34"
+    },
+    {
+        "id_word": "2063",
         "name_word": "beverage",
         "classifier": "n",
         "pronounce_word": "",
@@ -16504,7 +16504,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2070",
+        "id_word": "2064",
         "name_word": "bill",
         "classifier": "n",
         "pronounce_word": "",
@@ -16512,7 +16512,15 @@
         "id_group": "34"
     },
     {
-        "id_word": "2071",
+        "id_word": "2065",
+        "name_word": "bowl",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "cái bát, cái tô",
+        "id_group": "34"
+    },
+    {
+        "id_word": "2066",
         "name_word": "breakfast",
         "classifier": "n",
         "pronounce_word": "",
@@ -16520,7 +16528,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2072",
+        "id_word": "2067",
         "name_word": "butter",
         "classifier": "n",
         "pronounce_word": "",
@@ -16528,7 +16536,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2073",
+        "id_word": "2068",
         "name_word": "cafe",
         "classifier": "n",
         "pronounce_word": "",
@@ -16536,7 +16544,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2074",
+        "id_word": "2069",
         "name_word": "cafeteria",
         "classifier": "n",
         "pronounce_word": "",
@@ -16544,7 +16552,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2075",
+        "id_word": "2070",
         "name_word": "cake",
         "classifier": "n",
         "pronounce_word": "",
@@ -16552,7 +16560,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2076",
+        "id_word": "2071",
         "name_word": "cashier",
         "classifier": "n",
         "pronounce_word": "",
@@ -16560,7 +16568,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2077",
+        "id_word": "2072",
         "name_word": "coffee",
         "classifier": "n",
         "pronounce_word": "",
@@ -16568,7 +16576,15 @@
         "id_group": "34"
     },
     {
-        "id_word": "2078",
+        "id_word": "2073",
+        "name_word": "cook",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "đầu bếp",
+        "id_group": "34"
+    },
+    {
+        "id_word": "2074",
         "name_word": "cream",
         "classifier": "n",
         "pronounce_word": "",
@@ -16576,7 +16592,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2079",
+        "id_word": "2075",
         "name_word": "credit card",
         "classifier": "n",
         "pronounce_word": "",
@@ -16584,7 +16600,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2080",
+        "id_word": "2076",
         "name_word": "charge",
         "classifier": "n",
         "pronounce_word": "",
@@ -16592,7 +16608,15 @@
         "id_group": "34"
     },
     {
-        "id_word": "2081",
+        "id_word": "2077",
+        "name_word": "chef",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bếp trưởng",
+        "id_group": "34"
+    },
+    {
+        "id_word": "2078",
         "name_word": "dessert",
         "classifier": "n",
         "pronounce_word": "",
@@ -16600,7 +16624,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2082",
+        "id_word": "2079",
         "name_word": "dine",
         "classifier": "n",
         "pronounce_word": "",
@@ -16608,7 +16632,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2083",
+        "id_word": "2080",
         "name_word": "dinner",
         "classifier": "n",
         "pronounce_word": "",
@@ -16616,7 +16640,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2084",
+        "id_word": "2081",
         "name_word": "dishwasher",
         "classifier": "n",
         "pronounce_word": "",
@@ -16624,7 +16648,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2085",
+        "id_word": "2082",
         "name_word": "grilled",
         "classifier": "n",
         "pronounce_word": "",
@@ -16632,7 +16656,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2086",
+        "id_word": "2083",
         "name_word": "ice cubes",
         "classifier": "n",
         "pronounce_word": "",
@@ -16640,7 +16664,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2087",
+        "id_word": "2084",
         "name_word": "ingredient",
         "classifier": "n",
         "pronounce_word": "",
@@ -16648,7 +16672,15 @@
         "id_group": "34"
     },
     {
-        "id_word": "2088",
+        "id_word": "2085",
+        "name_word": "knife",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "dao",
+        "id_group": "34"
+    },
+    {
+        "id_word": "2086",
         "name_word": "lunch",
         "classifier": "n",
         "pronounce_word": "",
@@ -16656,7 +16688,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2089",
+        "id_word": "2087",
         "name_word": "main course",
         "classifier": "n",
         "pronounce_word": "",
@@ -16664,7 +16696,15 @@
         "id_group": "34"
     },
     {
-        "id_word": "2090",
+        "id_word": "2088",
+        "name_word": "manager",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "người quản lý",
+        "id_group": "34"
+    },
+    {
+        "id_word": "2089",
         "name_word": "menu",
         "classifier": "n",
         "pronounce_word": "",
@@ -16672,7 +16712,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2091",
+        "id_word": "2090",
         "name_word": "mustard",
         "classifier": "n",
         "pronounce_word": "",
@@ -16680,7 +16720,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2092",
+        "id_word": "2091",
         "name_word": "napkin",
         "classifier": "n",
         "pronounce_word": "/næpkin/",
@@ -16688,11 +16728,19 @@
         "id_group": "34"
     },
     {
-        "id_word": "2093",
+        "id_word": "2092",
         "name_word": "onion",
         "classifier": "n",
         "pronounce_word": "",
         "mean_word": "hành",
+        "id_group": "34"
+    },
+    {
+        "id_word": "2093",
+        "name_word": "reservation",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "sự đặt món",
         "id_group": "34"
     },
     {
@@ -16785,6 +16833,14 @@
     },
     {
         "id_word": "2105",
+        "name_word": "table",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "bàn",
+        "id_group": "34"
+    },
+    {
+        "id_word": "2106",
         "name_word": "tablesloth",
         "classifier": "n",
         "pronounce_word": "",
@@ -16792,7 +16848,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2106",
+        "id_word": "2107",
         "name_word": "tip",
         "classifier": "n",
         "pronounce_word": "",
@@ -16800,15 +16856,31 @@
         "id_group": "34"
     },
     {
-        "id_word": "2107",
-        "name_word": "well-done",
+        "id_word": "2108",
+        "name_word": "waiter",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nam phục vụ",
+        "id_group": "34"
+    },
+    {
+        "id_word": "2109",
+        "name_word": "waitress",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "nữ phục vụ",
+        "id_group": "34"
+    },
+    {
+        "id_word": "2110",
+        "name_word": "well done",
         "classifier": "n",
         "pronounce_word": "",
         "mean_word": "chín",
         "id_group": "34"
     },
     {
-        "id_word": "2108",
+        "id_word": "2111",
         "name_word": "order",
         "classifier": "n",
         "pronounce_word": "",
@@ -16816,7 +16888,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2109",
+        "id_word": "2112",
         "name_word": "roll",
         "classifier": "n",
         "pronounce_word": "",
@@ -16824,7 +16896,7 @@
         "id_group": "34"
     },
     {
-        "id_word": "2110",
+        "id_word": "2113",
         "name_word": "spill",
         "classifier": "n",
         "pronounce_word": "",
@@ -16832,7 +16904,15 @@
         "id_group": "34"
     },
     {
-        "id_word": "2111",
+        "id_word": "2114",
+        "name_word": "book",
+        "classifier": "n",
+        "pronounce_word": "",
+        "mean_word": "đặt bàn",
+        "id_group": "34"
+    },
+    {
+        "id_word": "2115",
         "name_word": "air",
         "classifier": "n",
         "pronounce_word": "",
@@ -16840,7 +16920,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2112",
+        "id_word": "2116",
         "name_word": "autumn",
         "classifier": "adj",
         "pronounce_word": "",
@@ -16848,7 +16928,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2113",
+        "id_word": "2117",
         "name_word": "blizzard",
         "classifier": "adj",
         "pronounce_word": "",
@@ -16856,7 +16936,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2114",
+        "id_word": "2118",
         "name_word": "breeze",
         "classifier": "adj",
         "pronounce_word": "",
@@ -16864,7 +16944,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2115",
+        "id_word": "2119",
         "name_word": "clear",
         "classifier": "adj",
         "pronounce_word": "",
@@ -16872,7 +16952,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2116",
+        "id_word": "2120",
         "name_word": "climate",
         "classifier": "n",
         "pronounce_word": "",
@@ -16880,7 +16960,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2117",
+        "id_word": "2121",
         "name_word": "cloudy",
         "classifier": "adj",
         "pronounce_word": "",
@@ -16888,7 +16968,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2118",
+        "id_word": "2122",
         "name_word": "cold",
         "classifier": "adj",
         "pronounce_word": "",
@@ -16896,7 +16976,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2119",
+        "id_word": "2123",
         "name_word": "cool",
         "classifier": "adj",
         "pronounce_word": "",
@@ -16904,7 +16984,15 @@
         "id_group": "35"
     },
     {
-        "id_word": "2120",
+        "id_word": "2124",
+        "name_word": "chilly",
+        "classifier": "adj",
+        "pronounce_word": "",
+        "mean_word": "lạnh, lạnh lẽo",
+        "id_group": "35"
+    },
+    {
+        "id_word": "2125",
         "name_word": "cyclone",
         "classifier": "n",
         "pronounce_word": "",
@@ -16912,7 +17000,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2121",
+        "id_word": "2126",
         "name_word": "drizzling",
         "classifier": "adj",
         "pronounce_word": "",
@@ -16920,7 +17008,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2122",
+        "id_word": "2127",
         "name_word": "drought",
         "classifier": "adj",
         "pronounce_word": "",
@@ -16928,7 +17016,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2123",
+        "id_word": "2128",
         "name_word": "downpour",
         "classifier": "n",
         "pronounce_word": "",
@@ -16936,7 +17024,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2124",
+        "id_word": "2129",
         "name_word": "fall",
         "classifier": "adj",
         "pronounce_word": "",
@@ -16944,7 +17032,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2125",
+        "id_word": "2130",
         "name_word": "flood",
         "classifier": "adj",
         "pronounce_word": "",
@@ -16952,7 +17040,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2126",
+        "id_word": "2131",
         "name_word": "fog",
         "classifier": "n",
         "pronounce_word": "",
@@ -16960,7 +17048,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2127",
+        "id_word": "2132",
         "name_word": "freezing",
         "classifier": "adj",
         "pronounce_word": "",
@@ -16968,7 +17056,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2128",
+        "id_word": "2133",
         "name_word": "frost",
         "classifier": "adj",
         "pronounce_word": "",
@@ -16976,7 +17064,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2129",
+        "id_word": "2134",
         "name_word": "global warming",
         "classifier": "n",
         "pronounce_word": "",
@@ -16984,7 +17072,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2130",
+        "id_word": "2135",
         "name_word": "greenhouse effect",
         "classifier": "n",
         "pronounce_word": "",
@@ -16992,7 +17080,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2131",
+        "id_word": "2136",
         "name_word": "hail",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17000,7 +17088,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2132",
+        "id_word": "2137",
         "name_word": "hot",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17008,7 +17096,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2133",
+        "id_word": "2138",
         "name_word": "humid",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17016,7 +17104,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2134",
+        "id_word": "2139",
         "name_word": "humidity",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17024,7 +17112,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2135",
+        "id_word": "2140",
         "name_word": "hurricane",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17032,7 +17120,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2136",
+        "id_word": "2141",
         "name_word": "icy",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17040,7 +17128,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2137",
+        "id_word": "2142",
         "name_word": "lightning",
         "classifier": "n",
         "pronounce_word": "",
@@ -17048,7 +17136,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2138",
+        "id_word": "2143",
         "name_word": "mild",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17056,7 +17144,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2139",
+        "id_word": "2144",
         "name_word": "monsoon",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17064,7 +17152,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2140",
+        "id_word": "2145",
         "name_word": "rain",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17072,7 +17160,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2141",
+        "id_word": "2146",
         "name_word": "rainbow",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17080,7 +17168,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2142",
+        "id_word": "2147",
         "name_word": "sandstorm",
         "classifier": "n",
         "pronounce_word": "",
@@ -17088,7 +17176,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2143",
+        "id_word": "2148",
         "name_word": "season",
         "classifier": "n",
         "pronounce_word": "",
@@ -17096,7 +17184,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2144",
+        "id_word": "2149",
         "name_word": "sew point",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17104,7 +17192,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2145",
+        "id_word": "2150",
         "name_word": "sleet",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17112,7 +17200,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2146",
+        "id_word": "2151",
         "name_word": "snow",
         "classifier": "n",
         "pronounce_word": "",
@@ -17120,7 +17208,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2147",
+        "id_word": "2152",
         "name_word": "snowman",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17128,7 +17216,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2148",
+        "id_word": "2153",
         "name_word": "snowstorm",
         "classifier": "n",
         "pronounce_word": "",
@@ -17136,7 +17224,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2149",
+        "id_word": "2154",
         "name_word": "snowy",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17144,7 +17232,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2150",
+        "id_word": "2155",
         "name_word": "spring",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17152,7 +17240,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2151",
+        "id_word": "2156",
         "name_word": "sultry",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17160,7 +17248,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2152",
+        "id_word": "2157",
         "name_word": "summer",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17168,7 +17256,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2153",
+        "id_word": "2158",
         "name_word": "sunny",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17176,7 +17264,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2154",
+        "id_word": "2159",
         "name_word": "tornado",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17184,7 +17272,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2155",
+        "id_word": "2160",
         "name_word": "thunder",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17192,7 +17280,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2156",
+        "id_word": "2161",
         "name_word": "thundershower",
         "classifier": "n",
         "pronounce_word": "",
@@ -17200,7 +17288,15 @@
         "id_group": "35"
     },
     {
-        "id_word": "2157",
+        "id_word": "2162",
+        "name_word": "thunderstorm",
+        "classifier": "adj",
+        "pronounce_word": "",
+        "mean_word": "bão sấm sét",
+        "id_group": "35"
+    },
+    {
+        "id_word": "2163",
         "name_word": "warm",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17208,7 +17304,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2158",
+        "id_word": "2164",
         "name_word": "weather forecast",
         "classifier": "n",
         "pronounce_word": "",
@@ -17216,7 +17312,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2159",
+        "id_word": "2165",
         "name_word": "wet",
         "classifier": "adj",
         "pronounce_word": "",
@@ -17224,7 +17320,7 @@
         "id_group": "35"
     },
     {
-        "id_word": "2160",
+        "id_word": "2166",
         "name_word": "wind",
         "classifier": "adj",
         "pronounce_word": "",
