@@ -1387,7 +1387,7 @@
         "id_word": "174",
         "name_word": "fingernail",
         "classifier": "n",
-        "pronounce_word": "/ˈfɪŋgɚˌneɪl/",
+        "pronounce_word": "/ˈfɪŋgrˌneɪl/",
         "mean_word": "móng tay",
         "id_group": "3"
     },
@@ -1403,7 +1403,7 @@
         "id_word": "176",
         "name_word": "index finger",
         "classifier": "n",
-        "pronounce_word": "/'indeks ˈfɪŋgɚ/",
+        "pronounce_word": "/'indeks ˈfɪŋgr/",
         "mean_word": "ngón trỏ",
         "id_group": "3"
     },
@@ -1411,7 +1411,7 @@
         "id_word": "177",
         "name_word": "middle finger",
         "classifier": "n",
-        "pronounce_word": "/'midl ˈfɪŋgɚ/",
+        "pronounce_word": "/'midl ˈfɪŋgr/",
         "mean_word": "ngón giữa",
         "id_group": "3"
     },
@@ -1419,7 +1419,7 @@
         "id_word": "178",
         "name_word": "ring finger",
         "classifier": "n",
-        "pronounce_word": "/riŋ ˈfɪŋgɚ/",
+        "pronounce_word": "/riŋ ˈfɪŋgr/",
         "mean_word": "ngón áp út",
         "id_group": "3"
     },
@@ -1427,7 +1427,7 @@
         "id_word": "179",
         "name_word": "little finger",
         "classifier": "n",
-        "pronounce_word": "/'litl ˈfɪŋgɚ/",
+        "pronounce_word": "/'litl ˈfɪŋgr/",
         "mean_word": "ngón út",
         "id_group": "3"
     },
@@ -3539,7 +3539,7 @@
         "id_word": "443",
         "name_word": "painkiller",
         "classifier": "n",
-        "pronounce_word": "/ˈpeɪnˌkɪlɚ/",
+        "pronounce_word": "/ˈpeɪnˌkɪlr/",
         "mean_word": "thuốc giảm đau",
         "id_group": "8"
     },
@@ -5035,7 +5035,7 @@
         "id_word": "630",
         "name_word": "firefighter",
         "classifier": "n",
-        "pronounce_word": "/ˈfajɚˌfaɪtɚ/",
+        "pronounce_word": "/ˈfajrˌfaɪtr/",
         "mean_word": "lính cứu hỏa",
         "id_group": "11"
     },
@@ -6115,7 +6115,7 @@
         "id_word": "765",
         "name_word": "schoolyard",
         "classifier": "n",
-        "pronounce_word": "/ˈskuːlˌjɑɚd/",
+        "pronounce_word": "/ˈskuːlˌjɑrd/",
         "mean_word": "sân trường",
         "id_group": "12"
     },
@@ -7267,7 +7267,7 @@
         "id_word": "909",
         "name_word": "sweatshirt",
         "classifier": "n",
-        "pronounce_word": "/ˈswɛtˌʃɚt/",
+        "pronounce_word": "/ˈswɛtˌʃrt/",
         "mean_word": "áo nỉ",
         "id_group": "14"
     },
@@ -7819,7 +7819,7 @@
         "id_word": "978",
         "name_word": "activity",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/æk'tiviti/",
         "mean_word": "hoạt động",
         "id_group": "16"
     },
@@ -7827,7 +7827,7 @@
         "id_word": "979",
         "name_word": "adventure",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/əd'vent∫ə/",
         "mean_word": "chuyến thám hiểm, phiêu lưu",
         "id_group": "16"
     },
@@ -7835,23 +7835,23 @@
         "id_word": "980",
         "name_word": "amusement",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "khu vui chơi",
+        "pronounce_word": "/ə'mju:zmənt/",
+        "mean_word": "sự vui chơi, trò giải trí, khu vui chơi",
         "id_group": "16"
     },
     {
         "id_word": "981",
         "name_word": "attraction",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "sự thu hút, sự hấp dẫn",
+        "pronounce_word": "/ə'træk∫n/",
+        "mean_word": "sự thu hút, sự lôi cuốn, sự hấp dẫn",
         "id_group": "16"
     },
     {
         "id_word": "982",
         "name_word": "backpack",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bækpæk/",
         "mean_word": "ba lô",
         "id_group": "16"
     },
@@ -7859,7 +7859,7 @@
         "id_word": "983",
         "name_word": "beach",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/bi:t∫/",
         "mean_word": "bãi biển",
         "id_group": "16"
     },
@@ -7867,7 +7867,7 @@
         "id_word": "984",
         "name_word": "binoculars",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/bi'nɒkjʊləz/",
         "mean_word": "ống nhòm",
         "id_group": "16"
     },
@@ -7875,15 +7875,15 @@
         "id_word": "985",
         "name_word": "booking",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "sự giữ chỗ trước",
+        "pronounce_word": "/'bʊkiŋ/",
+        "mean_word": "sự đặt trước, sự giữ nước",
         "id_group": "16"
     },
     {
         "id_word": "986",
         "name_word": "camera",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kæmərə/",
         "mean_word": "máy ảnh, máy quay",
         "id_group": "16"
     },
@@ -7891,7 +7891,7 @@
         "id_word": "987",
         "name_word": "camping",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kæmpiŋ/",
         "mean_word": "chuyến đi cắm trại",
         "id_group": "16"
     },
@@ -7899,7 +7899,7 @@
         "id_word": "988",
         "name_word": "cancellation",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,kænsə'lei∫n/",
         "mean_word": "sự hủy bỏ",
         "id_group": "16"
     },
@@ -7907,7 +7907,7 @@
         "id_word": "989",
         "name_word": "cheque",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/t∫ek/",
         "mean_word": "séc",
         "id_group": "16"
     },
@@ -7915,15 +7915,15 @@
         "id_word": "990",
         "name_word": "confirmation",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "xác nhận, chứng thực",
+        "pronounce_word": "/,kɒnfə'mei∫n/",
+        "mean_word": "sự xác nhận, sự chứng thực",
         "id_group": "16"
     },
     {
         "id_word": "991",
         "name_word": "consulate",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɒnsjʊlət/",
         "mean_word": "tòa lãnh sự",
         "id_group": "16"
     },
@@ -7931,7 +7931,7 @@
         "id_word": "992",
         "name_word": "contract",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɒntrækt/",
         "mean_word": "hợp đồng",
         "id_group": "16"
     },
@@ -7939,15 +7939,15 @@
         "id_word": "993",
         "name_word": "cruise",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "cuộc đi chơi trên biển",
+        "pronounce_word": "/kru:z/",
+        "mean_word": "chuyến đi chơi trên biển",
         "id_group": "16"
     },
     {
         "id_word": "994",
         "name_word": "day trip",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/dei trip/",
         "mean_word": "ngày nghỉ lễ",
         "id_group": "16"
     },
@@ -7955,7 +7955,7 @@
         "id_word": "995",
         "name_word": "departure lounge",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/di'pɑ:t∫ər 'laʊndʒ/",
         "mean_word": "phòng chờ",
         "id_group": "16"
     },
@@ -7963,7 +7963,7 @@
         "id_word": "996",
         "name_word": "deposit",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/di'pɒzit/",
         "mean_word": "tiền đặt cọc",
         "id_group": "16"
     },
@@ -7971,7 +7971,7 @@
         "id_word": "997",
         "name_word": "destination",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,desti'nei∫n/",
         "mean_word": "điểm đến",
         "id_group": "16"
     },
@@ -7979,7 +7979,7 @@
         "id_word": "998",
         "name_word": "drink",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/driηk/",
         "mean_word": "đồ uống",
         "id_group": "16"
     },
@@ -7987,7 +7987,7 @@
         "id_word": "999",
         "name_word": "embassy",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'embəsi/",
         "mean_word": "đại sứ quán",
         "id_group": "16"
     },
@@ -7995,7 +7995,7 @@
         "id_word": "1000",
         "name_word": "enquiry",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/in'kwaiəri/",
         "mean_word": "sự điều tra",
         "id_group": "16"
     },
@@ -8003,7 +8003,7 @@
         "id_word": "1001",
         "name_word": "exchange rate",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/iks't∫eindʒ reit/",
         "mean_word": "tỷ giá đối hoái",
         "id_group": "16"
     },
@@ -8011,7 +8011,7 @@
         "id_word": "1002",
         "name_word": "flight",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/flait/",
         "mean_word": "chuyến bay",
         "id_group": "16"
     },
@@ -8019,7 +8019,7 @@
         "id_word": "1003",
         "name_word": "food",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/fu:d/",
         "mean_word": "đồ ăn",
         "id_group": "16"
     },
@@ -8027,7 +8027,7 @@
         "id_word": "1004",
         "name_word": "foreigner",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'fɒrənər/",
         "mean_word": "người nước ngoài",
         "id_group": "16"
     },
@@ -8035,7 +8035,7 @@
         "id_word": "1005",
         "name_word": "gate",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/geit/",
         "mean_word": "cổng",
         "id_group": "16"
     },
@@ -8043,7 +8043,7 @@
         "id_word": "1006",
         "name_word": "hand luggage",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/hænd 'lʌgidʒ/",
         "mean_word": "hành lý xách tay",
         "id_group": "16"
     },
@@ -8051,7 +8051,7 @@
         "id_word": "1007",
         "name_word": "hotel",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'həʊ'tel/",
         "mean_word": "khách sạn",
         "id_group": "16"
     },
@@ -8059,7 +8059,7 @@
         "id_word": "1008",
         "name_word": "inquire",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/in'kwaiər/",
         "mean_word": "hỏi thông tin",
         "id_group": "16"
     },
@@ -8067,7 +8067,7 @@
         "id_word": "1009",
         "name_word": "insurance",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/in'∫ɔ:rəns/",
         "mean_word": "bảo hiểm",
         "id_group": "16"
     },
@@ -8075,7 +8075,7 @@
         "id_word": "1010",
         "name_word": "island",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ailənd/",
         "mean_word": "đảo",
         "id_group": "16"
     },
@@ -8083,7 +8083,7 @@
         "id_word": "1011",
         "name_word": "itinerary",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/aɪˈtɪnəˌreri/",
         "mean_word": "kế hoạch về cuộc hành trình",
         "id_group": "16"
     },
@@ -8091,7 +8091,7 @@
         "id_word": "1012",
         "name_word": "journey",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'dʒɜ:ni/",
         "mean_word": "chuyến đi dài ngày",
         "id_group": "16"
     },
@@ -8099,7 +8099,7 @@
         "id_word": "1013",
         "name_word": "luggage",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'lʌgidʒ/",
         "mean_word": "hành lý",
         "id_group": "16"
     },
@@ -8107,7 +8107,7 @@
         "id_word": "1014",
         "name_word": "luggage insurance",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'lʌgidʒ in'∫ɔ:rəns/",
         "mean_word": "bảo hiểm hành lý",
         "id_group": "16"
     },
@@ -8115,7 +8115,7 @@
         "id_word": "1015",
         "name_word": "luggage trolley",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'lʌgidʒ 'trɒli/",
         "mean_word": "xe đẩy hành lý",
         "id_group": "16"
     },
@@ -8123,7 +8123,7 @@
         "id_word": "1016",
         "name_word": "map",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/mæp/",
         "mean_word": "bản đồ",
         "id_group": "16"
     },
@@ -8131,7 +8131,7 @@
         "id_word": "1017",
         "name_word": "mountains",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'maʊntinsaid/",
         "mean_word": "vùng núi",
         "id_group": "16"
     },
@@ -8139,7 +8139,7 @@
         "id_word": "1018",
         "name_word": "picnic",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'piknik/",
         "mean_word": "chuyến dã ngoại",
         "id_group": "16"
     },
@@ -8147,7 +8147,7 @@
         "id_word": "1019",
         "name_word": "plan",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈplæn/",
         "mean_word": "kế hoạch, dự kiến",
         "id_group": "16"
     },
@@ -8155,7 +8155,7 @@
         "id_word": "1020",
         "name_word": "plane",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈpleɪn/",
         "mean_word": "máy bay",
         "id_group": "16"
     },
@@ -8163,7 +8163,7 @@
         "id_word": "1021",
         "name_word": "preparation",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˌprɛpəˈreɪʃən/",
         "mean_word": "sự chuẩn bị",
         "id_group": "16"
     },
@@ -8171,15 +8171,15 @@
         "id_word": "1022",
         "name_word": "route",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈruːt/",
         "mean_word": "tuyến đường, lộ trình",
         "id_group": "16"
     },
     {
         "id_word": "1023",
-        "name_word": "seatbelt",
+        "name_word": "seat belt",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈsēt ˌbelt/",
         "mean_word": "dây an toàn",
         "id_group": "16"
     },
@@ -8187,7 +8187,7 @@
         "id_word": "1024",
         "name_word": "souvenir",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˌsuːvəˈnir/",
         "mean_word": "quà lưu niệm",
         "id_group": "16"
     },
@@ -8195,15 +8195,15 @@
         "id_word": "1025",
         "name_word": "suitcase",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈsuːtˌkeɪs/",
         "mean_word": "va li",
         "id_group": "16"
     },
     {
         "id_word": "1026",
-        "name_word": "suncream",
+        "name_word": "sun cream",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈsʌn ˈkriːm/",
         "mean_word": "kem chống nắng",
         "id_group": "16"
     },
@@ -8211,7 +8211,7 @@
         "id_word": "1027",
         "name_word": "tent",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈtɛnt/",
         "mean_word": "cái lều",
         "id_group": "16"
     },
@@ -8219,15 +8219,15 @@
         "id_word": "1028",
         "name_word": "ticket",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈtɪkət/",
         "mean_word": "vé",
         "id_group": "16"
     },
     {
         "id_word": "1029",
-        "name_word": "tour guider",
+        "name_word": "tour guide",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈtur ˈgaɪd/",
         "mean_word": "hướng dẫn viên du lịch",
         "id_group": "16"
     },
@@ -8235,7 +8235,7 @@
         "id_word": "1030",
         "name_word": "tram",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈtræm/",
         "mean_word": "xe điện",
         "id_group": "16"
     },
@@ -8243,7 +8243,7 @@
         "id_word": "1031",
         "name_word": "travel agency",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈtrævəl ˈeɪʤənsi/",
         "mean_word": "công ty du lịch",
         "id_group": "16"
     },
@@ -8251,7 +8251,7 @@
         "id_word": "1032",
         "name_word": "travel brochure",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈtrævəl broʊˈʃur/",
         "mean_word": "tập quảng cáo du lịch",
         "id_group": "16"
     },
@@ -8259,7 +8259,7 @@
         "id_word": "1033",
         "name_word": "trek",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈtrɛk/",
         "mean_word": "chuyến đi bộ đường dài",
         "id_group": "16"
     },
@@ -8267,7 +8267,7 @@
         "id_word": "1034",
         "name_word": "visa",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈviːzə/",
         "mean_word": "thị thực",
         "id_group": "16"
     },
@@ -8275,7 +8275,7 @@
         "id_word": "1035",
         "name_word": "way",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈweɪ/",
         "mean_word": "đường",
         "id_group": "16"
     },
@@ -8283,7 +8283,7 @@
         "id_word": "1036",
         "name_word": "enjoyable",
         "classifier": "adj",
-        "pronounce_word": "",
+        "pronounce_word": "/in'dʒɔiəbl/",
         "mean_word": "thú vị, thích thú",
         "id_group": "16"
     },
@@ -8291,7 +8291,7 @@
         "id_word": "1037",
         "name_word": "expensive",
         "classifier": "adj",
-        "pronounce_word": "",
+        "pronounce_word": "/ɪkˈspɛnsɪv/",
         "mean_word": "đắt",
         "id_group": "16"
     },
@@ -8299,7 +8299,7 @@
         "id_word": "1038",
         "name_word": "cheap",
         "classifier": "adj",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈʧiːp/",
         "mean_word": "rẻ",
         "id_group": "16"
     },
@@ -8307,7 +8307,7 @@
         "id_word": "1039",
         "name_word": "reasonable",
         "classifier": "adj",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈriːzn̩əbəl/",
         "mean_word": "hợp lý",
         "id_group": "16"
     },
@@ -8315,7 +8315,7 @@
         "id_word": "1040",
         "name_word": "apply for a visa",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/əˈplaɪ fər ˈeɪ ˈviːzə/",
         "mean_word": "xin cấp thị thực",
         "id_group": "16"
     },
@@ -8323,7 +8323,7 @@
         "id_word": "1041",
         "name_word": "book",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/bʊk/",
         "mean_word": "đặt chỗ trước",
         "id_group": "16"
     },
@@ -8331,7 +8331,7 @@
         "id_word": "1042",
         "name_word": "climb",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/klaim/",
         "mean_word": "leo, trèo",
         "id_group": "16"
     },
@@ -8339,7 +8339,7 @@
         "id_word": "1043",
         "name_word": "change",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/t∫eindʒ/",
         "mean_word": "đổi, thay đổi",
         "id_group": "16"
     },
@@ -8347,7 +8347,7 @@
         "id_word": "1044",
         "name_word": "check in",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/'t∫ekin/",
         "mean_word": "làm thủ tục trước khi lên máy bay",
         "id_group": "16"
     },
@@ -8355,7 +8355,7 @@
         "id_word": "1045",
         "name_word": "check out",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/'t∫eikaʊt/",
         "mean_word": "làm thủ tục thanh toán trước khi rời khách sạn",
         "id_group": "16"
     },
@@ -8363,7 +8363,7 @@
         "id_word": "1046",
         "name_word": "discount",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/'diskaʊnt/",
         "mean_word": "giảm giá, chiết khấu",
         "id_group": "16"
     },
@@ -8371,7 +8371,7 @@
         "id_word": "1047",
         "name_word": "find out",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/faind aʊt/",
         "mean_word": "khám phá, tìm ra",
         "id_group": "16"
     },
@@ -8379,7 +8379,7 @@
         "id_word": "1048",
         "name_word": "go skiing",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/gəʊ 'ski:iŋ/",
         "mean_word": "đi trượt tuyết",
         "id_group": "16"
     },
@@ -8387,7 +8387,7 @@
         "id_word": "1049",
         "name_word": "hire",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/'haiər/",
         "mean_word": "thuế",
         "id_group": "16"
     },
@@ -8395,7 +8395,7 @@
         "id_word": "1050",
         "name_word": "issue a visa",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/'isju: ˈeɪ 'vi:zə/",
         "mean_word": "cấp thị thực",
         "id_group": "16"
     },
@@ -8403,7 +8403,7 @@
         "id_word": "1051",
         "name_word": "land",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/lænd/",
         "mean_word": "hạ cánh",
         "id_group": "16"
     },
@@ -8411,7 +8411,7 @@
         "id_word": "1052",
         "name_word": "pack",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/pæk/",
         "mean_word": "thu xếp, xếp chặt",
         "id_group": "16"
     },
@@ -8419,7 +8419,7 @@
         "id_word": "1053",
         "name_word": "plan",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈplæn/",
         "mean_word": "lập kế hoạch",
         "id_group": "16"
     },
@@ -8427,7 +8427,7 @@
         "id_word": "1054",
         "name_word": "row a boat",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/reʊ ˈeɪ bəʊt/",
         "mean_word": "chèo thuyền",
         "id_group": "16"
     },
@@ -8435,120 +8435,120 @@
         "id_word": "1055",
         "name_word": "take off",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
+        "pronounce_word": "/teik ɒf/",
+        "mean_word": "cất cánh",
         "id_group": "16"
     },
     {
         "id_word": "1056",
         "name_word": "April Fool's Day",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "ngày cá tháng tư",
+        "pronounce_word": "/'eiprəl fu:l dei/",
+        "mean_word": "Cá Tháng Tư",
         "id_group": "16"
     },
     {
         "id_word": "1057",
         "name_word": "Christmas",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "giáng sinh",
+        "pronounce_word": "/'krisməs/",
+        "mean_word": "Giáng Sinh",
         "id_group": "16"
     },
     {
         "id_word": "1058",
         "name_word": "Christmas Eve",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "đêm giáng sinh",
+        "pronounce_word": "/'krisməs i:v/",
+        "mean_word": "Đêm Giáng Sinh",
         "id_group": "16"
     },
     {
         "id_word": "1059",
         "name_word": "Easter",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "lễ phục sinh",
+        "pronounce_word": "/'i:stər/",
+        "mean_word": "Lễ Phục Sinh",
         "id_group": "16"
     },
     {
         "id_word": "1060",
         "name_word": "Father's Day",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "ngày của cha",
+        "pronounce_word": "/'fɑ:ðər dei/",
+        "mean_word": "Ngày Của Cha",
         "id_group": "16"
     },
     {
         "id_word": "1061",
         "name_word": "Halloween",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "lễ hội hóa trang",
+        "pronounce_word": "/ˌhæləˈwiːn/",
+        "mean_word": "Lễ Hội Hóa Trang",
         "id_group": "16"
     },
     {
         "id_word": "1062",
         "name_word": "Independence Day",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "ngày quốc khánh",
+        "pronounce_word": "/,indi'pendəns dei/",
+        "mean_word": "Ngày Quốc Khánh",
         "id_group": "16"
     },
     {
         "id_word": "1063",
         "name_word": "May Day",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "ngày quốc tế lao động",
+        "pronounce_word": "/mei dei/",
+        "mean_word": "Ngày Quốc Tế Lao Động",
         "id_group": "16"
     },
     {
         "id_word": "1064",
-        "name_word": "Mid autumn festival",
+        "name_word": "Mid Autumn Festival",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "tết trung thu",
+        "pronounce_word": "/mid 'ɔ:təm 'festivl/",
+        "mean_word": "Tết Trung Thu",
         "id_group": "16"
     },
     {
         "id_word": "1065",
         "name_word": "Mother's Day",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "ngày của mẹ",
+        "pronounce_word": "/'mʌðər dei/",
+        "mean_word": "Ngày Của Mẹ",
         "id_group": "16"
     },
     {
         "id_word": "1066",
         "name_word": "New Year",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "năm mới",
+        "pronounce_word": "/nju: jier/",
+        "mean_word": "Năm Mới",
         "id_group": "16"
     },
     {
         "id_word": "1067",
         "name_word": "New Year's Eve",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "đêm giao thừa",
+        "pronounce_word": "/nju: jier i:v/",
+        "mean_word": "Đêm Giao Thừa",
         "id_group": "16"
     },
     {
         "id_word": "1068",
         "name_word": "public holiday",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "ngày lễ quốc gia",
+        "pronounce_word": "/'pʌblik 'hɒlədei/",
+        "mean_word": "Ngày Lễ Quốc Gia",
         "id_group": "16"
     },
     {
         "id_word": "1069",
         "name_word": "Teacher's Day",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "ngày nhà giáo",
+        "pronounce_word": "/'ti:t∫ər dei/",
+        "mean_word": "Ngày Nhà Giáo",
         "id_group": "16"
     },
     {
@@ -8556,38 +8556,30 @@
         "name_word": "Thanksgiving",
         "classifier": "n",
         "pronounce_word": "",
-        "mean_word": "ngày lễ tạ ơn",
+        "mean_word": "Ngày Lễ Tạ Ơn",
         "id_group": "16"
     },
     {
         "id_word": "1071",
         "name_word": "Valentine's Day",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "ngày lễ tình nhân",
+        "pronounce_word": "/'væləntain dei/",
+        "mean_word": "Ngày Lễ Tình Nhân",
         "id_group": "16"
     },
     {
         "id_word": "1072",
         "name_word": "Woman's Day",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "ngày phụ nữ",
+        "pronounce_word": "/'wʊmən dei/",
+        "mean_word": "Ngày Phụ Nữ",
         "id_group": "16"
-    },
-    {
-        "id_word": "1073",
-        "name_word": "air conditioner",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "",
-        "id_group": "17"
     },
     {
         "id_word": "1074",
         "name_word": "air conditioner",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'eə kən'di∫ənər/",
         "mean_word": "điều hòa không khí",
         "id_group": "17"
     },
@@ -8595,7 +8587,7 @@
         "id_word": "1075",
         "name_word": "attic",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ætik/",
         "mean_word": "gác thượng",
         "id_group": "17"
     },
@@ -8603,7 +8595,7 @@
         "id_word": "1076",
         "name_word": "balcony",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bælkəni/",
         "mean_word": "ban công",
         "id_group": "17"
     },
@@ -8611,7 +8603,7 @@
         "id_word": "1077",
         "name_word": "bathroom",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bɑ:θrʊm/",
         "mean_word": "phòng tắm",
         "id_group": "17"
     },
@@ -8619,7 +8611,7 @@
         "id_word": "1078",
         "name_word": "bedroom",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bedrʊm/",
         "mean_word": "phòng ngủ",
         "id_group": "17"
     },
@@ -8627,7 +8619,7 @@
         "id_word": "1079",
         "name_word": "broom",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/bru:m/",
         "mean_word": "chổi",
         "id_group": "17"
     },
@@ -8635,7 +8627,7 @@
         "id_word": "1080",
         "name_word": "chimney",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'t∫imni/",
         "mean_word": "ống khói",
         "id_group": "17"
     },
@@ -8643,7 +8635,7 @@
         "id_word": "1081",
         "name_word": "clothes line",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/kləʊðz lain/",
         "mean_word": "dây phơi quần áo",
         "id_group": "17"
     },
@@ -8651,7 +8643,7 @@
         "id_word": "1082",
         "name_word": "corridor",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɒridɜ:r/",
         "mean_word": "hành lang",
         "id_group": "17"
     },
@@ -8659,7 +8651,7 @@
         "id_word": "1083",
         "name_word": "curtain",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɜ:tn/",
         "mean_word": "rèm cửa",
         "id_group": "17"
     },
@@ -8667,7 +8659,7 @@
         "id_word": "1084",
         "name_word": "curtain rod",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɜ:tn rɒd/",
         "mean_word": "thanh cuộn rèm",
         "id_group": "17"
     },
@@ -8675,7 +8667,7 @@
         "id_word": "1085",
         "name_word": "door",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/dɔ:r/",
         "mean_word": "cánh cửa",
         "id_group": "17"
     },
@@ -8683,7 +8675,7 @@
         "id_word": "1086",
         "name_word": "doorknob",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈdoɚˌnɑːb/",
         "mean_word": "quả đấm ở cửa",
         "id_group": "17"
     },
@@ -8691,7 +8683,7 @@
         "id_word": "1087",
         "name_word": "driveway",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'draivwei/",
         "mean_word": "đường lái xe vào nhà",
         "id_group": "17"
     },
@@ -8699,7 +8691,7 @@
         "id_word": "1088",
         "name_word": "dry",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/drai/",
         "mean_word": "lau khô",
         "id_group": "17"
     },
@@ -8707,7 +8699,7 @@
         "id_word": "1089",
         "name_word": "dustpan",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'dʌstpæn/",
         "mean_word": "cái hốt rác",
         "id_group": "17"
     },
@@ -8715,7 +8707,7 @@
         "id_word": "1090",
         "name_word": "fan",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/fæn/",
         "mean_word": "quạt",
         "id_group": "17"
     },
@@ -8723,7 +8715,7 @@
         "id_word": "1091",
         "name_word": "floor",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/flɔ:r/",
         "mean_word": "sàn nhà",
         "id_group": "17"
     },
@@ -8731,7 +8723,7 @@
         "id_word": "1092",
         "name_word": "fold",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/fəʊld/",
         "mean_word": "gập lại",
         "id_group": "17"
     },
@@ -8739,7 +8731,7 @@
         "id_word": "1093",
         "name_word": "fridge",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'fridʒ/",
         "mean_word": "tủ lạnh",
         "id_group": "17"
     },
@@ -8747,7 +8739,7 @@
         "id_word": "1094",
         "name_word": "garage",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'gærɑ:ʒ/",
         "mean_word": "nhà để xe",
         "id_group": "17"
     },
@@ -8755,7 +8747,7 @@
         "id_word": "1095",
         "name_word": "garden",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'gɑ:dn/",
         "mean_word": "vườn",
         "id_group": "17"
     },
@@ -8763,7 +8755,7 @@
         "id_word": "1096",
         "name_word": "gate",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/geit/",
         "mean_word": "cổng",
         "id_group": "17"
     },
@@ -8771,7 +8763,7 @@
         "id_word": "1097",
         "name_word": "hang",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/hæη/",
         "mean_word": "treo",
         "id_group": "17"
     },
@@ -8779,7 +8771,7 @@
         "id_word": "1098",
         "name_word": "hinge",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/hindʒ/",
         "mean_word": "bản lề",
         "id_group": "17"
     },
@@ -8787,7 +8779,7 @@
         "id_word": "1099",
         "name_word": "iron",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/'aiən/",
         "mean_word": "là, ủi",
         "id_group": "17"
     },
@@ -8795,15 +8787,15 @@
         "id_word": "1100",
         "name_word": "keyhole",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ki:həʊl/",
         "mean_word": "lỗ khóa",
         "id_group": "17"
     },
     {
         "id_word": "1101",
-        "name_word": "keys",
+        "name_word": "key",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈkiː/",
         "mean_word": "chìa khóa",
         "id_group": "17"
     },
@@ -8811,7 +8803,7 @@
         "id_word": "1102",
         "name_word": "kitchen",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kit∫in/",
         "mean_word": "phòng bếp",
         "id_group": "17"
     },
@@ -8819,7 +8811,7 @@
         "id_word": "1103",
         "name_word": "light switch",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/lait swit∫/",
         "mean_word": "công tắc điện",
         "id_group": "17"
     },
@@ -8827,7 +8819,7 @@
         "id_word": "1104",
         "name_word": "living room",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'liviη ru:m/",
         "mean_word": "phòng khách",
         "id_group": "17"
     },
@@ -8835,7 +8827,7 @@
         "id_word": "1105",
         "name_word": "lock",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/lɒk/",
         "mean_word": "khóa",
         "id_group": "17"
     },
@@ -8843,7 +8835,7 @@
         "id_word": "1106",
         "name_word": "mop",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/mɒp/",
         "mean_word": "cây lau nhà",
         "id_group": "17"
     },
@@ -8851,7 +8843,7 @@
         "id_word": "1107",
         "name_word": "polish",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈpɑːlɪʃ/",
         "mean_word": "đánh bóng",
         "id_group": "17"
     },
@@ -8859,7 +8851,7 @@
         "id_word": "1108",
         "name_word": "repair",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/ri'peər/",
         "mean_word": "sửa lại",
         "id_group": "17"
     },
@@ -8867,7 +8859,7 @@
         "id_word": "1109",
         "name_word": "roof",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ru:f/",
         "mean_word": "mái nhà",
         "id_group": "17"
     },
@@ -8875,23 +8867,15 @@
         "id_word": "1110",
         "name_word": "scrub",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/skrʌb/",
         "mean_word": "cọ rửa, kỳ cọ",
-        "id_group": "17"
-    },
-    {
-        "id_word": "1111",
-        "name_word": "shingles",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "ván lợp",
         "id_group": "17"
     },
     {
         "id_word": "1112",
         "name_word": "shrub",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/∫rʌb/",
         "mean_word": "cây bụi",
         "id_group": "17"
     },
@@ -8899,23 +8883,23 @@
         "id_word": "1113",
         "name_word": "shutter",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'∫ʌtər/",
         "mean_word": "cửa chớp",
         "id_group": "17"
     },
     {
         "id_word": "1114",
-        "name_word": "stairs",
+        "name_word": "stair",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "cầu thang",
+        "pronounce_word": "/steə/",
+        "mean_word": "bậc cầu thang",
         "id_group": "17"
     },
     {
         "id_word": "1115",
         "name_word": "sweep",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/swi:p/",
         "mean_word": "quét",
         "id_group": "17"
     },
@@ -8923,7 +8907,7 @@
         "id_word": "1116",
         "name_word": "telephone",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'telifəʊn/",
         "mean_word": "điện thoại",
         "id_group": "17"
     },
@@ -8931,7 +8915,7 @@
         "id_word": "1117",
         "name_word": "tighten",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/'taitn/",
         "mean_word": "vặn chặt",
         "id_group": "17"
     },
@@ -8939,7 +8923,7 @@
         "id_word": "1118",
         "name_word": "vacuum cleaner",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'vækjʊəm 'kli:nər/",
         "mean_word": "máy hút bụi",
         "id_group": "17"
     },
@@ -8947,7 +8931,7 @@
         "id_word": "1119",
         "name_word": "wall",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'wɔ:l/",
         "mean_word": "bức tường",
         "id_group": "17"
     },
@@ -8955,7 +8939,7 @@
         "id_word": "1120",
         "name_word": "wash",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/wɒ∫/",
         "mean_word": "rửa",
         "id_group": "17"
     },
@@ -8963,7 +8947,7 @@
         "id_word": "1121",
         "name_word": "washing machine",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'wɒ∫iŋ mə'∫i:n/",
         "mean_word": "máy giặt",
         "id_group": "17"
     },
@@ -8971,7 +8955,7 @@
         "id_word": "1122",
         "name_word": "watering can",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'wɔ:təriɳ kæn/",
         "mean_word": "bình tưới nước",
         "id_group": "17"
     },
@@ -8979,7 +8963,7 @@
         "id_word": "1123",
         "name_word": "window",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'windəʊ/",
         "mean_word": "cửa sổ",
         "id_group": "17"
     },
@@ -8987,7 +8971,7 @@
         "id_word": "1124",
         "name_word": "wipe",
         "classifier": "v",
-        "pronounce_word": "",
+        "pronounce_word": "/waip/",
         "mean_word": "lau chùi",
         "id_group": "17"
     },
@@ -8995,7 +8979,7 @@
         "id_word": "1125",
         "name_word": "yard",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ja:d/",
         "mean_word": "sân",
         "id_group": "17"
     },
@@ -9003,7 +8987,7 @@
         "id_word": "1126",
         "name_word": "alarm clock",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ə'lɑ:m klɒk/",
         "mean_word": "đồng hồ báo thức",
         "id_group": "18"
     },
@@ -9011,7 +8995,7 @@
         "id_word": "1127",
         "name_word": "bed",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/bed/",
         "mean_word": "giường",
         "id_group": "18"
     },
@@ -9019,7 +9003,7 @@
         "id_word": "1128",
         "name_word": "bed spread",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/bed spred/",
         "mean_word": "tấm trải giường",
         "id_group": "18"
     },
@@ -9027,7 +9011,7 @@
         "id_word": "1129",
         "name_word": "blanket",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'blæŋkit/",
         "mean_word": "chăn, mền",
         "id_group": "18"
     },
@@ -9035,7 +9019,7 @@
         "id_word": "1130",
         "name_word": "bunk bed",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/bʌŋk bed/",
         "mean_word": "giường tầng",
         "id_group": "18"
     },
@@ -9043,7 +9027,7 @@
         "id_word": "1131",
         "name_word": "candle",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kændl/",
         "mean_word": "nến",
         "id_group": "18"
     },
@@ -9051,7 +9035,7 @@
         "id_word": "1132",
         "name_word": "candlestick",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kændlstik/",
         "mean_word": "cây cắm nến",
         "id_group": "18"
     },
@@ -9059,7 +9043,7 @@
         "id_word": "1133",
         "name_word": "carpet",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɑ:pit/",
         "mean_word": "tấm thảm",
         "id_group": "18"
     },
@@ -9067,7 +9051,7 @@
         "id_word": "1134",
         "name_word": "chest of drawers",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/t∫est əv 'drɔ:z/",
         "mean_word": "tủ ngăn kéo",
         "id_group": "18"
     },
@@ -9075,7 +9059,7 @@
         "id_word": "1135",
         "name_word": "dresser",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'dresər/",
         "mean_word": "tủ (có ngăn kéo)",
         "id_group": "18"
     },
@@ -9083,7 +9067,7 @@
         "id_word": "1136",
         "name_word": "lamp",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/læmp/",
         "mean_word": "đèn",
         "id_group": "18"
     },
@@ -9091,7 +9075,7 @@
         "id_word": "1137",
         "name_word": "lampshade",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'læmp∫eid/",
         "mean_word": "cái chao đèn",
         "id_group": "18"
     },
@@ -9099,7 +9083,7 @@
         "id_word": "1138",
         "name_word": "light bulb",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/lait bʌlb/",
         "mean_word": "bóng đèn tròn",
         "id_group": "18"
     },
@@ -9107,7 +9091,7 @@
         "id_word": "1139",
         "name_word": "mattress",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'mætrəs/",
         "mean_word": "đệm",
         "id_group": "18"
     },
@@ -9115,7 +9099,7 @@
         "id_word": "1140",
         "name_word": "pillow",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'piləʊ/",
         "mean_word": "gối",
         "id_group": "18"
     },
@@ -9123,7 +9107,7 @@
         "id_word": "1141",
         "name_word": "pyjamas",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/pə'dʒɑ:məz/",
         "mean_word": "quần áo ngủ",
         "id_group": "18"
     },
@@ -9131,15 +9115,15 @@
         "id_word": "1142",
         "name_word": "sheet",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/∫i:t/",
         "mean_word": "khăn trải giường",
         "id_group": "18"
     },
     {
         "id_word": "1143",
-        "name_word": "slippers",
+        "name_word": "slipper",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'slipə/",
         "mean_word": "dép đi trong nhà",
         "id_group": "18"
     },
@@ -9147,7 +9131,7 @@
         "id_word": "1144",
         "name_word": "stool",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/stu:l/",
         "mean_word": "ghế đẩu",
         "id_group": "18"
     },
@@ -9155,7 +9139,7 @@
         "id_word": "1145",
         "name_word": "wardrobe",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'wɔ:drəʊb/",
         "mean_word": "tủ quần áo",
         "id_group": "18"
     },
@@ -9163,7 +9147,7 @@
         "id_word": "1146",
         "name_word": "chair",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/t∫eər/",
         "mean_word": "ghế",
         "id_group": "19"
     },
@@ -9171,7 +9155,7 @@
         "id_word": "1147",
         "name_word": "armchair",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ɑ:mt∫eər/",
         "mean_word": "ghế bành",
         "id_group": "19"
     },
@@ -9179,7 +9163,7 @@
         "id_word": "1148",
         "name_word": "rocking chair",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'rɒkiŋt∫eər/",
         "mean_word": "ghế bập bênh",
         "id_group": "19"
     },
@@ -9187,7 +9171,7 @@
         "id_word": "1149",
         "name_word": "stool",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/stu:l/",
         "mean_word": "ghế đẩu",
         "id_group": "19"
     },
@@ -9195,15 +9179,15 @@
         "id_word": "1150",
         "name_word": "shelf",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/∫elf/",
         "mean_word": "giá sách",
         "id_group": "19"
     },
     {
         "id_word": "1151",
-        "name_word": "curshion",
+        "name_word": "cushion",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kʊ∫n/",
         "mean_word": "nệm lót",
         "id_group": "19"
     },
@@ -9211,7 +9195,7 @@
         "id_word": "1152",
         "name_word": "coffee table",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɒfi 'teibl/",
         "mean_word": "bàn uống cà phê",
         "id_group": "19"
     },
@@ -9219,7 +9203,7 @@
         "id_word": "1153",
         "name_word": "vase",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/vɑ:z/",
         "mean_word": "bình hoa",
         "id_group": "19"
     },
@@ -9227,7 +9211,7 @@
         "id_word": "1154",
         "name_word": "ashtray",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'æʃtrei/",
         "mean_word": "cái gạt tàn",
         "id_group": "19"
     },
@@ -9235,7 +9219,7 @@
         "id_word": "1155",
         "name_word": "cigarette",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/,sigə'ret/",
         "mean_word": "điếu thuốc lá",
         "id_group": "19"
     },
@@ -9243,7 +9227,7 @@
         "id_word": "1156",
         "name_word": "smoke",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/sməʊk/",
         "mean_word": "khói thuốc",
         "id_group": "19"
     },
@@ -9251,7 +9235,7 @@
         "id_word": "1157",
         "name_word": "pipe",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/paip/",
         "mean_word": "tẩu thuốc",
         "id_group": "19"
     },
@@ -9259,7 +9243,7 @@
         "id_word": "1158",
         "name_word": "carpet",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɑ:pit/",
         "mean_word": "thảm",
         "id_group": "19"
     },
@@ -9267,7 +9251,7 @@
         "id_word": "1159",
         "name_word": "rug",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/rʌg/",
         "mean_word": "thảm lau chân",
         "id_group": "19"
     },
@@ -9275,7 +9259,7 @@
         "id_word": "1160",
         "name_word": "fireplace",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'faiəpleis/",
         "mean_word": "lò sưởi",
         "id_group": "19"
     },
@@ -9283,7 +9267,7 @@
         "id_word": "1161",
         "name_word": "cup",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/kʌp/",
         "mean_word": "tách, ly",
         "id_group": "19"
     },
@@ -9291,7 +9275,7 @@
         "id_word": "1162",
         "name_word": "pitcher",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'pit∫ər/",
         "mean_word": "bình rót",
         "id_group": "19"
     },
@@ -9299,7 +9283,7 @@
         "id_word": "1163",
         "name_word": "glass",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/glɑ:s/",
         "mean_word": "cốc thủy tinh",
         "id_group": "19"
     },
@@ -9307,15 +9291,15 @@
         "id_word": "1164",
         "name_word": "painting",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "bức tranh",
+        "pronounce_word": "/'peintiŋ/",
+        "mean_word": "bức họa, bức tranh",
         "id_group": "19"
     },
     {
         "id_word": "1165",
         "name_word": "ceiling",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'si:liŋ/",
         "mean_word": "trần nhà",
         "id_group": "19"
     },
@@ -9323,7 +9307,7 @@
         "id_word": "1166",
         "name_word": "ceiling fan",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'si:liŋ fæn/",
         "mean_word": "quạt trần",
         "id_group": "19"
     },
@@ -9331,7 +9315,7 @@
         "id_word": "1167",
         "name_word": "wall",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'wɔ:l/",
         "mean_word": "tường",
         "id_group": "19"
     },
@@ -9339,7 +9323,7 @@
         "id_word": "1168",
         "name_word": "step",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/step/",
         "mean_word": "bậc thang",
         "id_group": "19"
     },
@@ -9347,7 +9331,7 @@
         "id_word": "1169",
         "name_word": "television",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'teliviʒn/",
         "mean_word": "tivi",
         "id_group": "19"
     },
@@ -9355,7 +9339,7 @@
         "id_word": "1170",
         "name_word": "remote control",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ri'məʊt kən'trəʊl/",
         "mean_word": "điều khiển từ xa",
         "id_group": "19"
     },
@@ -9363,7 +9347,7 @@
         "id_word": "1171",
         "name_word": "speaker",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'spi:kər/",
         "mean_word": "loa",
         "id_group": "19"
     },
@@ -9371,7 +9355,7 @@
         "id_word": "1172",
         "name_word": "apron",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'eiprən/",
         "mean_word": "tạp dề",
         "id_group": "20"
     },
@@ -9379,7 +9363,7 @@
         "id_word": "1173",
         "name_word": "basket",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bɑ:skit/",
         "mean_word": "giỏ, sọt, rổ",
         "id_group": "20"
     },
@@ -9387,7 +9371,7 @@
         "id_word": "1174",
         "name_word": "blender",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'blendər/",
         "mean_word": "máy xay sinh tố",
         "id_group": "20"
     },
@@ -9395,7 +9379,7 @@
         "id_word": "1175",
         "name_word": "bottle opener",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bɒtl 'əʊpnər/",
         "mean_word": "cái mở nút chai",
         "id_group": "20"
     },
@@ -9403,7 +9387,7 @@
         "id_word": "1176",
         "name_word": "bowl",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/bəʊl/",
         "mean_word": "bát, tô",
         "id_group": "20"
     },
@@ -9411,7 +9395,7 @@
         "id_word": "1177",
         "name_word": "broiler",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'brɔilər/",
         "mean_word": "vỉ nướng",
         "id_group": "20"
     },
@@ -9419,7 +9403,7 @@
         "id_word": "1178",
         "name_word": "burner",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bɜ:nər/",
         "mean_word": "bếp",
         "id_group": "20"
     },
@@ -9427,7 +9411,7 @@
         "id_word": "1179",
         "name_word": "cabinet",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kæbinit/",
         "mean_word": "tủ nhiều ngăn",
         "id_group": "20"
     },
@@ -9435,7 +9419,7 @@
         "id_word": "1180",
         "name_word": "can opener",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kæn,əʊpənər/",
         "mean_word": "cái mở đồ hộp",
         "id_group": "20"
     },
@@ -9443,7 +9427,7 @@
         "id_word": "1181",
         "name_word": "canister",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kænistər/",
         "mean_word": "hộp nhỏ",
         "id_group": "20"
     },
@@ -9451,7 +9435,7 @@
         "id_word": "1182",
         "name_word": "casserole dish",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kæsərəʊl di∫/",
         "mean_word": "nồi hầm",
         "id_group": "20"
     },
@@ -9459,7 +9443,7 @@
         "id_word": "1183",
         "name_word": "coffee maker",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɒfi 'meikər/",
         "mean_word": "máy pha cà phê",
         "id_group": "20"
     },
@@ -9467,7 +9451,7 @@
         "id_word": "1184",
         "name_word": "colander",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kʌlədər/",
         "mean_word": "cái chao",
         "id_group": "20"
     },
@@ -9475,7 +9459,7 @@
         "id_word": "1185",
         "name_word": "counter",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kaʊntər/",
         "mean_word": "bề mặt chỗ nấu ăn",
         "id_group": "20"
     },
@@ -9483,7 +9467,7 @@
         "id_word": "1186",
         "name_word": "cup",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/kʌp/",
         "mean_word": "tách, chén",
         "id_group": "20"
     },
@@ -9491,7 +9475,7 @@
         "id_word": "1187",
         "name_word": "cupboard",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kʌpbəd/",
         "mean_word": "tủ đựng chén bát",
         "id_group": "20"
     },
@@ -9499,7 +9483,7 @@
         "id_word": "1188",
         "name_word": "cutting board",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kʌtiŋ bɔ:d/",
         "mean_word": "thớt",
         "id_group": "20"
     },
@@ -9507,7 +9491,7 @@
         "id_word": "1189",
         "name_word": "chopsticks",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'t∫ɒpstiks/",
         "mean_word": "đôi đũa",
         "id_group": "20"
     },
@@ -9515,15 +9499,15 @@
         "id_word": "1190",
         "name_word": "dish drainer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/di∫ 'dreinə/",
         "mean_word": "rá đựng bát đĩa",
         "id_group": "20"
     },
     {
         "id_word": "1191",
-        "name_word": "dishtowel",
+        "name_word": "dish towel",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/di∫ 'taʊəl/",
         "mean_word": "khăn lau bát đĩa",
         "id_group": "20"
     },
@@ -9531,7 +9515,7 @@
         "id_word": "1192",
         "name_word": "dishwasher",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'diʃ,wɔʃə/",
         "mean_word": "máy rửa bát, máy rửa chén",
         "id_group": "20"
     },
@@ -9539,7 +9523,7 @@
         "id_word": "1193",
         "name_word": "dishwasher liquid",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'diʃ,wɔʃə 'likwid/",
         "mean_word": "nước rửa bát, nước rửa chén",
         "id_group": "20"
     },
@@ -9547,7 +9531,7 @@
         "id_word": "1194",
         "name_word": "fork",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/fɔ:k/",
         "mean_word": "nĩa, chĩa",
         "id_group": "20"
     },
@@ -9555,7 +9539,7 @@
         "id_word": "1195",
         "name_word": "freezer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'fri:zər/",
         "mean_word": "ngăn lạnh",
         "id_group": "20"
     },
@@ -9563,7 +9547,7 @@
         "id_word": "1196",
         "name_word": "frying pan",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'fraiiηpæn/",
         "mean_word": "chảo rán, chảo chiên",
         "id_group": "20"
     },
@@ -9571,7 +9555,7 @@
         "id_word": "1197",
         "name_word": "glass",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/glɑ:s/",
         "mean_word": "ly, cốc thủy tinh",
         "id_group": "20"
     },
@@ -9579,7 +9563,7 @@
         "id_word": "1198",
         "name_word": "ice bucket",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ais 'bʌkit/",
         "mean_word": "thùng để đá",
         "id_group": "20"
     },
@@ -9587,7 +9571,7 @@
         "id_word": "1199",
         "name_word": "ice tray",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ais trei/",
         "mean_word": "khay đá",
         "id_group": "20"
     },
@@ -9595,7 +9579,7 @@
         "id_word": "1200",
         "name_word": "jug",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/dʒʌg/",
         "mean_word": "bình nước",
         "id_group": "20"
     },
@@ -9603,7 +9587,7 @@
         "id_word": "1201",
         "name_word": "knife",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/naif/",
         "mean_word": "dao",
         "id_group": "20"
     },
@@ -9611,15 +9595,15 @@
         "id_word": "1202",
         "name_word": "ladder",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "cái muôi",
+        "pronounce_word": "/'lædər/",
+        "mean_word": "cái thang",
         "id_group": "20"
     },
     {
         "id_word": "1203",
         "name_word": "lid",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/lid/",
         "mean_word": "nắp, vung",
         "id_group": "20"
     },
@@ -9627,7 +9611,7 @@
         "id_word": "1204",
         "name_word": "lighter",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'laitər/",
         "mean_word": "bật lửa",
         "id_group": "20"
     },
@@ -9635,31 +9619,23 @@
         "id_word": "1205",
         "name_word": "match",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "diêm",
+        "pronounce_word": "/'mæt∫/",
+        "mean_word": "que diêm",
         "id_group": "20"
     },
     {
         "id_word": "1206",
         "name_word": "microwave",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'maikrəweiv/",
         "mean_word": "lò vi sóng",
-        "id_group": "20"
-    },
-    {
-        "id_word": "1207",
-        "name_word": "mixing bowl",
-        "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "bát to để trộn",
         "id_group": "20"
     },
     {
         "id_word": "1208",
         "name_word": "napkin",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/næpkin/",
         "mean_word": "khăn giấy",
         "id_group": "20"
     },
@@ -9667,15 +9643,15 @@
         "id_word": "1209",
         "name_word": "oven",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "lò hấp",
+        "pronounce_word": "/'ʌvn/",
+        "mean_word": "lò nướng, lò sấy, lò hấp",
         "id_group": "20"
     },
     {
         "id_word": "1210",
         "name_word": "plate",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/pleit/",
         "mean_word": "đĩa",
         "id_group": "20"
     },
@@ -9683,7 +9659,7 @@
         "id_word": "1211",
         "name_word": "pot",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/pɒt/",
         "mean_word": "hũ, vại, nồi to dài",
         "id_group": "20"
     },
@@ -9691,7 +9667,7 @@
         "id_word": "1212",
         "name_word": "pot holder",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/pɒt 'həʊldər/",
         "mean_word": "miếng lót nồi",
         "id_group": "20"
     },
@@ -9699,7 +9675,7 @@
         "id_word": "1213",
         "name_word": "refrigerator",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ri'fridʒəreitər/",
         "mean_word": "tủ lạnh",
         "id_group": "20"
     },
@@ -9707,7 +9683,7 @@
         "id_word": "1214",
         "name_word": "rice cooker",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/rais 'kʊkər/",
         "mean_word": "nồi cơm điện",
         "id_group": "20"
     },
@@ -9715,7 +9691,7 @@
         "id_word": "1215",
         "name_word": "roasting pan",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'rəʊstiŋ pæn/",
         "mean_word": "chảo nướng",
         "id_group": "20"
     },
@@ -9723,7 +9699,7 @@
         "id_word": "1216",
         "name_word": "rolling pin",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'rəʊliŋ pin/",
         "mean_word": "trục cán bột",
         "id_group": "20"
     },
@@ -9731,7 +9707,7 @@
         "id_word": "1217",
         "name_word": "saucepan",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'sɔ:spən/",
         "mean_word": "cái xoong",
         "id_group": "20"
     },
@@ -9739,7 +9715,7 @@
         "id_word": "1218",
         "name_word": "scouring pad",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈskou(ə)r pæd/",
         "mean_word": "miếng cọ rửa",
         "id_group": "20"
     },
