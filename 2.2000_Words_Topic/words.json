@@ -9723,7 +9723,7 @@
         "id_word": "1219",
         "name_word": "spoon",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/spu:n/",
         "mean_word": "thìa, muỗng",
         "id_group": "20"
     },
@@ -9731,15 +9731,15 @@
         "id_word": "1220",
         "name_word": "steamer",
         "classifier": "n",
-        "pronounce_word": "",
-        "mean_word": "rả để hấp",
+        "pronounce_word": "/'sti:mər/",
+        "mean_word": "nồi hấp",
         "id_group": "20"
     },
     {
         "id_word": "1221",
         "name_word": "stove",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/stəʊv/",
         "mean_word": "bếp ga",
         "id_group": "20"
     },
@@ -9747,7 +9747,7 @@
         "id_word": "1222",
         "name_word": "tea pot",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ti: pɒt/",
         "mean_word": "ấm trà",
         "id_group": "20"
     },
@@ -9755,7 +9755,7 @@
         "id_word": "1223",
         "name_word": "teakettle",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈtiːˌkɛtn̩/",
         "mean_word": "ấm đun nước",
         "id_group": "20"
     },
@@ -9763,7 +9763,7 @@
         "id_word": "1224",
         "name_word": "teaspoon",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ti:slpu:n/",
         "mean_word": "thìa cà phê, muỗng cà phê",
         "id_group": "20"
     },
@@ -9771,7 +9771,7 @@
         "id_word": "1225",
         "name_word": "toaster",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'təʊstər/",
         "mean_word": "lò nướng bánh",
         "id_group": "20"
     },
@@ -9779,7 +9779,7 @@
         "id_word": "1226",
         "name_word": "tray",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/trei/",
         "mean_word": "mâm",
         "id_group": "20"
     },
@@ -9787,7 +9787,7 @@
         "id_word": "1227",
         "name_word": "basin",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'beisn/",
         "mean_word": "bồn rửa tay",
         "id_group": "21"
     },
@@ -9795,7 +9795,7 @@
         "id_word": "1228",
         "name_word": "bath math",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/bɑ:θ ˈmæɵ/",
         "mean_word": "thảm hút nước",
         "id_group": "21"
     },
@@ -9803,7 +9803,7 @@
         "id_word": "1229",
         "name_word": "bath towel",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/bɑ:θ 'taʊəl/",
         "mean_word": "khăn tắm",
         "id_group": "21"
     },
@@ -9811,7 +9811,7 @@
         "id_word": "1230",
         "name_word": "brush",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/brʌ∫/",
         "mean_word": "bàn chải",
         "id_group": "21"
     },
@@ -9819,7 +9819,7 @@
         "id_word": "1231",
         "name_word": "bathtub",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bɑ:θtʌb/",
         "mean_word": "bồn tắm",
         "id_group": "21"
     },
@@ -9827,7 +9827,7 @@
         "id_word": "1232",
         "name_word": "comb",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/kəʊm/",
         "mean_word": "cái lược",
         "id_group": "21"
     },
@@ -9835,7 +9835,7 @@
         "id_word": "1233",
         "name_word": "cotton swab",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kɒtn swɒb/",
         "mean_word": "bông ngoáy tai",
         "id_group": "21"
     },
@@ -9843,7 +9843,7 @@
         "id_word": "1234",
         "name_word": "eye liner",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ai 'lainər/",
         "mean_word": "chì kẻ mắt",
         "id_group": "21"
     },
@@ -9851,7 +9851,7 @@
         "id_word": "1235",
         "name_word": "face cloth",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/feis klɒθ/",
         "mean_word": "khăn mặt",
         "id_group": "21"
     },
@@ -9859,7 +9859,7 @@
         "id_word": "1236",
         "name_word": "faucet",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'fɔ:sit/",
         "mean_word": "vòi nước",
         "id_group": "21"
     },
@@ -9867,7 +9867,7 @@
         "id_word": "1237",
         "name_word": "hairdryer",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/heər'draiər/",
         "mean_word": "máy sấy",
         "id_group": "21"
     },
@@ -9875,7 +9875,7 @@
         "id_word": "1238",
         "name_word": "hairbrush",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'heərbrʌtʃ/",
         "mean_word": "bàn chải tóc",
         "id_group": "21"
     },
@@ -9883,7 +9883,7 @@
         "id_word": "1239",
         "name_word": "hairspray",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'heərsprei/",
         "mean_word": "bình xịt tóc",
         "id_group": "21"
     },
@@ -9891,7 +9891,7 @@
         "id_word": "1240",
         "name_word": "lipstick",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'lipstik/",
         "mean_word": "son môi",
         "id_group": "21"
     },
@@ -9899,7 +9899,7 @@
         "id_word": "1241",
         "name_word": "mascara",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/mæs'kɑ:rə/",
         "mean_word": "thuốc tô lông mi",
         "id_group": "21"
     },
@@ -9907,7 +9907,7 @@
         "id_word": "1242",
         "name_word": "mirror",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'mirər/",
         "mean_word": "cái gương",
         "id_group": "21"
     },
@@ -9915,7 +9915,7 @@
         "id_word": "1243",
         "name_word": "nail clippers",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/neil 'klipər/",
         "mean_word": "bấm móng tay",
         "id_group": "21"
     },
@@ -9923,7 +9923,7 @@
         "id_word": "1244",
         "name_word": "perfume",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'pɜ:fiu:m/",
         "mean_word": "nước hoa",
         "id_group": "21"
     },
@@ -9931,7 +9931,7 @@
         "id_word": "1245",
         "name_word": "powder",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'paʊdər/",
         "mean_word": "phấn",
         "id_group": "21"
     },
@@ -9939,7 +9939,7 @@
         "id_word": "1246",
         "name_word": "razor",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'reizər/",
         "mean_word": "dao cạo",
         "id_group": "21"
     },
@@ -9947,7 +9947,7 @@
         "id_word": "1247",
         "name_word": "razor blade",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'reizər bleid/",
         "mean_word": "lưỡi dao cạo",
         "id_group": "21"
     },
@@ -9955,7 +9955,7 @@
         "id_word": "1248",
         "name_word": "shampoo",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/∫æm'pu:/",
         "mean_word": "dầu gội đầu",
         "id_group": "21"
     },
@@ -9963,7 +9963,7 @@
         "id_word": "1249",
         "name_word": "shave",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/∫eiv/",
         "mean_word": "dao cạo râu",
         "id_group": "21"
     },
@@ -9971,7 +9971,7 @@
         "id_word": "1250",
         "name_word": "shower",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'∫aʊər/",
         "mean_word": "vòi tắm hoa sen",
         "id_group": "21"
     },
@@ -9979,7 +9979,7 @@
         "id_word": "1251",
         "name_word": "sink",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/siŋk/",
         "mean_word": "chậu rửa bát",
         "id_group": "21"
     },
@@ -9987,7 +9987,7 @@
         "id_word": "1252",
         "name_word": "soap",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/səʊp/",
         "mean_word": "xà phòng",
         "id_group": "21"
     },
@@ -9995,7 +9995,7 @@
         "id_word": "1253",
         "name_word": "tap",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/tæp/",
         "mean_word": "vòi nước",
         "id_group": "21"
     },
@@ -10003,7 +10003,7 @@
         "id_word": "1254",
         "name_word": "tissue",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ti∫u:/",
         "mean_word": "khăn giấy",
         "id_group": "21"
     },
@@ -10011,7 +10011,7 @@
         "id_word": "1255",
         "name_word": "toilet",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'tɔilit/",
         "mean_word": "bồn cầu",
         "id_group": "21"
     },
@@ -10019,7 +10019,7 @@
         "id_word": "1256",
         "name_word": "toilet paper",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'tɔilit /'peipər/",
         "mean_word": "giấy vệ sinh",
         "id_group": "21"
     },
@@ -10027,7 +10027,7 @@
         "id_word": "1257",
         "name_word": "toothbrush",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'tu:θbrʌ∫/",
         "mean_word": "bàn chải đánh răng",
         "id_group": "21"
     },
@@ -10035,7 +10035,7 @@
         "id_word": "1258",
         "name_word": "toothpaste",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'tu:θpeist/",
         "mean_word": "kem đánh răng",
         "id_group": "21"
     },
@@ -10043,7 +10043,7 @@
         "id_word": "1259",
         "name_word": "towel",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'taʊəl/",
         "mean_word": "khăn tắm",
         "id_group": "21"
     },
@@ -10051,7 +10051,7 @@
         "id_word": "1260",
         "name_word": "towel rack",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'taʊəl ræk/",
         "mean_word": "giá để khăn tắm",
         "id_group": "21"
     },
@@ -10059,7 +10059,7 @@
         "id_word": "1261",
         "name_word": "trash can",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/træ∫ kæn/",
         "mean_word": "thùng rác",
         "id_group": "21"
     },
@@ -10067,7 +10067,7 @@
         "id_word": "1262",
         "name_word": "tweezers",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'twi:zərz/",
         "mean_word": "cái nhíp",
         "id_group": "21"
     },
@@ -10075,7 +10075,7 @@
         "id_word": "1263",
         "name_word": "washing machine",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'wɒ∫iŋ mə'∫i:n/",
         "mean_word": "máy giặt",
         "id_group": "21"
     },
@@ -10083,7 +10083,7 @@
         "id_word": "1264",
         "name_word": "bacon",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'beikən/",
         "mean_word": "thịt lợn xông khói",
         "id_group": "22"
     },
@@ -10091,7 +10091,7 @@
         "id_word": "1265",
         "name_word": "biscuit",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'biskit/",
         "mean_word": "bánh quy",
         "id_group": "22"
     },
@@ -10099,7 +10099,7 @@
         "id_word": "1266",
         "name_word": "beef",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/bi:f/",
         "mean_word": "thịt bò",
         "id_group": "22"
     },
@@ -10107,7 +10107,7 @@
         "id_word": "1267",
         "name_word": "bread",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/bred/",
         "mean_word": "bánh mì",
         "id_group": "22"
     },
@@ -10115,7 +10115,7 @@
         "id_word": "1268",
         "name_word": "bread rolls",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/bred 'rəʊl/",
         "mean_word": "cuộn bánh mì",
         "id_group": "22"
     },
@@ -10123,7 +10123,7 @@
         "id_word": "1269",
         "name_word": "brown bread",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/braʊn bred/",
         "mean_word": "nánh mì nâu",
         "id_group": "22"
     },
@@ -10131,7 +10131,7 @@
         "id_word": "1270",
         "name_word": "butter",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'bʌtər/",
         "mean_word": "bơ",
         "id_group": "22"
     },
@@ -10139,7 +10139,7 @@
         "id_word": "1271",
         "name_word": "cake",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/keik/",
         "mean_word": "bánh",
         "id_group": "22"
     },
@@ -10147,7 +10147,7 @@
         "id_word": "1272",
         "name_word": "candy",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kændi/",
         "mean_word": "kẹo",
         "id_group": "22"
     },
@@ -10155,7 +10155,7 @@
         "id_word": "1273",
         "name_word": "cereal",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'siəriəl/",
         "mean_word": "ngũ cốc",
         "id_group": "22"
     },
@@ -10163,7 +10163,7 @@
         "id_word": "1274",
         "name_word": "cookie",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kuki/",
         "mean_word": "bánh quy",
         "id_group": "22"
     },
@@ -10171,7 +10171,7 @@
         "id_word": "1275",
         "name_word": "crab",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/kræb/",
         "mean_word": "cua",
         "id_group": "22"
     },
@@ -10179,7 +10179,7 @@
         "id_word": "1276",
         "name_word": "cupcake",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈkʌpˌkeɪk/",
         "mean_word": "bánh nướng nhỏ",
         "id_group": "22"
     },
@@ -10187,7 +10187,7 @@
         "id_word": "1277",
         "name_word": "custard",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kʌstəd/",
         "mean_word": "bánh trứng sữa",
         "id_group": "22"
     },
@@ -10195,7 +10195,7 @@
         "id_word": "1278",
         "name_word": "chicken",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'t∫ikin/",
         "mean_word": "thịt gà",
         "id_group": "22"
     },
@@ -10203,7 +10203,7 @@
         "id_word": "1279",
         "name_word": "curry",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'kʌri/",
         "mean_word": "cà ri",
         "id_group": "22"
     },
@@ -10211,7 +10211,7 @@
         "id_word": "1280",
         "name_word": "chilli",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'t∫ili/",
         "mean_word": "ớt",
         "id_group": "22"
     },
@@ -10219,7 +10219,7 @@
         "id_word": "1281",
         "name_word": "drumstick",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'drʌmstik/",
         "mean_word": "đùi gà",
         "id_group": "22"
     },
@@ -10227,7 +10227,7 @@
         "id_word": "1282",
         "name_word": "egg",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/eg/",
         "mean_word": "trứng",
         "id_group": "22"
     },
@@ -10235,7 +10235,7 @@
         "id_word": "1283",
         "name_word": "fast food",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/fɑ:st fu:d/",
         "mean_word": "đồ ăn nhanh",
         "id_group": "22"
     },
@@ -10243,7 +10243,7 @@
         "id_word": "1284",
         "name_word": "fish",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/fi∫/",
         "mean_word": "cá",
         "id_group": "22"
     },
@@ -10251,15 +10251,15 @@
         "id_word": "1285",
         "name_word": "flour",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'flaʊər/",
         "mean_word": "bột",
         "id_group": "22"
     },
     {
         "id_word": "1286",
-        "name_word": "french fries",
+        "name_word": "French fries",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/frent∫ ˈfraɪ/",
         "mean_word": "khoai tây chiên kiểu pháp",
         "id_group": "22"
     },
@@ -10267,7 +10267,7 @@
         "id_word": "1287",
         "name_word": "fried egg",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈfraɪd ˈɛg/",
         "mean_word": "trứng rán, trứng chiên",
         "id_group": "22"
     },
@@ -10275,7 +10275,7 @@
         "id_word": "1288",
         "name_word": "grease",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈgriːs/",
         "mean_word": "mỡ",
         "id_group": "22"
     },
@@ -10283,7 +10283,7 @@
         "id_word": "1289",
         "name_word": "green salad",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈgriːn 'sæləd/",
         "mean_word": "sa lát rau",
         "id_group": "22"
     },
@@ -10291,7 +10291,7 @@
         "id_word": "1290",
         "name_word": "gum",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/gʌm/",
         "mean_word": "kẹo cao su",
         "id_group": "22"
     },
@@ -10299,7 +10299,7 @@
         "id_word": "1291",
         "name_word": "honey",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'hʌni/",
         "mean_word": "mật ong",
         "id_group": "22"
     },
@@ -10307,7 +10307,7 @@
         "id_word": "1292",
         "name_word": "hotdog",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ˈhɑːtˌdɑːg/",
         "mean_word": "bánh mì kẹp xúc xích",
         "id_group": "22"
     },
@@ -10315,7 +10315,7 @@
         "id_word": "1293",
         "name_word": "ice cream",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ais kri:m/",
         "mean_word": "kem",
         "id_group": "22"
     },
@@ -10323,7 +10323,7 @@
         "id_word": "1294",
         "name_word": "ketchup",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'ket∫əp/",
         "mean_word": "xốt cà chua",
         "id_group": "22"
     },
@@ -10331,7 +10331,7 @@
         "id_word": "1295",
         "name_word": "loaf",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/ləʊf/",
         "mean_word": "ổ bánh mì",
         "id_group": "22"
     },
@@ -10339,7 +10339,7 @@
         "id_word": "1296",
         "name_word": "meat",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/mi:t/",
         "mean_word": "thịt",
         "id_group": "22"
     },
@@ -10347,7 +10347,7 @@
         "id_word": "1297",
         "name_word": "mixed salad",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/mikst 'sæləd/",
         "mean_word": "sa lát trộn",
         "id_group": "22"
     },
@@ -10355,7 +10355,7 @@
         "id_word": "1298",
         "name_word": "muffin",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'mʌfin/",
         "mean_word": "bánh nướng xốp",
         "id_group": "22"
     },
@@ -10363,7 +10363,7 @@
         "id_word": "1299",
         "name_word": "mustard",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'mʌstəd/",
         "mean_word": "mù tạc",
         "id_group": "22"
     },
@@ -10371,7 +10371,7 @@
         "id_word": "1300",
         "name_word": "noddles",
         "classifier": "n",
-        "pronounce_word": "",
+        "pronounce_word": "/'nɑdl/",
         "mean_word": "mì, phở, bún",
         "id_group": "22"
     },
