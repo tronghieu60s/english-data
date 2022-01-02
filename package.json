@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "pronounce": "node pronounce.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tronghieu60s/english-data/issues"
   },
-  "homepage": "https://github.com/tronghieu60s/english-data#readme"
+  "homepage": "https://github.com/tronghieu60s/english-data#readme",
+  "dependencies": {
+    "puppeteer": "^13.0.1"
+  }
 }

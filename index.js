@@ -44,22 +44,22 @@ fs.writeFile(GroupsPath, JSON.stringify(GroupsData), "utf8", function (err) {
 
 /* Find Duplicate Words */
 
-const WordsDataLookup = WordsData.reduce((a, e) => {
-  a[e.name_word] = ++a[e.name_word] || 0;
-  return a;
-}, {});
+// const WordsDataLookup = WordsData.reduce((a, e) => {
+//   a[e.name_word] = ++a[e.name_word] || 0;
+//   return a;
+// }, {});
 
-WordsData.filter((e) => WordsDataLookup[e.name_word]).map((e) =>
-  console.log(`${e.id_word} - ${e.name_word}`)
-);
+// WordsData.filter((e) => WordsDataLookup[e.name_word]).map((e) =>
+//   console.log(`${e.id_word} - ${e.name_word}`)
+// );
 
 /* Find Duplicate Groups */
 
-const GroupsDataLookup = GroupsData.reduce((a, e) => {
-  a[e.name_group] = ++a[e.name_group] || 0;
-  return a;
-}, {});
+// const GroupsDataLookup = GroupsData.reduce((a, e) => {
+//   a[e.name_group] = ++a[e.name_group] || 0;
+//   return a;
+// }, {});
 
-GroupsData.filter((e) => GroupsDataLookup[e.name_group]).map((e) =>
-  console.log(`${e.id_group} - ${e.name_group}`)
-);
+// GroupsData.filter((e) => GroupsDataLookup[e.name_group]).map((e) =>
+//   console.log(`${e.id_group} - ${e.name_group}`)
+// );
