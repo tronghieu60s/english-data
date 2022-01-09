@@ -20,7 +20,7 @@ const Words = require(WordsPath);
   const page = await browser.newPage();
 
   for (let i = 0; i < Words.length; i += 1) {
-    const { name_word, pronounce_word } = Words[i];
+    const { name_word, pronounce_word = '' } = Words[i];
 
     if (pronounce_word.length > 0) {
       continue;
@@ -35,6 +35,7 @@ const Words = require(WordsPath);
         const selector = ".word_tab_title .color-black";
         const element = await page.waitForSelector(selector, { timeout: 2000 });
         const pronounce = await element.evaluate((el) => el.textContent);
+        console.log(`${name_word} - ${pronounce}`);
         arrPronounce.push(pronounce.replace(/\//g, ""));
       } catch (e) {
         if (e) {
