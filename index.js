@@ -7,9 +7,9 @@ if (folderName.length === 0) {
 }
 
 const WordsPath = `./${folderName}/words.json`;
-const GroupsPath = `./${folderName}/groups.json`;
+const LessonsPath = `./${folderName}/lessons.json`;
 
-if (!fs.existsSync(WordsPath) || !fs.existsSync(GroupsPath)) {
+if (!fs.existsSync(WordsPath) || !fs.existsSync(LessonsPath)) {
   throw new Error("No folder name exists!");
 }
 
@@ -28,18 +28,18 @@ fs.writeFile(WordsPath, JSON.stringify(WordsData), "utf8", function (err) {
   console.log(`${folderName}: The file words was saved!`);
 });
 
-/* Fix ID Groups */
+/* Fix ID Lessons */
 
-const GroupsData = require(GroupsPath).map((o, i) => ({
+const LessonsData = require(LessonsPath).map((o, i) => ({
   ...o,
-  id_group: `${i + 1}`,
+  id_lesson: `${i + 1}`,
 }));
-fs.writeFile(GroupsPath, JSON.stringify(GroupsData), "utf8", function (err) {
+fs.writeFile(LessonsPath, JSON.stringify(LessonsData), "utf8", function (err) {
   if (err) {
     return console.log(err);
   }
 
-  console.log(`${folderName}: The file groups was saved!`);
+  console.log(`${folderName}: The file lessons was saved!`);
 });
 
 /* Find Duplicate Words */
@@ -53,13 +53,13 @@ fs.writeFile(GroupsPath, JSON.stringify(GroupsData), "utf8", function (err) {
 //   console.log(`${e.id_word} - ${e.name_word}`)
 // );
 
-/* Find Duplicate Groups */
+/* Find Duplicate Lessons */
 
-// const GroupsDataLookup = GroupsData.reduce((a, e) => {
+// const LessonsDataLookup = LessonsData.reduce((a, e) => {
 //   a[e.name_group] = ++a[e.name_group] || 0;
 //   return a;
 // }, {});
 
-// GroupsData.filter((e) => GroupsDataLookup[e.name_group]).map((e) =>
+// LessonsData.filter((e) => LessonsDataLookup[e.name_group]).map((e) =>
 //   console.log(`${e.id_group} - ${e.name_group}`)
 // );
