@@ -15,15 +15,11 @@ if (!fs.existsSync(WordsPath)) {
 let Words = require(WordsPath);
 
 (async () => {
-  for (let i = 0; i < Words.length; i += 1) {
-    delete Words[i]["classifier"];
-  }
-
   Words = Words.map((o) => ({
     id_word: o.id_word,
     name_word: o.name_word,
     pronounce_word: o.pronounce_word,
-    explain_word: o.explain_word,
+    explain_word: o.explain_word || '',
     mean_word: o.mean_word,
     id_lesson: o.id_lesson,
   }));

@@ -27,7 +27,8 @@ const Words = require(WordsPath);
     }
 
     let explain = "";
-    await page.goto(`https://dict.laban.vn/find?type=3&query=${name_word}`);
+    const word = name_word.replace(" ", "-");
+    await page.goto(`https://dict.laban.vn/find?type=3&query=${word}`);
     try {
       const selector = `.slide_content:not(.hidden) #content_selectable .green.bold.margin25.m-top15`;
       await page.waitForSelector(selector, { timeout: 2000 });
